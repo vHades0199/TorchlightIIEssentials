@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "stashportal" Imagefile="media/ui/icons/misc/stashportal.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_scroll_sharedportal" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_scroll_personalportal" XPos="67" YPos="1" Width="62" Height="62" />
+</Imageset>

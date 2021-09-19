@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets9" Imagefile="media/ui/hud/ingametexturesheets9.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_inventory_gems_insert_long" XPos="2" YPos="2" Width="482" Height="500" />
+	<Image Name="ig_inventory_gems_insert" XPos="2" YPos="511" Width="482" Height="265" />
+	<Image Name="ig_sharedstash_verylong" XPos="511" YPos="-1" Width="510" Height="950" />
+	<Image Name="ig_inventorytabs_combined_unselected_" XPos="287" YPos="785" Width="53" Height="39" />
+	<Image Name="ig_inventorytabs_combined_unselected_rollover" XPos="230" YPos="785" Width="53" Height="39" />
+	<Image Name="ig_inventorytabs_gems_unselected_" XPos="173" YPos="785" Width="53" Height="39" />
+	<Image Name="ig_inventorytabs_gems_unselected_rollover" XPos="116" YPos="785" Width="53" Height="39" />
+	<Image Name="ig_inventorytabs_gems_selected_" XPos="59" YPos="785" Width="53" Height="47" />
+	<Image Name="ig_inventorytabs_gems_selected_rollover" XPos="2" YPos="785" Width="53" Height="47" />
+</Imageset>
