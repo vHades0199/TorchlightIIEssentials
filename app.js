@@ -7,20 +7,19 @@ const src = readFileSync(pathSrc, fSrc.ext == '.DAT' ? 'utf16le' : 'utf8');
 let transFile;
 
 let dest = '';
-const convertToDAT = (node, level = 1) => {
-    if (!Array.isArray(node)) {
-        Object.entries(node).forEach(([key, val]) => {
-            let indent = new Array(level).fill('\t').join('');
-            if (typeof val == 'string') {
-                const [type, name] = key.split('|');
-                dest += `${indent}<${type.toUpperCase()}>${name}:${val}\n`;
-            } else {
-                dest += `${indent}[${key.toUpperCase()}]\n`
-                convertToDAT(val, level + 1);
-                dest += `${indent}[/${key.toUpperCase()}]\n`
-            }
-        });
-    }
+const convertToDAT = (node) => {
+    Object.entries(node).forEach(([key, val]) => {
+        if (Array.isArray(val)) {
+            val.forEach(x => {
+                dest += `\t[TRANSLATION]\n`
+                dest += `\t\t<STRING>ORIGINAL:${x.original}\n`;
+                dest += `\t\t<STRING>TRANSLATION:${x.translation}\n`;
+                dest += `\t[/TRANSLATION]\n`
+            });
+        } else {
+            convertToDAT(val);
+        }
+    });
 }
 
 
@@ -37,7 +36,8 @@ const convertToYaml = (lines) => {
                 if (!node) node = [];
                 const obj = convertToYaml(lines);
                 if (obj) {
-                    let group = obj['string|GROUP'] || 'origin';
+                    let group = obj.group || 'Origin';
+                    delete obj.group;
                     (node[group] = node[group] || []).push(obj);
                 }
             } else {
@@ -45,7 +45,7 @@ const convertToYaml = (lines) => {
                 const stringsRe = /\t+<(?<type>\w+)>(?<name>\w+):(?<value>.*)/;
                 if (stringsRe.test(line)) {
                     const { type, name, value } = line.match(stringsRe).groups;
-                    node[`${type.toLowerCase()}|${name}`] = value;
+                    node[name.toLowerCase()] = value;
                 }
             }
         }
@@ -56,19 +56,13 @@ const convertToYaml = (lines) => {
 switch (fSrc.ext) {
     case '.YAML':
         const doc = yaml.load(src);
-        convertToDAT(doc.translations);
-        transFile = path.join(fSrc.dir, `${fSrc.name}.temp.DAT`);
+        convertToDAT(doc);
+        transFile = path.join(fSrc.dir, `${fSrc.name}.DAT`);
         writeFileSync(transFile, `[TRANSLATIONS]\n${dest}[/TRANSLATIONS]\n`, { encoding: 'utf16le' });
         break;
+
     case '.DAT':
         const obj = convertToYaml(src.split('\n').filter(x => x && !x.toUpperCase().endsWith('TRANSLATIONS]')))
-        // .reduce((res, item) => {
-        //     let group = item['string|GROUP'] || 'origin';
-        //     if (!res[group]) res[group] = [];
-        //     res[group].push(item);
-        //     return res;
-        // }, {});
-        // obj = Object.fromEntries(Object.entries(obj).sort());
         transFile = path.join(fSrc.dir, `${fSrc.name}.YAML`);
         writeFileSync(transFile, yaml.dump(obj, { sortKeys: true }), { encoding: 'utf8' });
         break;
