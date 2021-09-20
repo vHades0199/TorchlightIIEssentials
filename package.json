@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dat": "node app.js ./media/TRANSLATIONS/VIETNAMESE/TRANSLATION.YAML",
+    "yaml": "node app.js ./media/TRANSLATIONS/VIETNAMESE/TRANSLATION.DAT"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
