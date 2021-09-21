@@ -1,10 +1,29 @@
 const path = require('path');
 const yaml = require('js-yaml');
 const { readFileSync, writeFileSync, appendFileSync } = require('fs');
-const pathSrc = process.argv[2].toUpperCase();
+const pathSrc = process.argv[2].replace(__dirname, '.').toUpperCase();
 const fSrc = path.parse(pathSrc);
 const src = readFileSync(pathSrc, fSrc.ext == '.DAT' ? 'utf16le' : 'utf8');
 let transFile;
+
+if (process.argv[3] && process.argv[3].toLowerCase() == 'sort') {
+    const sortGroupFunc = (a, b) => {
+        if (a == 'original') return -1;
+        if (b == 'original') return 1;
+        if (a == 'Common') return 1;
+        if (b == 'Common') return -1;
+
+        return a.localeCompare(b);
+    };
+    const doc = yaml.load(src);
+    Object.keys(doc).forEach(k => {
+        doc[k] = doc[k].sort((a, b) => {
+            return a.original.localeCompare(b.original);
+        })
+    });
+    const text = yaml.dump(doc, { sortKeys: sortGroupFunc, quotingType: '"', lineWidth: -1 });
+    writeFileSync(pathSrc, text, { encoding: 'utf8' });
+}
 
 let dest = '';
 const convertToDAT = (node) => {
@@ -22,7 +41,6 @@ const convertToDAT = (node) => {
     });
 }
 
-
 const convertToYaml = (lines) => {
     let node = {};
     while (lines.length > 0) {
@@ -36,7 +54,7 @@ const convertToYaml = (lines) => {
                 if (!node) node = [];
                 const obj = convertToYaml(lines);
                 if (obj) {
-                    let group = obj.group || 'Origin';
+                    let group = obj.group || 'Common';
                     delete obj.group;
                     (node[group] = node[group] || []).push(obj);
                 }
@@ -64,7 +82,7 @@ switch (fSrc.ext) {
     case '.DAT':
         const obj = convertToYaml(src.split('\n').filter(x => x && !x.toUpperCase().endsWith('TRANSLATIONS]')))
         transFile = path.join(fSrc.dir, `${fSrc.name}.YAML`);
-        writeFileSync(transFile, yaml.dump(obj, { sortKeys: true }), { encoding: 'utf8' });
+        writeFileSync(transFile, yaml.dump(obj, { sortKeys: true, quotingType: "'" }), { encoding: 'utf8' });
         break;
 
     default:

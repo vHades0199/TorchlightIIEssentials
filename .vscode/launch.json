@@ -5,6 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Sort",
+            "runtimeExecutable": "yarn",
+            "program": "start",
+            "args": [
+                "${file}",
+                "sort"
+            ],
+            "cwd": "${workspaceFolder}",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
             "name": "YAML",
             "runtimeExecutable": "yarn",
             "program": "yaml",
@@ -19,20 +34,6 @@
             "name": "DAT",
             "runtimeExecutable": "yarn",
             "program": "dat",
-            "cwd": "${workspaceFolder}",
-            "request": "launch",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "type": "pwa-node"
-        },
-        {
-            "name": "App",
-            "runtimeExecutable": "yarn",
-            "program": "start",
-            "args": [
-                "${file}"
-            ],
             "cwd": "${workspaceFolder}",
             "request": "launch",
             "skipFiles": [
