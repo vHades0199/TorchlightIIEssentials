@@ -24,11 +24,11 @@ Characters - Embermage:
   - original: Embermage
     translation: Pháp sư huyền bí
   - original: Trained in the arcane arts, Embermages employ a variety of elemental spells to deadly effect.
-    translation: Được đào tạo với nghệ thuật phức tạp, Pháp sư sử dụng nhiều phép thuật nguyên tố gây ra các hiệu ứng chết người.
+    translation: Được đào tạo với các bí thuật, các Pháp sư sử dụng nhiều phép thuật nguyên tố để gây ảnh hưởng chết người.
 
 Characters - Necromancer:
   - original: Masters of dealing death, raising the dead and the long forgotten art of Bonedancing
-    translation: Bậc thầy đối phó với cái chết, hồi sinh người chết và nghệ thuật Múa xương bị lãng quên đã lâu
+    translation: Bậc thầy chết chóc, triệu hồi xác chết và nghệ thuật Hình nhân nhảy múa
   - original: Necromancer
     translation: Triệu hồi sư
 
@@ -36,259 +36,259 @@ Equipments:
   - original: "[ITEM] of Acid Rain"
     translation: ""
   - original: "[ITEM] of Agility"
-    translation: ""
+    translation: "[ITEM] Lanh lẹ"
   - original: "[ITEM] of Annihilation"
-    translation: ""
+    translation: "[ITEM] Huỷ diệt"
   - original: "[ITEM] of Blinding"
-    translation: ""
+    translation: "[ITEM] Mù loà"
   - original: "[ITEM] of Blood"
-    translation: ""
+    translation: "[ITEM] Đẫm máu"
   - original: "[ITEM] of Burning"
-    translation: ""
+    translation: "[ITEM] Bốc cháy"
   - original: "[ITEM] of Carnage"
-    translation: ""
+    translation: "[ITEM] Ác liệt"
   - original: "[ITEM] of Charm"
-    translation: ""
+    translation: "[ITEM] Mê hoặc"
   - original: "[ITEM] of Chilling"
-    translation: ""
+    translation: "[ITEM] Hăng hái"
   - original: "[ITEM] of Clouded Vision"
-    translation: ""
+    translation: "[ITEM] Mây mù"
   - original: "[ITEM] of Command"
-    translation: ""
+    translation: "[ITEM] Chỉ huy"
   - original: "[ITEM] of Cooling"
-    translation: ""
+    translation: "[ITEM] Lạnh lẽo"
   - original: "[ITEM] of Curing"
-    translation: ""
+    translation: "[ITEM] Chữa trị"
   - original: "[ITEM] of Defense"
-    translation: ""
+    translation: "[ITEM] Phòng thủ"
   - original: "[ITEM] of Deflection"
-    translation: ""
+    translation: "[ITEM] Phản hồi"
   - original: "[ITEM] of Demolishing"
-    translation: ""
+    translation: "[ITEM] Phá hủy"
   - original: "[ITEM] of Draining"
-    translation: ""
+    translation: "[ITEM] Rút cạn"
   - original: "[ITEM] of Duality"
-    translation: ""
+    translation: "[ITEM] đôi"
   - original: "[ITEM] of Electric Rage"
-    translation: ""
+    translation: "[ITEM] Lôi sát"
   - original: "[ITEM] of Energy"
-    translation: ""
+    translation: "[ITEM] Cương quyết"
   - original: "[ITEM] of Escape"
-    translation: ""
+    translation: "[ITEM] Trốn thoát"
   - original: "[ITEM] of Fire"
-    translation: ""
+    translation: "[ITEM] Bốc lửa"
   - original: "[ITEM] of Fire Rage"
-    translation: ""
+    translation: "[ITEM] Hoả sát"
   - original: "[ITEM] of Focus"
-    translation: ""
+    translation: "[ITEM] Tập trung"
   - original: "[ITEM] of Fortification"
-    translation: ""
+    translation: "[ITEM] Tăng cường"
   - original: "[ITEM] of Freezing"
-    translation: ""
+    translation: "[ITEM] Nhiễm lạnh"
   - original: "[ITEM] of Grasping"
-    translation: ""
+    translation: "[ITEM] Nắm bắt"
   - original: "[ITEM] of Great Charm"
-    translation: ""
+    translation: "[ITEM] Huyễn hoặc"
   - original: "[ITEM] of Great Defense"
-    translation: ""
+    translation: "[ITEM] Vững chắc"
   - original: "[ITEM] of Great Offense"
-    translation: ""
+    translation: "[ITEM] Xúc phạm"
   - original: "[ITEM] of Haste"
-    translation: ""
+    translation: "[ITEM] Vội vàng"
   - original: "[ITEM] of Health"
-    translation: ""
+    translation: "[ITEM] Sinh lực"
   - original: "[ITEM] of Ice"
-    translation: ""
+    translation: "[ITEM] Băng giá"
   - original: "[ITEM] of Ice Rage"
-    translation: ""
+    translation: "[ITEM] Băng sát"
   - original: "[ITEM] of Incineration"
-    translation: ""
+    translation: "[ITEM] Thiêu đốt"
   - original: "[ITEM] of Insulating"
-    translation: ""
+    translation: "[ITEM] Cách điện"
   - original: "[ITEM] of Insulation"
-    translation: ""
+    translation: "[ITEM] Cách điện"
   - original: "[ITEM] of Invigoration"
-    translation: ""
+    translation: "[ITEM] Sự mời gọi"
   - original: "[ITEM] of Jolting"
-    translation: ""
+    translation: "[ITEM] Liên kết"
   - original: "[ITEM] of Lethality"
-    translation: ""
+    translation: "[ITEM] Tàn phá"
   - original: "[ITEM] of Lightning"
-    translation: ""
+    translation: "[ITEM] Sấm sét"
   - original: "[ITEM] of Luck"
-    translation: ""
+    translation: "[ITEM] May mắn"
   - original: "[ITEM] of Might"
-    translation: ""
+    translation: "[ITEM] Hùng mạnh"
   - original: "[ITEM] of Momentum"
-    translation: ""
+    translation: "[ITEM] Xung kích"
   - original: "[ITEM] of Mortal Wounds"
-    translation: ""
+    translation: "[ITEM] Dữ tợn"
   - original: "[ITEM] of Mystery"
-    translation: ""
+    translation: "[ITEM] Huyền bí"
   - original: "[ITEM] of Offense"
-    translation: ""
+    translation: "[ITEM] Công kích"
   - original: "[ITEM] of Poison Rage"
-    translation: ""
+    translation: "[ITEM] Độc sát"
   - original: "[ITEM] of Poisoning"
-    translation: ""
+    translation: "[ITEM] Ngộ độc"
   - original: "[ITEM] of Precision"
-    translation: ""
+    translation: "[ITEM] Chắc chắn"
   - original: "[ITEM] of Range"
-    translation: ""
+    translation: "[ITEM] Tầm xa"
   - original: "[ITEM] of Re-Doubling"
-    translation: ""
+    translation: "[ITEM] Bất khuất"
   - original: "[ITEM] of Regeneration"
-    translation: ""
+    translation: "[ITEM] Phục hồi"
   - original: "[ITEM] of Rejuvenation"
-    translation: ""
+    translation: "[ITEM] Trẻ hóa"
   - original: "[ITEM] of Remedy"
-    translation: ""
+    translation: "[ITEM] Hồi phục"
   - original: "[ITEM] of Resistance"
-    translation: ""
+    translation: "[ITEM] Kháng cự"
   - original: "[ITEM] of Restoration"
-    translation: ""
+    translation: "[ITEM] Phục hồi"
   - original: "[ITEM] of Shadow"
-    translation: ""
+    translation: "[ITEM] Bóng tối"
   - original: "[ITEM] of Shieldbreaking"
-    translation: ""
+    translation: "[ITEM] Phá giáp"
   - original: "[ITEM] of Shock"
-    translation: ""
+    translation: "[ITEM] Sốc"
   - original: "[ITEM] of Silence"
-    translation: ""
+    translation: "[ITEM] Câm lặng"
   - original: "[ITEM] of Skill"
-    translation: ""
+    translation: "[ITEM] Khéo léo"
   - original: "[ITEM] of Speed"
-    translation: ""
+    translation: "[ITEM] Tốc độ"
   - original: "[ITEM] of Strength"
-    translation: ""
+    translation: "[ITEM] Sức mạnh"
   - original: "[ITEM] of Stunning"
-    translation: ""
+    translation: "[ITEM] Choáng váng"
   - original: "[ITEM] of Swiftness"
-    translation: ""
+    translation: "[ITEM] Nhanh chóng"
   - original: "[ITEM] of Terror"
-    translation: ""
+    translation: "[ITEM] Sợ hãi"
   - original: "[ITEM] of the Archer"
-    translation: ""
+    translation: "[ITEM] Cung thủ"
   - original: "[ITEM] of the Castle"
-    translation: ""
+    translation: "[ITEM] Thành luỹ"
   - original: "[ITEM] of the Citadel"
-    translation: ""
+    translation: "[ITEM] Thành trì"
   - original: "[ITEM] of the Drake"
-    translation: ""
+    translation: "[ITEM] Phù du"
   - original: "[ITEM] of the Fire Storm"
-    translation: ""
+    translation: "[ITEM] Bão lửa"
   - original: "[ITEM] of the Glacier"
-    translation: ""
+    translation: "[ITEM] Chông gai"
   - original: "[ITEM] of the Invoker"
-    translation: ""
+    translation: "[ITEM] Cầu hồn"
   - original: "[ITEM] of the Lucky"
-    translation: ""
+    translation: "[ITEM] May mắn"
   - original: "[ITEM] of the Mage"
-    translation: ""
+    translation: "[ITEM] Pháp thuật"
   - original: "[ITEM] of the Meteor"
-    translation: ""
+    translation: "[ITEM] Thiên thạch"
   - original: "[ITEM] of the Mule"
-    translation: ""
+    translation: "[ITEM] Cứng đầu"
   - original: "[ITEM] of the Ram"
-    translation: ""
+    translation: "[ITEM] Đóng cọc"
   - original: "[ITEM] of the Sage"
-    translation: ""
+    translation: "[ITEM] Hiền nhân"
   - original: "[ITEM] of the Savant"
-    translation: ""
+    translation: "[ITEM] Khôn ngoan"
   - original: "[ITEM] of the Soldier"
-    translation: ""
+    translation: "[ITEM] Chiến sĩ"
   - original: "[ITEM] of the Spectrum"
-    translation: ""
+    translation: "[ITEM] Lăng trụ"
   - original: "[ITEM] of the SUPER Lucky"
-    translation: ""
+    translation: "[ITEM] Siêu may mắn"
   - original: "[ITEM] of the Usurper"
-    translation: ""
+    translation: "[ITEM] Danh dự"
   - original: "[ITEM] of the Vampire"
-    translation: ""
+    translation: "[ITEM] Hút máu"
   - original: "[ITEM] of Thunder"
-    translation: ""
+    translation: "[ITEM] Bão điện"
   - original: "[ITEM] of Toxicity"
-    translation: ""
+    translation: "[ITEM] Độc tính"
   - original: "[ITEM] of Vengeance"
-    translation: ""
+    translation: "[ITEM] Trả thù"
   - original: "[ITEM] of Venom"
-    translation: ""
+    translation: "[ITEM] Ác độc"
   - original: "[ITEM] of Violence"
-    translation: ""
+    translation: "[ITEM] Tàn bạo"
   - original: "[ITEM] of Vitality"
-    translation: ""
+    translation: "[ITEM] Sức sống"
   - original: "[ITEM] of Warming"
-    translation: ""
+    translation: "[ITEM] Ấm áp"
   - original: "[ITEM] of Wealth"
-    translation: ""
+    translation: "[ITEM] Giàu có"
   - original: "[ITEM] of Wisdom"
-    translation: ""
+    translation: "[ITEM] Khôn ngoan"
   - original: "[ITEM] of Zapping"
-    translation: ""
+    translation: "[ITEM] Đánh đập"
   - original: Adventurer Armor
-    translation: Giáp ngực Adventurer
+    translation: Áo thám hiểm
   - original: Adventurer Baldric
-    translation: ""
+    translation: Vai thám hiểm
   - original: Adventurer Belt
-    translation: Đai Adventurer
+    translation: Đai lưng thám hiểm
   - original: Adventurer Boots
-    translation: Giày Adventurer
+    translation: Giày thám hiểm
   - original: Adventurer Bracers
-    translation: ""
+    translation: Găng thám hiểm
   - original: Adventurer Breeches
-    translation: Quần đùi Adventurer
+    translation: Quần thám hiểm
   - original: Adventurer Capeline
-    translation: ""
+    translation: Mũ thám hiểm
   - original: Adventurer Cloak
-    translation: Trùm Adventurer
+    translation: Vai thám hiểm
   - original: Adventurer Clog Boots
-    translation: Giày Adventurer Clog
+    translation: Giày thám hiểm
   - original: Adventurer Clogs
-    translation: ""
+    translation: Giày thám hiểm
   - original: Adventurer Gauntlets
-    translation: Quyền sáo Adventurer
+    translation: Găng thám hiểm
   - original: Adventurer Gloves
-    translation: Găng Adventurer
+    translation: Găng thám hiểm
   - original: Adventurer Greatcoat
-    translation: Áo khoát Adventurer
+    translation: Áo thám hiểm
   - original: Adventurer Helm
-    translation: Mũ Adventurer
+    translation: Mũ thám hiểm
   - original: Adventurer Helmet
-    translation: Mũ Adventurer
+    translation: Mũ thám hiểm
   - original: Adventurer Overcoat
-    translation: Áo choàng Adventurer
+    translation: Áo thám hiểm
   - original: Adventurer Pants
-    translation: Quần Adventurer
+    translation: Quần thám hiểm
   - original: Adventurer Shoulders
-    translation: Vai Adventurer
+    translation: Vai thám hiểm
   - original: Adventurer Trousers
-    translation: Quần dài Adventurer
+    translation: Quần thám hiểm
   - original: Alchemical  Plates
-    translation: ""
+    translation: Vai Giả kim
   - original: Alchemical Belt
-    translation: Đai Alchemical
+    translation: Đai lưng Giả kim
   - original: Alchemical Boots
-    translation: Giày Alchemical
+    translation: Giày Giả kim
   - original: Alchemical Chestpiece
-    translation: ""
+    translation: Áo giáp Giả kim
   - original: Alchemical Gloves
-    translation: Găng Alchemical
+    translation: Găng tay Giả kim
   - original: Alchemical Helm
-    translation: Mũ Alchemical
+    translation: Mặt nạ Giả kim
   - original: Alchemical Pants
-    translation: Quần Alchemical
+    translation: Quần Giả kim
   - original: Alchemist Armor
-    translation: Giáp ngực Alchemist
+    translation: Giáp giả kim
   - original: Alchemist Pistol
-    translation: Súng lục Alchemist
+    translation: Súng lục giả kim
   - original: Alchemist Ring of Blood
-    translation: ""
+    translation: Nhẫn giả kim thuật
   - original: Alchemist Ring of Ember
-    translation: ""
+    translation: Nhẫn giả kim thuật
   - original: Alchemist Ring of Iron
-    translation: ""
+    translation: Nhẫn giả kim thuật
   - original: Alchemist Ring of Sand
-    translation: ""
+    translation: Nhẫn giả kim thuật
   - original: All Armor reduced by [VALUE]
     translation: Giáp các loại giảm [VALUE]
   - original: All Armor reduced by [VALUE] for [DURATION]
@@ -298,251 +298,253 @@ Equipments:
   - original: All Armor reduced by [VALUE] per hit for [DURATION]
     translation: Giáp các loại [VALUE] giáp mỗi công kích trong [DURATION]
   - original: Argonaut Amulet
-    translation: Dây chuyền Argonaut
+    translation: Dây chuyền Bạch tuộc
   - original: Argonaut Armor
-    translation: Giáp ngực Argonaut
+    translation: Giáp Bạch tuộc
   - original: Argonaut Belt
-    translation: Đai Argonaut
+    translation: Đai lưng Bạch tuộc
   - original: Argonaut Boots
-    translation: Giày Argonaut
+    translation: Giày Bạch tuộc
   - original: Argonaut Gloves
-    translation: Găng Argonaut
+    translation: Găng tay Bạch tuộc
   - original: Argonaut Helm
-    translation: Mũ Argonaut
+    translation: Mũ Bạch tuộc
   - original: Argonaut Pants
-    translation: Quần Argonaut
+    translation: Quần Bạch tuộc
   - original: Argonaut Ring
-    translation: Nhẫn Argonaut
+    translation: Nhẫn Bạch tuộc
   - original: Argonaut Shoulders
-    translation: Vai Argonaut
+    translation: Vai Bạch tuộc
   - original: Aristocrat Armor
-    translation: Giáp ngực Aristocrat
+    translation: Áo Quí tộc
   - original: Aristocrat Belt
-    translation: Đai Aristocrat
+    translation: Đai lưng Quí tộc
   - original: Aristocrat Boots
-    translation: Giày Aristocrat
+    translation: Giày Quí tộc
   - original: Aristocrat Gloves
-    translation: Găng Aristocrat
+    translation: Găng Quí tộc
   - original: Aristocrat Helm
-    translation: Mũ Aristocrat
+    translation: Mũ Quí tộc
   - original: Aristocrat Mantle
-    translation: Áo choàng Aristocrat
+    translation: Vai Quí tộc
   - original: Aristocrat Pants
-    translation: Quần Aristocrat
+    translation: Quần Quí tộc
   - original: Aristocrat Ring
-    translation: Nhẫn Aristocrat
+    translation: Nhẫn Quí tộc
   - original: Ascendant Armor
-    translation: Giáp ngực Ascendant
+    translation: Giáp Siêu việt
   - original: Ascendant Belt
-    translation: Đai Ascendant
+    translation: Đai lưng Siêu việt
   - original: Ascendant Boots
-    translation: Giày Ascendant
+    translation: Giày Siêu việt
   - original: Ascendant Gloves
-    translation: Găng Ascendant
+    translation: Găng tay Siêu việt
   - original: Ascendant Helmet
-    translation: Mũ Ascendant
+    translation: Mũ Siêu việt
   - original: Ascendant Mantle
-    translation: Áo choàng Ascendant
+    translation: Vai Siêu việt
   - original: Ascendant Pants
-    translation: Quần Ascendant
+    translation: Quần Siêu việt
   - original: Badlands Amulet
-    translation: Dây chuyền Badlands
+    translation: Dây chuyền Đắc địa
   - original: Badlands Armor
-    translation: Giáp ngực Badlands
+    translation: Áo giáp Đắc địa
   - original: Badlands Belt
-    translation: Đai Badlands
+    translation: Đai lưng Đắc địa
   - original: Badlands Gloves
-    translation: Găng Badlands
+    translation: Găng tay Đắc địa
   - original: Badlands Helmet
-    translation: Mũ Badlands
+    translation: Mũ Đắc địa
   - original: Badlands Pants
-    translation: Quần Badlands
+    translation: Quần Đắc địa
   - original: Badlands Ring
-    translation: Nhẫn Badlands
+    translation: Nhẫn Đắc địa
   - original: Badlands Sandals
-    translation: Giày Badlands
+    translation: Giày Đắc địa
   - original: Badlands Shoulders
-    translation: Vai Badlands
+    translation: Vai Đắc địa
   - original: Bale Amulet
-    translation: Dây chuyền Bale
+    translation: Dây chuyền Hoả lôi
   - original: Bale Belt
-    translation: Đai Bale
+    translation: Đai lưng hàng thùng
   - original: Bale Ring
-    translation: Nhẫn Bale
+    translation: Nhẫn Hoả lôi
   - original: Bale Tag
-    translation: Thẻ Bale
+    translation: Khuyên tai đau đớn
   - original: Battle Axe
-    translation: Rìu Battle
+    translation: Rìu chiến
   - original: Battle Crossbow
-    translation: Nỏ Battle
-  - original: Battle Focus
-    translation: ""
+    translation: Nỏ chiến đấu
   - original: Battle Hammer
-    translation: Búa Battle
+    translation: Búa đầu đinh
   - original: Battle Mace
-    translation: Chùy Battle
+    translation: Búa chiến tranh
   - original: Battle Pistol
-    translation: Súng lục Battle
+    translation: Súng lục chiến đấu
   - original: Battle Sword
-    translation: Kiếm Battle
+    translation: Đại đao dài
   - original: Battlemage Bracers
-    translation: ""
+    translation: Găng ma thuật
   - original: Battlemage Brogans
-    translation: ""
+    translation: Giày ma thuật
   - original: Battlemage Greatcoat
-    translation: Áo khoát Battlemage
+    translation: Giáp ma thuật
   - original: Battlemage Helm
-    translation: Mũ Battlemage
+    translation: Mũ ma thuạt
   - original: Battlemage Pants
-    translation: Quần Battlemage
+    translation: Quần ma thuật
   - original: Battlemage Shoulders
-    translation: Vai Battlemage
+    translation: Vai ma thuật
   - original: Bronze Armor
-    translation: Giáp ngực Bronze
+    translation: Giáp đồng
   - original: Bronze Axe
-    translation: Rìu Bronze
+    translation: Rìu đồng
   - original: Bronze Belt
-    translation: Đai Bronze
+    translation: Đai lưng đồng
   - original: Bronze Boots
-    translation: Giày Bronze
+    translation: Giày đồng
   - original: Bronze Gauntlets
-    translation: Quyền sáo Bronze
+    translation: Găng tay đồng
   - original: Bronze Gloves
-    translation: Găng Bronze
+    translation: Găng tay đồng
   - original: Bronze Greaves
-    translation: ""
+    translation: Quần đồng
   - original: Bronze Head
-    translation: ""
+    translation: Đầu robot bằng đồng
   - original: Bronze Helm
-    translation: Mũ Bronze
+    translation: Mũ đồng
   - original: Bronze Pants
-    translation: Quần Bronze
+    translation: Quần đồng
   - original: Bronze Pauldrons
-    translation: ""
+    translation: Vai đồng
   - original: Bronze Plate
-    translation: ""
+    translation: Giáp đồng
   - original: Bronze Ripshank
-    translation: ""
+    translation: Rìu cán đồng
   - original: Bronze Roundshield
-    translation: ""
+    translation: Khiên đồng tròn
   - original: Bronze Sabatons
-    translation: ""
+    translation: Giày đồng
   - original: Bronze Scepter
-    translation: Quyền trượng Bronze
+    translation: Búa đồng
   - original: Bronze Shoulders
-    translation: Vai Bronze
+    translation: Vai đồng
   - original: Bronze Sollerets
-    translation: ""
+    translation: Giày đồng
   - original: Bronze Spangenhelm
-    translation: ""
+    translation: Mũ đồng
   - original: Bronze Spaulders
-    translation: ""
+    translation: Vai đồng
   - original: Bronze Spear
-    translation: Thương Bronze
+    translation: Giáo đồng thau
   - original: Celestial Amulet
-    translation: Dây chuyền Celestial
+    translation: Vòng cổ Thiên đường
   - original: Celestial Armor
-    translation: Giáp ngực Celestial
+    translation: Giáp Thiên đường
   - original: Celestial Belt
-    translation: Đai Celestial
+    translation: Thắt lưng Thiên đường
   - original: Celestial Boots
-    translation: Giày Celestial
+    translation: Giày Thiên đường
   - original: Celestial Eye
-    translation: ""
+    translation: Mắt thiên thần
   - original: Celestial Gloves
-    translation: Găng Celestial
+    translation: Găng tay Thiên đường
   - original: Celestial Helm
-    translation: Mũ Celestial
+    translation: Mũ Thiên đường
   - original: Celestial Pants
-    translation: Quần Celestial
+    translation: Quần Thiên đường
   - original: Celestial Ring
-    translation: Nhẫn Celestial
+    translation: Nhẫn Thiên đường
   - original: Celestial Shoulders
-    translation: Vai Celestial
+    translation: Vai Thiên đường
+  - original: Class Skill
+    translation: Kĩ năng nghề nghiệp
+  - original: Claw
+    translation: Vuốt
   - original: Closerlook Helm
-    translation: Mũ Closerlook
+    translation: Mũ tháp chuông
   - original: Closerlook Mask
-    translation: Mặt nạ Closerlook
+    translation: Mũ tháp chuông
   - original: Cloth Armlet
-    translation: Vòng tay Cloth
+    translation: Vai vải
   - original: Cloth Belt
-    translation: Đai Cloth
+    translation: Đai lưng vải
   - original: Cloth Boots
-    translation: Giày Cloth
+    translation: Giày vải
   - original: Cloth Brassard
-    translation: Băng tay Cloth
+    translation: Vai vải
   - original: Cloth Cap
-    translation: Mũ lưỡi trai Cloth
+    translation: Mũ vải
   - original: Cloth Coif
-    translation: Mũ vải Cloth
+    translation: Mũ vải
   - original: Cloth Doublet
-    translation: Áo ngắn Cloth
+    translation: Cộc tay vải
   - original: Cloth Gloves
-    translation: Găng Cloth
+    translation: Găng tay vải
   - original: Cloth Hose
-    translation: Tất Cloth
+    translation: Quần vải
   - original: Cloth Jack
-    translation: Tấm khoát Cloth
+    translation: Áo vải
   - original: Cloth Leggings
-    translation: Quần bó Cloth
+    translation: Quần vải
   - original: Cloth Mittens
-    translation: Găng tay Cloth
+    translation: Găng tay vải
   - original: Cloth Mitts
-    translation: Găng tay Cloth
+    translation: Găng tay vải
   - original: Cloth Pants
-    translation: Quần Cloth
+    translation: Quần vải
   - original: Cloth Shoes
-    translation: Giày Cloth
+    translation: Giày vải
   - original: Cloth Shoulders
-    translation: Vai Cloth
+    translation: Vai vải
   - original: Cloth Skullcap
-    translation: Mũ xương Cloth
+    translation: Mũ vải
   - original: Cloth Slippers
-    translation: Dép lê Cloth
+    translation: Dép vải
   - original: Cloth Vest
-    translation: ""
+    translation: Vét vải
   - original: Clovenhoof
-    translation: ""
+    translation: Quái Thú
   - original: Clovenhoof Bull
-    translation: ""
+    translation: Bò mộng
   - original: Clovenhoof Cord
-    translation: ""
+    translation: Đai lưng Quái thú
   - original: Clovenhoof Fetish
-    translation: ""
+    translation: Vòng cổ Quái thú
   - original: Clovenhoof Gloves
-    translation: Găng Clovenhoof
+    translation: Găng Quái thú
   - original: Clovenhoof Helm
-    translation: Mũ Clovenhoof
+    translation: Mũ Quái thú
   - original: Clovenhoof Loop
-    translation: ""
+    translation: Nhẫn Quái thú
   - original: Clovenhoof Mantle
-    translation: Áo choàng Clovenhoof
+    translation: Vai Quái thú
   - original: Clovenhoof Pants
-    translation: Quần Clovenhoof
+    translation: Quần Quái thú
   - original: Clovenhoof Sandals
-    translation: Giày Clovenhoof
+    translation: Giày Quái thú
   - original: Clover Axe
-    translation: Rìu Clover
+    translation: Rìu bốn cánh
   - original: Club
-    translation: Côn
+    translation: Búa rèn
   - original: Club Hammer
-    translation: Chùy Búa
+    translation: Búa đá
   - original: Coach Gun
     translation: Súng huấn luyện
   - original: Collar
     translation: Vòng cổ
   - original: Collar Slot\n\n |c00ff9933The best way to find\nCollars is to fish in\ndangerous areas!|u
-    translation: Vòng cổ\n\n |c00ff9933Cách tốt nhất để tìm\nVòng cổ là đi câu cá trong\nkhu vực nguy hiểm!|u
+    translation: Vòng cổ\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
   - original: Collars can only be worn by pets
-    translation: Vòng cổ chỉ có thể được đeo bởi vật nuôi
+    translation: Vòng cổ chỉ có thể dùng cho thú nuôi
   - original: Dream Rod
     translation: Gậy Mộng tưởng
   - original: Hand Crossbow
     translation: Nỏ tay
   - original: Pet Tag Slot\n\n |c00ff9933The best way to find\nPet Tags is to fish \nin dangerous areas!|u
-    translation: Thẻ thú cưng\n\n |c00ff9933Cách tốt nhất để tìm\nThẻ thú cưng là đi câu cá trong\nkhu vực nguy hiểm!|u
+    translation: Khuyên tai\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
   - original: Stab
-    translation: Dao gâm
+    translation: Cú đâm
   - original: Staff
     translation: Trượng
   - original: Staff Mastery
@@ -554,99 +556,95 @@ Equipments:
   - original: Sword and Board
     translation: Kiếm và Khiên
   - original: Two-Finger Claw
-    translation: Vuốt 2 tay
+    translation: Vuốt hai ngón
   - original: Two-Handed Axe
-    translation: Rìu 2 tay
+    translation: Rìu lớn dài
   - original: two-handed melee
     translation: cận chiến 2 tay
   - original: two-handed ranged
     translation: tầm xa 2 tay
   - original: Two-Handed Sword
-    translation: Kiếm 2 tay
+    translation: Đại đao
   - original: Two-Hander
-    translation: Sử dụng hai tay
+    translation: Dùng hai tay
   - original: Unidentified Amulet
-    translation: Vòng cổ Chưa giám định
+    translation: Dây chuyền chưa giám định
   - original: Unidentified Axe
-    translation: Rìu Chưa giám định
+    translation: Rìu chưa giám định
   - original: Unidentified Belt
-    translation: Đai Chưa giám định
+    translation: Thắt lưng chưa giám định
   - original: Unidentified Boots
-    translation: Giày Chưa giám định
+    translation: Giầy chưa giám định
   - original: Unidentified Bow
-    translation: Cung Chưa giám định
+    translation: Cung chưa giám định
   - original: Unidentified Cannon
-    translation: Đại bác Chưa giám định
+    translation: Pháo chưa giám định
   - original: Unidentified Chest Armor
-    translation: Giáp ngực Chưa giám định
+    translation: Áo chưa giám định
   - original: Unidentified Claw
-    translation: Vuốt Chưa giám định
+    translation: Vuốt chưa giám định
   - original: Unidentified Collar
-    translation: Vòng cổ Chưa giám định
+    translation: Vòng thú cưng chưa giám định
   - original: Unidentified Crossbow
-    translation: Nỏ Chưa giám định
+    translation: Nỏ chưa giám định
   - original: Unidentified Gloves
-    translation: Găng tay Chưa giám định
+    translation: Găng tay chưa giám định
   - original: Unidentified Greataxe
-    translation: Rìu lớn Chưa giám định
+    translation: Rìu lớn chưa giám định
   - original: Unidentified Greathammer
-    translation: Búa lớn Chưa giám định
+    translation: Búa lớn chưa giám định
   - original: Unidentified Greatsword
-    translation: Đao Chưa giám định
+    translation: Đại đao chưa giám định
   - original: Unidentified Helmet
-    translation: Giáp mũ Chưa giám định
+    translation: Mũ chưa giám định
   - original: Unidentified items cannot be used-
     translation: Vật phẩm chưa giám định không thể dùng-
   - original: Unidentified items may be identified by using an |cFFFFBA00identify scroll|u. Right-click on the item to identify it if and it will automatically use any identify scrolls you have.
-    translation: Các vật phẩm chưa giám định có thể được giám định bằng cách sử dụng |cFFFFBA00Giám định phù|u. Nhấp chuột phải vào vật phẩm để giám định nó và điều đó sẽ tự động sử dụng bất kỳ giám định phù nào bạn có.
+    translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u. Chuột phải vào vật phẩm để giám định nó và việc này sẽ tự động sử dụng giám định phù nào bạn có.
   - original: Unidentified Mace
-    translation: Chùy Chưa giám định
+    translation: Búa chưa giám định
   - original: Unidentified Pants
-    translation: Quần Chưa giám định
+    translation: Quần chưa giám định
   - original: Unidentified Pet Tag
-    translation: Thẻ thú cưng Chưa giám định
+    translation: Khuyên tai chưa giám định
   - original: Unidentified Pistol
-    translation: Súng lục Chưa giám định
+    translation: Súng lục chưa giám định
   - original: Unidentified Polearm
-    translation: Sào Chưa giám định
+    translation: Giáo chưa giám định
   - original: Unidentified Rifle
-    translation: Súng trường Chưa giám định
+    translation: Súng trường chưa giám định
   - original: Unidentified Ring
-    translation: Nhẫn Chưa giám định
+    translation: Nhẫn chưa giám định
   - original: Unidentified Shield
-    translation: Khiên Chưa giám định
+    translation: Khiên chưa giám định
   - original: Unidentified Shotgonne
-    translation: Súng ngắn Chưa giám định
+    translation: Súng trường chưa giám định
   - original: Unidentified Shoulders
-    translation: Giáp vai Chưa giám định
+    translation: Vai chưa giám định
   - original: Unidentified Staff
-    translation: Trượng Chưa giám định
+    translation: Trượng chưa giám định
   - original: Unidentified Sword
-    translation: Kiếm Chưa giám định
+    translation: Kiếm chưa giám định
   - original: Unidentified Wand
-    translation: Gậy phép Chưa giám định
+    translation: Gậy phép chưa giám định
   - original: Unique
-    translation: Cực hiếm
+    translation: Hiếm có
   - original: Unknown
     translation: Không rõ
   - original: Vanquisher Armor
-    translation: Giáp Vanquisher
+    translation: Giáp thủ vệ
   - original: Vanquisher Belt
-    translation: Đai Vanquisher
+    translation: Đai lưng thủ vệ
   - original: Vanquisher Boots
-    translation: Giày Vanquisher
+    translation: Giày thủ vệ
   - original: Vanquisher Gloves
-    translation: Găng Vanquisher
+    translation: Găng thủ vệ
   - original: Vanquisher Helm
-    translation: Mũ Vanquisher
+    translation: Mũ thủ vệ
   - original: Vanquisher Pants
-    translation: Quần Vanquisher
+    translation: Quần thủ vệ
   - original: Vanquisher Shoulders
-    translation: Vai Vanquisher
-  - original: Class Skill
-    translation: Kỹ năng nghề
-  - original: Claw
-    translation: Vuốt
+    translation: Vai thủ vệ
 
 Equipments - Torchlight II Essentials:
   - original: "|cFFFF0000-[VALUE]% to [DMGTYPE] Armor for [DURATION]|u"
@@ -674,19 +672,19 @@ Equipments Stats:
   - original: "-[VALUE] [DMGTYPE] Damage Reflected for [DURATION]"
     translation: "-[VALUE] phản sát thương [DMGTYPE] trong [DURATION]"
   - original: "-[VALUE] Armor"
-    translation: "-[VALUE] giáp"
+    translation: "-[VALUE] Giáp"
   - original: "-[VALUE] Armor for [DURATION]"
-    translation: "-[VALUE] giáp trong [DURATION]"
+    translation: "-[VALUE] Giáp trong [DURATION]"
   - original: "-[VALUE] Bonus Magic Defense"
-    translation: "-[VALUE] kháng phép"
+    translation: "-[VALUE] Kháng phép"
   - original: "-[VALUE] Bonus Magic Defense for [DURATION]"
-    translation: "-[VALUE] kháng phép trong [DURATION]"
+    translation: "-[VALUE] Kháng phép trong [DURATION]"
   - original: "-[VALUE] Damage to secondary targets for [DURATION]"
-    translation: "-[VALUE] Sát thương cho mục tiêu kế tiếp"
+    translation: "-[VALUE] Sát thương cho mục tiêu kế tiếp trong  [DURATION]"
   - original: "-[VALUE] Dexterity Attribute penalty"
-    translation: "-[VALUE] điểm Chính xác"
+    translation: "-[VALUE] điểm Nhanh nhẹn"
   - original: "-[VALUE] Dexterity Attribute penalty for [DURATION]"
-    translation: "-[VALUE] điểm Chính xác trong [DURATION]"
+    translation: "-[VALUE] điểm Nhanh nhẹn trong [DURATION]"
   - original: "-[VALUE] Electric Armor"
     translation: "-[VALUE] Lôi giáp"
   - original: "-[VALUE] Electric Armor for [DURATION]"
@@ -696,27 +694,27 @@ Equipments Stats:
   - original: "-[VALUE] Fire Armor for [DURATION]"
     translation: "-[VALUE] Hỏa giáp trong [DURATION]"
   - original: "-[VALUE] Focus Attribute bonus"
-    translation: "-[VALUE] điểm Trí tuệ"
+    translation: "-[VALUE] Trí lực"
   - original: "-[VALUE] Focus Attribute bonus for [DURATION]"
-    translation: "-[VALUE] điểm Trí tuệ trong [DURATION]"
+    translation: "-[VALUE] Trí lực trong [DURATION]"
   - original: "-[VALUE] Health"
     translation: "-[VALUE] Sinh lực"
   - original: "-[VALUE] Health for [DURATION]"
     translation: "-[VALUE] Sinh lực trong [DURATION]"
   - original: "-[VALUE] Health recovery over [DURATION]"
-    translation: "-[VALUE] hồi sinh lực mỗi giây trong [DURATION]"
+    translation: "-[VALUE] hồi sinh lực trong [DURATION]"
   - original: "-[VALUE] Health recovery per second"
     translation: "-[VALUE] hồi sinh lực mỗi giây"
   - original: "-[VALUE] Health Steal"
-    translation: "-[VALUE] sinh lực trộm được"
+    translation: Giảm [VALUE] hút Sinh lực
   - original: "-[VALUE] Health Steal for [DURATION]"
-    translation: "-[VALUE] sinh lực trộm được trong [DURATION]"
+    translation: Giảm [VALUE] hút Sinh lực trong [DURATION]
   - original: "-[VALUE] Health steal to master"
-    translation: "-[VALUE] sinh lực trộm được cho chủ"
+    translation: Giảm [VALUE] hút Sinh lực cho chủ nhân
   - original: "-[VALUE] Health steal to master for [DURATION]"
-    translation: "-[VALUE] máu trộm cho chủ nhân trong [DURATION]"
+    translation: Giảm [VALUE] hút Sinh lực cho chủ nhân trong [DURATION]
   - original: "-[VALUE] Health/sec for every monster within [VALUE4] meters"
-    translation: "-[VALUE] sinh lực/giây cho mỗi quái vật trong vòng [VALUE4] mét"
+    translation: "- [VALUE] Sinh lực/giây cho mỗi quái vật trong vòng [VALUE4] mét"
   - original: "-[VALUE] Ice Armor"
     translation: "-[VALUE] Băng giáp"
   - original: "-[VALUE] Ice Armor for [DURATION]"
@@ -732,9 +730,9 @@ Equipments Stats:
   - original: "-[VALUE] Mana recovery over [DURATION]"
     translation: "-[VALUE] hồi Năng lượng trong [DURATION]"
   - original: "-[VALUE] Mana steal"
-    translation: "-[VALUE] trộm Năng lượng"
+    translation: Giảm [VALUE] hút Năng lượng
   - original: "-[VALUE] Mana steal for [DURATION]"
-    translation: "-[VALUE] trộm Năng lượng trong [DURATION]"
+    translation: Giảm [VALUE] hút Năng lượng trong [DURATION]
   - original: "-[VALUE] Mana/sec for every monster within [VALUE4] meters"
     translation: "-[VALUE] Năng lượng/giây cho mỗi quái vật trong vòng [VALUE4] mét"
   - original: "-[VALUE] Melee weapon damage penalty"
@@ -750,51 +748,49 @@ Equipments Stats:
   - original: "-[VALUE] ranged weapon damage penalty for [DURATION]"
     translation: "-[VALUE] sát thương vũ khí tầm xa trong [DURATION]"
   - original: "-[VALUE] rank to [NAME] skill"
-    translation: "-[VALUE] cấp cho kỹ năng [NAME]"
+    translation: "-[VALUE] bậc cho kĩ năng [NAME]"
   - original: "-[VALUE] Resistance to Logic"
-    translation: "-[VALUE] kháng Lý luận"
+    translation: "-[VALUE] kháng Vật lý"
   - original: "-[VALUE] seconds of Burn/Shock/Freeze/Poison"
-    translation: "-[VALUE] giây Cháy/Choáng/Đóng băng/Nhiễm độc"
+    translation: "-[VALUE] giây cho Đốt cháy/Sốc điện/Nhiễm lạnh/Trúng độc"
   - original: "-[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]"
-    translation: "-[VALUE] giây Cháy/Choáng/Đóng băng/Nhiễm độc trong [DURATION]"
+    translation: "-[VALUE] giây cho Đốt cháy/Sốc điện/Nhiễm lạnh/Trúng độc trong [DURATION]"
   - original: "-[VALUE] seconds to Burn Duration"
     translation: "-[VALUE] giây thời gian Đốt cháy"
   - original: "-[VALUE] seconds to Burn Duration for [DURATION]"
     translation: "-[VALUE] giây thời gian Đốt cháy trong [DURATION]"
   - original: "-[VALUE] seconds to Freeze duration"
-    translation: "-[VALUE] giây thời gian Đóng băng"
+    translation: "-[VALUE] giây thời gian Nhiễm lạnh"
   - original: "-[VALUE] seconds to Freeze duration for [DURATION]"
-    translation: "-[VALUE] giây thời gian Đóng băng trong [DURATION]"
+    translation: "-[VALUE] giây thời gian Nhiễm lạnh trong [DURATION]"
   - original: "-[VALUE] seconds to Poison duration"
-    translation: "-[VALUE] giây thời gian nhiễm Độc"
+    translation: "-[VALUE] giây thời gian Trúng độc"
   - original: "-[VALUE] seconds to Poison duration for [DURATION]"
-    translation: "-[VALUE] giây thời gian nhiễm Độc trong [DURATION]"
+    translation: "-[VALUE] giây thời gian Trúng độc trong [DURATION]"
   - original: "-[VALUE] seconds to Shock duration"
-    translation: "-[VALUE] giây thời gian Choáng váng"
+    translation: "-[VALUE] giây thời gian Sốc điện"
   - original: "-[VALUE] seconds to Shock duration for [DURATION]"
-    translation: "-[VALUE] giây thời gian Choáng váng trong [DURATION]"
+    translation: "-[VALUE] giây thời gian Sốc điện trong [DURATION]"
   - original: "-[VALUE] Sight Bonus"
-    translation: "-[VALUE] tầm nhìn xa"
+    translation: "-[VALUE] Tầm nhìn"
   - original: "-[VALUE] Socks"
-    translation: "-[VALUE] Sốc"
+    translation: "-[VALUE] Sốc điện"
   - original: "-[VALUE] Strength Attribute penalty"
-    translation: "-[VALUE] điểm Sức mạnh"
+    translation: "-[VALUE] Thuộc tính Sức mạnh"
   - original: "-[VALUE] Strength Attribute penalty for [DURATION]"
-    translation: "-[VALUE] điểm Sức mạnh trong [DURATION]"
+    translation: "-[VALUE] Thuộc tính Sức mạnh trong [DURATION]"
   - original: "-[VALUE] to All Armor per hit"
     translation: "-[VALUE] Giáp các loại mỗi công kích"
   - original: "-[VALUE] to All Armor per hit for [DURATION]"
     translation: "-[VALUE] Giáp các loại mỗi công kích trong [DURATION]"
   - original: "-[VALUE] to all item character stat requirements"
-    translation: "-[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị"
-  - original: "-[VALUE] to all item character stat requirements [DURATION]"
-    translation: "-[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị trong [DURATION]"
+    translation: "-[VALUE] cho tất cả chỉ số yêu cầu của trang bị"
   - original: "-[VALUE] to all item character stat requirements for [DURATION]"
-    translation: "-[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị trong [DURATION]"
+    translation: "-[VALUE] cho tất cả chỉ số yêu cầu của trang bị trong [DURATION]"
   - original: "-[VALUE] to Armor equipment requirements"
-    translation: "-[VALUE] cho yêu cầu giáp của trang bị"
+    translation: "-[VALUE] yêu cầu của trang bị Giáp"
   - original: "-[VALUE] to Armor equipment requirements for [DURATION]"
-    translation: "-[VALUE] cho yêu cầu giáp của trang bị trong [DURATION]"
+    translation: "-[VALUE] yêu cầu của trang bị Giáp trong [DURATION]"
   - original: "-[VALUE] to Attack Spell levels"
     translation: "-[VALUE] cấp độ Phép Công kích"
   - original: "-[VALUE] to Attack Spell levels for [DURATION]"
@@ -808,35 +804,35 @@ Equipments Stats:
   - original: "-[VALUE] to Defense Spell levels for [DURATION]"
     translation: "-[VALUE] cấp độ Phép Phòng thủ trong [DURATION]"
   - original: "-[VALUE] to mage equipment requirements"
-    translation: "-[VALUE] cho yêu cầu trang bị pháp thuật"
+    translation: "-[VALUE] yêu cầu của trang bị Phép"
   - original: "-[VALUE] to mage equipment requirements for [DURATION]"
-    translation: "-[VALUE] cho yêu cầu trang bị pháp thuật trong [DURATION]"
+    translation: "-[VALUE] yêu cầu của trang bị Phép trong [DURATION]"
   - original: "-[VALUE] to martial equipment requirements"
-    translation: "-[VALUE] cho yêu cầu trang bị chiến đấu"
+    translation: "-[VALUE] yêu cầu của trang bị Chiến đấu"
   - original: "-[VALUE] to martial equipment requirements for [DURATION]"
-    translation: "-[VALUE] cho yêu cầu trang bị chiến đấu trong [DURATION]"
+    translation: "-[VALUE] yêu cầu của trang bị Chiến đấu trong [DURATION]"
   - original: "-[VALUE] to ranged equipment requirements"
-    translation: "-[VALUE] yêu cầu trang bị tầm xa"
+    translation: "-[VALUE] yêu cầu của trang bị Tầm xa"
   - original: "-[VALUE] to ranged equipment requirements for [DURATION]"
-    translation: "-[VALUE] yêu cầu trang bị tầm xa trong [DURATION]"
+    translation: "-[VALUE] yêu cầu của trang bị Tầm xa trong [DURATION]"
   - original: "-[VALUE] to Spell learning requirements"
-    translation: "-[VALUE] yêu cầu học Pháp thuật"
+    translation: "-[VALUE] yêu cầu học Phép thuật"
   - original: "-[VALUE] to Spell learning requirements for [DURATION]"
-    translation: "-[VALUE] yêu cầu học Pháp thuật trong [DURATION]"
+    translation: "-[VALUE] yêu cầu học Phép thuật trong [DURATION]"
   - original: "-[VALUE] View Angle Bonus"
-    translation: "-[VALUE] góc nhìn"
+    translation: "-[VALUE] Góc nhìn"
   - original: "-[VALUE] Vitality Attribute penalty"
-    translation: "-[VALUE] điểm Thể lực"
+    translation: "-[VALUE] thuộc tính Thể lực"
   - original: "-[VALUE] Vitality Attribute penalty for [DURATION]"
-    translation: "-[VALUE] điểm Thể lực trong [DURATION]"
+    translation: "-[VALUE] thuộc tính Thể lực trong [DURATION]"
   - original: "-[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m"
-    translation: "-[VALUE]% sát thương [DMGTYPE] cho mỗi quái vật trong phạm vi [VALUE3] mét"
+    translation: "-[VALUE]% sát thương [DMGTYPE] cho mỗi quái vật trong phạm vi [VALUE3]m"
   - original: "-[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m"
-    translation: "-[VALUE]% sát thương [DMGTYPE] của quái vật trong bán kính [VALUE3] mét"
+    translation: "-[VALUE]% sát thương [DMGTYPE] nhận được cho mỗi quái vật trong phạm vi [VALUE3]m"
   - original: "-[VALUE]% |c00ff9933Charge|u lost per second due to decay"
-    translation: "-[VALUE]% |c00ff9933Nộ khí|u mất/giây do phân rã"
+    translation: "-[VALUE]% |c00ff9933Nộ khí|u mất đi mỗi giây khi phân rã"
   - original: "-[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]"
-    translation: "-[VALUE]% |c00ff9933Nộ khí|u mất/giây do phân rã trong [DURATION] tiếp theo"
+    translation: "-[VALUE]% |c00ff9933Nộ khí|u mất đi mỗi giây khi phân rã trong vòng [DURATION]"
   - original: "-[VALUE]% chance to Burn"
     translation: "-[VALUE]% cơ hội Đốt cháy"
   - original: "-[VALUE]% chance to Burn for [DURATION]"
@@ -844,67 +840,65 @@ Equipments Stats:
   - original: "-[VALUE]% chance to charm target for [DURATION]"
     translation: "-[VALUE]% cơ hội mê hoặc mục tiêu trong [DURATION]"
   - original: "-[VALUE]% chance to Execute"
-    translation: "-[VALUE]% tỉ lệ Thực thi"
+    translation: "-[VALUE]% cơ hội Hành hình"
   - original: "-[VALUE]% chance to Freeze"
-    translation: "-[VALUE]% cơ hội Đóng băng"
+    translation: "-[VALUE]% cơ hội Nhiễm lạnh"
   - original: "-[VALUE]% chance to Freeze for [DURATION]"
-    translation: "-[VALUE]% cơ hội Đóng băng trong [DURATION]"
+    translation: "-[VALUE]% cơ hội Nhiễm lạnh trong [DURATION]"
   - original: "-[VALUE]% chance to Poison"
-    translation: "-[VALUE]% cơ hội Đầu độc"
+    translation: "-[VALUE]% cơ hội Trúng độc"
   - original: "-[VALUE]% chance to Poison for [DURATION]"
-    translation: "-[VALUE]% cơ hội Đầu độc trong [DURATION]"
+    translation: "-[VALUE]% cơ hội Trúng độc trong [DURATION]"
   - original: "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage"
-    translation: "-[VALUE]% cơ hội phản hồi [VALUE3AND4]% sát thương từ xa"
+    translation: "-[VALUE]% cơ hội phản hồi [VALUE3AND4]% sát thương của đạn"
   - original: "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\\n     for [DURATION]"
-    translation: "-[VALUE]% cơ hội phản hồi [VALUE3AND4]% sát thương từ xa\\n     trong [DURATION]"
-  - original: "-[VALUE]% chance to reflect [VALUE3AND4]% of Missile Damage\\n for [DURATION]"
-    translation: ""
+    translation: "-[VALUE]% cơ hội phản hồi [VALUE3AND4]% sát thương của đạn\\n     trong [DURATION]"
   - original: "-[VALUE]% chance to Shock"
-    translation: "-[VALUE]% cơ hội làm Choáng"
+    translation: "-[VALUE]% cơ hội gây Sốc điện"
   - original: "-[VALUE]% chance to Shock for [DURATION]"
-    translation: "-[VALUE]% cơ hội làm Choáng trong [DURATION]"
+    translation: "-[VALUE]% cơ hội gây Sốc điện trong [DURATION]"
   - original: "-[VALUE]% chance to Stun target"
-    translation: "-[VALUE]% cơ hội Làm choáng mục tiêu"
+    translation: "-[VALUE]% cơ hội làm Choáng mục tiêu"
   - original: "-[VALUE]% chance to Stun target for [DURATION]"
-    translation: "-[VALUE]% cơ hội Làm choáng mục tiêu trong [DURATION]"
+    translation: "-[VALUE]% cơ hội làm Choáng mục tiêu trong [DURATION]"
   - original: "-[VALUE]% Damage Reflection"
     translation: "-[VALUE]% phản sát thương"
   - original: "-[VALUE]% Damage Reflection for [DURATION]"
     translation: "-[VALUE]% phản sát thương trong [DURATION]"
   - original: "-[VALUE]% Damage to secondary targets"
-    translation: "-[VALUE]% Sát thương cho mục tiêu kế tiếp trong [DURATION]"
+    translation: "-[VALUE]% Sát thương cho mục tiêu kế tiếp"
   - original: "-[VALUE]% Dexterity penalty"
-    translation: "-[VALUE]% Chính xác"
+    translation: "-[VALUE]% Nhanh nhẹn"
   - original: "-[VALUE]% Dexterity penalty for [DURATION]"
-    translation: "-[VALUE]% Chính xác trong [DURATION]"
+    translation: "-[VALUE]% Nhanh nhẹn trong [DURATION]"
   - original: "-[VALUE]% Dodge chance"
     translation: "-[VALUE]% cơ hội Né tránh"
   - original: "-[VALUE]% Dodge chance for [DURATION]"
     translation: "-[VALUE]% cơ hội Né tránh trong [DURATION]"
   - original: "-[VALUE]% Focus bonus"
-    translation: "-[VALUE]% trí tuệ"
+    translation: "-[VALUE]% Trí lực"
   - original: "-[VALUE]% Focus bonus for [DURATION]"
-    translation: "-[VALUE]% trí tuệ trong [DURATION]"
+    translation: "-[VALUE]% Trí lực trong [DURATION]"
   - original: "-[VALUE]% Health"
-    translation: "-[VALUE]% máu"
+    translation: "-[VALUE]% Sinh lực"
   - original: "-[VALUE]% Health for [DURATION]"
-    translation: "-[VALUE]% máu trong [DURATION]"
+    translation: "-[VALUE]% Sinh lực trong [DURATION]"
   - original: "-[VALUE]% Health recovery"
-    translation: "-[VALUE]% hồi phục Máu"
+    translation: "-[VALUE]% hồi phục Sinh lực"
   - original: "-[VALUE]% Health recovery over [DURATION]"
-    translation: "-[VALUE]% hồi phục Máu trong [DURATION]"
+    translation: "-[VALUE]% hồi phục Sinh lực trong [DURATION]"
   - original: "-[VALUE]% Health stolen"
     translation: "-[VALUE]% hút máu"
   - original: "-[VALUE]% Health stolen for [DURATION]"
-    translation: "-[VALUE]% hút máu trong [DURATION]"
+    translation: "-[VALUE]% hút Sinh lực trong [DURATION]"
   - original: "-[VALUE]% Health stolen to master"
-    translation: "-[VALUE]% trộm máu cho chủ nhân"
+    translation: "-[VALUE]% hút Sinh lực cho chủ nhân"
   - original: "-[VALUE]% Health stolen to master for [DURATION]"
-    translation: "-[VALUE]% trộm máu cho chủ nhân trong [DURATION]"
+    translation: "-[VALUE]% hút Sinh lực cho chủ nhân trong [DURATION]"
   - original: "-[VALUE]% Interrupt chance"
-    translation: "-[VALUE]% cơ hội làm gián đoạn"
+    translation: "-[VALUE]% cơ hội làm Gián đoạn"
   - original: "-[VALUE]% Interrupt chance for [DURATION]"
-    translation: "-[VALUE]% cơ hội làm gián đoạn trong [DURATION]"
+    translation: "-[VALUE]% cơ hội làm Gián đoạn trong [DURATION]"
   - original: "-[VALUE]% Interrupt Resistance"
     translation: "-[VALUE]% kháng Gián đoạn"
   - original: "-[VALUE]% Knock Back Resistance"
@@ -916,9 +910,9 @@ Equipments Stats:
   - original: "-[VALUE]% Mana for [DURATION]"
     translation: "-[VALUE]% Năng lượng trong [DURATION]"
   - original: "-[VALUE]% Mana stolen"
-    translation: "-[VALUE]% trộm Năng lượng"
+    translation: "-[VALUE]% hút Năng lượng"
   - original: "-[VALUE]% Mana stolen for [DURATION]"
-    translation: "-[VALUE]% trộm Năng lượng trong [DURATION]"
+    translation: "-[VALUE]% hút Năng lượng trong [DURATION]"
   - original: "-[VALUE]% Melee Weapon Damage"
     translation: "-[VALUE]% sát thương vũ khí cận chiến"
   - original: "-[VALUE]% Melee Weapon Damage for [DURATION]"
@@ -928,25 +922,25 @@ Equipments Stats:
   - original: "-[VALUE]% Melee Weapon Damage penalty for [DURATION]"
     translation: "-[VALUE]% sát thương vũ khí cận chiến trong [DURATION]"
   - original: "-[VALUE]% pet and minion Armor"
-    translation: "-[VALUE]% giáp thú cưng và thú triệu hồi"
+    translation: "-[VALUE]% giáp thú nuôi và quái thú"
   - original: "-[VALUE]% pet and minion Armor for [DURATION]"
-    translation: "-[VALUE]% giáp thú cưng và thú triệu hồi trong [DURATION]"
+    translation: "-[VALUE]% giáp thú nuôi và quái thú trong [DURATION]"
   - original: "-[VALUE]% pet and minion Damage"
-    translation: "-[VALUE]% sát thương thú cưng và thú triệu hồi"
+    translation: "-[VALUE]% sát thương thú nuôi và quái thú"
   - original: "-[VALUE]% pet and minion Damage for [DURATION]"
-    translation: "-[VALUE]% sát thương thú cưng và thú triệu hồi trong [DURATION]"
+    translation: "-[VALUE]% sát thương thú nuôi và quái thú trong [DURATION]"
   - original: "-[VALUE]% pet and minion Health"
-    translation: "-[VALUE]% máu thú cưng và thú triệu hồi"
+    translation: Giảm [VALUE]% Sinh lực của thú nuôi và quái thú
   - original: "-[VALUE]% pet and minion Health for [DURATION]"
-    translation: "-[VALUE]% máu thú cưng và thú triệu hồi trong [DURATION]"
+    translation: "-[VALUE]% Sinh lực của thú nuôi và quái thú trong [DURATION]"
   - original: "-[VALUE]% pet and minion Speed"
-    translation: "-[VALUE]% tốc độ thú cưng và thú triệu hồi"
+    translation: "-[VALUE]% tốc độ thú nuôi và quái thú"
   - original: "-[VALUE]% pet and minion Speed for [DURATION]"
-    translation: "-[VALUE]% tốc độ thú cưng và thú triệu hồi trong [DURATION]"
+    translation: "-[VALUE]% tốc độ thú nuôi và quái thú trong [DURATION]"
   - original: "-[VALUE]% Potion effectiveness"
-    translation: "-[VALUE]% hiệu quả của thuốc"
+    translation: "-[VALUE]% Dược hiệu"
   - original: "-[VALUE]% Potion effectiveness for [DURATION]"
-    translation: "-[VALUE]% hiệu quả của thuốc trong [DURATION]"
+    translation: "-[VALUE]% Dược hiệu trong [DURATION]"
   - original: "-[VALUE]% Ranged Weapon Damage"
     translation: "-[VALUE]% sát thương vũ khí tầm xa"
   - original: "-[VALUE]% Ranged Weapon Damage for [DURATION]"
@@ -964,9 +958,9 @@ Equipments Stats:
   - original: "-[VALUE]% to [DMGTYPE] Armor for [DURATION]"
     translation: "-[VALUE]% [DMGTYPE] giáp trong [DURATION]"
   - original: "-[VALUE]% to skill mana cost"
-    translation: "-[VALUE]% Năng lượng kỹ năng tiêu hao"
+    translation: "-[VALUE]% Năng lượng kỹ năng tiêu tốn"
   - original: "-[VALUE]% to skill mana cost for [DURATION]"
-    translation: "-[VALUE]% Năng lượng kỹ năng tiêu hao trong [DURATION]"
+    translation: "-[VALUE]% Năng lượng kỹ năng tiêu tốn trong [DURATION]"
   - original: "-[VALUE]% Vitality penalty"
     translation: "-[VALUE]% Thể lực"
   - original: "-[VALUE]% Vitality penalty for [DURATION]"
@@ -976,109 +970,107 @@ Equipments Stats:
   - original: "-[VALUE]% Wand and Staff Damage for [DURATION]"
     translation: "-[VALUE]% sát thương của Trượng và Gậy phép trong [DURATION]"
   - original: "-[VALUE]m to Bow, Crossbow, Pistol and Wand range"
-    translation: "-[VALUE] mét phạm vi của Cung, Nỏ, Súng lục và Gậy phép"
+    translation: "-[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép"
   - original: "-[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]"
-    translation: "-[VALUE] mét phạm vi của Cung, Nỏ, Súng lục và Gậy phép trong [DURATION]"
+    translation: "-[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép trong [DURATION]"
   - original: "-[VALUE1ASDURATION] decreased summon duration"
-    translation: Giảm -[VALUE1ASDURATION] thời gian triệu hồi
+    translation: "-[VALUE1ASDURATION] thời gian triệu hồi"
   - original: "[DMGTYPE] Armor reduced by [VALUE]"
-    translation: Giáp [DMGTYPE] giảm [VALUE]
+    translation: Giảm [VALUE] giáp [DMGTYPE]
   - original: "[DMGTYPE] Armor reduced by [VALUE] for [DURATION]"
-    translation: Giáp [DMGTYPE] giảm [VALUE] trong [DURATION]
+    translation: Giảm [VALUE] giáp [DMGTYPE] trong [DURATION]
   - original: "[DMGTYPE] Damage reduced by [VALUE]%"
-    translation: Sát thương [DMGTYPE] giảm [VALUE]%
+    translation: "[DMGTYPE] sát thương giảm [VALUE]%"
   - original: "[DMGTYPE] Damage reduced by [VALUE]% for [DURATION]"
-    translation: Sát thương [DMGTYPE] giảm [VALUE]% trong [DURATION]
+    translation: "[DMGTYPE] sát thương giảm [VALUE]% trong [DURATION]"
   - original: "[DMGTYPE] Damage Taken increased by [VALUE]"
-    translation: Sát thương [DMGTYPE] tăng [VALUE]
+    translation: Tăng [DMGTYPE] sát thương phải nhận lên [VALUE]
   - original: "[DMGTYPE] Damage Taken increased by [VALUE] for [DURATION]"
-    translation: Sát thương [DMGTYPE] tăng [VALUE] trong [DURATION]
-  - original: "[DMGTYPE] Damage Taken is increased by [VALUE]%"
-    translation: Nhận sát thương [DMGTYPE] tăng [VALUE]%
+    translation: Tăng [DMGTYPE] sát thương phải nhận lên [VALUE] trong [DURATION]
   - original: "[DMGTYPE] Damage Taken is increased by [VALUE]% for [DURATION]"
-    translation: Nhận sát thương [DMGTYPE] tăng [VALUE]% trong [DURATION]
+    translation: "[DMGTYPE] sát thương phải nhận tăng lên [VALUE]% trong [DURATION]"
   - original: "[DMGTYPE] Damage Taken is reduced by [VALUE]% "
-    translation: Sát thương [DMGTYPE] giảm [VALUE]%
+    translation: "[DMGTYPE] sát thương phải nhận giảm [VALUE]%"
   - original: "[DMGTYPE] Damage Taken is reduced by [VALUE]% for [DURATION]"
-    translation: Sát thương [DMGTYPE] giảm [VALUE]% trong [DURATION]
+    translation: "[DMGTYPE] sát thương phải nhận giảm [VALUE]% trong [DURATION]"
   - original: "[DMGTYPE] Damage Taken reduced by [VALUE]"
-    translation: Sát thương [DMGTYPE] giảm [VALUE]
+    translation: Giảm [DMGTYPE] sát thương phải nhận giảm [VALUE]
   - original: "[DMGTYPE] Damage Taken reduced by [VALUE] for [DURATION]"
-    translation: Sát thương [DMGTYPE] giảm [VALUE] trong [DURATION]
+    translation: Giảm [DMGTYPE] sát thương phải nhận giảm [VALUE] trong [DURATION]
   - original: "[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
-    translation: "[VALUE_OT] sát thương [DMGTYPE] trong [DURATION]"
+    translation: Tăng [VALUE_OT] [DMGTYPE] sát thương trong [DURATION]
   - original: "[VALUE] [DMGTYPE] Damage Reflected"
-    translation: "[VALUE] phản sát thương [DMGTYPE]"
+    translation: Phản lại [VALUE] [DMGTYPE] sát thương
   - original: "[VALUE] [DMGTYPE] Damage Reflected for [DURATION]"
-    translation: "[VALUE] phản sát thương [DMGTYPE] trong [DURATION]"
+    translation: Phản lại [VALUE] [DMGTYPE] sát thương trong [DURATION]
   - original: "[VALUE] decreased Gold Drop"
-    translation: Giảm [VALUE] vàng rơi ra
+    translation: Giảm [VALUE] lượng vàng rơi
   - original: "[VALUE] decreased Gold Drop for [DURATION]"
-    translation: Giảm [VALUE] vàng rơi ra trong [DURATION]
+    translation: Giảm [VALUE] lượng vàng rơi trong [DURATION]
   - original: "[VALUE] Emotional Damage"
     translation: "[VALUE] Sát thương Tinh thần"
   - original: "[VALUE] Futuristicness"
     translation: "[VALUE] Vị lai"
   - original: "[VALUE] Health recovery over [DURATION]"
-    translation: Hồi [VALUE] sinh lực trong [DURATION]
+    translation: Hồi phục [VALUE] Sinh lực trong [DURATION]
   - original: "[VALUE] Health recovery per second"
-    translation: Hồi [VALUE] sinh lực mỗi giây
+    translation: Hồi phục [VALUE] Sinh lực mỗi giây
   - original: "[VALUE] Health steal to master on Hit"
-    translation: Trộm [VALUE] sinh lực cho chủ nhân khi Đánh
+    translation: Hút [VALUE] Sinh lực cho chủ nhân khi đánh
   - original: "[VALUE] Health steal to master on Hit for [DURATION]"
-    translation: Trộm [VALUE] sinh lực cho chủ khi Đánh trong [DURATION]
+    translation: Hút [VALUE] Sinh lực cho chủ nhân khi đánh trong [DURATION]
   - original: "[VALUE] Health stolen on hit"
-    translation: Trộm [VALUE] sinh lực khi đánh
+    translation: Hút [VALUE] Sinh lực khi đánh
   - original: "[VALUE] Health stolen on hit for [DURATION]"
-    translation: Trộm [VALUE] sinh lực khi đánh trong [DURATION]
+    translation: Hút [VALUE] Sinh lực khi đánh trong [DURATION]
   - original: "[VALUE] Mana recovery"
-    translation: "[VALUE] hồi Năng lượng"
+    translation: Hồi phục [VALUE] Năng lượng
   - original: "[VALUE] Mana recovery over [DURATION]"
-    translation: "[VALUE] hồi Năng lượng trong [DURATION]"
+    translation: Hồi phục [VALUE] Năng lượng trong [DURATION]
   - original: "[VALUE] Mana recovery per second"
-    translation: Hồi [VALUE] Năng lượng mỗi giây
+    translation: Hồi phục [VALUE] Năng lượng mỗi giây
   - original: "[VALUE] Mana stolen on hit"
-    translation: Trộm [VALUE] Năng lượng khi đánh
+    translation: Hút [VALUE] Năng lượng khi đánh
   - original: "[VALUE] Mana stolen on hit for [DURATION]"
-    translation: Trộm [VALUE] Năng lượng khi đánh trong [DURATION]
+    translation: Hút [VALUE] Năng lượng khi đánh trong [DURATION]
   - original: "[VALUE] Noodle Arms"
     translation: "[VALUE] Cánh tay ngu ngốc"
   - original: "[VALUE] points of [DMGTYPE] Damage Absorption"
-    translation: "[VALUE] điểm Hấp thụ sát thương [DMGTYPE]"
+    translation: Hấp thụ [VALUE] điểm [DMGTYPE] sát thương
   - original: "[VALUE] points of [DMGTYPE] Damage Absorption for [DURATION]"
-    translation: "[VALUE] điểm Hấp thụ sát thương [DMGTYPE] trong [DURATION]"
+    translation: Hấp thụ [VALUE] điểm [DMGTYPE] sát thương trong [DURATION]
   - original: "[VALUE] Socks"
-    translation: "[VALUE] Sốc"
+    translation: "[VALUE] Sốc điện"
   - original: "[VALUE]% |c00ff9933Charge|u rate penalty"
-    translation: "[VALUE]% tỉ lệ |c00ff9933Nộ|u mất đi"
+    translation: Giảm [VALUE]% tỉ lệ |c00ff9933Nộ khí|u
   - original: "[VALUE]% |c00ff9933Charge|u rate penalty for [DURATION]"
-    translation: "[VALUE]% tỉ lệ |c00ff9933Nộ|u mất đi trong [DURATION]"
+    translation: Giảm [VALUE]% tỉ lệ |c00ff9933Nộ khí|u trong [DURATION]
   - original: "[VALUE]% bonus to Critical Damage"
-    translation: Tăng [VALUE]% Sát thương Chí mạng
+    translation: Tăng [VALUE]% cho sát thương |c00ff9933Chí mạng|u
   - original: "[VALUE]% bonus to Critical Damage for [DURATION]"
-    translation: Tăng [VALUE]% Sát thương Chí mạng trong [DURATION]
+    translation: Tăng [VALUE]% cho sát thương |c00ff9933Chí mạng|u trong [DURATION]
   - original: "[VALUE]% chance for owner to retarget unit in [VALUE2] meters"
-    translation: "[VALUE]% cơ hội xác định lại mục tiêu trong [VALUE2] mét"
+    translation: "[VALUE]% cơ hội cho bản thân nhắm mục tiêu lại trong [VALUE2] mét"
   - original: "[VALUE]% chance for owner to retarget unit in [VALUE2] meters for [DURATION] seconds"
-    translation: "[VALUE]% cơ hội xác định lại mục tiêu trong [VALUE2] mét trong [DURATION] giây"
+    translation: "[VALUE]% cơ hội cho bản thân nhắm lại mục tiêu trong [VALUE2] mét trong [DURATION] giây"
   - original: "[VALUE]% chance of Blindness"
     translation: "[VALUE]% cơ hội làm Mù lòa"
   - original: "[VALUE]% chance of Blindness for [DURATION]"
     translation: "[VALUE]% cơ hội làm Mù lòa trong [DURATION]"
   - original: "[VALUE]% chance on kill to [NAME]"
-    translation: "[VALUE]% cơ hội khi giết sử dụng [NAME]"
+    translation: "[VALUE]% cơ hội giết chết thành [NAME]"
   - original: "[VALUE]% chance that target Flees for [DURATION]"
     translation: "[VALUE]% cơ hội làm mục tiêu Chạy trốn trong [DURATION]"
   - original: "[VALUE]% chance to agro monsters [VALUE2] meters away"
-    translation: "[VALUE]% cơ hội đẩy quái vật ra xa [VALUE2] mét"
+    translation: "[VALUE]% cơ hội thu hút quái vật cách [VALUE2] mét"
   - original: "[VALUE]% chance to agro monsters [VALUE2] meters away for [DURATION]"
-    translation: "[VALUE]% cơ hội đẩy quái vật ra xa [VALUE2] mét trong [DURATION]"
+    translation: "[VALUE]% cơ hội thu hút quái vật cách [VALUE2] mét trong [DURATION]"
   - original: "[VALUE]% chance to Block"
     translation: "[VALUE]% cơ hội Đỡ đòn"
   - original: "[VALUE]% chance to Block for [DURATION]"
     translation: "[VALUE]% cơ hội Đỡ đòn trong [DURATION]"
   - original: "[VALUE]% chance to break enemy shields"
-    translation: "[VALUE]% cơ hội phá vỡ lá chắn của mục tiêu."
+    translation: "[VALUE]% cơ hội phá vỡ khiên giáp đối thủ"
   - original: "[VALUE]% chance to Burn"
     translation: "[VALUE]% cơ hội Đốt cháy"
   - original: "[VALUE]% chance to Burn for [DURATION]"
@@ -1086,9 +1078,9 @@ Equipments Stats:
   - original: "[VALUE]% chance to cast [NAME]"
     translation: "[VALUE]% cơ hội thi triển [NAME]"
   - original: "[VALUE]% chance to cast [NAME] at target"
-    translation: "[VALUE]% thi triển [NAME] tại chỗ mục tiêu"
+    translation: "[VALUE]% cơ hội thi triển [NAME] tại mục tiêu"
   - original: "[VALUE]% chance to cast [NAME] at target for [DURATION]"
-    translation: "[VALUE]% thi triển [NAME] tại chỗ mục tiêu trong [DURATION]"
+    translation: "[VALUE]% cơ hội thi triển [NAME] tại mục tiêu trong [DURATION]"
   - original: "[VALUE]% chance to cast [NAME] for [DURATION]"
     translation: "[VALUE]% cơ hội thi triển [NAME] trong [DURATION]"
   - original: "[VALUE]% chance to cast [NAME] from target"
@@ -1104,9 +1096,9 @@ Equipments Stats:
   - original: "[VALUE]% chance to cast [NAME] on kill for [DURATION]"
     translation: "[VALUE]% cơ hội thi triển [NAME] khi giết trong [DURATION]"
   - original: "[VALUE]% chance to cast [NAME] on strike"
-    translation: "[VALUE]% cơ hội thi triển [NAME] trong đòn chí mạng"
+    translation: "[VALUE]% cơ hội thi triển [NAME] khi đánh"
   - original: "[VALUE]% chance to cast [NAME] on strike for [DURATION]"
-    translation: "[VALUE]% cơ hội thi triển [NAME] trong đòn chí mạng trong [DURATION]"
+    translation: "[VALUE]% cơ hội thi triển [NAME] khi đánh trong [DURATION]"
   - original: "[VALUE]% chance to cast [NAME] on target"
     translation: "[VALUE]% cơ hội thi triển [NAME] trên mục tiêu"
   - original: "[VALUE]% chance to cast [NAME] on target for [DURATION]"
@@ -1124,47 +1116,47 @@ Equipments Stats:
   - original: "[VALUE]% chance to disarm traps for [DURATION]."
     translation: "[VALUE]% cơ hội giải trừ bẫy trong [DURATION]."
   - original: "[VALUE]% chance to Freeze"
-    translation: "[VALUE]% cơ hội Đóng băng"
+    translation: "[VALUE]% cơ hội Nhiễm lạnh"
   - original: "[VALUE]% chance to Freeze for [DURATION]"
-    translation: "[VALUE]% cơ hội Đóng băng trong [DURATION]"
+    translation: "[VALUE]% cơ hội Nhiễm lạnh trong [DURATION]"
   - original: "[VALUE]% chance to immobilize Target"
     translation: "[VALUE]% cơ hội làm mục tiêu bất động"
   - original: "[VALUE]% chance to immobilize Target for [DURATION]"
     translation: "[VALUE]% cơ hội làm mục tiêu bất động trong [DURATION]"
   - original: "[VALUE]% chance to Poison"
-    translation: "[VALUE]% cơ hội Đầu độc"
+    translation: "[VALUE]% cơ hội Trúng độc"
   - original: "[VALUE]% chance to Poison for [DURATION]"
-    translation: "[VALUE]% cơ hội Đầu độc trong [DURATION]"
+    translation: "[VALUE]% cơ hội Trúng độc trong [DURATION]"
   - original: "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS"
-    translation: "[VALUE]% phản hồi công kích từ xa bằng [VALUE3AND4]% sát thương vũ khí"
+    translation: "[VALUE]% cơ hội phản lại đạn bằng [VALUE3AND4]% sát thương vũ khí trên giây (DPS)"
   - original: "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\\n     for [DURATION]"
-    translation: "[VALUE]% phản hồi công kích từ xa bằng [VALUE3AND4]% sát thương vũ khí\\n     trong [DURATION]"
+    translation: "[VALUE]% cơ hội phản lại đạn bằng [VALUE3AND4]% sát thương vũ khí trên giây (DPS)\\n     trong [DURATION]"
   - original: "[VALUE]% chance to reflect missiles at [VALUE3AND4]% weapon DPS\\n for [DURATION]"
     translation: ""
   - original: "[VALUE]% chance to Shock"
-    translation: "[VALUE]% cơ hội làm Choáng"
+    translation: "[VALUE]% cơ hội gây Sốc điện"
   - original: "[VALUE]% chance to Shock for [DURATION]"
-    translation: "[VALUE]% cơ hội làm Choáng trong [DURATION]"
+    translation: "[VALUE]% cơ hội gây Sốc điện trong [DURATION]"
   - original: "[VALUE]% Chance to Stop [NAME]"
     translation: "[VALUE]% cơ hội Chặn đứng [NAME]"
   - original: "[VALUE]% chance to Stun target"
-    translation: "[VALUE]% cơ hội Làm choáng mục tiêu"
+    translation: "[VALUE]% cơ hội làm Choáng mục tiêu"
   - original: "[VALUE]% chance to Stun target for [DURATION]"
-    translation: "[VALUE]% cơ hội Làm choáng mục tiêu trong [DURATION]"
+    translation: "[VALUE]% cơ hội làm Choáng mục tiêu trong [DURATION]"
   - original: "[VALUE]% Damage bonus when dual-wielding"
-    translation: "[VALUE]% sát thương thêm khi trang bị vũ khí 2 tay"
+    translation: Tăng [VALUE]% sát thương khi sử dụng vũ khí cùng loại
   - original: "[VALUE]% Damage penalty when dual-wielding"
-    translation: "[VALUE]% sát thương bị giảm khi trang bị vũ khí 2 tay"
+    translation: Giảm [VALUE]% sát thương khi sử dụng vũ khí cùng loại
   - original: "[VALUE]% Damage penalty when dual-wielding for [DURATION]"
-    translation: "[VALUE]% sát thương bị giảm khi trang bị vũ khí 2 tay trong [DURATION]"
+    translation: Giảm [VALUE]% sát thương khi sử dụng vũ khí cùng loại trong [DURATION]
   - original: "[VALUE]% Damage reflected back on attacker"
-    translation: "[VALUE]% phản sát thương kẻ công kích"
+    translation: Phản lại [VALUE]% sát thương của kẻ công kích
   - original: "[VALUE]% Damage reflected back on attacker for [DURATION]"
-    translation: "[VALUE]% phản sát thương kẻ công kích trong [DURATION]"
+    translation: Phản lại [VALUE]% sát thương của kẻ công kích trong [DURATION]
   - original: "[VALUE]% decrease in magic-finding Luck"
-    translation: Giảm [VALUE]% may mắn thu thập ma thuật
+    translation: Giảm [VALUE]% May mắn tìm kiếm ma pháp
   - original: "[VALUE]% decrease in magic-finding Luck for [DURATION]"
-    translation: Giảm [VALUE]% may mắn thu thập ma thuật trong [DURATION]
+    translation: Giảm [VALUE]% may mắn tìm kiếm ma pháp trong [DURATION]
   - original: "[VALUE]% decrease in the amount of experience gained"
     translation: Giảm [VALUE]% lượng kinh nghiệm nhận được
   - original: "[VALUE]% decrease in the amount of experience gained [DURATION]"
@@ -1178,45 +1170,45 @@ Equipments Stats:
   - original: "[VALUE]% decreased Fishing Luck for [DURATION]"
     translation: May mắn Câu cá giảm [VALUE]% trong [DURATION]
   - original: "[VALUE]% decreased pet town travel time"
-    translation: Giảm [VALUE]% thời gian thú cưng đi thị trấn
+    translation: Giảm [VALUE]% thời gian thú nuôi đi thị trấn
   - original: "[VALUE]% decreased pet town travel time for [DURATION]"
-    translation: Giảm [VALUE]% thời gian thú cưng đi thị trấn trong [DURATION]
+    translation: Giảm [VALUE]% thời gian thú nuôi đi thị trấn trong [DURATION]
   - original: "[VALUE]% faster movement speed"
-    translation: Tăng tốc độ di chuyển [VALUE]%
+    translation: Tăng [VALUE]% tốc độ di chuyển
   - original: "[VALUE]% faster movement speed for [DURATION]"
-    translation: Tăng tốc độ di chuyển [VALUE]% trong [DURATION]
+    translation: Tăng [VALUE]% tốc độ di chuyển trong [DURATION]
   - original: "[VALUE]% Health recovery"
-    translation: "[VALUE]% hồi phục Máu"
+    translation: Hồi phục [VALUE]% Sinh lực
   - original: "[VALUE]% Health recovery over [DURATION]"
-    translation: "[VALUE]% hồi phục Máu trong [DURATION]"
+    translation: Hồi phục [VALUE]% Sinh lực trong [DURATION]
   - original: "[VALUE]% Health stolen"
-    translation: "[VALUE]% hút máu"
+    translation: "[VALUE]% hút Sinh lực"
   - original: "[VALUE]% Health stolen for [DURATION]"
-    translation: "[VALUE]% hút máu trong [DURATION]"
+    translation: "[VALUE]% hút Sinh lực trong [DURATION]"
   - original: "[VALUE]% Health stolen to master"
-    translation: "[VALUE]% trộm máu cho chủ nhân"
+    translation: Hút [VALUE]% Sinh lực cho chủ nhân
   - original: "[VALUE]% Health stolen to master for [DURATION]"
-    translation: "[VALUE]% trộm máu cho chủ nhân trong [DURATION]"
+    translation: Hút [VALUE]% Sinh lực cho chủ nhân trong [DURATION]
   - original: "[VALUE]% Immobilization Resistance"
     translation: "[VALUE]% kháng Định thân"
   - original: "[VALUE]% Immobilization Resistance for [DURATION]"
     translation: "[VALUE]% kháng Định thân trong [DURATION]"
   - original: "[VALUE]% improvement in vendor prices"
-    translation: Tăng [VALUE]% giá bán cho cửa hàng
+    translation: Cải thiện [VALUE]% giá cả
   - original: "[VALUE]% improvement in vendor prices for [DURATION]"
-    translation: Tăng [VALUE]% giá bán cho cửa hàng trong [DURATION]
+    translation: Cải thiện [VALUE]% giá cả trong [DURATION]
   - original: "[VALUE]% increase in Fumble Chance"
-    translation: Tăng [VALUE]% tỉ lệ đánh sượt qua
+    translation: Tăng [VALUE]% cơ hội Đánh sượt qua
   - original: "[VALUE]% increase in Fumble Chance for [DURATION]"
-    translation: Tăng [VALUE]% tỉ lệ đánh sượt qua trong [DURATION]
+    translation: Tăng [VALUE]% cơ hội Đánh sượt qua trong [DURATION]
   - original: "[VALUE]% increase in Fumble Damage Penalty"
-    translation: Tăng [VALUE]% tỉ lệ gây ra Sát thương hao tổn
+    translation: Tăng [VALUE]% lượng Sát thương hao tổn khi đánh sượt qua
   - original: "[VALUE]% increase in Fumble Damage Penalty for [DURATION]"
-    translation: Tăng [VALUE]% tỉ lệ gây ra Sát thương hao tổn trong [DURATION]
+    translation: Tăng [VALUE]% lượng Sát thương hao tổn khi đánh sượt qua trong [DURATION]
   - original: "[VALUE]% increase in magic-finding Luck"
-    translation: Tăng [VALUE]% may mắn tìm kiếm phép thuật
+    translation: Tăng [VALUE]% may mắn tìm kiếm ma pháp
   - original: "[VALUE]% increase in magic-finding Luck for [DURATION]"
-    translation: Tăng [VALUE]% may mắn tìm kiếm phép thuật trong [DURATION]
+    translation: Tăng [VALUE]% may mắn tìm kiếm ma pháp trong [DURATION]
   - original: "[VALUE]% increase in the amount of experience gained"
     translation: Tăng [VALUE]% lượng kinh nghiệm nhận được
   - original: "[VALUE]% increase in the amount of experience gained for [DURATION]"
@@ -1226,51 +1218,51 @@ Equipments Stats:
   - original: "[VALUE]% increase in the amount of fame gained for [DURATION]"
     translation: Tăng [VALUE]% lượng Danh vọng nhận được trong [DURATION]
   - original: "[VALUE]% increase in the amount of gold found"
-    translation: Tăng lượng vàng tìm thấy thêm [VALUE]%
+    translation: Tăng [VALUE]% lượng vàng tìm thấy
   - original: "[VALUE]% increase in the amount of gold found for [DURATION]"
-    translation: Tăng lượng vàng tìm thấy thêm [VALUE]% trong [DURATION]
+    translation: Tăng [VALUE]% lượng vàng tìm thấy trong [DURATION]
   - original: "[VALUE]% Increased Chance to Miss"
     translation: Tăng [VALUE]% tỉ lệ Trượt
   - original: "[VALUE]% Increased Chance to Miss for [DURATION]"
     translation: Tăng [VALUE]% tỉ lệ Trượt trong [DURATION]
   - original: "[VALUE]% increased Fishing Luck"
-    translation: May mắn Câu cá tăng [VALUE]%
+    translation: Tăng [VALUE]% May mắn câu cá
   - original: "[VALUE]% increased Fishing Luck for [DURATION]"
-    translation: May mắn Câu cá tăng [VALUE]% trong [DURATION]
+    translation: Tăng [VALUE]% May mắn câu cá trong [DURATION]
   - original: "[VALUE]% increased level requirements"
-    translation: Tăng [VALUE]% yêu cầu cấp độ trang bị
+    translation: Tăng [VALUE]% yêu cầu cấp độ
   - original: "[VALUE]% increased level requirements for [DURATION]"
-    translation: Tăng [VALUE]% yêu cầu cấp độ trang bị trong [DURATION]
+    translation: Tăng [VALUE]% yêu cầu cấp độ trong [DURATION]
   - original: "[VALUE]% increased pet town travel time"
-    translation: Tăng [VALUE]% thời gian thú cưng đi thị trấn
+    translation: Tăng [VALUE]% thời gian thú nuôi về thị trấn
   - original: "[VALUE]% increased pet town travel time for [DURATION]"
-    translation: Tăng [VALUE]% thời gian thú cưng đi thị trấn trong [DURATION]
+    translation: Tăng [VALUE]% thời gian thú nuôi về thị trấn trong [DURATION]
   - original: "[VALUE]% Interrupt chance"
-    translation: "[VALUE]% Cơ hội làm Gián đoạn"
+    translation: "[VALUE]% cơ hội Gián đoạn"
   - original: "[VALUE]% Knock Back Resistance"
     translation: "[VALUE]% kháng Đẩy lùi"
   - original: "[VALUE]% Knock Back Resistance for [DURATION]"
     translation: "[VALUE]% kháng Đẩy lùi trong [DURATION]"
   - original: "[VALUE]% Mana stolen"
-    translation: "[VALUE]% trộm Năng lượng"
+    translation: "[VALUE]% hút Năng lượng"
   - original: "[VALUE]% Mana stolen for [DURATION]"
-    translation: "[VALUE]% trộm Năng lượng trong [DURATION]"
+    translation: "[VALUE]% hút Năng lượng trong [DURATION]"
   - original: "[VALUE]% penalty to Critical Damage"
-    translation: Giảm [VALUE]% Sát thương Chí mạng
+    translation: Giảm [VALUE]% sát thương Chí mạng
   - original: "[VALUE]% penalty to Critical Damage for [DURATION]"
-    translation: Giảm [VALUE]% Sát thương Chí mạng trong [DURATION]
+    translation: Giảm [VALUE]% sát thương Chí mạng trong [DURATION]
   - original: "[VALUE]% reduced item level requirements"
-    translation: Giảm [VALUE]% yêu cầu cấp độ trang bị
+    translation: Giảm [VALUE]% yêu cầu cấp độ vật phẩm
   - original: "[VALUE]% reduced item level requirements for [DURATION]"
-    translation: Giảm [VALUE]% yêu cầu cấp độ trang bị trong [DURATION]
+    translation: Giảm [VALUE]% yêu cầu cấp độ vật phẩm trong [DURATION]
   - original: "[VALUE]% reduction in Fumble Chance"
-    translation: Giảm [VALUE]% tỉ lệ đánh sượt qua
+    translation: Giảm [VALUE]% tỉ lệ Đánh sượt qua
   - original: "[VALUE]% reduction in Fumble Chance for [DURATION]"
-    translation: Giảm [VALUE]% tỉ lệ đánh sượt qua trong [DURATION]
+    translation: Giảm [VALUE]% tỉ lệ Đánh sượt qua trong [DURATION]
   - original: "[VALUE]% reduction in Fumble Damage Penalty"
-    translation: Giảm [VALUE]% tỉ lệ gây ra Sát thương hao tổn
+    translation: Giảm [VALUE]% lượng Sát thương hao tổn khi đánh sượt qua
   - original: "[VALUE]% reduction in Fumble Damage Penalty for [DURATION]"
-    translation: Giảm [VALUE]% tỉ lệ gây ra Sát thương hao tổn trong [DURATION]
+    translation: Giảm [VALUE]% lượng Sát thương hao tổn khi đánh sượt qua trong [DURATION]
   - original: "[VALUE]% resistance to Blindness"
     translation: "[VALUE]% kháng Mù lòa"
   - original: "[VALUE]% resistance to Blindness for [DURATION]"
@@ -1278,7 +1270,7 @@ Equipments Stats:
   - original: "[VALUE]% Resistance to Charm"
     translation: "[VALUE]% kháng Mê hoặc"
   - original: "[VALUE]% Resistance to Flee"
-    translation: "[VALUE]% kháng Bỏ chạy"
+    translation: "[VALUE]% kháng Chạy trốn"
   - original: "[VALUE]% Resistance to Silence"
     translation: "[VALUE]% kháng Câm lặng"
   - original: "[VALUE]% resistance to Teleportation"
@@ -1286,13 +1278,13 @@ Equipments Stats:
   - original: "[VALUE]% resistance to Teleportation for [DURATION]"
     translation: "[VALUE]% kháng Dịch chuyển trong [DURATION]"
   - original: "[VALUE]% Sight Bonus"
-    translation: "[VALUE]% tầm nhìn xa"
+    translation: "[VALUE]% Tầm nhìn"
   - original: "[VALUE]% Sight Bonus for [DURATION]"
-    translation: "[VALUE]% tầm nhìn xa trong [DURATION]"
+    translation: "[VALUE]% Tầm nhìn trong [DURATION]"
   - original: "[VALUE]% sight range reduction"
-    translation: Giảm [VALUE]% tầm nhìn xa
+    translation: Giảm [VALUE]% Tầm nhìn
   - original: "[VALUE]% Sight Reduction for [DURATION]"
-    translation: Giảm [VALUE]% tầm nhìn xa trong [DURATION]
+    translation: Giảm [VALUE]% Tầm nhìn trong [DURATION]
   - original: "[VALUE]% Slow Resistance"
     translation: "[VALUE]% kháng làm Chậm"
   - original: "[VALUE]% Slow Resistance for [DURATION]"
@@ -1302,35 +1294,35 @@ Equipments Stats:
   - original: "[VALUE]% Stun Resistance for [DURATION]"
     translation: "[VALUE]% kháng làm Choáng trong [DURATION]"
   - original: "[VALUE]% View Angle Bonus"
-    translation: Tăng [VALUE]% góc nhìn
+    translation: "[VALUE]% Góc nhìn"
   - original: "[VALUE]% View Angle Bonus for [DURATION]"
-    translation: Tăng [VALUE]% góc nhìn trong [DURATION]
+    translation: "[VALUE]% Góc nhìn trong [DURATION]"
   - original: "[VALUE]% View Angle Reduction"
-    translation: Giảm [VALUE]% góc nhìn
+    translation: Giảm [VALUE]% Góc nhìn
   - original: "[VALUE]% View Angle Reduction for [DURATION]"
-    translation: Giảm [VALUE]% góc nhìn trong [DURATION]
+    translation: Giảm [VALUE]% Góc nhìn trong [DURATION]
   - original: "[VALUE1ASDURATION] summon duration"
-    translation: Thời gian triệu hồi [VALUE1ASDURATION]
+    translation: "[VALUE1ASDURATION] thời gian triệu hồi"
   - original: "[VALUE3]% chance of [VALUE]% Blindness"
-    translation: "[VALUE3]% cơ hội làm Mù lòa với tỉ lệ [VALUE]%"
+    translation: "[VALUE3]% cơ hội làm Mù lòa [VALUE]%"
   - original: "[VALUE3]% chance of [VALUE]% Blindness for [DURATION]"
-    translation: "[VALUE3]% cơ hội làm Mù lòa với tỉ lệ [VALUE]% trong [DURATION]"
+    translation: "[VALUE3]% cơ hội làm Mù lòa [VALUE]% trong [DURATION]"
   - original: "[VALUE3]% chance to spawn [VALUE1] units"
-    translation: "[VALUE3]% triệu tập [VALUE1] đơn vị"
+    translation: "[VALUE3]% cơ hội triệu tập [VALUE1] đơn vị"
   - original: "[VALUE3]% chance to spawn [VALUE1] units on death"
-    translation: "[VALUE3]% triệu tập [VALUE1] đơn vị khi chết"
+    translation: "[VALUE3]% cơ hội triệu tập [VALUE1] đơn vị khi chết"
   - original: "[VALUE3]% chance to spawn [VALUE1] units on death over [DURATION]"
     translation: "[VALUE3]% cơ hội triệu tập [VALUE1] đơn vị khi chết trong [DURATION]"
   - original: "[VALUE3]% chance to spawn [VALUE1] units over [DURATION]"
-    translation: "[VALUE3]% triệu tập [VALUE1] đơn vị trong [DURATION]"
+    translation: "[VALUE3]% cơ hội triệu tập [VALUE1] đơn vị trong [DURATION]"
   - original: "[VALUE5]% chance to inflict [VALUE_OT] [DMGTYPE] Damage over [DURATION]"
     translation: "[VALUE5]% cơ hội gây ra [VALUE_OT] sát thương [DMGTYPE] trong [DURATION]"
   - original: +[VALUE] [DMGTYPE] Damage
     translation: +[VALUE] sát thương [DMGTYPE]
   - original: +[VALUE] Armor
-    translation: +[VALUE] giáp
+    translation: +[VALUE] Giáp
   - original: +[VALUE] Armor for [DURATION]
-    translation: +[VALUE] giáp trong [DURATION]
+    translation: +[VALUE] Giáp trong [DURATION]
   - original: +[VALUE] Bonus Magic Defense
     translation: +[VALUE] kháng phép
   - original: +[VALUE] Bonus Magic Defense for [DURATION]
@@ -1338,9 +1330,9 @@ Equipments Stats:
   - original: +[VALUE] Damage to secondary targets for [DURATION]
     translation: +[VALUE] Sát thương cho mục tiêu kế tiếp trong [DURATION]
   - original: +[VALUE] Dexterity Attribute bonus
-    translation: +[VALUE] điểm Chính xác
+    translation: +[VALUE] chỉ số Nhanh nhẹn
   - original: +[VALUE] Dexterity Attribute bonus for [DURATION]
-    translation: +[VALUE] điểm Chính xác trong [DURATION]
+    translation: +[VALUE] chỉ số Nhanh nhẹn trong [DURATION]
   - original: +[VALUE] Electric Armor
     translation: +[VALUE] Lôi giáp
   - original: +[VALUE] Electric Armor for [DURATION]
@@ -1350,27 +1342,27 @@ Equipments Stats:
   - original: +[VALUE] Fire Armor for [DURATION]
     translation: +[VALUE] Hỏa giáp trong [DURATION]
   - original: +[VALUE] Focus Attribute bonus
-    translation: +[VALUE] điểm Trí tuệ
+    translation: +[VALUE] Trí lực
   - original: +[VALUE] Focus Attribute bonus for [DURATION]
-    translation: +[VALUE] điểm Trí tuệ trong [DURATION]
+    translation: +[VALUE] Trí lực trong [DURATION]
   - original: +[VALUE] Health
     translation: +[VALUE] Sinh lực
   - original: +[VALUE] Health for [DURATION]
     translation: +[VALUE] Sinh lực trong [DURATION]
   - original: +[VALUE] Health/sec for every monster within [VALUE4] meters
-    translation: +[VALUE] sinh lực/giây cho mỗi quái vật trong vòng [VALUE4] mét
+    translation: +[VALUE] Sinh lực/giây cho mỗi quái vật trong vòng [VALUE4] mét
   - original: +[VALUE] Ice Armor
     translation: +[VALUE] Băng giáp
   - original: +[VALUE] Ice Armor for [DURATION]
     translation: +[VALUE] Băng giáp trong [DURATION]
   - original: +[VALUE] increased Gold Drop
-    translation: +[VALUE] vàng rơi ra
+    translation: +[VALUE] lượng vàng rơi
   - original: +[VALUE] increased Gold Drop for [DURATION]
-    translation: +[VALUE] vàng rơi ra trong [DURATION]
+    translation: +[VALUE] lượng vàng rơi trong [DURATION]
   - original: +[VALUE] Jauntiness
     translation: +[VALUE]% Hoạt bát
   - original: +[VALUE] Knockback
-    translation: +[VALUE] Đẩy lui
+    translation: Tăng [VALUE] Đẩy lùi
   - original: +[VALUE] Mana
     translation: +[VALUE] Năng lượng
   - original: +[VALUE] Mana for [DURATION]
@@ -1386,41 +1378,41 @@ Equipments Stats:
   - original: +[VALUE] Poison Armor for [DURATION]
     translation: +[VALUE] Độc giáp trong [DURATION]
   - original: +[VALUE] Pull
-    translation: +[VALUE] Đẩy
+    translation: +[VALUE] Kéo
   - original: +[VALUE] ranged equipment requirements for [DURATION]
-    translation: +[VALUE] sát thương vũ khí tầm xa trong [DURATION]
+    translation: +[VALUE] yêu cầu trang bị tầm xa trong [DURATION]
   - original: +[VALUE] ranged weapon damage bonus
     translation: +[VALUE] sát thương vũ khí tầm xa
   - original: +[VALUE] rank to [NAME] skill
-    translation: +[VALUE] cấp cho kỹ năng [NAME]
+    translation: +[VALUE] bậc cho kỹ năng [NAME]
   - original: +[VALUE] Resistance to Logic
-    translation: +[VALUE] kháng Lý luận
+    translation: +[VALUE] kháng Vật lý
   - original: +[VALUE] seconds of Burn/Shock/Freeze/Poison
-    translation: +[VALUE] giây Cháy/Choáng/Đóng băng/Nhiễm độc
+    translation: +[VALUE] giây cho Đốt cháy/Sốc điện/Nhiễm lạnh/Trúng độc
   - original: +[VALUE] seconds of Burn/Shock/Freeze/Poison for [DURATION]
-    translation: +[VALUE] giây Cháy/Choáng/Đóng băng/Nhiễm độc trong [DURATION]
+    translation: +[VALUE] giây cho Đốt cháy/Sốc điện/Nhiễm lạnh/Trúng độc trong [DURATION]
   - original: +[VALUE] seconds to Burn Duration
     translation: +[VALUE] giây thời gian Đốt cháy
   - original: +[VALUE] seconds to Burn Duration for [DURATION]
     translation: +[VALUE] giây thời gian Đốt cháy trong [DURATION]
   - original: +[VALUE] seconds to Freeze duration
-    translation: +[VALUE] giây thời gian Đóng băng
+    translation: +[VALUE] giây thời gian Nhiễm lạnh
   - original: +[VALUE] seconds to Freeze duration for [DURATION]
-    translation: +[VALUE] giây thời gian Đóng băng trong [DURATION]
+    translation: +[VALUE] giây thời gian Nhiễm lạnh trong [DURATION]
   - original: +[VALUE] seconds to Poison duration
-    translation: +[VALUE] giây thời gian nhiễm Độc
+    translation: +[VALUE] giây thời gian Trúng độc
   - original: +[VALUE] seconds to Poison duration for [DURATION]
-    translation: +[VALUE] giây thời gian nhiễm Độc trong [DURATION]
+    translation: +[VALUE] giây thời gian Trúng độc trong [DURATION]
   - original: +[VALUE] seconds to Shock duration
-    translation: +[VALUE] giây thời gian Choáng váng
+    translation: +[VALUE] giây thời gian Sốc điện
   - original: +[VALUE] seconds to Shock duration for [DURATION]
-    translation: +[VALUE] giây thời gian Choáng váng trong [DURATION]
+    translation: +[VALUE] giây thời gian Sốc điện trong [DURATION]
   - original: +[VALUE] Sight Bonus
-    translation: +[VALUE] tầm nhìn xa
+    translation: +[VALUE] Tầm nhìn
   - original: +[VALUE] Strength Attribute bonus
-    translation: +[VALUE] điểm Sức mạnh
+    translation: +[VALUE] chỉ số Sức mạnh
   - original: +[VALUE] Strength Attribute bonus for [DURATION]
-    translation: +[VALUE] điểm Sức mạnh trong [DURATION]
+    translation: +[VALUE] chỉ số Sức mạnh trong [DURATION]
   - original: +[VALUE] to [DMGTYPE] Armor
     translation: +[VALUE] giáp [DMGTYPE]
   - original: +[VALUE] to [DMGTYPE] Armor for [DURATION]
@@ -1430,15 +1422,13 @@ Equipments Stats:
   - original: +[VALUE] to All Armor for [DURATION]
     translation: +[VALUE] Giáp các loại trong [DURATION]
   - original: +[VALUE] to all item character stat requirements
-    translation: +[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị
-  - original: +[VALUE] to all item character stat requirements [DURATION]
-    translation: +[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị trong [DURATION]
+    translation: +[VALUE] yêu cầu chỉ số của tất cả vật phẩm
   - original: +[VALUE] to all item character stat requirements for [DURATION]
-    translation: +[VALUE] cho tất cả chỉ số tiềm năng yêu cầu của trang bị trong [DURATION]
+    translation: Tăng [VALUE] yêu cầu chỉ số của tất cả vật phẩm trong [DURATION]
   - original: +[VALUE] to Armor equipment requirements
-    translation: +[VALUE] cho yêu cầu giáp của trang bị
+    translation: +[VALUE] yêu cầu chỉ số của trang bị Giáp
   - original: +[VALUE] to Armor equipment requirements for [DURATION]
-    translation: +[VALUE] cho yêu cầu giáp của trang bị trong [DURATION]
+    translation: +[VALUE] yêu cầu chỉ số của trang bị Giáp trong [DURATION]
   - original: +[VALUE] to Attack Spell levels
     translation: +[VALUE] cấp độ Phép Công kích
   - original: +[VALUE] to Attack Spell levels for [DURATION]
@@ -1452,75 +1442,75 @@ Equipments Stats:
   - original: +[VALUE] to Defense Spell levels for [DURATION]
     translation: +[VALUE] cấp độ Phép Phòng thủ trong [DURATION]
   - original: +[VALUE] to mage equipment requirements
-    translation: +[VALUE] cho yêu cầu trang bị pháp thuật
+    translation: +[VALUE] yêu cầu trang bị pháp thuật
   - original: +[VALUE] to mage equipment requirements for [DURATION]
-    translation: +[VALUE] cho yêu cầu trang bị pháp thuật trong [DURATION]
+    translation: +[VALUE] yêu cầu trang bị pháp thuật trong [DURATION]
   - original: +[VALUE] to martial equipment requirements
-    translation: +[VALUE] cho yêu cầu trang bị chiến đấu
+    translation: +[VALUE] yêu cầu trang bị chiến đấu
   - original: +[VALUE] to martial equipment requirements for [DURATION]
-    translation: +[VALUE] cho yêu cầu trang bị chiến đấu trong [DURATION]
+    translation: +[VALUE] yêu cầu trang bị chiến đấu trong [DURATION]
   - original: +[VALUE] to ranged equipment requirements
     translation: +[VALUE] yêu cầu trang bị tầm xa
   - original: +[VALUE] to ranged equipment requirements for [DURATION]
     translation: +[VALUE] yêu cầu trang bị tầm xa trong [DURATION]
   - original: +[VALUE] to Spell learning requirements
-    translation: +[VALUE] yêu cầu học Pháp thuật
+    translation: +[VALUE] yêu cầu học Phép thuật
   - original: +[VALUE] to Spell learning requirements for [DURATION]
-    translation: +[VALUE] yêu cầu học Pháp thuật trong [DURATION]
+    translation: +[VALUE] yêu cầu học Phép thuật trong [DURATION]
   - original: +[VALUE] View Angle Bonus
-    translation: +[VALUE] góc nhìn
+    translation: +[VALUE] Góc nhìn
   - original: +[VALUE] Vitality Attribute bonus
-    translation: +[VALUE] điểm Thể lực
+    translation: +[VALUE] chỉ số Thể lực
   - original: +[VALUE] Vitality Attribute bonus for [DURATION]
-    translation: +[VALUE] điểm Thể lực trong [DURATION]
+    translation: +[VALUE] chỉ số Thể lực trong [DURATION]
   - original: +[VALUE]% [DMGTYPE] Damage for each monster within [VALUE3]m
-    translation: +[VALUE]% sát thương [DMGTYPE] cho mỗi quái vật trong phạm vi [VALUE3] mét
+    translation: +[VALUE]% sát thương [DMGTYPE] cho mỗi quái vật trong phạm vi [VALUE3]m
   - original: +[VALUE]% [DMGTYPE] Damage Taken for each monster within [VALUE3]m
-    translation: +[VALUE]% sát thương [DMGTYPE] của quái vật trong bán kính [VALUE3] mét
+    translation: +[VALUE]% sát thương [DMGTYPE] nhận phải cho mỗi quái vật trong phạm vi [VALUE3]m
   - original: +[VALUE]% |c00ff9933Charge|u lost per second due to decay
-    translation: +[VALUE]% |c00ff9933Nộ khí|u mất/giây do phân rã
+    translation: +[VALUE]% |c00ff9933Nộ khí|u mất đi mỗi giây khi phân rã
   - original: +[VALUE]% |c00ff9933Charge|u lost per second due to decay during the next [DURATION]
-    translation: +[VALUE]% |c00ff9933Nộ khí|u mất/giây do phân rã trong [DURATION] tiếp theo
+    translation: +[VALUE]% |c00ff9933Nộ khí|u mất đi mỗi giây khi phân rã trong vòng [DURATION]
   - original: +[VALUE]% Attack Speed
-    translation: +[VALUE]% Tốc độ đánh
+    translation: +[VALUE]% Tốc độ tấn công
   - original: +[VALUE]% Attack Speed for [DURATION]
-    translation: +[VALUE]% Tốc độ đánh trong [DURATION]
+    translation: +[VALUE]% Tốc độ tấn công trong [DURATION]
   - original: +[VALUE]% Cast Speed
     translation: +[VALUE]% Tốc độ Thi triển
   - original: +[VALUE]% Cast Speed for [DURATION]
     translation: +[VALUE]% Tốc độ Thi triển trong [DURATION]
   - original: +[VALUE]% chance to Block
-    translation: +[VALUE]% tỉ lệ đỡ đòn
+    translation: +[VALUE]% cơ hội Đỡ đòn
   - original: +[VALUE]% chance to Block for [DURATION]
-    translation: +[VALUE]% tỉ lệ đỡ đòn trong [DURATION]
+    translation: +[VALUE]% cơ hội Đỡ đòn trong [DURATION]
   - original: +[VALUE]% chance to Execute
-    translation: +[VALUE]% tỉ lệ Thực thi
+    translation: +[VALUE]% cơ hội Hành hình
   - original: +[VALUE]% Critical Hit Chance
-    translation: +[VALUE]% Tỉ lệ Chí mạng
+    translation: +[VALUE]% cơ hội Đòn Chí mạng
   - original: +[VALUE]% Critical Hit Chance for [DURATION]
-    translation: +[VALUE]% Tỉ lệ Chí mạng trong [DURATION]
+    translation: +[VALUE]% cơ hội Đòn Chí mạng trong [DURATION]
   - original: +[VALUE]% Damage to secondary targets
-    translation: +[VALUE]% Sát thương cho mục tiêu kế tiếp
+    translation: +[VALUE]% sát thương cho mục tiêu kế tiếp
   - original: +[VALUE]% Dexterity bonus
-    translation: +[VALUE]% Chính xác
+    translation: +[VALUE]% Nhanh nhẹn
   - original: +[VALUE]% Dexterity bonus for [DURATION]
-    translation: +[VALUE]% Chính xác trong [DURATION]
+    translation: +[VALUE]% Nhanh nhẹn trong [DURATION]
   - original: +[VALUE]% Dodge chance
     translation: +[VALUE]% cơ hội Né tránh
   - original: +[VALUE]% Dodge chance for [DURATION]
     translation: +[VALUE]% cơ hội Né tránh trong [DURATION]
   - original: +[VALUE]% Focus bonus
-    translation: +[VALUE]% trí tuệ
+    translation: +[VALUE]% Trí lực
   - original: +[VALUE]% Focus bonus for [DURATION]
-    translation: +[VALUE]% trí tuệ trong [DURATION]
+    translation: +[VALUE]% Trí lực trong [DURATION]
   - original: +[VALUE]% Health
-    translation: +[VALUE]% máu
+    translation: +[VALUE]% Sinh lực
   - original: +[VALUE]% Health for [DURATION]
-    translation: +[VALUE]% máu trong [DURATION]
+    translation: +[VALUE]% Sinh lực trong [DURATION]
   - original: +[VALUE]% Interrupt chance
-    translation: +[VALUE]% cơ hội làm gián đoạn
+    translation: +[VALUE]% cơ hội Gián đoạn
   - original: +[VALUE]% Interrupt chance for [DURATION]
-    translation: +[VALUE]% cơ hội làm gián đoạn trong [DURATION]
+    translation: +[VALUE]% cơ hội Gián đoạn trong [DURATION]
   - original: +[VALUE]% Interrupt Resistance
     translation: +[VALUE]% kháng Gián đoạn
   - original: +[VALUE]% Mana
@@ -1536,25 +1526,25 @@ Equipments Stats:
   - original: +[VALUE]% Melee Weapon Damage for [DURATION]
     translation: +[VALUE]% sát thương vũ khí cận chiến trong [DURATION]
   - original: +[VALUE]% pet and minion Armor
-    translation: +[VALUE]% giáp thú cưng và thú triệu hồi
+    translation: +[VALUE]% giáp của thú nuôi và quái thú
   - original: +[VALUE]% pet and minion Armor for [DURATION]
-    translation: +[VALUE]% giáp thú cưng và thú triệu hồi trong [DURATION]
+    translation: +[VALUE]% giáp của thú nuôi và quái thú trong [DURATION]
   - original: +[VALUE]% pet and minion Damage
-    translation: +[VALUE]% sát thương thú cưng và thú triệu hồi
+    translation: +[VALUE]% sát thương thú nuôi và quái triệu hồi
   - original: +[VALUE]% pet and minion Damage for [DURATION]
-    translation: +[VALUE]% sát thương thú cưng và thú triệu hồi trong [DURATION]
+    translation: +[VALUE]% sát thương thú nuôi và quái triệu hồi trong [DURATION]
   - original: +[VALUE]% pet and minion Health
-    translation: +[VALUE]% máu thú cưng và thú triệu hồi
+    translation: +[VALUE]% Sinh lực của thú nuôi và quái thú
   - original: +[VALUE]% pet and minion Health for [DURATION]
-    translation: +[VALUE]% máu thú cưng và thú triệu hồi trong [DURATION]
+    translation: +[VALUE]% Sinh lực của thú nuôi và quái thú trong [DURATION]
   - original: +[VALUE]% pet and minion Speed
-    translation: +[VALUE]% tốc độ thú cưng và thú triệu hồi
+    translation: +[VALUE]% tốc độ thú nuôi và quái thú
   - original: +[VALUE]% pet and minion Speed for [DURATION]
-    translation: +[VALUE]% tốc độ thú cưng và thú triệu hồi trong [DURATION]
+    translation: +[VALUE]% tốc độ thú nuôi và quái thú trong [DURATION]
   - original: +[VALUE]% Potion effectiveness
-    translation: +[VALUE]% hiệu quả của thuốc
+    translation: +[VALUE]% Dược hiệu
   - original: +[VALUE]% Potion effectiveness for [DURATION]
-    translation: +[VALUE]% hiệu quả của thuốc trong [DURATION]
+    translation: +[VALUE]% Dược hiệu trong [DURATION]
   - original: +[VALUE]% Ranged Weapon Damage
     translation: +[VALUE]% sát thương vũ khí tầm xa
   - original: +[VALUE]% Ranged Weapon Damage bonus
@@ -1568,45 +1558,45 @@ Equipments Stats:
   - original: +[VALUE]% Strength bonus for [DURATION]
     translation: +[VALUE]% Sức mạnh trong [DURATION]
   - original: +[VALUE]% to [DMGTYPE] Armor
-    translation: +[VALUE]% [DMGTYPE] giáp
+    translation: +[VALUE]% giáp [DMGTYPE]
   - original: +[VALUE]% to [DMGTYPE] Armor for [DURATION]
-    translation: +[VALUE]% [DMGTYPE] giáp trong [DURATION]
+    translation: +[VALUE]% giáp [DMGTYPE] trong [DURATION]
   - original: +[VALUE]% to [DMGTYPE] Damage
     translation: +[VALUE]% sát thương [DMGTYPE]
   - original: +[VALUE]% to [DMGTYPE] Damage for [DURATION]
     translation: +[VALUE]% sát thương [DMGTYPE] trong [DURATION]
   - original: +[VALUE]% to skill mana cost
-    translation: +[VALUE]% Năng lượng kỹ năng tiêu hao
+    translation: +[VALUE]% Năng lượng kỹ năng tiêu tốn
   - original: +[VALUE]% to skill mana cost for [DURATION]
-    translation: +[VALUE]% Năng lượng kỹ năng tiêu hao trong [DURATION]
+    translation: +[VALUE]% Năng lượng kỹ năng tiêu tốn trong [DURATION]
   - original: +[VALUE]% Vitality bonus
     translation: +[VALUE]% Thể lực
   - original: +[VALUE]% Vitality bonus for [DURATION]
     translation: +[VALUE]% Thể lực trong [DURATION]
   - original: +[VALUE]% Wand and Staff Damage bonus
-    translation: +[VALUE]% sát thương thêm của Trượng và Gậy phép
+    translation: +[VALUE]% sát thương Trượng và Gậy phép
   - original: +[VALUE]% Wand and Staff Damage for [DURATION]
-    translation: +[VALUE]% sát thương của Trượng và Gậy phép trong [DURATION]
+    translation: +[VALUE]% sát thương Trượng và Gậy phép [DURATION]
   - original: +[VALUE]m to Bow, Crossbow, Pistol and Wand range
-    translation: +[VALUE] mét phạm vi của Cung, Nỏ, Súng lục và Gậy phép
+    translation: +[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép
   - original: +[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]
-    translation: +[VALUE] mét phạm vi của Cung, Nỏ, Súng lục và Gậy phép trong [DURATION]
+    translation: +[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép trong [DURATION]
   - original: "|cffff0000[VALUE] Health loss over [DURATION]|u"
-    translation: Mất |cffff0000[VALUE] máu trong [DURATION]|u
+    translation: "|cffff0000Mất đi [VALUE] Sinh lực trong [DURATION]|u"
   - original: "|cffff0000[VALUE] Health loss per second!|u"
-    translation: Mất |cffff0000[VALUE] máu mỗi giây!|u
+    translation: "|cffff0000Mất đi [VALUE] Sinh lực mỗi giây!|u"
   - original: "|cffff0000[VALUE] Mana loss over [DURATION]|u"
-    translation: Mất |cffff0000[VALUE] Năng lượng trong [DURATION]|u
+    translation: "|cffff0000Mất đi [VALUE] Năng lượng trong [DURATION]|u"
   - original: "|cffff0000[VALUE] Mana loss per second!|u"
-    translation: Mất |cffff0000[VALUE] Năng lượng mỗi giây!|u
+    translation: "|cffff0000Mất đi [VALUE] Năng lượng mỗi giây!|u"
 
 Inventory:
   - original: Consumables Inventory
-    translation: Ngăn Vật tư
+    translation: Túi đồ tiêu dùng
   - original: Electric Armor
     translation: Lôi Giáp
   - original: Equipment Inventory
-    translation: Ngăn Trang bị
+    translation: Túi trang bị
   - original: equipped
     translation: đã trang bị
   - original: Equipped
@@ -1614,23 +1604,23 @@ Inventory:
   - original: Fire Armor
     translation: Hỏa Giáp
   - original: Forest Armor
-    translation: Mộc Giáp
+    translation: Giáp dây rừng
   - original: Ice Armor
     translation: Băng Giáp
   - original: Identify Item
-    translation: Vật phẩm giám định
+    translation: Giám định vật phẩm
   - original: Identify Scroll
     translation: Giám định Phù
   - original: Identify Spell
     translation: Phép Giám định
   - original: IDENTIFY?
-    translation: GIÁM ĐỊNH
+    translation: GIÁM ĐỊNH?
   - original: Organize Inventory
     translation: Sắp xếp lại
   - original: Pet Consumables
-    translation: Thú cưng - Vật tư
+    translation: Thú cưng - Đồ tiêu dùng
   - original: Pet Consumables Inventory
-    translation: Thú cưng - Ngăn Vật tư
+    translation: Thú cưng - Ngăn Đồ tiêu dùng
   - original: Pet Electric Armor
     translation: Thú cưng - Lôi giáp
   - original: Pet Equipment
@@ -1650,7 +1640,7 @@ Inventory:
   - original: Pet Mana Pool
     translation: Thú cưng - Hồ Năng lượng
   - original: Pet Poison Armor
-    translation: Độc Giáp Thú cưng
+    translation: Thú cưng - Độc Giáp
   - original: Pet Spells
     translation: Thú cưng - Phép thuật
   - original: Pet Spells Inventory
@@ -1694,37 +1684,37 @@ Inventory:
 
 Maps:
   - original: "- Enter |cFFD1FF7APlunder Cove|u via the portal in the |cFFD1FF7ATemple Steppes|u\\n"
-    translation: ""
+    translation: "- Vào |cFFD1FF7AVịnh Cướp Biển|u thông qua cổng tại |cFFD1FF7AĐồng Bằng Quái Thú|u\\n"
   - original: "- Enter |cFFD1FF7ATarroch's Rift|u in the |cFFD1FF7AOssean Wastes|u and recharge the |cFFD1FF7ASpent Ember|u"
-    translation: ""
+    translation: "- Vào |cFFD1FF7AKhe Tarroch|u tại |cFFD1FF7AỐc Đảo Bỏ Hoang|u và sạc lại |cFFD1FF7AMẩu tinh thể|u"
   - original: "- Enter |cFFD1FF7AVyrax's Tower|u in |cFFD1FF7ARivenskull Gorge|u."
-    translation: ""
+    translation: "- Vào |cFFD1FF7ATháp Rồng|u tại |cFFD1FF7AThành Phố Đổ Nát|u."
   - original: "- Enter the |cFFD1FF7AMuckery|u in |cFFD1FF7ADank Hollow|u; defeat |cFFD1FF7AMyconids|u to gather |cFFD1FF7AEmber Truffles|u"
-    translation: ""
+    translation: "- Vào |cFFD1FF7AMuckery|u tại |cFFD1FF7ADank Hollow|u; đánh bại |cFFD1FF7AMyconids|u để nhận được |cFFD1FF7AThảo dược quý|u"
   - original: "- Enter the |cFFD1FF7ASkaran Hives."
-    translation: ""
+    translation: "- Vào trong |cFFD1FF7ATổ của Thằn lằn bay|u."
   - original: "- Enter the |cFFD1FF7ATower of the Moon|u in the |cFFD1FF7AOssean Wastes|u; eliminate any Ezrohir inside"
-    translation: ""
+    translation: "- Vào trong |cFFD1FF7ATháp Mặt Trăng|u tại |cFFD1FF7AỐc Đảo Bỏ Hoang|u; tiêu diệt tất cả Ezrohir tại đó."
   - original: "- Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u"
-    translation: ""
+    translation: "- Đi vào |cFFD1FF7AĐường Ngầm|u tại |cFFD1FF7AThung Lũng Trống Trải|u và phá hủy 4 |cFFD1FF7AMáy Bơm Chất Độc|u"
   - original: "- Enter the |cFFD1FF7AWellspring Treasury|u via the portal in the |cFFD1FF7ATemple Steppes|u"
-    translation: ""
+    translation: "- Vào |cFFD1FF7AKho Báu Mùa Xuân|u thông qua cổng đến |cFFD1FF7AĐồng Bằng Quái Thú|u"
   - original: "- Enter the |cFFFFBA00Broken Mines|u"
-    translation: ""
+    translation: "- Tiến vào |cFFFFBA00Hầm Mỏ Đổ Nát|u"
   - original: "- Enter the |cFFFFBA00Broken Mines|u\\n"
-    translation: ""
+    translation: "- Vào |cFFFFBA00Hầm Mỏ Đổ Nát|u\\n"
   - original: "- Enter the |cFFFFBA00Watchweald Temple|u via the |cFFFFBA00Watchweald Portal|u and stop the |cFFFFBA00Grand Regent|u"
-    translation: ""
+    translation: "- Vào |cFFFFBA00Thần Điện|u thông qua |cFFFFBA00Cổng Tới Thần Điện|u và ngăn chặn |cFFFFBA00Đại trưởng lão|u"
   - original: Enter the |cFFD1FF7ASkaran Hives|u.
-    translation: Vào |cFFD1FF7ATổ ong Skaran|u.
+    translation: Vào trong |cFFD1FF7ATổ của Thằn lằn bay|u.
   - original: Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u.
-    translation: ""
+    translation: Vào |cFFD1FF7AĐường Ngầm|u tại |cFFD1FF7AThung Lũng Trống Trải|u và phá hủy 4 |cFFD1FF7AMáy Bơm Chất Độc|u.
   - original: Enter the |cFFFFBA00Broken Mines|u and locate the |cFFFFBA00Alchemist|u.
-    translation: Vào |cFFFFBA00Các mỏ bị hỏng|u và xác định vị trí |cFFFFBA00Nhà giả kim|u.
+    translation: Vào |cFFFFBA00Hầm Mỏ Đổ Nát|u và xác định vị trí của |cFFFFBA00Alchemist|u.
   - original: Enter The Ancient Vaults of Chaos
-    translation: Vào Ancient Vaults of Chaos
+    translation: Vào Hang Cổ Hỗn Độn
   - original: Enter The Bone Gallery
-    translation: Vào Phòng trưng bày xương
+    translation: Vào Thư Viện Hài Cốt
   - original: Enter The Burial Chambers
     translation: Vào Burial Chambers
   - original: Enter The Catacombs
@@ -1732,9 +1722,9 @@ Maps:
   - original: Enter The Caves
     translation: Vào Caves
   - original: Enter The Corrupted Crypt
-    translation: Vào Corrupted Crypt
+    translation: Vào Hầm Mộ Hư Hại
   - original: Enter the Emberworks
-    translation: Vào Emberworks
+    translation: Vào Vùng mỏ
   - original: Enter The Forgotten Halls
     translation: Vào Forgotten Halls
   - original: Enter The Foul Cave of Shadows
@@ -1744,77 +1734,77 @@ Maps:
   - original: Enter The Howling Cave of Doom
     translation: Vào Howling Cave của Doom
   - original: Enter The Ice Caves
-    translation: Vào Ice Caves
+    translation: Vào Hang Tuyết
   - original: Enter The Lost Hold
-    translation: Vào Nhà ngục mất tích
+    translation: Vào Công Xưởng Cũ
   - original: Enter The Lost Okwari Caves
-    translation: Vào động Okwari đã mất
+    translation: Vào Hang Okwari bí mật
   - original: Enter The Shadowy Crevasse
-    translation: Vào Shadowy Crevasse
+    translation: Vào Khe Nứt Bóng Tối
   - original: Enter The Warbeast Den
     translation: Vào Warbeast Den
   - original: Enter the Watchweald Temple
-    translation: Vào Watchweald Temple
+    translation: Vào Thần Điện
   - original: Enter The Wellspring Temple
-    translation: Vào Wellspring Temple
+    translation: Vào Đền Thờ Mùa Xuân
   - original: Enter The Whispering Cave
-    translation: Vào Whispering Cave
+    translation: Vào Hang Thì Thầm
   - original: Enter The Widows Veil
-    translation: Vào Widows Veil
+    translation: Vào Hang Nhện Chúa
   - original: Entered\nAnother Realm
-    translation: Vào\nAnother Realm
+    translation: Đã vào\nCõi khác
   - original: Entered\nEmberscratch Minehead
-    translation: Vào\nEmberscratch Minehead
+    translation: Đã vào\nLối vào Hầm Mỏ Yêu tinh
   - original: Entered\nEstherian Refuge
-    translation: Vào\nEstherian Refuge
+    translation: Đã vào\nĐại Điện Cổ
   - original: Entered\nForsaken Gate
-    translation: Vào\nForsaken Gate
+    translation: Đã vào\nCửa Phong Ấn
   - original: Entered\nGravedeep
-    translation: Vào\nGravedeep
+    translation: Đã vào\nHầm Sâu
   - original: Entered\nPrison Caravan
-    translation: Vào\nPrison Caravan
+    translation: Đã vào\nĐoàn Tù Binh
   - original: Entered\nSadwa Mesa
-    translation: Vào\nSadwa Mesa
+    translation: Đã vào\nTổ Thằn Lằn
   - original: Entered\nSkull Hollow
-    translation: Vào\nSkull Hollow
+    translation: Đã vào\nHố Đầu Lâu
   - original: Entered\nSlavers' Camp
-    translation: Vào\nSlavers' Camp
+    translation: Đã vào\nTrại Nô Lệ
   - original: Entered\nStorm Armory
-    translation: Vào\nStorm Armory
+    translation: Đã vào\nKho Bão Tố
   - original: Entered\nStygian Aerie Approach
-    translation: Vào\nStygian Aerie Approach
+    translation: Đã vào\nLối vào Hang Ổ Quái Thú
   - original: Entered\nThe Beast Warrens
-    translation: Vào\nThe Beast Warrens
+    translation: Đã vào\nVòng vây quái thú
   - original: Entered\nThe Bone Clutch
-    translation: Vào\nThe Bone Clutch
+    translation: Đã vào\nBãi Xương
   - original: Entered\nThe Cairn Pit
-    translation: Vào\nThe Cairn Pit
+    translation: Đã vào\nHang Tử Địa
   - original: Entered\nThe Downfalls
-    translation: Vào\nThe Downfalls
+    translation: Đã vào\nThác Thăng Thiên
   - original: Entered\nThe Embercraft
-    translation: Vào\nThe Embercraft
+    translation: Đã vào\nPhi Hành Đoàn
   - original: Entered\nThe Lost Hold
-    translation: Vào\nThe Lost Hold
+    translation: Đã vào\nCông Xưởng Cũ
   - original: Entered\nThe Rot Gardens
-    translation: Vào\nThe Rot Gardens
+    translation: Đã vào\nVườn Treo Rậm Rạp
   - original: Entered\nThe Ship Graveyard
-    translation: Vào\nThe Ship Graveyard
+    translation: Đã vào\nKhu Mộ Tàu Thuyền
   - original: Entered\nThe Swarmstacks
-    translation: Vào\nThe Swarmstacks
+    translation: Đã vào\nNơi Tụ Tập
   - original: Entered\nWatchweald Approach
-    translation: Vào\nWatchweald Approach
+    translation: Đã vào\nĐoàn Đại Sứ
   - original: Entered\nWellspring Approach
-    translation: Vào\nWellspring Approach
+    translation: Vào\nCửa Đền Thờ
   - original: Entered\nWicker Grove
-    translation: Vào\nWicker Grove
+    translation: Đã vào\nTế Đàn Quỷ
   - original: Entered\nWidowmaker Woods
-    translation: Vào\nWidowmaker Woods
+    translation: Đã vào\nRừng Goá Phụ
 
 Miscellaneous items:
   - original: Big Health Potion
     translation: Hồi sinh lực lớn
   - original: Big Mana Potion
-    translation: Hồi năng lượng lớn
+    translation: "|cFF2C76F5Hồi năng lượng lớn"
   - original: Big Rejuvenation Potion
     translation: Dung dịch Phục hồi Lớn
   - original: Giant Health Potion
@@ -1912,9 +1902,11 @@ Miscellaneous items - Torchlight II Essentials:
 
 New character:
   - original: "|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge."
-    translation: "|cFFA1D0FCChế độ Đơn giản|u rất phù hợp cho những người chơi ở mọi lứa tuổi ưa thích những pha hành động vui nhộn mà không cần thử thách sâu hơn."
+    translation: "|cFFA1D0FCChế độ Đơn giản|u dành cho mọi lứa tuổi, những ai chỉ muốn chơi để biết cốt truyện và không muốn có nhiều thử thách."
   - original: "|cFFA1D0FCElite Mode|u is for advanced or brave players. The monsters are significantly tougher and you may die often. Your adventure will likely take more time than in other game modes."
-    translation: "|cFFA1D0FCChế độ Thách thức|u dành cho những người chơi tiên tiến hoặc dũng cảm. Những con quái vật khó hơn đáng kể và bạn có thể chết thường xuyên. Cuộc phiêu lưu của bạn có thể sẽ mất nhiều thời gian hơn so với các chế độ chơi khác."
+    translation: "|cFFA1D0FCChế độ Thách thức|u dành cho người chơi chuyên nghiệp hoặc dũng cảm. Những con quái vật khó hơn đáng kể và bạn có thể chết thường xuyên. Cuộc phiêu lưu của bạn có thể sẽ mất nhiều thời gian hơn so với các chế độ chơi khác."
+  - original: "|cFFA1D0FCVeteran Mode|u is intended for players familiar with Torchlight. If the challenges become too difficult, you may need to take extra time to improve your character's abilities to progress."
+    translation: "|cFFA1D0FCChế độ Cựu binh|u dành cho người chơi am hiểu về Torchlight. Nếu các thử thách trở nên quá khó, bạn có thể cần thêm thời gian để cải thiện khả năng nhân vật của mình."
   - original: "|cFFEAAA15Character Name|u"
     translation: "|cFFEAAA15Tên nhân vật|u"
   - original: "|cFFEAAA15Difficulty|u"
@@ -1927,68 +1919,93 @@ New character:
     translation: "|cFFEAAA15Tóc|u"
   - original: "|cFFEAAA15Hardcore Mode|u"
     translation: "|cFFEAAA15Chế độ Ác mộng|u"
-  - original: "|cFFA1D0FCVeteran Mode|u is intended for players familiar with Torchlight. If the challenges become too difficult, you may need to take extra time to improve your character's abilities to progress."
-    translation: "|cFFA1D0FCChế độ Cựu binh|u dành cho những người chơi quen thuộc với Torchlight. Nếu các thử thách trở nên quá khó, bạn có thể cần thêm thời gian để cải thiện khả năng của nhân vật của mình để tiến bộ."
 
 NPC:
   - original: Armor for sale
-    translation: Áo giáp để bán
+    translation: Giáp trụ
   - original: Buy items back from the merchant
     translation: Mua lại vật phẩm từ thương gia
   - original: Jana the Merchant
     translation: Thương gia Jana
   - original: Miscellaneous items for sale
-    translation: Các mặt hàng khác để bán
+    translation: Tạp hóa
   - original: Tinya the Merchant
     translation: Thương gia Tinya
   - original: Weapons for sale
-    translation: Vũ khí để bán
+    translation: Vũ khí
 
 Quests:
-  - original: "- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale"
-    translation: Thăm dò |cFFFFBA00Đền Wellspring|u trong |cFFFFBA00Đền Steppes|u và tìm Chỉ huy Vale.
   - original: "- Discover the |cFFFFBA00Wellspring Temple|u in the |cFFFFBA00Temple Steppes|u and find Commander Vale."
-    translation: Thăm dò |cFFFFBA00Đền Wellspring|u trong |cFFFFBA00Đền Steppes|u và tìm Chỉ huy Vale.
+    translation: "- Khám phá ra |cFFFFBA00Đền Thờ Mùa Xuân|u tại |cFFFFBA00Đồng Bằng Quái Thú|u và tìm Chỉ huy Vale."
   - original: "- Obtain |cFFD1FF7AArmor Schematics|u in |cFFD1FF7AThe Temple Steppes|u from Sturmbeorn blacksmiths"
-    translation: "- Thu thập |cFFD1FF7ASơ đồ Áo giáp|u trong |cFFD1FF7AĐền Steppes|u từ  thợ rèn Sturmbeorn"
+    translation: "- Lấy được |cFFD1FF7ABản thảo giáp trụ|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u từ thợ rèn của Người gấu"
   - original: "- Talk to the |cFFFFBA00Vanquisher|u"
-    translation: "- Talk to the |cFFFFBA00Người thắng trận|u"
+    translation: "- Nói chuyện với |cFFFFBA00Thủ vệ|u"
   - original: "- Talk to Vale the |cFFFFBA00Vanquisher|u"
-    translation: "- Nói chuyện với Vale |cFFFFBA00Người thắng trận|u"
+    translation: "- Nói chuyện với Vale"
   - original: "- Travel to |cFFFFBA00Grunnheim|u"
-    translation: "- Du hành đến |cFFFFBA00Grunnheim|u"
+    translation: "- Di chuyển tới |cFFFFBA00Kinh Đô Xưa|u"
   - original: "|cFFF5DB94-You Found-|u"
     translation: "|cFFF5DB94-Đã Tìm thấy-|u"
   - original: Angry Beasts
     translation: Quái thú Nổi loạn
   - original: Go through the |cFFFFBA00Path of the Honored Dead|u to the |cFFFFBA00Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe.
-    translation: Đi ngang qua |cFFFFBA00Con đường của Người chết được vinh danh|u để đến |cFFFFBA00Đền Steppes|u.  Vào |cFFFFBA00Đền Wellspring|u và đảm bảo rằng |cFFFFBA00Người giám hộ của Nước|u an toàn.
+    translation: Đi qua |cFFFFBA00Con Đường Vinh Quang|u đến |cFFFFBA00Đồng Bằng Quái Thú|u.  Vào |cFFFFBA00Đền Thờ Mùa Xuân|u và chắc chắn rằng |cFFFFBA00Thuỷ Vệ Thần|u vẫn an toàn.
   - original: It appears you were too late!  The Alchemist has already reached the Enclave ... and was rebuffed by the Estherian Grand Regent, Eldrayn.  The Alchemist fled toward the south, through the Path of the Honored Dead, toward the Wellspring Temple.\n\nShortly afterward, Commander Vale, another of the Heroes of Torchlight, and a close friend of the Destroyer's, arrived with a platoon of troops.  She quickly set off for the Wellspring Temple, to protect the Guardian of Water, in case the Alchemist struck there next.  There has been no word from her since.
-    translation: Có vẻ như bạn đã quá muộn! Nhà giả kim đã đến được Nội khu ... và bị chặn lại bởi Đại tướng Estherian, Eldrayn. Nhà giả kim chạy về phía nam, ngang qua Con đường của Người chết được vinh danh, về phía Đền thờ Wellspring.\n\nNgay sau đó, Chỉ huy Vale, một Anh hùng khác của Torchlight, và là bạn thân của Kẻ hủy diệt, đến cùng một trung đội.  Cô nhanh chóng lên đường đến Đền Wellspring, để bảo vệ Người giám hộ Nước, trong trường hợp Nhà giả kim tấn công ở đó tiếp theo.  Không có tin tức nào từ cô ấy kể từ đó.
+    translation: Có vẻ bạn đã đến muộn! Alchemist đã tới Thị Trấn Mùa Xuân ... và bị đẩy lui bởi Đại trưởng lão của Estheria, Eldrayn. Alchemist đã chuyển hướng sang phía nam, đi qua Con Đường Vinh Quang, thẳng tới Đền Thờ Mùa Xuân.\n\nChỉ ngay sau đó, Chỉ huy Vale, một anh hùng nữa của Torchlight, và là bạn thân thiết của Destroyer, đến với một trung đội lính. Cô ấy nhanh chóng tới Đền Thờ Mùa Xuân, để bảo vệ Thuỷ Vệ Thần, trong trường hợp Alchemist sẽ tới đó tiếp theo. Vẫn chưa có tin tức gì từ cô ấy kể từ đó.
   - original: Reward Choices
     translation: Phần thưởng được chọn
   - original: Rewards
     translation: Phần thưởng
   - original: The story so far..
-    translation: Câu chuyện cho đến nay...
+    translation: Câu chuyện cách đây đã lâu...
 
 Quests - Protect the Guardian:
   - original: Commander Vale believes that the Alchemist might attack the |cFFFFBA00Wellspring Temple|u, in an attempt to reach the |cFFFFBA00Guardian of Water|u ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.\n\nScout the |cFFFFBA00Wellspring Temple|u, and determine if the |cFFFFBA00Guardian of Water|u is in any danger.
-    translation: Chỉ huy Vale tin rằng Nhà giả kim có thể tấn công |cFFFFBA00Đền Wellspring|u, trong một nỗ lực để đạt được |cFFFFBA00Người giám hộ Thủy|u ... vì mục đích bất chính mà tôi ngại suy đoán.  Không có tin tức nào từ Vale, hoặc Người giám hộ.\n\nDo thám |cFFFFBA00Đền Wellspring|u, và xác định xem |cFFFFBA00Người giám hộ Thủy|u có bất kỳ nguy hiểm nào không.
+    translation: Chỉ huy Vale tin rằng Alchemist có thể sẽ tấn công |cFFFFBA00Đền Thờ Mùa Xuân|u, trong cố gắng vươn tới chỗ của |cFFFFBA00Thuỷ Vệ Thần|u ... cho mục đích đen tối của hắn.  Vẫn chưa có tin tức gì từ Vale, cũng như Vệ Thần.\n\nHãy dò xét |cFFFFBA00Đền Thờ Mùa Xuân|u, và xác định xem |cFFFFBA00Thuỷ Vệ Thần|u có đang gặp bất kỳ nguy hiểm nào.
+    mod: xxx
   - original: Protect the Guardian!
-    translation: Bảo vệ Người giám hộ!
+    translation: Bảo vệ Vệ thần!
+  - original: "- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale"
+    translation: "- Khám phá ra |cFFFFBA00Đền Wellspring|u trong |cFFFFBA00Đền Steppes|u và tìm Chỉ huy Vale."
+    mod: Unearthed Arcana
+  - original: I must be on my way soon.  If the Alchemist I must be on my way soon.  If the Alchemist is attacking Guardians, he will be after the Guardian, at the Watchweald Temple ... assuming the Vanquisher failed to stop him at the Wellspring.\n\nThe Guardians are immensely powerful beings.  They control the elements, and thus provide for life.  But they are not inviolate; a sufficiently powerful attacker could overcome them.  If the Alchemist was able to do so, then the threat he poses is greater than anything the world has faced since the Netherim invasion a millennium ago.
+  
+Quests - The Merryweather Poultice:
+  - original: "- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u"
+    translation: "- Thu thập |cFFD1FF7Alá Linh Dược|u cho Medrus tại |cFFD1FF7AĐồng Bằng Quái Thú|u"
+  - original: "*The Merryweather Poultice"
+    translation: "*Thuốc đắp Merryweather"
+  - original: Any luck finding the Merryweather Leaves?  I'm not sure how much longer I can hold on ...
+    translation: Bạn có may mắn tìm thấy lá Linh Dược nào không? Tôi không chắc có thể chờ được bao lâu nữa...
+  - original: Collect  |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u, and return to |cFFD1FF7AMedrus|u, in the |cFFD1FF7ATemple Steppes|u.
+    translation: Thu thập |cFFD1FF7ALá Linh Dược|u từ một |cFFD1FF7ABụi Linh Dược|u, và mang về cho |cFFD1FF7AMedrus|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
+  - original: Collect |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u in |cFFD1FF7AThe Temple Steppes|u.
+    translation: Thu thập  |cFFD1FF7ALá Linh Dược|u từ một |cFFD1FF7Abụi Linh Dược|u trong |cFFD1FF7AĐồng Bằng Quái Thú|u.
+  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên tôi là |cFFD1FF7AMedrus|u. Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi đã bị thương nặng. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
+  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's Medrus.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên của tôi là |cFFD1FF7AMedrus|u.  Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi bị thương khá nặng trong quá trình này. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
+  - original: Merryweather bush
+    translation: Bụi Linh Dược
+  - original: Merryweather Bush
+    translation: Bụi Linh Dược
+  - original: Merryweather Leaves
+    translation: Lá Linh Dược
+  - original: The Merryweather Poultice
+    translation: Thuốc đắp Linh Dược
 
 Quests - The Warbeast Armory:
   - original: If you're going out to the |cFFD1FF7ATemple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
-    translation: Nếu bạn đang đi ra ngoài để đến |cFFD1FF7AĐền Steppes|u, Tôi có thể sử dụng sự giúp đỡ của bạn.  Người Sturmbeorn đã dựng một lò rèn tạm ở đó, và họ có hai thợ rèn chế tạo những bộ áo giáp cho những con linh thú hoang dã mà họ bắt được.\n\nNhững Sturmbeorn đó dường như đang làm việc từ các sơ đồ, nhưng họ giữ chúng trong hộp và khóa lại. Bạn có nghĩ rằng bạn có thể vào đó và lấy |cFFD1FF7ASơ đồ áo giáp|u?
+    translation: Nếu bạn chuẩn bị tới |cFFD1FF7AĐồng Bằng Quái Thú|u, có thể tôi cần bạn giúp việc này. Người gấu đã dựng một doanh trại ngoài đó và chúng có hai thợ rèn áo giáp cho những quái thú hoang dã mà chúng bắt được.\n\nNhững Người gấu này có vẻ đã làm việc với các bản thảo, nhưng chúng đã giấu những bản thảo này đi. Bạn có nghĩ rằng bạn có thể tới đó và lấy được |cFFD1FF7ABản thảo giáp trụ|u không?
   - original: Obtain the |cFFD1FF7AArmor Schematics|u from the |cFFD1FF7ABeast Warrens|u, in the |cFFD1FF7ATemple Steppes|u.
-    translation: ""
+    translation: Lấy được |cFFD1FF7ABản thảo giáp trụ|u từ |cFFD1FF7AVòng Vây Quái Thú|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
   - original: Return to the |cFFD1FF7AVanquisher Scout|u in the |cFFD1FF7AEnclave|u for your reward.
-    translation: Trở về chỗ |cFFD1FF7ATrinh sát Vanquisher|u trong |cFFD1FF7ANội khu|u để nhận thưởng.
+    translation: Mang về cho |cFFD1FF7AThủ vệ Do thám|u tại |cFFD1FF7AThị Trấn Mùa Xuân|u và nhận thưởng.
   - original: The Warbeast Armory
-    translation: Xưởng Vũ trang
+    translation: Vũ trang Quái thú
   - original: "Well done! I'm sure Commander Vale would have no objection to me giving you a reward for your service to the Empire. Take this: It's all I've got, but know that you have my gratitude, as well!"
-    translation: null
+    translation: "Tốt lắm! Tôi chắc chắn Chỉ huy Vale sẽ không hề phàn nàn gì nếu tôi cho bạn phần thưởng vì sự giúp đỡ của bạn với Empire. Hãy nhận lấy thứ này: Đó là tất cả những gì tôi có, nhưng hãy biết rằng bạn đã có được sự chúc mừng của tôi, làm tốt lắm!"
 
 Quests - Unearthed Arcana:
   - original: "- Enter |cFFD1FF7AThe Wellspring Treasury|u via the portal in |cFFD1FF7AThe Temple Steppes|u and return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u"
@@ -2004,7 +2021,7 @@ Quests - Unearthed Arcana:
   - original: An ancient stone tablet stolen from the Wellspring Basin.
     translation: Một hòn đá cổ bị đánh cắp từ Lưu vực Wellspring.
   - original: Enter the |cFFD1FF7AThe Lost Okwari Caves|u in |cFFD1FF7AThe Temple Steppes|u and discover what is disturbing the warbeast population.
-    translation: Vào |cFFD1FF7AHang Okwari bị mất|u ở |cFFD1FF7AĐền Steppes|u và tìm hiểu xem điều gì làm phiền nhiễu đến đàn quái thú.
+    translation: Vào |cFFD1FF7AHang Okwari bí mật|u ở |cFFD1FF7AĐền Steppes|u và tìm hiểu xem điều gì làm phiền nhiễu đến đàn quái thú.
   - original: Glyph of Balthazar
     translation: Biểu tượng của Balthazar
   - original: Go through the |cFFFFBA00Path of the Honored Dead|u to |cFFFFBA00The Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe.
@@ -2023,54 +2040,31 @@ Quests - Unearthed Arcana:
     translation: Quay lại chỗ |cFFD1FF7AEdovar|u ở |cFFD1FF7AĐền Steppes|u.
   - original: Talk to |cFFFFBA00Commander Vale|u the Vanquisher.
     translation: Nói chuyện với |cFFFFBA00Chỉ huy Vale|u người Vanquisher.
-Quests - The Merryweather Poultice:
-  - original: The Merryweather Poultice
-    translation: Thuốc đắp Merryweather
-  - original: Collect |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u in |cFFD1FF7AThe Temple Steppes|u.
-    translation: Thu thập  |cFFD1FF7Alá cây Merryweather|u từ một |cFFD1FF7Abụi cây Merryweather|u trong |cFFD1FF7AĐền Steppes|u.
-  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's Medrus.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
-    translation: Xin chào! Tôi nghĩ rằng tôi nghe thấy có người di chuyển xung quanh đó.\n\nNghe này, tên của tôi là |cFFD1FF7AMedrus|u.  Tôi đã bị một số Sturmbeorn phục kích, và vượt qua được ... nhưng tôi bị thương khá nặng trong quá trình này. Tôi có thể điều trị nó, nhưng tôi cần một số |cFFD1FF7A lá cây Merryweather|u.  Chúng mọc quanh đây, nhưng tôi quá yếu để tìm kiếm chúng.\n\nNghĩ rằng bạn có thể tìm thấy một số cho tôi, mang chúng trở lại đây? Tôi hứa sẽ trả công cho bạn.
-  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
-    translation: Xin chào! Tôi nghĩ rằng tôi nghe thấy có người di chuyển xung quanh đó.\n\nNghe này, tên của tôi là |cFFD1FF7AMedrus|u.  Tôi đã bị một số Sturmbeorn phục kích, và vượt qua được ... nhưng tôi bị thương khá nặng trong quá trình này. Tôi có thể điều trị nó, nhưng tôi cần một số |cFFD1FF7A lá cây Merryweather|u.  Chúng mọc quanh đây, nhưng tôi quá yếu để tìm kiếm chúng.\n\nBạn nghĩ rằng bạn có thể tìm thấy một số cho tôi, mang chúng trở lại đây? Tôi hứa sẽ trả công cho bạn.
-  - original: Collect  |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u, and return to |cFFD1FF7AMedrus|u, in the |cFFD1FF7ATemple Steppes|u.
-    translation: Thu thập  |cFFD1FF7Alá cây Merryweather|u từ một |cFFD1FF7Abụi cây Merryweather|u, và quay lại chỗ |cFFD1FF7AMedrus|u, ở |cFFD1FF7AĐền Steppes|u.
-  - original: Merryweather bush
-    translation: Bụi cây Merryweather
-  - original: Merryweather Bush
-    translation: Bụi cây Merryweather
-  - original: Merryweather Leaves
-    translation: Lá cây Merryweather
-  - original: "- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u"
-    translation: "- Nhặt |cFFD1FF7Alá cây Merryweather|u cho Medrus ở |cFFD1FF7AĐền Steppes|u"
-  - original: Any luck finding the Merryweather Leaves?  I'm not sure how much longer I can hold on ...
-    translation: Có may mắn tìm thấy lá Merryweather nào không? Tôi không chắc mình có thể giữ được bao lâu nữa ...
-  - original: "*The Merryweather Poultice"
-    translation: "*Thuốc đắp Merryweather"
 
 Quests - Warn the Estherians:
   - original: "- Reach the |cFFFFBA00Estherian Enclave|u and speak to the |cFFFFBA00Grand Regent|u"
-    translation: "- Đến được |cFFFFBA00Nội khu Estherian|u và nói chuyện với |cFFFFBA00Đại nhiếp chính|u"
+    translation: "- Đến được |cFFFFBA00Thị Trấn Mùa Xuân|u và nói chuyện với |cFFFFBA00Đại trưởng lão|u"
   - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
-    translation: Xuyên qua |cFFFFBA00Vực gió hú|u để đến |cFFFFBA00Nội khu|u và cảnh báo |cFFFFBA00Người Estherians|u về Nhà giả kim.
+    translation: Đi qua |cFFFFBA00Đèo Tiếng Vọng|u tới |cFFFFBA00Thị Trấn Mùa Xuân|u và cảnh báo |cFFFFBA00người dân Estheria|u về Alchemist.
   - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Estherian Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
     source: Unearthed Arcana
-    translation: Xuyên qua |cFFFFBA00Vực gió hú|u để đến |cFFFFBA00Nội khu Estherian|u và cảnh báo |cFFFFBA00Người Estherian|u về Nhà giả kim.
+    translation: Xuyên qua |cFFFFBA00Đèo Tiếng Vọng|u để đến |cFFFFBA00Thị Trấn Mùa Xuân Estherian|u và cảnh báo |cFFFFBA00người dân Estherian|u về Alchemist.
   - original: Having trekked with the wounded Destroyer to Echo Pass to warn the Estherians of the Alchemist's approach, you are now on your own.  The Destroyer was too badly wounded in his battle with the Alchemist to go on ... and, you suspect, he wanted to mourn the death of his old friend and mentor, Syl.
-    translation: Sau khi đi bộ với Kẻ hủy diệt bị thương đến Đèo Echo để cảnh báo người Estheria về sự tiếp cận của Nhà giả kim, giờ đây chỉ còn lại mình bạn.  Kẻ hủy diệt đã bị thương quá nặng trong trận chiến với Nhà giả kim để tiếp tục đi ... và, bạn nghi ngờ, hắn ta muốn để tang cái chết của người bạn cũ và người cố vấn của mình, Syl.
+    translation: Sau khi cùng với Destroyer bị thương đến |cFFFFBA00Đèo Tiếng Vọng|u để cảnh báo người dân Estheria về sự tấn công của Alchemist, bạn giờ đang phải tự bước đi. Destroyer đã bị thương quá nặng trong trận chiến với Alchemist để có thể đi tiếp ... và, bạn nghi ngờ rằng ông ấy đang muốn tưởng nhớ cái chết của người bạn cũ và cùng là người thầy của ông, Syl.
   - original: I thank you for your warning, but it has arrived too late.  This "Alchemist" has already come and gone, and it was all I could do to prevent him from entering the Enclave.  As it was, many Estherians were injured, and, since the confrontation, several more have become ill.  We are not sure what is causing it.\n\nAfter his assault failed here, the Alchemist carried on southward, toward the Temple Steppes.  Commander Vale and her Vanquishers arrived a short while later, and pursued him, hoping to prevent further damage.
-    translation: Tôi cảm ơn vì lời cảnh báo của bạn, nhưng nó đã đến quá muộn.  "Nhà giả kim" này đã đến và đã đi rồi, và tôi chỉ có thể làm tất cả những gì tôi có thể làm để ngăn anh ta vào Nội khu.  Do đó, nhiều người Estheria đã bị thương, và kể từ cuộc đối đầu, một số người khác đã bị ốm.  Chúng tôi không chắc rằng điều gì đang gây ra nó.\n\nSau khi cuộc tấn công của anh ta thất bại ở đây, Nhà giả kim tiếp tục đi về phía nam, hướng tới Đền Steppes.  Chỉ huy Vale và các Vanquishers của cô ấy đã đến một lúc sau đó, và truy đuổi anh ta, hy vọng sẽ không có thêm thiệt hại nào nữa.
+    translation: Tôi cảm ơn lời cảnh báo của bạn, nhưng nó đã đến quá muộn. Alchemist đã tới và đã rời đi, và đó là tất cả những gì tôi có thể làm để ngăn hắn vào được Thị Trấn Mùa Xuân. Như bạn thấy, nhiều người Estheria đã bị thương, và kể từ lần đối đâu đó, ngày càng có nhiều người bị ốm. Chúng tôi chưa giám chắc về cái gì đã gây ra điều đó.\n\nSau khi tấn công không thành, Alchemist đã đi về phía nam, tiến tới Đồng Bằng Quái Thú. Chỉ huy Vale và các cảnh vệ của cô ấy đã theo sau hắn và truy tìm hắn, hi vọng có thể ngăn chặn thiệt hại thêm nữa.
   - original: I think this is as far as I can go.  You should carry on to the |cFFFFBA00Estherian Enclave|u, but you're on your own.\n\nWarn them that the Alchemist destroyed Torchlight, and is headed their way.  He may be there already...
-    translation: Tôi nghĩ rằng nơi này là xa nhất mà tôi có thể đi.  Bạn nên tiếp tục lên đường đến |cFFFFBA00Nội khu Estherian|u, nhưng chỉ còn lại mình bạn.\n\nCảnh báo cho họ rằng Nhà giả kim đã phá hủy Torchlight và đang đi về hướng của họ.  Hắn ta có thể đã ở đó...
+    translation: Tôi không nghĩ mình có thể đi xa thêm được nữa. Bạn nên tiếp tục tới |cFFFFBA00Thị Trấn Mùa Xuân|u, nhưng bạn phải tự đi một mình.\n\nCảnh báo cho họ rằng Alchemist đã phá hủy Torchlight, và đang trên đường tới đó. Có thể hắn đã tới đó rồi ...
   - original: The Alchemist will be headed this way.  And if he passes through here, we'll be waiting for him!\n\nSomeone needs to warn the Estherians.  Head up the pass to their Enclave.  Find my old friend, Commander Vale, and let her know what happened.
-    translation: Nhà giả kim sẽ đi theo hướng này.  Và nếu anh ta đi qua đây, chúng tôi sẽ đợi anh ta!\n\nMột người nào đó cần cảnh báo cho người Estheria. Đi thẳng đến Nội khu của họ.  Tìm người bạn cũ của tôi, Chỉ huy Vale, và cho cô ấy biết chuyện gì đã xảy ra.
+    translation: Alchemist sẽ đi theo hướng này. Và nếu hắn qua đây, chúng tôi sẽ đợi hắn!\n\nCần có ai đó cảnh báo cho người dân Estheria. Hãy đi qua con đèo này và tới |cFFFFBA00Thị Trấn Mùa Xuân|u. Tìm bạn cũ của tôi, Chỉ huy Vale, và cho cô ấy biết điều đã xảy ra.
   - original: Warn the Estherians
-    translation: Cảnh báo người Estherians
+    translation: Cảnh báo người dân Estherians
 
 Settings:
   - original: ( only below 100% UI Scale )
-    translation: ( dành cho tỉ lệ Giao diện người dùng dưới 100%)
+    translation: ( chỉ dùng cho dưới 100% Tỉ lệ UI )
   - original: (setting HP overrides HP%) Only use this effect on shields!
-    translation: (đặt HP ghi đè HP%) Chỉ sử dụng hiệu ứng này trên khiên!
+    translation: (Thiết lập HP sẽ ghi đè HP%) Chỉ sử dụng hiệu ứng này trên Khiên!
   - original: "|cFFEAAA15( * Restart Required )|u"
     translation: "|cFFEAAA15( * Yêu cầu khởi động lại )|u"
   - original: "|cFFEAAA15Pet Name|u"
@@ -2078,27 +2072,31 @@ Settings:
   - original: "|cFFEAAA15Select Pet|u"
     translation: "|cFFEAAA15Chọn Thú cưng|u"
   - original: Center UI Globes
-    translation: Quả cầu trung tâm
+    translation: Hiển thị trung tâm
   - original: Center UI Globes causes the health and mana globes to be \nplaced next to the hotbar instead of the corners of the screen.
-    translation: Quả cầu trung tâm khiến các quả cầu Sinh lực và Năng lượng được \nđặt bên cạnh thanh nóng thay vì các góc của màn hình.
+    translation: Quả cầu trung tâm khiến các quả cầu Sinh lực và Năng lượng được \n đặt bên cạnh thanh phím tắt, thay vì ở góc màn hình.
   - original: Click for Social Options
     translation: Nhấp để tinh chỉnh Mạng xã hội
+  - original: Mute Music
+    translation: Tắt nhạc
+  - original: Mute Sound
+    translation: Tắt âm
 
 Socketables:
   - original: Ice Elemental
     translation: Nguyên tố Băng
   - original: Ice Ember
-    translation: ""
+    translation: "Nham thạch"
   - original: Ice Ember Chip
-    translation: ""
+    translation: "Vụn Nham thạch"
   - original: Ice Ember Shard
-    translation: ""
+    translation: "Mảnh vỡ Nham thạch"
   - original: Ice Ember Speck
-    translation: ""
+    translation: "Cục Nham thạch"
   - original: Ice Gel
-    translation: Gel Băng
+    translation: Bóng nước Băng
   - original: Ice Labs
-    translation: ""
+    translation: Phòng Thí Nghiệm Băng
 
 Spells:
   - original: Adrenaline Rush I
@@ -2134,7 +2132,7 @@ Spells:
   - original: Elemental Protection VI
     translation: Bảo hộ nguyên tố VI
   - original: "Spell: Elemental Overload VI"
-    translation: ""
+    translation: "|cFFF2ACB1Phép: Bùng nổ nguyên tố VI"
   - original: "Spell: Elemental Protection I"
     translation: "Phép: Bảo hộ Nguyên tố I"
   - original: "Spell: Elemental Protection II"
@@ -2176,17 +2174,17 @@ Spells:
 
 Spells - Torchlight II Essentials:
   - original: "|cFFF2ACB1Spell: Summon Archers I"
-    translation: "Phép: Triệu hồi Cung thủ I"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ I"
   - original: "|cFFF2ACB1Spell: Summon Archers II"
-    translation: "Phép: Triệu hồi Cung thủ II"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ II"
   - original: "|cFFF2ACB1Spell: Summon Archers III"
-    translation: "Phép: Triệu hồi Cung thủ III"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ III"
   - original: "|cFFF2ACB1Spell: Summon Archers IV"
-    translation: "Phép: Triệu hồi Cung thủ IV"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ IV"
   - original: "|cFFF2ACB1Spell: Summon Archers V"
-    translation: "Phép: Triệu hồi Cung thủ V"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ V"
   - original: "|cFFF2ACB1Spell: Summon Archers VI"
-    translation: "Phép: Triệu hồi Cung thủ VI"
+    translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ VI"
 
 Stats:
   - original: <STAT1> degrees
@@ -2200,41 +2198,41 @@ Stats:
   - original: <STAT1>%/sec
     translation: <STAT1>%/giây
   - original: "|cFFD1FF7ALeft-Hand|u"
-    translation: "|cFFD1FF7ATay trái|u"
+    translation: "|cFFD1FF7ATay-trái|u"
   - original: "|cFFD1FF7ARight-Hand|u"
-    translation: "|cFFD1FF7ATay phải|u"
+    translation: "|cFFD1FF7ATay-phải|u"
   - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
     translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
+  - original: "|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u."
+    translation: "|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u."
+  - original: "|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously)."
+    translation: "|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay)."
   - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u."
     translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
   - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u."
     translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
   - original: "|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields."
-    translation: "|cFFEAAA15Thể lực|u tăng |cFFA1D0FCSinh lực|u (HP), tổng |cFFA1D0FCgiáp|u và cơ hội |cFFA1D0FCchặn|u với khiên."
+    translation: "|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên."
   - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
     translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
-  - original: "|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u."
-    translation: "|cFFEAAA15Khéo léo|u tăng cơ hội thực hiện |cFFA1D0FCsát thương trí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. Khéo léo cũng tăng |cFFA1D0FCphục hồi sự vụng về|u."
-  - original: "|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously)."
-    translation: "|cFFEAAA15Trí tuệ|u tăng |cFFA1D0FCnăng lượng|u (MP) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Trí tuệ cũng tăng cơ hội |cFFA1D0FCthực thi|u (tấn công bằng cả hai tay đồng thời)."
   - original: "|cFFF5DB94Defense Statistics|u"
-    translation: "|cFFF5DB94Thống kê Phòng ngự|u"
+    translation: "|cFFF5DB94Thông số Phòng thủ|u"
 
 Targets Status:
   - original: (Dividing)
-    translation: (Chia rẽ)
+    translation: (Phân thân)
   - original: (Double-Strong)
-    translation: (Mạnh gấp đôi)
+    translation: (Khoẻ gấp đôi)
   - original: (Explosive)
-    translation: (Phát nổ)
+    translation: (Nổ tung)
   - original: (Freezing)
-    translation: (Đóng băng)
+    translation: (Nhiễm lạnh)
   - original: (Haunted)
-    translation: (Ma ám)
+    translation: (Hung tợn)
   - original: (Health Regen)
-    translation: (Phục hồi Sức khỏe)
+    translation: (Hồi phục)
   - original: (Noxious)
-    translation: (Độc hại)
+    translation: (Độc dược)
   - original: (Shocking)
     translation: (Gây sốc)
   - original: (Swift)
@@ -2244,31 +2242,35 @@ Targets Status:
 
 Tips:
   - original: "|cFF94CC94Green|u items have minor enchantments. |cFF9696CFBlue|u items are more rare and powerful. |cFFdbAE12Gold|u items are unique and have the best enchantments. |cFFD17AFFPurple|u items are related to quests."
-    translation: Vật phẩm |cFF94CC94Màu xanh lá|u có sự tăng cường nhỏ. Vật phẩm |cFF9696CFMàu xanh dương|u hiếm và mạnh mẽ hơn. Vật phẩm |cFFdbAE12Màu vàng|u là duy nhất và có sự tăng cường tốt nhất. Vật phẩm |cFFD17AFFMàu tím|u là dành cho nhiệm vụ.
+    translation: Vật phẩm |cFF94CC94Xanh lá|u có sự tăng cường nhỏ. Vật phẩm |cFF9696CFXanh lam|u thì hiếm hơn và tốt hơn. Vật phẩm |cFFdbAE12Vàng|u là hiếm có và có chỉ số tốt nhất. Vật phẩm |cFFD17AFFTím|u là vật phẩm nhiệm vụ.
   - original: "|cFFFFBA00Cannons|u and |cFFFFBA00Shotgonnes|u attack multiple enemies in wide, but short arcs. |cFFFFBA00Crossbows|u have the longest range. |cFFFFBA00Pistols|u are fast, but have shorter range. |cFFFFBA00Bows|u have an average range."
-    translation: "|cFFFFBA00Pháo|u and |cFFFFBA00Súng ngắn|u tấn công nhiều kẻ thù trong vòng cung rộng, nhưng ngắn. |cFFFFBA00Nỏ|u có tầm bắn xa nhất. |cFFFFBA00Súng lục|u rất nhanh, nhưng có tầm bắn ngắn. |cFFFFBA00Cung|u có tầm bắn trung bình."
+    translation: "|cFFFFBA00Pháo|u và |cFFFFBA00Súng trường|u tấn công nhiều kẻ thù trong phạm vi rộng nhưng góc độ bé. |cFFFFBA00Nỏ|u có tầm bắn xa nhất. |cFFFFBA00Súng lục|u nhanh nhưng có tầm bắn ngắn hơn. |cFFFFBA00Cung|u có tầm bắn trung bình."
   - original: "|cFFFFBA00Claw|u weapons are fast, but don't hit adjacent monsters. |cFFFFBA00Hammers|u tend to be slow but interrupt monster attacks and skills. |cFFFFBA00Axes|u do more consistent damage. |cFFFFBA00Polearms|u have longer range."
-    translation: Vũ khí |cFFFFBA00Vuốt|u rất nhanh, nhưng không đánh quái vật liền kề. |cFFFFBA00Búa|u có vẻ chậm nhưng làm gián đoạn các cuộc tấn công và kỹ năng của quái vật. |cFFFFBA00Rìu|u gây sát thương nhất quán hơn. |cFFFFBA00Sào|u có phạm vi dài.
+    translation: "|cFFFFBA00Móng vuốt|u tấn công rất nhanh, nhưng không thể tấn công nhiều mục tiêu. |cFFFFBA00Búa|u có vẻ chậm nhưng làm gián đoạn các cuộc tấn công và kỹ năng của quái vật. |cFFFFBA00Rìu|u gây nhiều sát thương hơn. |cFFFFBA00Giáo|u có tầm đánh xa."
   - original: "|cFFFFBA00Left click|u to attack an enemy with your weapon. |cFFFFBA00Right Click|u to cast your readied |cFFFFBA00Skill|u, which is more powerful than your regular attack, but consumes Mana."
-    translation: "|cFFFFBA00Nhấp chuột trái|u để tấn công kẻ thù bằng vũ khí. |cFFFFBA00Nhấp chuột phải|u để thi triển |cFFFFBA00Kỹ năng|u đã sẵn sàng, mạnh hơn đòn tấn công thông thường của bạn, nhưng tiêu tốn Năng lượng."
+    translation: "|cFFFFBA00Chuột trái|u để tấn công kẻ thù bằng vũ khí. |cFFFFBA00Chuột phải|u để thi triển |cFFFFBA00Kỹ năng|u đã gán, sẽ tốn Năng lượng để dùng nhưng sát thương mạnh hơn đánh thường."
   - original: "|cFFFFBA00Left-click|u on monsters to attack them. Hold the left mouse button down to continuously attack."
-    translation: "|cFFFFBA00Nhấp chuột trái|u vào quái vật để tấn công chúng. Giữ phím trái chuột để tấn công liên tục."
+    translation: "|cFFFFBA00Chuột trái|u vào quái vật để tấn công chúng. Giữ chuột trái để tấn công liên tục."
   - original: "|cFFFFBA00Passive|u skills are always in effect, but sometimes you need to have the right weapon equipped."
-    translation: Kỹ năng |cFFFFBA00Thụ động|u luôn có hiệu lực, nhưng đôi khi bạn cần phải trang bị vũ khí phù hợp.
+    translation: "|cFFFFBA00Kĩ năng nội tại|u sẽ luôn luôn có hiệu lực, nhưng đôi khi bạn cần phải trang bị vũ khí phù hợp."
   - original: "|cFFFFBA00Purple Damage|u numbers mean you have 'fumbled' the attack, which reduces damage. Press |cFFFFBA00[ J ]|u to view the Arcane Statistics Panel and learn about this and other combat mechanics."
-    translation: Chỉ số |cFFFFBA00Sát thương Tím|u có nghĩa là bạn đã 'lóng ngóng' trong công kích, điều này làm giảm thiệt hại. Nhấn |cFFFFBA00[ J ]|u để xem bảng Số liệu Phức hợp và tìm hiểu về điều này và các cơ chế chiến đấu khác.
+    translation: Chỉ số |cFFFFBA00Sát thương màu tím|u có nghĩa là bạn đã đánh 'sượt qua', điều này làm giảm sát thương của bạn. Nhấn |cFFFFBA00[ J ]|u để xem Bảng thông số chi tiết để biết thêm về việc này cũng như các kĩ thuật trong chiến đấu khác.
   - original: "|cFFFFBA00Right-click|u to use your currently assigned |cFFFFBA00skill or spell|u.   You can also use |cFFFFBA00TAB|u to switch between it and an alternate skill, noted on the right skill interface at the bottom of the screen."
-    translation: "|cFFFFBA00Nhấp phải chuột|u để sử dụng |cFFFFBA00kỹ năng hoặc thần chú|u đang chỉ định.   Bạn cũng có thể dùng |cFFFFBA00TAB|u để chuyển đổi giữa nó và một kỹ năng thay thế, được ghi chú trên giao diện kỹ năng bên phải ở cuối màn hình."
+    translation: "|cFFFFBA00Chuột phải|u để sử dụng |cFFFFBA00kỹ năng hoặc phép thuật|u đã gán.   Bạn có thể sử dụng |cFFFFBA00TAB|u để chuyển đổi giữa nó và kĩ năng/phép thuật dự phòng, được ghi chú trên giao diện kỹ năng bên phải ở cuối màn hình."
   - original: "|cFFFFBA00Wands|u and |cFFFFBA00Staves|u do mostly elemental damage, which tends to be useful for Embermage skills and perhaps any character investing in Focus."
-    translation: "|cFFFFBA00Đũa phép|u và |cFFFFBA00Gậy|u chủ yếu gây sát thương nguyên tố, rất hữu ích cho các kỹ năng của Embermage và có lẽ bất kỳ nhân vật nào đầu tư vào Trí tuệ."
+    translation: "|cFFFFBA00Trượng|u và |cFFFFBA00Gậy phép|u chủ yếu gây ra sát thương nguyên tố, rất hữu ích cho các kĩ năng của Pháp sư và có lẽ bất kỳ nhân vật nào đầu tư vào chỉ số Trí lực."
   - original: Claw weapons do no splash damage but ignore half of armor on regular attacks
-    translation: Vũ khí Vuốt không gây sát thương mạnh nhưng bỏ qua một nửa giáp trong đòn công kích thường
+    translation: Vuốt không gây ra sát thương lan nhưng bỏ qua phân nửa giáp với đòn công kích thường
   - original: Click for Best Health Potion ( [KB:BESTPETPOTION] )
     translation: Nhấn để dùng Trị liệu dịch tốt nhất ( [KB:BESTPETPOTION] )
   - original: Click for Best Mana Potion ( [KB:BESTPETMANA] )
-    translation: Nhấn để dùng Hồi năng lượng dịch tốt nhất ( [KB:BESTPETMANA] )
+    translation: Nhấn để dùng Hồi năng lượng tốt nhất ( [KB:BESTPETMANA] )
   - original: Click on the |cFFFFBA00Send Pet To Town|u icon in your pet's inventory or near his health badge to send them off to sell your excess items, so that you can keep adventuring.
-    translation: Nhấn vào biểu tượng |cFFFFBA00Gửi Thú cưng đến Thị trấn|u trong hành trang thú cưng của bạn hoặc gần huy hiệu máu để gửi để gửi họ đi bán các mặt hàng thừa của bạn, để bạn có thể tiếp tục phiêu lưu.
+    translation: Nhấn vào biểu tượng |cFFFFBA00Gửi Thú nuôi đến Thị trấn|u trong hành trang thú nuôi hoặc gần thanh sinh lực của chúng để gửi chúng đi bán những đồ vật thừa của bạn, để bạn có thể tiếp tục phiêu lưu.
+  - original: Most enchanters can |cFFFFBA00enchant|u any item two times.  Others are more skilled and can grant a third or fourth enchantment! Enchanters can also remove existing enchantments allowing items to be enchanted again.
+    translation: Hầu hết những Người Cường hóa đều có thể |cFFFFBA00cường hóa|u cho vật phẩm bất kỳ 2 lần.  Những người khác có tay nghề cao hơn và có thể cường hóa lần thứ ba hoặc thứ tư! Người Cường hóa cũng có thể loại bỏ các thuộc tính cường hóa hiện có cho phép các vật phẩm được cường hóa lần nữa.
+  - original: Most melee weapons do |cFFFFBA00Splash Damage|u, hitting adjacent monsters in an arc in front of you. Two-handed weapons have longer and wider arcs and do a larger amount of damage to these Splash targets.
+    translation: Hầu hết các vũ khí cận chiến đều có |cFFFFBA00Sát thương lan toả|u, gây sát thương cho các quái vật trong một vòng cung trước mặt bạn. Vũ khí hai tay có vòng cung xa và rộng hơn và gây ra lượng sát thương lớn hơn cho mục tiêu bị lan tới.
 
 Tips - Torchlight II Essentials:
   - original: Holding |cFFFFBA00[CTRL]|u while attacking will only move you or use a skill if you have a target highlighted. This is useful to prevent inadvertent movement during fast combat.
@@ -2305,12 +2307,18 @@ Common:
     translation: "|cFF917D56Mật khẩu|u"
   - original: "|cFF917D56Username|u"
     translation: "|cFF917D56Tài khoản|u"
+  - original: "|cFFB29560Are you sure you wish to quit?|u"
+    translation: "|cFFB29560Bạn chắc chắn muốn ly khai?|u"
+  - original: "|cFFB29560Are you sure you wish to Quit?|u"
+    translation: "|cFFB29560Bạn chắc chắn muốn ly khai?|u"
   - original: "|cFFD1FF7ALeft-Hand|u"
-    translation: "|cFFD1FF7ATay trái|u"
+    translation: "|cFFD1FF7ATay-trái|u"
   - original: "|cFFD1FF7ARight-Hand|u"
-    translation: "|cFFD1FF7ATay phải|u"
+    translation: "|cFFD1FF7ATay-phải|u"
   - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
     translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
+  - original: "|cFFEAAA15Level <STAT1>|u"
+    translation: "|cFFEAAA15Cấp <STAT1>|u"
   - original: "|cFFEAAA15Requires restart for mods to be installed.|u"
     translation: "|cFFEAAA15Yêu cầu khởi động lại game và kích hoạt mod.|u"
   - original: "|cFFEAAA15Skill Points: <STAT1>|u"
@@ -2320,9 +2328,61 @@ Common:
   - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
     translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
   - original: "|cFFFF0000Hardcore|u"
-    translation: "|cFFFF0000Ác mộng|u"
+    translation: "|cFFFF0000YOLO|u"
   - original: "|cFFFF0000You Have Perished!|u"
     translation: "|cFFFF0000Bạn đã tử vong!|u"
+  - original: "|cFFFFBF61Gem Needed|u"
+    translation: "|cFFFFBF61Cần ngọc|u"
+  - original: "|cFFFFBF61Locked|u"
+    translation: "|cFFFFBF61Bị khóa|u"
+  - original: "|cFFFFBF61Needs Plunger|u"
+    translation: "|cFFFFBF61Cần pít tông|u"
+  - original: "|cFFFFBF61Needs Souls|u"
+    translation: "|cFFFFBF61Cần Linh hồn|u"
+  - original: Celebrated
+    translation: Lừng danh
+  - original: Cell Doors
+    translation: Cửa nhỏ
+  - original: Character Panel
+    translation: Bảng chỉ số Nhân vật
+  - original: Character Panel [[KB:StatMenu]]
+    translation: Bảng chỉ số Nhân vật [[KB:StatMenu]]
+  - original: Character Saved
+    translation: Đã lưu nhân vật
+  - original: Character Stats Menu
+    translation: Trình đơn chỉ số nhân vật
+  - original: Characters
+    translation: Nhân vật
+  - original: Chester Copperpot
+    translation: Tro cốt
+  - original: Chests Opened
+    translation: Rương đã mở
+  - original: Choose a spell to permanently unlearn
+    translation: Chọn một phép để quên đi vĩnh viễn
+  - original: Choose Map Destination
+    translation: Chọn bản đồ đích
+  - original: Cinematic
+    translation: Rạp chiếu
+  - original: Cinematics
+    translation: Rạp phim
+  - original: Close
+    translation: Đóng
+  - original: Close Active Portal
+    translation: Đóng cổng đã mở
+  - original: Close All Menus
+    translation: Đóng tất cả các bảng
+  - original: Close Panel
+    translation: Đóng bảng
+  - original: Corrupted Guardian
+    translation: Vệ Thần Sa đọa
+  - original: Create Waypoint Portal
+    translation: Tạo Cổng dịch chuyển
+  - original: Current Location
+    translation: Vị trí hiện tại
+  - original: Current Rank
+    translation: Cấp bậc hiện tại
+  - original: Damage
+    translation: Sát thương
   - original: left hand
     translation: tay trái
   - original: Left hand require
@@ -2333,62 +2393,28 @@ Common:
     translation: Tấn công chuột trái
   - original: Left-Click to assign Skills or Items
     translation: Nhấp chuột trái để gán Kỹ năng hoặc Vật phẩm
-  - original: "|cFFEAAA15Level <STAT1>|u"
-    translation: "|cFFEAAA15Cấp <STAT1>|u"
-  - original: "|cFFFFBF61Gem Needed|u"
-    translation: "|cFFFFBF61Cần ngọc|u"
-  - original: "|cFFFFBF61Locked|u"
-    translation: "|cFFFFBF61Bị khóa|u"
-  - original: "|cFFFFBF61Needs Plunger|u"
-    translation: "|cFFFFBF61Cần pít tông|u"
-  - original: "|cFFFFBF61Needs Souls|u"
-    translation: "|cFFFFBF61Cần Linh hồn|u"
-  - original: Celebrated
-    translation: Lãnh đạo
-  - original: Cell Doors
-    translation: Cửa ra vào
-  - original: Character Panel
-    translation: Bảng Nhân vật
-  - original: Character Panel [[KB:StatMenu]]
-    translation: Bảng Nhân vật [[KB:StatMenu]]
-  - original: Character Saved
-    translation: Đã lưu nhân vật
-  - original: Character Stats Menu
-    translation: Giao diện chỉ số nhân vật
-  - original: Characters
-    translation: Nhân vật
-  - original: Chester Copperpot
-    translation: Lọ hài cốt
-  - original: Chests Opened
-    translation: Rương đã mở
-  - original: Choose a spell to permanently unlearn
-    translation: Chọn một phép để quên đi vĩnh viễn
-  - original: Choose Map Destination
-    translation: Chọn điểm đến trên bản đồ
-  - original: Cinematic
-    translation: Rạp chiếu
-  - original: Cinematics
-    translation: Phim ảnh
-  - original: Close
-    translation: Đóng
-  - original: Close Active Portal
-    translation: Đóng cổng Đang kích hoạt
-  - original: Close All Menus
-    translation: Đóng tất cả giao diện
-  - original: Close Panel
-    translation: Đóng
-  - original: "|cFFB29560Are you sure you wish to quit?|u"
-    translation: "|cFFB29560Bạn chắc chắn muốn ly khai?|u"
-  - original: "|cFFB29560Are you sure you wish to Quit?|u"
-    translation: "|cFFB29560Bạn chắc chắn muốn ly khai?|u"
-  - original: Corrupted Guardian
-    translation: Người giám hộ bị thương
-  - original: Create Waypoint Portal
-    translation: Tạo Cổng Dịch chuyển
-  - original: Current Location
-    translation: Vị trí hiện tại
-  - original: Current Rank
-    translation: Cấp bậc hiện tại
-  - original: Damage
-    translation: Sát thương
+  - original: Mod Details
+    translation: Thông tin Mod
+  - original: Mod Mode Active - Using Mod Save Folder
+    translation: Chế độ dùng Mod - Sử dụng thư mục Save Mod
+  - original: Modifier
+    translation: Phím nhấn kèm
+  - original: Monsters
+    translation: Quái vật
+  - original: Monsters Defeated
+    translation: Quái vật đã hạ
+  - original: Monsters Slain
+    translation: Quái vật bị giết
+  - original: Monstrous Shrine
+    translation: Ấn Kì quái
+  - original: Move
+    translation: Di chuyển
+  - original: Move/Attack
+    translation: Di chuyển/Tấn công
+  - original: Movement Speed reduced by [VALUE]%
+    translation: Tốc độ di chuyển giảm [VALUE]%
+  - original: Movement Speed reduced by [VALUE]% for [DURATION]
+    translation: Tốc độ di chuyển giảm [VALUE]% trong [DURATION]
+  - original: Battle Focus
+    translation: Tập trung chiến đấu
 

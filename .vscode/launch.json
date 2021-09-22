@@ -20,6 +20,21 @@
             "type": "pwa-node"
         },
         {
+            "name": "Merge",
+            "runtimeExecutable": "yarn",
+            "program": "start",
+            "args": [
+                "${file}",
+                "merge"
+            ],
+            "cwd": "${workspaceFolder}",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
             "name": "YAML",
             "runtimeExecutable": "yarn",
             "program": "yaml",
