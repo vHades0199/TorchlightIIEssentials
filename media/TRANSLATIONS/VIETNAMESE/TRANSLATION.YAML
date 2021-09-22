@@ -84,7 +84,177 @@ Characters - Necromancer:
   - original: Necromancer
     translation: Triệu hồi sư
 
+Common - Events - Talking:
+  - original: '"When trees whisper in fear, the Hackmaster is near."'
+    translation: '"Khi cây thì thầm trong sợ hãi, nguy hiểm đã đến gần."'
+  - original: '"Wow! You''re not dead?"'
+    translation: '"Wow! Bạn chưa chết à?"'
+  - original: Actions always speak louder than words.
+    translation: Hành động luôn hơn là lời nói
+  - original: All clear in the pass?
+    translation: Con đường đã được dọn sạch rồi ư?
+  - original: All end game content is now in Table Mountain. Go buy a scroll from Salan to go there
+    translation: Mọi nội dung cuối game đều sẽ ở Table Mountain. Hãy mua một quyển trục từ Salan để tới đó.
+  - original: All Estherian Regents carry these, to symbolize their authority.
+    translation: Tượng trưng của quyền lực
+  - original: All Games
+    translation: Tất cả
+  - original: All must fall before it!
+    translation: Tất cả đều gục ngã trước nó
+  - original: All our best.
+    translation: Thứ tốt nhất mà chúng ta có.
+  - original: All quiet here, more or less.  Hey, good work you did, getting the Commander out of the Wellspring!
+    translation: Yên tĩnh quá!! Hey, làm tốt lắm, giải thoát cho Chỉ huy khỏi Đền Thờ Mùa Xuân!!
+  - original: All shall kneel before the Spicer!
+    translation: Tất cả đều phải quỳ dưới chân bạn!
+  - original: All that is known of it is that it came from the north.
+    translation: Mọi thứ chúng ta biết về nó là nó đến từ phương bắc.
+  - original: All that remains of a long-dead tyrant.
+    translation: Tất cả những gì còn lại của một bạo chúa đã chết lâu.
+  - original: All that remains of the Watchtower of the Jade Kingdoms.
+    translation: Tất cả những gì còn lại của Watchtower của Jade Kingdoms.
+  - original: All the Colors of the Dark
+    translation: Màu của bóng đêm
+  - original: All the metal you can hold.
+    translation: '  '
+  - original: All the world owes you a debt that they can barely comprehend, let alone ever repay.
+    translation: Cả thế giới này nợ bạn một lời cảm ơn mà họ không hề hay biết, hãy giữ điều này cho riêng mình.
+  - original: All this waiting is driving me mad!
+    translation: Tất cả sự chờ đợi này làm tôi đang điên lên!
+  - original: All we can do now is pray to the Guardians that you succeed.  If you fail, it will take every one of us to defend the city.
+    translation: Tất cả những gì chúng ta có thể làm bây giờ là cầu mong Vệ Thần sẽ được cứu. Nếu bạn thất bại, điều đó nghĩa là từng người trong chúng ta sẽ phải phòng thủ thành phố.
+  - original: All's quiet here.  How are things further up the pass?
+    translation: Mọi thứ thật yên ả. Mọi thứ ở trên đèo thế nào rồi?
+  - original: All's quiet.  There's been some Estherian travelers passing through, probably headed to the Watchweald Temple.
+    translation: Mọi thứ thật im lặng. Có một vài người du lịch đã đi qua đây, có lẽ là tới Thần Điện.
+  - original: My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
+    translation: Tôi xin cám ơn bạn, loài người. Sau khi ngôi đền đã thất thủ, những kẻ tay sai khiến chúng tôi trở thành tị nạn, tôi lo sợ rằng số phận chúng tôi đã an bài.\n\nNhưng tôi không phải là tù nhân duy nhất. Chỉ huy lũ tay sai đã bắt nhốt họ vào lồng, trong Hang Động dưới hồ nước này.Một trong những cửa sập bên ngoài gần túp lều gần đó dẫn đến Hang Động.\n\nLàm ơn, nhân danh Vệ Thần ... bạn phải giải phóng họ!
+  - original: Oh, thank you, my friend!  I had feared I would never see my family again!
+    translation: Oh, cảm ơn anh bạn! Tôi đã lo sợ rằng sẽ không bao giờ đoàn tụ với gia đình nữa!
+  - original: Wake of the Alchemist
+    translation: Sự thức tỉnh của ALCHEMIST
+  - original: You have saved us!  I had given up all hope that someone would come!
+    translation: Bạn đã cứu chúng tôi! Tôi đã từng bỏ hy vọng rằng sẽ có người đến cứu!
+
+Coop:
+  - original: '[CHARACTERNAME] is not suspicious.'
+    translation: '[CHARACTERNAME] là không khả nghi'
+  - original: '[CHARACTERNAME] is suspicious'
+    translation: '[CHARACTERNAME] là khả nghi'
+  - original: '[CHARACTERNAME] was kicked from the game.'
+    translation: '[CHARACTERNAME] đã bị đá khỏi game.'
+  - original: '[CHARACTERNAME1] voted to kick [CHARACTERNAME2] from the game.'
+    translation: '[CHARACTERNAME1] đã mời bỏ phiếu đá [CHARACTERNAME2] ra khỏi phòng.'
+  - original: '* Improves with Player Level'
+    translation: '* Tăng theo cấp độ người chơi'
+  - original: '*Difficulty - Game name'
+    translation: '*Độ khó - Tên room'
+  - original: '*Level Range increments when the owner of the game passes the maximum level.'
+    translation: '*Giới hạn cấp độ sẽ tự tăng lên khi chủ phòng vượt qua cấp độ tối đa.'
+  - original: '*Requirements'
+    translation: '*Yêu cầu'
+  - original: '|cFFF5DB94[PLAYERNAME] beckons you to follow.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] yêu cầu bạn theo sau.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] blows a kiss.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang hôn gió.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] bows.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang cúi chào.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] burps.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] vừa ợ hơi.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] Claps slowly with irony.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang vỗ tay một cách mỉa mai.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] coughs.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang ho.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] dances brokenly.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang nhảy.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] dances.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang nhảy nhót.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] despairs.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] cảm thấy vô vọng.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] has no clue.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] không có đầu mối.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] is trolling Justin!|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang trêu đùa!|u'
+  - original: '|cFFF5DB94[PLAYERNAME] is very regretful of a recent action.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang rất hối hận vì điều vừa làm.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] is victorious!|u'
+    translation: '|cFFF5DB94[PLAYERNAME] là người chiến thắng!|u'
+  - original: '|cFFF5DB94[PLAYERNAME] laughs.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang cười lớn.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] palms her face in consternation.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang vuốt mặt sau sự kinh hoàng.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] palms his face in consternation.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang vuốt mặt sau sự kinh hoàng.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] rocks out on the kit.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang quẩy trống tưng bừng.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] rocks out on the lute.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đánh một bản rock.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] salutes.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang cung kính chào.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] says "oops."|u'
+    translation: '|cFFF5DB94[PLAYERNAME] nói  "Ối."|u'
+  - original: '|cFFF5DB94[PLAYERNAME] shows her guns.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang khoe súng của cô ta.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] shows his guns.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang khoe súng của anh ta.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] slaps a face.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] tự vả vào mặt.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] starts crying.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] bắt đầu khóc nhè.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] taunts.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] đang chế giễu.|u'
+  - original: '|cFFF5DB94[PLAYERNAME] tries to jump but can''t.|u'
+    translation: '|cFFF5DB94[PLAYERNAME] cố nhảy lên nhưng không được.|u'
+  - original: '|cFFF5DB94[PLAYERNAME][COMMAND_PARAM]|u'
+    translation: '|cFFF5DB94[PLAYERNAME][COMMAND_PARAM]|u'
+  - original: '|cFFFF0000You were rejected for not meeting this game''s level requirements.|u'
+    translation: '|cFFFF0000Bạn bị từ chối vì không đúng với cấp độ của phòng yêu cầu.|u'
+  - original: Accept Trade Request
+    translation: Đồng ý giao dịch
+  - original: Add Friend
+    translation: Thêm bạn
+  - original: Added [CHARACTERNAME] as a friend!
+    translation: Thêm [CHARACTERNAME] thành bạn bè!
+  - original: Allies are rigged to explode upon death
+    translation: Đồng minh nổ tung khi chết
+  - original: Allies receive a full strength shield
+    translation: Đồng đội nhận được đầy đủ hào quang
+  - original: Allies will explode when killed
+    translation: Đồng đội nổ tung khi bị giết
+  - original: Blocked
+    translation: Đỡ đòn
+  - original: Blocked [CHARACTERNAME] from future games.
+    translation: Chặn [CHARACTERNAME].
+  - original: Blocking
+    translation: Đỡ đòn
+  - original: Blocks Attacks until Plates are Destroyed
+    translation: Đỡ đòn đến khi giáp trụ bị vỡ
+  - original: Blood and Black Lace
+    translation: Máu và ren đen
+  - original: Blood Combo Stat
+    translation: Chỉ số combo máu
+  - original: Vote To Kick Player From Game
+    translation: Bỏ phiếu kick
+  - original: Voted to kick player [CHARACTERNAME] from game.
+    translation: Bỏ phiếu để đá [CHARACTERNAME] khỏi game.
+  - original: Waiting for\n<STAT1>\nto accept trade request.
+    translation: Đang đợi\n<STAT1>\nchấp nhận giao dịch.
+  - original: 'WARNING: High Latency Connection.  You may experience problems playing with this person.'
+    translation: 'CẢNH BÁO: PING quá cao. Bạn sẽ có thể gặp vài vấn đề nếu chơi cùng người này.'
+  - original: Warp to Player
+    translation: Dịch chuyển tới người chơi
+  - original: Warp To Player
+    translation: Bay tới chỗ người chơi
+  - original: Warp to Player's Portal
+    translation: Dịch chuyển tới cổng của người chơi
+  - original: Warp to portal in
+    translation: Dịch chuyển tới cổng trong
+  - original: Warp to your portal
+    translation: Dịch chuyển đến cổng của bạn
+
 Equipments:
+  - original: '[DMGTYPE] Damage Taken is increased by [VALUE]% '
+    translation: '[DMGTYPE] sát thương phải nhận tăng lên [VALUE]%'
   - original: '[ITEM] of Acid Rain'
     translation: ''
   - original: '[ITEM] of Agility'
@@ -277,6 +447,30 @@ Equipments:
     translation: '[ITEM] Khôn ngoan'
   - original: '[ITEM] of Zapping'
     translation: '[ITEM] Đánh đập'
+  - original: '[VALUE]% decrease in the amount of experienced gained'
+    translation: Giảm [VALUE]% kinh nghiệm nhận được
+  - original: '[VALUE]% decrease in the amount of experienced gained [DURATION]'
+    translation: Giảm [VALUE]% kinh nghiệm nhận được trong [DURATION]
+  - original: '[VALUE]% increase in the amount of experienced gained'
+    translation: Tăng [VALUE]% kinh nghiệm nhận được
+  - original: '[VALUE]% increase in the amount of experienced gained for [DURATION]'
+    translation: Tăng [VALUE]% kinh nghiệm nhận được trong [DURATION]
+  - original: '[VALUE5]% chance to inflict -[VALUE_OT] [DMGTYPE] Damage over [DURATION]'
+    translation: '[VALUE5]% cơ hội gây ra -[VALUE_OT] [DMGTYPE] sát thương trong [DURATION]'
+  - original: '[VALUE5]% chance to inflict -[VALUE] [DMGTYPE] Damage'
+    translation: '[VALUE5]% cơ hội gây ra -[VALUE] [DMGTYPE] sát thương'
+  - original: '[VALUE5]% chance to inflict +[VALUE] [DMGTYPE] Damage'
+    translation: '[VALUE5]% cơ hội gây ra +[VALUE] [DMGTYPE] sát thương'
+  - original: +[VALUE] ranged weapon damage bonus for [DURATION]
+    translation: Tăng [VALUE] sát thương vũ khí tầm xa trong [DURATION]
+  - original: '|c00ff9933Charge|u decay rate decreased by [VALUE]%'
+    translation: Tỉ lệ phân rã |c00ff9933Nộ khí|u giảm [VALUE]%
+  - original: '|c00ff9933Charge|u decay rate decreased by [VALUE]% for [DURATION]'
+    translation: Tỉ lệ phân rã |c00ff9933Nộ khí|u giảm [VALUE]% trong [DURATION]
+  - original: '|c00ff9933Charge|u rate increased by [VALUE]%'
+    translation: Tỉ lệ |c00ff9933Nộ khí|u tăng [VALUE]%
+  - original: '|c00ff9933Charge|u rate increased by [VALUE]% for [DURATION]'
+    translation: Tỉ lệ |c00ff9933Nộ khí|u tăng [VALUE]% trong [DURATION]
   - original: A Mysterious Axe
     translation: Rìu chưa giám định
   - original: A Mysterious Belt
@@ -309,14 +503,26 @@ Equipments:
     translation: Gậy phép bí ẩn
   - original: A Random Unique
     translation: Đồ hiếm ngẫu nhiên
+  - original: Abyssal Scimitar
+    translation: Kiếm lưỡi rắn
   - original: Adanced Stock-Bow
     translation: Nỏ cải tiến
+  - original: Adept [ITEM]
+    translation: Tinh thông [ITEM]
+  - original: Adeptus  Leggings
+    translation: Quần nữ hoàng
   - original: Adeptus Boots
     translation: Giày nữ hoàng
+  - original: Adeptus Bracers
+    translation: Găng tay nữ hoàng
+  - original: Adeptus Doublet
+    translation: Áo nữ hoàng
   - original: Adeptus Helm
     translation: Mũ nữ hoàng
   - original: Adeptus Shoulders
     translation: Vai nữ hoàng
+  - original: Advanced Turret
+    translation: Súng máy cao cấp
   - original: Adventurer Armor
     translation: Áo thám hiểm
   - original: Adventurer Baldric
@@ -355,6 +561,10 @@ Equipments:
     translation: Vai thám hiểm
   - original: Adventurer Trousers
     translation: Quần thám hiểm
+  - original: Agile [ITEM]
+    translation: Lanh lẹ [ITEM]
+  - original: Agitating [ITEM]
+    translation: Lo lắng [ITEM]
   - original: Air-Cooled Battle Rifle
     translation: Súng trường vòng đạn
   - original: Alchemical  Plates
@@ -383,6 +593,8 @@ Equipments:
     translation: Nhẫn giả kim thuật
   - original: Alchemist Ring of Sand
     translation: Nhẫn giả kim thuật
+  - original: Alhidade Amulet
+    translation: Dây chuyền Kiến tạo
   - original: All Armor reduced by [VALUE]
     translation: Giáp các loại giảm [VALUE]
   - original: All Armor reduced by [VALUE] for [DURATION]
@@ -391,12 +603,18 @@ Equipments:
     translation: Giáp các loại [VALUE] giáp mỗi công kích
   - original: All Armor reduced by [VALUE] per hit for [DURATION]
     translation: Giáp các loại [VALUE] giáp mỗi công kích trong [DURATION]
+  - original: Alley Shank
+    translation: Vuốt bán nguyệt
   - original: Ancient Bone Golem Sword
     translation: Đại đao
   - original: Arbiter Staff
     translation: Trượng thẩm phán
+  - original: Archer [ITEM]
+    translation: Cung thủ [ITEM]
   - original: Archmage Wand
     translation: Gậy đại pháp sư
+  - original: Arcing [ITEM]
+    translation: Ồn ào [ITEM]
   - original: Argonaut Amulet
     translation: Dây chuyền Bạch tuộc
   - original: Argonaut Armor
@@ -431,6 +649,8 @@ Equipments:
     translation: Quần Quí tộc
   - original: Aristocrat Ring
     translation: Nhẫn Quí tộc
+  - original: Armored [ITEM]
+    translation: Thiết giáp [ITEM]
   - original: Arrowhead Greataxe
     translation: Rìu lớn nghi lễ
   - original: Ascendant Armor
@@ -451,6 +671,16 @@ Equipments:
     translation: Vai vua chúa
   - original: Ashenfeld Dueling Pistol
     translation: Súng lục săn bắn
+  - original: Attack Speed reduced by [VALUE]%
+    translation: Tốc độ tấn công giảm đi [VALUE]%
+  - original: Attack Speed reduced by [VALUE]% for [DURATION]
+    translation: Tốc độ tấn công giảm đi [VALUE]% trong [DURATION]
+  - original: Augmented [ITEM]
+    translation: Nâng cấp [ITEM]
+  - original: Avenging [ITEM]
+    translation: Trả thù [ITEM]
+  - original: Awards [VALUE] Stat Point(s)
+    translation: Nhận được [VALUE] điểm Tiềm năng
   - original: Axe
     translation: Rìu
   - original: Babbage Belt
@@ -531,6 +761,8 @@ Equipments:
     translation: Nỏ kị binh
   - original: Belt
     translation: Đai
+  - original: Bifold [ITEM]
+    translation: Bất khuất [ITEM]
   - original: Big Bore Shotgonne
     translation: Súng trường dài
   - original: Bitter Tag
@@ -551,6 +783,8 @@ Equipments:
     translation: Khuyên tai rực rỡ
   - original: Blighted Tag
     translation: Khuyên tai mù quáng
+  - original: Blinding [ITEM]
+    translation: Mù loà [ITEM]
   - original: Blood Leather Belt
     translation: Đai lưng Huyết bì
   - original: Blood Leather Boots
@@ -573,6 +807,8 @@ Equipments:
     translation: Nhẫn núi lam
   - original: Blue Vanquisher Ring
     translation: Nhẫn thủ vệ
+  - original: Bolstered  [ITEM]
+    translation: Hỗ trợ  [ITEM]
   - original: Bolt Sword
     translation: Kiếm tia chớp
   - original: Bone Axe
@@ -607,6 +843,8 @@ Equipments:
     translation: Súng lục giả kim
   - original: Brightember Ring
     translation: Nhẫn tinh thể
+  - original: Brisk [ITEM]
+    translation: Hoạt bát [ITEM]
   - original: Bronze Armor
     translation: Giáp đồng
   - original: Bronze Axe
@@ -653,14 +891,22 @@ Equipments:
     translation: Rìu lớn lưỡi đá
   - original: Brood Axe
     translation: Rìu lo âu
+  - original: Brutal [ITEM]
+    translation: Tàn bạo [ITEM]
   - original: Bull Axe
     translation: Rìu lớn dài
+  - original: Burning [ITEM]
+    translation: Bốc lửa [ITEM]
   - original: Cabalist Boots
     translation: Giày Thuật sư
   - original: Cabalist Gloves
     translation: Găng tay Thuật sư
   - original: Cabalist Pants
     translation: Quần Thuật sư
+  - original: Cast Speed reduced by [VALUE]%
+    translation: Giảm Tốc độ thi triển [VALUE]%
+  - original: Cast Speed reduced by [VALUE]% for [DURATION]
+    translation: Giảm Tốc độ thi triển [VALUE]% trong [DURATION]
   - original: Cavalry Axe
     translation: Rìu kị binh
   - original: Cavalry Crossbow
@@ -727,6 +973,12 @@ Equipments:
     translation: Vai chuỗi sắt
   - original: Champ Shield
     translation: Khiên chiến binh
+  - original: chance to Block reduced by [VALUE]%
+    translation: Tỉ lệ Đỡ đòn giảm [VALUE]%
+  - original: chance to Block reduced by [VALUE]% for [DURATION]
+    translation: Tỉ lệ Đỡ đòn giảm [VALUE]% trong [DURATION]
+  - original: Charged [ITEM]
+    translation: Đầy đủ [ITEM]
   - original: Charmer Pants
     translation: Quần phép thuật
   - original: Charred Tag
@@ -841,12 +1093,20 @@ Equipments:
     translation: Trượng chỉ huy
   - original: Command Sword
     translation: Kiếm đế chế
+  - original: Commanding [ITEM]
+    translation: Chỉ huy [ITEM]
   - original: Composite Bow
     translation: Cung hỗn hợp
   - original: Composite Crossbow
     translation: Nỏ cải tiến
+  - original: Consumes [VALUE]% |c00ff9933Charge|u
+    translation: Tiêu thụ [VALUE]% |c00ff9933Nộ khí|u
+  - original: Consumes [VALUE]% |c00ff9933Charge|u per second over [DURATION]
+    translation: Tiêu thụ [VALUE]% |c00ff9933Nộ khí|u mỗi giây trong [DURATION]
   - original: Cool Tag
     translation: Khuyên tai cool ngầu
+  - original: Cooling [ITEM]
+    translation: Lạnh lẽo [ITEM]
   - original: Corpseleather Gloves
     translation: Găng da tử thi
   - original: Coupler Ring
@@ -857,24 +1117,46 @@ Equipments:
     translation: Khuyên tai nứt nẻ
   - original: Creed Axe
     translation: Rìu lớn nghi lễ
+  - original: Creepy [ITEM]
+    translation: Sợ hãi [ITEM]
   - original: Crest Shield
     translation: Khiên mào gà
   - original: Crested Staff
     translation: Trượng đầu lông
+  - original: Critical Hit Chance reduced by [VALUE]%
+    translation: Giảm [VALUE]% Tỉ lệ Đòn Chí mạng
+  - original: Critical Hit Chance reduced by [VALUE]% for [DURATION]
+    translation: Giảm [VALUE]% Tỉ lệ Đòn Chí mạng trong [DURATION]
   - original: Critter Tag
     translation: Khuyên tai hoang dã
   - original: Crossbones Bow
     translation: Cung bộ lạc
   - original: Crossbow
     translation: Nỏ
+  - original: Crushing [ITEM]
+    translation: Nghiền nát [ITEM]
   - original: Crystal Mace
     translation: Búa tinh thể
+  - original: Current [NAME] cooldown incerased by [VALUE] seconds
+    translation: Thời gian hồi của [NAME] hiện tại tăng [VALUE] giây
+  - original: Current [NAME] cooldown reduced by [VALUE] seconds
+    translation: Thời gian hồi của [NAME] hiện tại giảm [VALUE] giây
   - original: Cursed Bow
     translation: Cung nguyền rủa
   - original: Cursed Sword
     translation: Kiếm nguyền rủa
+  - original: Deadly [ITEM]
+    translation: Chết chóc [ITEM]
   - original: Death's-Head Axe
     translation: Rìu tử thi
+  - original: Decreases charges in meter by [VALUE]
+    translation: Giảm [VALUE] nộ khí
+  - original: Decreases charges in meter by [VALUE] for [DURATION]
+    translation: Giảm [VALUE] nộ khí trong [DURATION]
+  - original: Deflecting [ITEM]
+    translation: Phản hồi [ITEM]
+  - original: Demolishing [ITEM]
+    translation: Phá hủy [ITEM]
   - original: Desert Belt
     translation: Đai lưng sa mạc
   - original: Desert Boots
@@ -911,6 +1193,8 @@ Equipments:
     translation: Nhẫn Long quang
   - original: Dragoon Pistol
     translation: Súng lục nặng
+  - original: Draining [ITEM]
+    translation: Rút cạn [ITEM]
   - original: Draketalon Belt
     translation: Đai lưng Điềm báo
   - original: Draketalon Boots
@@ -965,6 +1249,12 @@ Equipments:
     translation: Nhẫn lôi
   - original: Electric Shield
     translation: Khiên điện
+  - original: Electric-Armored [ITEM]
+    translation: Kháng lôi [ITEM]
+  - original: Electric-Surge [ITEM]
+    translation: Lôi sát [ITEM]
+  - original: Electro-Spiked [ITEM]
+    translation: Chông điện [ITEM]
   - original: Elegent  LongBow
     translation: Cung cánh vàng
   - original: Elite Smith - Enchanted Fire Sword
@@ -1021,6 +1311,10 @@ Equipments:
     translation: Vai Thanh tẩy
   - original: Empire Sword
     translation: Kiếm đế chế
+  - original: Energizing [ITEM]
+    translation: Cương quyết [ITEM]
+  - original: Engulfing [ITEM]
+    translation: Tiêu tan [ITEM]
   - original: Estherian Belt
     translation: Đai lưng dân cư
   - original: Estherian Bolt Ring
@@ -1087,8 +1381,12 @@ Equipments:
     translation: Nhẫn dị dạng
   - original: Ezrohir Shoulders
     translation: Vai đột biến
+  - original: Fanged [ITEM]
+    translation: Mê hoặc [ITEM]
   - original: Farmer's Shotgonne
     translation: Súng trường nông dân
+  - original: Feasting [ITEM]
+    translation: Tang lễ [ITEM]
   - original: Felling Axe
     translation: Rìu lớn chặt cây
   - original: Feral Gloves
@@ -1099,6 +1397,8 @@ Equipments:
     translation: Nhẫn Hoang dã
   - original: Fever Tag
     translation: Khuyên tai sôi nổi
+  - original: Fiery [ITEM]
+    translation: Bốc lửa [ITEM]
   - original: Fighting Staff
     translation: Trượng chiến đấu
   - original: Fighting Sword
@@ -1109,6 +1409,12 @@ Equipments:
     translation: Khiên lửa
   - original: Fire Wand
     translation: Gậy lửa
+  - original: Fire-Armored [ITEM]
+    translation: Kháng hoả [ITEM]
+  - original: Fire-Spiked [ITEM]
+    translation: Chông lửa [ITEM]
+  - original: Fire-Surge [ITEM]
+    translation: Hoả sát [ITEM]
   - original: Firebox Belt
     translation: Đai lưng hàng thùng
   - original: Firebox Ring
@@ -1133,6 +1439,8 @@ Equipments:
     translation: Súng lục bút chì
   - original: Flintlock Shotgonne
     translation: Súng trường ngắn
+  - original: Focusing [ITEM]
+    translation: Tập trung [ITEM]
   - original: Footman's Mace
     translation: Búa kị binh
   - original: Forest Belt
@@ -1161,6 +1469,10 @@ Equipments:
     translation: Găng tay Nhiếp chính
   - original: Formal Regent Pants
     translation: Quần Nhiếp chính
+  - original: Fortified  [ITEM]
+    translation: Tăng cường [ITEM]
+  - original: Fortified [ITEM]
+    translation: Tăng cường [ITEM]
   - original: Foul Tag
     translation: Khuyên tai phạm lỗi
   - original: Foundation Boots
@@ -1171,6 +1483,10 @@ Equipments:
     translation: Nỏ xương
   - original: Four-Gauge Heavy Rifle
     translation: Súng trường đòn bẩy
+  - original: Freezing [ITEM]
+    translation: Nhiễm lạnh [ITEM]
+  - original: Frightening [ITEM]
+    translation: Khủng khiếp [ITEM]
   - original: Frigid Tag
     translation: Khuyên tai lạnh lùng
   - original: Frost Shield
@@ -1179,6 +1495,8 @@ Equipments:
     translation: Khuyên tai băng giá
   - original: Frostbite Tag
     translation: Khuyên tai tê cóng
+  - original: Frozen [ITEM]
+    translation: Đông lạnh [ITEM]
   - original: Frozen Tag
     translation: Khuyên tai băng giá
   - original: Fulcrum Bow
@@ -1197,6 +1515,10 @@ Equipments:
     translation: Nhẫn mùa xuân
   - original: Gem-Studded Wand
     translation: Gậy đầu đinh
+  - original: Generates [VALUE]% |c00ff9933Charge|u
+    translation: Tạo ra [VALUE]% |c00ff9933Nộ khí|u
+  - original: Generates [VALUE]% |c00ff9933Charge|u per second over [DURATION]
+    translation: Tạo ra [VALUE]% |c00ff9933Nộ khí|u mỗi giây trong [DURATION]
   - original: Geodetic Ring
     translation: Đai trắc địa
   - original: Ghastly Boots
@@ -1217,6 +1539,10 @@ Equipments:
     translation: Khiên ấn thạch
   - original: Goat Head Wand
     translation: Gậy đầu dê
+  - original: Gold found is decreased by [VALUE]%
+    translation: Lượng vàng tìm thấy giảm [VALUE]%
+  - original: Gold found is decreased by [VALUE]% for [DURATION]
+    translation: Lượng vàng tìm thấy giảm [VALUE]% trong [DURATION]
   - original: Gold Sword
     translation: Kiếm vàng
   - original: Golden Bow
@@ -1257,6 +1583,8 @@ Equipments:
     translation: Quần Thiết quyền
   - original: Granite Ring
     translation: Nhẫn Thiết quyền
+  - original: Grasping [ITEM]
+    translation: Nắm bắt [ITEM]
   - original: Great-Staff
     translation: Trượng lớn
   - original: Greataxe
@@ -1277,6 +1605,8 @@ Equipments:
     translation: Găng mồ hôi
   - original: Grimy Work-Pants
     translation: Quần mồ hôi
+  - original: Grounded [ITEM]
+    translation: Căn cứ [ITEM]
   - original: Grundig's Pants
     translation: Quần Pháo đài
   - original: Grunnheim Lock-Staff
@@ -1299,8 +1629,12 @@ Equipments:
     translation: Thắt lưng Điềm báo
   - original: Harbinger Ring
     translation: Nhẫn Điềm báo
+  - original: Hasty [ITEM]
+    translation: Nóng vội [ITEM]
   - original: Headsman's Axe
     translation: Rìu lớn hiến tế
+  - original: Healthy [ITEM]
+    translation: Khoẻ mạnh [ITEM]
   - original: Hearth Tag
     translation: Khuyên tai đá hoa
   - original: Heartwood Bow
@@ -1375,8 +1709,16 @@ Equipments:
     translation: Khiên băng
   - original: Ice Wand
     translation: Gậy băng
+  - original: Ice-Armored [ITEM]
+    translation: Kháng băng [ITEM]
   - original: Ice-Crystal Wand
     translation: Gậy tinh thể băng
+  - original: Ice-Spiked [ITEM]
+    translation: Chông băng [ITEM]
+  - original: Ice-Surge [ITEM]
+    translation: Băng sát [ITEM]
+  - original: Icy [ITEM]
+    translation: Băng giá [ITEM]
   - original: Icy Tag
     translation: Khuyên tai băng
   - original: Imperial Battle Sword
@@ -1405,6 +1747,10 @@ Equipments:
     translation: Vai hoàng gia
   - original: Imperial Trench-Rifle
     translation: Súng trường lưỡi lê
+  - original: Increases charges in meter by [VALUE]
+    translation: Tăng [VALUE] nộ khí
+  - original: Increases charges in meter by [VALUE] for [DURATION]
+    translation: Tăng [VALUE] nộ khí trong [DURATION]
   - original: Incubus Belt
     translation: Đai lưng Hồn quỷ
   - original: Incubus Boots
@@ -1439,6 +1785,12 @@ Equipments:
     translation: Đai lưng Thanh tra
   - original: Inquisitor Ring
     translation: Nhẫn Thanh tra
+  - original: Intractable [ITEM]
+    translation: Bất trị [ITEM]
+  - original: Invigorating [ITEM]
+    translation: Hồi sinh [ITEM]
+  - original: Invoking [ITEM]
+    translation: Cầu hồn [ITEM]
   - original: Iron Axe
     translation: Rìu sắt
   - original: Iron Belt
@@ -1489,6 +1841,8 @@ Equipments:
     translation: Vai lữ hành
   - original: Jolt Tag
     translation: Khuyên tai chấn động
+  - original: Juiced [ITEM]
+    translation: Ngọt ngào [ITEM]
   - original: Karz's Boots
     translation: Giày chiến đấu
   - original: Killian's Boots
@@ -1567,6 +1921,8 @@ Equipments:
     translation: Quần Mê hoặc
   - original: Lever-Action Crossbow
     translation: Nỏ xương
+  - original: Liberating [ITEM]
+    translation: Giải phóng [ITEM]
   - original: Liberation Boots
     translation: Giày Giải phóng
   - original: Liberation Gloves
@@ -1617,10 +1973,14 @@ Equipments:
     translation: Đai lưng động cơ
   - original: Long Axe
     translation: Rìu lớn dài
+  - original: Long Range [ITEM]
+    translation: Tầm xa [ITEM]
   - original: Low Soft Boots
     translation: Giày vải mềm
   - original: Luck Belt
     translation: Đai lưng may mắn
+  - original: Lucky [ITEM]
+    translation: May mắn [ITEM]
   - original: Lumber Axe
     translation: Rìu lớn chặt cây
   - original: MacAlister's Belt
@@ -1687,12 +2047,22 @@ Equipments:
     translation: Vai Tàn nhẫn
   - original: Meteor Sword
     translation: Kiếm răng cá mập
+  - original: Mighty [ITEM]
+    translation: Hùng mạnh [ITEM]
   - original: Mika's Boots
     translation: Giày buộc vải
   - original: Military Crossbow
     translation: Nỏ săn bắn
   - original: Military Shotgonne
     translation: Súng trường kị binh
+  - original: Minions Deal -[VALUE_OT] [DMGTYPE] Damage over [DURATION]
+    translation: Quái thú gây ra -[VALUE_OT] [DMGTYPE] sát thương trong [DURATION]
+  - original: Minions Deal [VALUE_OT] [DMGTYPE] Damage over [DURATION]
+    translation: Quái thú gây ra [VALUE_OT] [DMGTYPE] sát thương trong [DURATION]
+  - original: Minions Deal [VALUE] [DMGTYPE] Damage
+    translation: Quái thú gây ra [VALUE] [DMGTYPE] sát thương
+  - original: Momentous [ITEM]
+    translation: Quan trọng [ITEM]
   - original: Mondon's Belt
     translation: Đai lưng Thiết giáp
   - original: Mondon's Ring
@@ -1717,6 +2087,8 @@ Equipments:
     translation: Giày bám bùn
   - original: Mulberry Bow
     translation: Cung gỗ dâu
+  - original: Multi-Socket [ITEM]
+    translation: Nhiều lỗ [ITEM]
   - original: Mysterious Boots
     translation: Giầy huyền bí
   - original: Mysterious Gem
@@ -1727,6 +2099,8 @@ Equipments:
     translation: Quần huyền bí
   - original: Mysterious Shoulders
     translation: Vai huyền bí
+  - original: Mystical [ITEM]
+    translation: Bí ẩn [ITEM]
   - original: Near-and-Far Boots
     translation: Giày tiến bộ
   - original: Necromius Gloves
@@ -1821,6 +2195,8 @@ Equipments:
     translation: Súng lục lính canh
   - original: Padded Belt
     translation: Đai lưng nhồi bông
+  - original: Paired [ITEM]
+    translation: Ghép đôi [ITEM]
   - original: Patchwork Belt
     translation: Đai lưng chắp vá
   - original: Patchwork Boots
@@ -1849,6 +2225,30 @@ Equipments:
     translation: Giày ma pháp
   - original: Perictione's Shoulders
     translation: Vai hiền nhân
+  - original: Permanently decreases Dexterity by [VALUE]
+    translation: Giảm [VALUE] Nhanh nhẹn vĩnh viễn
+  - original: Permanently decreases Focus by [VALUE]
+    translation: Giảm [VALUE] Trí lực vĩnh viễn
+  - original: Permanently decreases Health by [VALUE]
+    translation: Giảm [VALUE] Sinh lực vĩnh viễn
+  - original: Permanently decreases Mana by [VALUE]
+    translation: Giảm [VALUE] Năng lượng vĩnh viễn
+  - original: Permanently decreases Strength by [VALUE]
+    translation: Giảm [VALUE] Sức mạnh vĩnh viễn
+  - original: Permanently decreases Vitality by [VALUE]
+    translation: Giảm [VALUE] Thể lực vĩnh viễn
+  - original: Permanently increases Dexterity by [VALUE]
+    translation: Tăng [VALUE] Nhanh nhẹn vĩnh viễn
+  - original: Permanently increases Focus by [VALUE]
+    translation: Tăng [VALUE] Trí lực vĩnh viễn
+  - original: Permanently increases Health by [VALUE]
+    translation: Tăng [VALUE] Sinh lực vĩnh viễn
+  - original: Permanently increases Mana by [VALUE]
+    translation: Tăng [VALUE] Năng lượng vĩnh viễn
+  - original: Permanently increases Strength by [VALUE]
+    translation: Tăng [VALUE] Sức mạnh vĩnh viễn
+  - original: Permanently increases Vitality by [VALUE]
+    translation: Tăng [VALUE] Thể lực vĩnh viễn
   - original: Pernicious Tag
     translation: Khuyên tai độc hại
   - original: Pestilence Tag
@@ -1937,6 +2337,14 @@ Equipments:
     translation: Kiếm độc
   - original: Poison Wand
     translation: Gậy độc
+  - original: Poison-Armored [ITEM]
+    translation: Kháng độc [ITEM]
+  - original: Poison-Spiked [ITEM]
+    translation: Chông độc [ITEM]
+  - original: Poison-Surge [ITEM]
+    translation: Độc sát [ITEM]
+  - original: Poisoning [ITEM]
+    translation: Độc hại [ITEM]
   - original: Pole Axe
     translation: Rìu lớn sắc bén
   - original: Polearm
@@ -1949,6 +2357,8 @@ Equipments:
     translation: Quần chiến sĩ
   - original: Power Tag
     translation: Khuyên tai sức mạnh
+  - original: Powerful [ITEM]
+    translation: Quyền lực [ITEM]
   - original: Praetorian Belt
     translation: Praetorian Belt
   - original: Praetorian Boots
@@ -1961,10 +2371,16 @@ Equipments:
     translation: Quần pháp quan
   - original: Praetorian Shoulders
     translation: Vai pháp quan
+  - original: Precise [ITEM]
+    translation: Chắc chắn [ITEM]
   - original: Precision Manumorphic Gloves
     translation: Găng tay tinh xảo
+  - original: Prickly [ITEM]
+    translation: Gai góc [ITEM]
   - original: Primitive Greataxe
     translation: Rìu lớn nguyên thuỷ
+  - original: Prismatic [ITEM]
+    translation: Lăng trụ [ITEM]
   - original: Professor Parma's Steam-Shield
     translation: Khiên mặt quỷ
   - original: Pulley-Bow
@@ -2043,6 +2459,8 @@ Equipments:
     translation: Vai vảy đỏ
   - original: Reflex Crossbow
     translation: Nỏ cải tiến
+  - original: Regenerating [ITEM]
+    translation: Phục hồi [ITEM]
   - original: Regent Belt
     translation: Đai phụ chánh
   - original: Regent Bolt Ring
@@ -2063,6 +2481,10 @@ Equipments:
     translation: Vai phụ chánh
   - original: Reinforced Bow
     translation: Cung hỗn hợp
+  - original: Rejuvenating [ITEM]
+    translation: Trẻ hóa [ITEM]
+  - original: Removes [VALUE] Stat Point(s)
+    translation: Loại bỏ [VALUE] điểm Tiềm năng
   - original: Repeating Crossbow
     translation: Nỏ kị binh
   - original: Requires a Bow, Crossbow, Shotgonne, or Pistol
@@ -2075,6 +2497,12 @@ Equipments:
     translation: Yêu cầu Trượng hoặc Gậy phép
   - original: Requires a Wand
     translation: Yêu cầu vũ khí:Gậy phép
+  - original: Resisting [ITEM]
+    translation: Chống lại [ITEM]
+  - original: Restorative [ITEM]
+    translation: Hồi phục [ITEM]
+  - original: Restoring  [ITEM]
+    translation: Phục hồi  [ITEM]
   - original: Rhino-Hide Belt
     translation: Đai lưng da tê giác
   - original: Rhino-Hide Boots
@@ -2133,6 +2561,8 @@ Equipments:
     translation: Súng trường ấn thạch
   - original: Sacrificial Axe
     translation: Rìu lớn hiến tế
+  - original: Sage [ITEM]
+    translation: Hiền nhân [ITEM]
   - original: Sage's Staff
     translation: Trượng hiền nhân
   - original: Sailor's Crossbow
@@ -2147,8 +2577,12 @@ Equipments:
     translation: Quần kỳ nhông
   - original: Salamander Shoulders
     translation: Vai kỳ nhông
+  - original: Salving [ITEM]
+    translation: Cứu hộ [ITEM]
   - original: Sanguine Gem
     translation: Tinh hồng bảo thạch
+  - original: Savage [ITEM]
+    translation: Dữ tợn [ITEM]
   - original: Savage Boots
     translation: Giày Man rợ
   - original: Savage Gloves
@@ -2159,6 +2593,8 @@ Equipments:
     translation: Quần Man rợ
   - original: Savage Shoulders
     translation: Vai Man rợ
+  - original: Savant [ITEM]
+    translation: Khôn ngoan [ITEM]
   - original: Scale Belt
     translation: Đai vảy cá
   - original: Scale Boots
@@ -2211,6 +2647,8 @@ Equipments:
     translation: Rìu răng cưa
   - original: Servo-Helm
     translation: Mũ thợ máy
+  - original: Set current [NAME] cooldown to [VALUE] seconds
+    translation: Đặt thời gian hồi của [NAME] hiện tại thành [VALUE] giây
   - original: Settler Belt
     translation: Đai lưng di cư
   - original: Settler Boots
@@ -2235,16 +2673,22 @@ Equipments:
     translation: Gậy thuỷ tinh
   - original: Sharktooth Sword
     translation: Kiếm răng cá mập
+  - original: Sharp [ITEM]
+    translation: Sắc bén [ITEM]
   - original: Shatterbolt Tag
     translation: Khuyên tai tan vỡ
   - original: Shield
     translation: Khiên
+  - original: Shieldsplitter [ITEM]
+    translation: Phá giáp [ITEM]
   - original: Shiny Metal Shoulders
     translation: Vai thợ máy
   - original: Shiver Tag
     translation: Khuyên tai rùng mình
   - original: Shock Tag
     translation: Khuyên tai sốc
+  - original: Shocking [ITEM]
+    translation: Sốc điện [ITEM]
   - original: Short Sword
     translation: Kiếm ngắn
   - original: Shotgonne
@@ -2253,6 +2697,10 @@ Equipments:
     translation: Cung xiềng xích
   - original: Siege Crossbow
     translation: Nỏ xiềng xích
+  - original: Silence for [DURATION]
+    translation: Câm lặng trong [DURATION]
+  - original: Silencing [ITEM]
+    translation: Câm lặng [ITEM]
   - original: Simple Crossbow
     translation: Nỏ cơ bản
   - original: Sinfully Ugly Boots
@@ -2265,6 +2713,8 @@ Equipments:
     translation: Nhẫn sáu thanh
   - original: Skeleton Mace
     translation: Búa xương
+  - original: Skillful [ITEM]
+    translation: Khéo léo [ITEM]
   - original: Skjollheimer Axe
     translation: Rìu lưỡi thép
   - original: Skull Axe
@@ -2275,6 +2725,12 @@ Equipments:
     translation: Trượng đầu lâu
   - original: Skullcracker Axe
     translation: Rìu đầu lâu vỡ
+  - original: Slamming [ITEM]
+    translation: Đổ sập [ITEM]
+  - original: Slashing [ITEM]
+    translation: Ác liệt [ITEM]
+  - original: Smart [ITEM]
+    translation: Thông minh [ITEM]
   - original: Smokebox Belt
     translation: Đai lưng hàng thùng
   - original: Smokebox Ring
@@ -2289,6 +2745,8 @@ Equipments:
     translation: Mũ ma pháp
   - original: Sodalis Shoulders
     translation: Vai ma pháp
+  - original: Soldier [ITEM]
+    translation: Chiến sĩ [ITEM]
   - original: Soldier's Crossbow
     translation: Nỏ chiến sĩ
   - original: Soldier's Sword
@@ -2321,6 +2779,8 @@ Equipments:
     translation: Gậy răng nhọn
   - original: Spikebeard Greataxe
     translation: Rìu lớn lưỡi đá
+  - original: Spiked [ITEM]
+    translation: Chông gai [ITEM]
   - original: Spiked Bow
     translation: Cung xiềng xích
   - original: Spinecord Crossbow
@@ -2395,6 +2855,10 @@ Equipments:
     translation: Búa đá lớn
   - original: Striking Dragon Staff
     translation: Trượng tấn công
+  - original: Strong [ITEM]
+    translation: Kiên cố [ITEM]
+  - original: Stunning [ITEM]
+    translation: Choáng váng [ITEM]
   - original: Sturdy Belt
     translation: Đai bền bỉ
   - original: Sturdy Boots
@@ -2435,6 +2899,8 @@ Equipments:
     translation: Trượng người gấu
   - original: Suicide Wand
     translation: Gậy tự sát
+  - original: Superior [ITEM]
+    translation: Kiêu ngạo [ITEM]
   - original: Surge Tag
     translation: Khuyên tai dâng trào
   - original: Surveyor Boots
@@ -2445,18 +2911,26 @@ Equipments:
     translation: Quần khảo sát
   - original: Surveyor Shoulders
     translation: Vai khảo sát
+  - original: Swaps pos with pet in [VALUE] seconds
+    translation: Đổi vị trí với thú nuôi [VALUE] giây
   - original: Sweltering Tag
     translation: Khuyên tai nôn nóng
+  - original: Swift [ITEM]
+    translation: Nhanh nhẹn [ITEM]
   - original: Sword
     translation: Kiếm
   - original: Sword and Board
     translation: Kiếm và Khiên
+  - original: Synergistic [ITEM]
+    translation: Phối hợp [ITEM]
   - original: Tag
     translation: Khuyên tai
   - original: Tainted Tag
     translation: Khuyên tai ô nhiễm
   - original: Taper Shield
     translation: Khiên hình nón
+  - original: Target Locked for [DURATION] seconds
+    translation: Khoá mục tiêu trong [DURATION] giây
   - original: Tarroch's Battle-Gloves
     translation: Găng của Tarroch
   - original: Tarroch's Boots
@@ -2563,6 +3037,14 @@ Equipments:
     translation: Khuyên tai sấm sét
   - original: Timber Axe
     translation: Rìu lớn chặt cây
+  - original: Time until |c00ff9933Charge|u decay increased by [VALUE] seconds
+    translation: Thời gian tới khi |c00ff9933Nộ khí|u phân rã tăng [VALUE] giây
+  - original: Time until |c00ff9933Charge|u decay increased by [VALUE] seconds for [DURATION]
+    translation: Thời gian tới khi |c00ff9933Nộ khí|u phân rã tăng [VALUE] giây trong [DURATION]
+  - original: Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds
+    translation: Thời gian tới khi |c00ff9933Nộ khí|u phân rã giảm [VALUE] giây
+  - original: Time until |c00ff9933Charge|u decay reduced by [VALUE] seconds for [DURATION]
+    translation: Thời gian tới khi |c00ff9933Nộ khí|u phân rã giảm [VALUE] giây trong [DURATION]
   - original: Tinder Tag
     translation: Khuyên tai bắt lửa
   - original: Torque Ring
@@ -2571,6 +3053,8 @@ Equipments:
     translation: Nhẫn phương hướng
   - original: Totemic Greataxe
     translation: Rìu lớn nguyên thuỷ
+  - original: Tough [ITEM]
+    translation: Bền bỉ [ITEM]
   - original: Tower Shield
     translation: Khiên tháp
   - original: Toxic Tag
@@ -2591,6 +3075,16 @@ Equipments:
     translation: Vai dẫn đầu
   - original: Trancendent Ring
     translation: Nhẫn Siêu việt
+  - original: Transformation time is decreased by [VALUE]%
+    translation: Thời gian biến đổi giảm [VALUE]%
+  - original: Transformation time is decreased by [VALUE]% for [DURATION].
+    translation: Thời gian biến đổi giảm [VALUE]% trong [DURATION].
+  - original: Transformation time is increased by [VALUE]%
+    translation: Thời gian biến đổi tăng [VALUE]%
+  - original: Transformation time is increased by [VALUE]% for [DURATION].
+    translation: Thời gian biến đổi tăng [VALUE]% trong [DURATION].
+  - original: Transformation time is incresed by [VALUE]% for [DURATION].
+    translation: Thời gian biến đổi tăng [VALUE]% trong [DURATION].
   - original: Trapper Pistol
     translation: Súng lục chiến đấu
   - original: Traveling Staff
@@ -2717,6 +3211,8 @@ Equipments:
     translation: Nhẫn thần nữ
   - original: Valmarken Axe
     translation: Rìu lưỡi thép
+  - original: Vampiric [ITEM]
+    translation: Hút máu [ITEM]
   - original: Vance's Gloves
     translation: Găng tay theo dõi
   - original: Vanquisher Armor
@@ -2771,10 +3267,44 @@ Equipments:
     translation: Khuyên tai cánh dơi
   - original: Venom Tag
     translation: Khuyên tai độc ác
+  - original: Venomous [ITEM]
+    translation: Ác độc [ITEM]
   - original: Vented Shotgonne
     translation: Súng trường vòng đạn
+  - original: Very Adept [ITEM]
+    translation: Lão luyện [ITEM]
+  - original: Very Deadly [ITEM]
+    translation: Nguy hiểm [ITEM]
+  - original: Very Healthy [ITEM]
+    translation: Cường tráng [ITEM]
+  - original: Very Powerful [ITEM]
+    translation: Rất mạnh [ITEM]
+  - original: Very Prickly [ITEM]
+    translation: Gai góc [ITEM]
+  - original: Very Sharp [ITEM]
+    translation: Khôn ngoan [ITEM]
+  - original: Very Smart [ITEM]
+    translation: Tinh tường [ITEM]
+  - original: Very Strong [ITEM]
+    translation: Vững chắc [ITEM]
+  - original: Very Swift [ITEM]
+    translation: Rất nhanh [ITEM]
+  - original: Very Tough [ITEM]
+    translation: Mạnh mẽ [ITEM]
+  - original: Vicious [ITEM]
+    translation: Luẩn quẩn [ITEM]
   - original: Vile Tag
     translation: Khuyên tai vô cớ
+  - original: Virulent [ITEM]
+    translation: Nguy hiểm [ITEM]
+  - original: Void Ember
+    translation: Hư vô thạch
+  - original: Void Ember Chip
+    translation: Viên Hư vô thạch
+  - original: Void Ember Shard
+    translation: Mảnh Hư vô thạch
+  - original: Void Ember Speck
+    translation: Vụn Hư vô thạch
   - original: Walkabout Boots
     translation: Giày đi bộ
   - original: Walking Staff
@@ -2821,6 +3351,8 @@ Equipments:
     translation: Quần pháp sư
   - original: Warlock Shoulders
     translation: Vai phù thuỷ
+  - original: Warming [ITEM]
+    translation: Ấm áp [ITEM]
   - original: Wasteland Bow
     translation: Cung xiềng xích
   - original: Wazir Belt
@@ -2843,6 +3375,8 @@ Equipments:
     translation: Quần pháp thuật
   - original: Wazir Shoulders
     translation: Vai pháp thuật
+  - original: Wealthy [ITEM]
+    translation: Giàu có [ITEM]
   - original: Wheellock Pistol
     translation: Súng lục bút chì
   - original: Wildwood Belt
@@ -3839,6 +4373,174 @@ Equipments/Skills Stats:
     translation: +[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép
   - original: +[VALUE]m to Bow, Crossbow, Pistol and Wand range for [DURATION]
     translation: +[VALUE]m phạm vi của Cung, Nỏ, Súng lục và Gậy phép trong [DURATION]
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_attackspeed>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_attackspeed>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_crit>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_crit>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_damagepct>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_damagepct>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dot>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_dot>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_dualwield>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_dualwield>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_execute>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_execute>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_immob>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_immob>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_knockback>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_knockback>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_lifesteal>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_lifesteal>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_manasteal>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_manasteal>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_missilerange>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_missilerange>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_chaoticrift>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_proc_chaoticrift>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_fullheal>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_proc_fullheal>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_proc_zombie>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_proc_zombie>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shieldbreaker>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_shieldbreaker>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_shortstun>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_shortstun>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_splash>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_splash>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_stormclaw>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_stormclaw>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_tangle>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_tangle>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion creatures to upgrade (<stat:killcount_champions_10_turnalignment>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions_10_turnalignment>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 10 Champion Creatures to Upgrade (<stat:killcount_champions>/10 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 10 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions>/10)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 100 Champion Creatures to Upgrade (<stat:killcount_champions>/100 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 100 Chiến binh để nâng cấp (Đã giết <stat:killcount_champions>/100)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 100 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/100 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 100 Xác sống để nâng cấp (Đã giết <stat:KILLCOUNT_UNDEAD>/100)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 1000 Undead Creatures to Upgrade (<stat:KILLCOUNT_UNDEAD>/1000 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 1000 Xác sống để nâng cấp (Đã giết <stat:KILLCOUNT_UNDEAD>/1000)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Người lùn để nâng cấp (Đã giết <stat:KILLCOUNT_DWARF>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Goblins to Upgrade (<stat:killcount_goblin>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Yêu tinh để nâng cấp (Đã giết <stat:killcount_goblin>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Mechanical Creatures to Upgrade (<stat:killcount_mechs>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Máy móc để nâng cấp (Đã giết <stat:killcount_mechs>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Mycons to Upgrade (<stat:killcount_fungus>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Quỷ nấm để nâng cấp (Đã giết <stat:killcount_fungus>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Spiders to Upgrade (<stat:killcount_spiders>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Nhện để nâng cấp (Đã giết <stat:killcount_spiders>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Sturmbeorn to Upgrade (<stat:killcount_sturmbeorn>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Người gấu để nâng cấp (Đã giết <stat:killcount_Sturmbeorn>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Trogs to Upgrade (<stat:killcount_trogs>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Quỷ mù để nâng cấp (Đã giết <stat:killcount_trogs>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 20 Varkolyn to Upgrade (<stat:killcount_varkolyn>/20 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 20 Người dơi để nâng cấp (Đã giết <stat:killcount_varkolyn>/20)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 200 Dwarves to Upgrade (<stat:KILLCOUNT_DWARF>/200 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 200 Người lùn để nâng cấp (Đã giết <stat:KILLCOUNT_DWARF>/200)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 200 Mycons to Upgrade (<stat:killcount_fungus>/200 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 200 Quỷ nấm để nâng cấp (Đã giết <stat:killcount_fungus>/200)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 200 Spiders to Upgrade (<stat:killcount_spiders>/200 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 200 Nhện để nâng cấp (Đã giết <stat:killcount_spiders>/200)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 200 Trogs to Upgrade (<stat:killcount_trogs>/200 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 200 Quỷ mù để nâng cấp (Đã giết <stat:killcount_trogs>/200)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 200 Varkolyn to Upgrade (<stat:killcount_varkolyn>/200 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 200 Người dơi để nâng cấp (Đã giết <stat:killcount_varkolyn>/200)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_attackspeed>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_attackspeed>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_crit>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_crit>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_damagepct>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_damagepct>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dot>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_dot>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_dualwield>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_dualwield>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_execute>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_execute>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_immob>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_immob>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_knockback>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_knockback>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_lifesteal>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_lifesteal>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_manasteal>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_manasteal>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_missilerange>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_missilerange>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_chaoticrift>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_proc_chaoticrift>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_fullheal>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_proc_fullheal>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_proc_zombie>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_proc_zombie>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shieldbreaker>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_shieldbreaker>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_shortstun>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_shortstun>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_splash>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_splash>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_stormclaw>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_stormclaw>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_tangle>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_tangle>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 enemies to upgrade (<stat:killcount_any_25_turnalignment>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_25_turnalignment>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 25 monsters to Upgrade (<stat:killcount_any>/25 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 25 quái vật để nâng cấp (Đã giết <stat:killcount_any>/25)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_attackspeed>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_attackspeed>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_crit>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_crit>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_damagepct>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_damagepct>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dot>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_dot>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_dualwield>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_dualwield>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_execute>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_execute>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_immob>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_immob>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_knockback>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_knockback>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_lifesteal>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_lifesteal>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_manasteal>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_manasteal>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_missilerange>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_missilerange>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_chaoticrift>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_proc_chaoticrift>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_fullheal>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_proc_fullheal>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_stormclaw>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_proc_stormclaw>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_proc_zombie>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_proc_zombie>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shieldbreaker>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_shieldbreaker>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_shortstun>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_shortstun>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_splash>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_splash>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_tangle>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_tangle>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 enemies to upgrade (<stat:killcount_any_250_turnalignment>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 kẻ thù để nâng cấp (Đã giết <stat:killcount_any_250_turnalignment>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 250 monsters to Upgrade (<stat:killcount_any>/250 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 250 quái vật để nâng cấp (Đã giết <stat:killcount_any>/250)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 5 Ratlins to Upgrade (<stat:GOALFLAG1>/5 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 5 Chuột bọ để nâng cấp (Đã giết <stat:GOALFLAG1>/5)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 50 Ezrohir to Upgrade (<stat:killcount_ezrohir>/50 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 50 Ezrohir để nâng cấp (Đã giết <stat:killcount_ezrohir>/50)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 50 Netherim to Upgrade (<stat:killcount_netherim>/50 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 50 Quỷ tộc để nâng cấp (Đã giết <stat:killcount_netherim>/50)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 50 Tu''tarans to Upgrade (<stat:killcount_tutaran>/50 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 50 Tộc Bò Sát để nâng cấp (Đã giết <stat:killcount_tutaran>/50)'
+  - original: '|cFFEAAA15Augmented Weapon:\n     Kill 50 Zombies to Upgrade (<stat:ZOMBIESLAYER>/50 killed)'
+    translation: '|cFFEAAA15Tăng cường:\n     Giết 50 Thây ma để nâng cấp (Đã giết <stat:ZOMBIESLAYER>/50)'
   - original: '|cffff0000[VALUE] Health loss over [DURATION]|u'
     translation: '|cffff0000Mất đi [VALUE] Sinh lực trong [DURATION]|u'
   - original: '|cffff0000[VALUE] Health loss per second!|u'
@@ -3847,6 +4549,10 @@ Equipments/Skills Stats:
     translation: '|cffff0000Mất đi [VALUE] Năng lượng trong [DURATION]|u'
   - original: '|cffff0000[VALUE] Mana loss per second!|u'
     translation: '|cffff0000Mất đi [VALUE] Năng lượng mỗi giây!|u'
+  - original: 2 additional missiles per burst
+    translation: Tăng thêm 2 viên đạn khi bắn ra
+  - original: 2 additional wolves appear
+    translation: Tăng thêm 2 bóng ma sói
   - original: Left hand require
     translation: Yêu cầu tay trái
   - original: Left Hand Weapon Slot (Empty)
@@ -3870,13 +4576,25 @@ Equipments/Skills Stats - Torchlight II Essentials:
   - original: '|cFFFF0000Movement Speed reduced by [VALUE]%|u'
     translation: '|cFFFF0000Tốc độ di chuyển giảm [VALUE]%|u'
 
-Events - ACT I:
-  - original: My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
-    translation: Tôi xin cám ơn bạn, loài người. Sau khi ngôi đền đã thất thủ, những kẻ tay sai khiến chúng tôi trở thành tị nạn, tôi lo sợ rằng số phận chúng tôi đã an bài.\n\nNhưng tôi không phải là tù nhân duy nhất. Chỉ huy lũ tay sai đã bắt nhốt họ vào lồng, trong Hang Động dưới hồ nước này.Một trong những cửa sập bên ngoài gần túp lều gần đó dẫn đến Hang Động.\n\nLàm ơn, nhân danh Vệ Thần ... bạn phải giải phóng họ!
-  - original: Oh, thank you, my friend!  I had feared I would never see my family again!
-    translation: Oh, cảm ơn anh bạn! Tôi đã lo sợ rằng sẽ không bao giờ đoàn tụ với gia đình nữa!
-  - original: You have saved us!  I had given up all hope that someone would come!
-    translation: Bạn đã cứu chúng tôi! Tôi đã từng bỏ hy vọng rằng sẽ có người đến cứu!
+Fish:
+  - original: Big Bog Perch
+    translation: Cá rô thường
+  - original: Big Bonefish
+    translation: Cá xương thường
+  - original: Big Electric Eel
+    translation: Cá điện thường
+  - original: Big Firefish
+    translation: Cá lửa thường
+  - original: Big Flying Fish
+    translation: Cá bay thường
+  - original: Big Tunnel Shark
+    translation: Cá mập thường
+  - original: Big Venomfish
+    translation: Cá nóc thường
+  - original: Big Warsnout
+    translation: Cá đuối thường
+  - original: Big Web Fish
+    translation: Cá nhện thường
 
 Inventory:
   - original: Consumables Inventory
@@ -4188,6 +4906,28 @@ Miscellaneous items - Torchlight II Essentials:
   - original: '|cFFE83131Ultimate Health Potion'
     translation: '|cFFE83131Hồi sinh lực Tối thượng'
 
+Monsters:
+  - original: Big Jackal Bass
+    translation: Cá chó săn thường
+  - original: Big Largemouth Bass
+    translation: Cá ngão thường
+  - original: Black Widow
+    translation: Goá phụ đen
+  - original: Blackclaw
+    translation: Người gấu đen
+  - original: Blackfang Arachnos
+    translation: Nhện răng đen
+  - original: Blackfist Assassin
+    translation: Sát thủ đen
+  - original: Blackfist Brigand
+    translation: Kẻ du côn
+  - original: Blackfist Marksman
+    translation: Kẻ cướp xạ thủ
+  - original: Blackfist Pikeman
+    translation: Kẻ cướp dùng giáo
+  - original: Blade Stalker
+    translation: Cốt binh mạnh mẽ
+
 New character:
   - original: '|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge.'
     translation: '|cFFA1D0FCChế độ Đơn giản|u dành cho mọi lứa tuổi, những ai chỉ muốn chơi để biết cốt truyện và không muốn có nhiều thử thách.'
@@ -4211,6 +4951,8 @@ New character:
 NPC:
   - original: Armor for sale
     translation: Giáp trụ
+  - original: Blacksmith
+    translation: Thợ rèn
   - original: Buy items back from the merchant
     translation: Mua lại vật phẩm từ thương gia
   - original: Jana the Merchant
@@ -4221,6 +4963,12 @@ NPC:
     translation: Thương gia Tinya
   - original: Weapons for sale
     translation: Vũ khí
+
+Quests:
+  - original: '"The Alchemist will attempt to enter the Enclave through the Path of the Honored Dead. Kill him, and bring me his staff. Do not return without it, or you will suffer my wrath."'
+    translation: Alchemist sẽ cố gắng để vào Thị Trấn Mùa Xuân thông qua Con Đường Vinh Quang. Giết hắn, và mang cho tôi chiếc trượng của hắn. Đừng trở lại mà không có nó, hoặc bạn sẽ phải chịu cơn thịnh nộ của tôi.
+  - original: Bloodstained Message
+    translation: Bức huyết thư
 
 Quests - ACT I - *Angry Beasts:
   - original: '- Investigate the |cFFD1FF7AWarbeast Lair|u'
@@ -4810,6 +5558,14 @@ Settings:
     translation: Tắt âm
 
 Socketables:
+  - original: Blood Ember
+    translation: Huyết thạch cấp 4
+  - original: Blood Ember Chip
+    translation: Huyết thạch cấp 2
+  - original: Blood Ember Shard
+    translation: Huyết thạch cấp 3
+  - original: Blood Ember Speck
+    translation: Huyết thạch cấp 1
   - original: Ice Elemental
     translation: Nguyên tố Băng
   - original: Ice Ember
@@ -4914,26 +5670,112 @@ Spells - Torchlight II Essentials:
     translation: '|cFFF2ACB1Phép: Triệu hồi Cung thủ VI'
 
 Targets Status:
+  - original: (Armor Breaker)
+    translation: (Phá giáp)
+  - original: (Armor Destroyer)
+    translation: (Phá giáp)
+  - original: (Armored)
+    translation: (Giáp trụ)
+  - original: (Barbed)
+    translation: (Gai nhọn)
+  - original: (Blademaster)
+    translation: (Kiếm sư)
+  - original: (Blazing)
+    translation: (Bốc lửa)
+  - original: (Brute)
+    translation: (Cầm thú)
+  - original: (Bullseye)
+    translation: (Bắn chuẩn)
+  - original: (Burning)
+    translation: (Bốc cháy)
+  - original: (Cold)
+    translation: (Lạnh)
+  - original: (Deflecting)
+    translation: (Chệch hướng)
+  - original: (Dervish)
+    translation: (Tốc độ)
+  - original: (Destroyer)
+    translation: (Hủy diệt)
   - original: (Dividing)
     translation: (Phân thân)
   - original: (Double-Strong)
     translation: (Khoẻ gấp đôi)
   - original: (Explosive)
     translation: (Nổ tung)
+  - original: (Fleet of foot)
+    translation: (Chạy nhanh)
   - original: (Freezing)
     translation: (Nhiễm lạnh)
+  - original: (Giant)
+    translation: (Khổng lồ)
+  - original: (Gladiator)
+    translation: (Đấu sĩ)
+  - original: (Hardy)
+    translation: (Kiên cường)
   - original: (Haunted)
     translation: (Hung tợn)
   - original: (Health Regen)
     translation: (Hồi phục)
+  - original: (Healthy)
+    translation: (Khỏe mạnh)
+  - original: (Impervious)
+    translation: (Vô định)
+  - original: (Infected)
+    translation: (Lây nhiễm)
+  - original: (Invulnerable)
+    translation: (Không thể bị tấn công)
+  - original: (Leech)
+    translation: (Thầy thuốc)
+  - original: (Leeching)
+    translation: (Thầy thuốc)
+  - original: (Money bags)
+    translation: (Túi tiền)
+  - original: (Multiplying)
+    translation: (Phân thân)
+  - original: (Needler)
+    translation: (Điên loạn)
+  - original: (Nimble)
+    translation: (Nhanh nhẹn)
   - original: (Noxious)
     translation: (Độc dược)
+  - original: (Plagued)
+    translation: (Mây độc)
+  - original: (Plated)
+    translation: (Giáp trụ)
+  - original: (Pusher)
+    translation: (Đẩy lui)
+  - original: (Quest Item)
+    translation: (Vật phẩm nhiệm vụ)
+  - original: (Quick Caster)
+    translation: (Thi triển nhanh)
+  - original: (Quick)
+    translation: (Nhanh nhẹn)
+  - original: (Reflecting)
+    translation: (Phản hồi)
+  - original: (Resistent)
+    translation: (Kháng cao)
+  - original: (Shield Breaking)
+    translation: (Phá khiên)
+  - original: (Shield Destroying)
+    translation: (Phá khiên)
   - original: (Shocking)
     translation: (Gây sốc)
+  - original: (Speedy)
+    translation: (Nhanh nhẹn)
+  - original: (Spikey)
+    translation: (Xù xì)
+  - original: (Spiny)
+    translation: (Gai góc)
   - original: (Swift)
     translation: (Nhanh nhẹn)
+  - original: (Tackler)
+    translation: (Bắt giữ)
   - original: (Teleporting)
     translation: (Dịch chuyển tức thời)
+  - original: (Vampire)
+    translation: (Ma cà rồng)
+  - original: (Vampiric)
+    translation: (Ma cà rồng)
 
 Tips:
   - original: '|cFF94CC94Green|u items have minor enchantments. |cFF9696CFBlue|u items are more rare and powerful. |cFFdbAE12Gold|u items are unique and have the best enchantments. |cFFD17AFFPurple|u items are related to quests.'
@@ -4984,6 +5826,24 @@ Torchlight II Essentials:
 Common:
   - original: ' - Shield Blocks Damage'
     translation: ' - Khiên đỡ đòn'
+  - original: ' . Following items will be lost:\n'
+    translation: ' . Vật phẩm sau sẽ bị mất:\n'
+  - original: ' chance for proc'
+    translation: ' tỉ lệ xảy ra'
+  - original: ' Following monsters will not be created:\n'
+    translation: ' Quái vật sau sẽ không được tạo:\n'
+  - original: ' Following skills will be lost:\n'
+    translation: ' Kỹ năng sau sẽ bị mất:\n'
+  - original: ' Inventory spot missing, items will be lost:\n'
+    translation: ' Thiếu thông tin hòm đồ, vật phẩm sau sẽ bị mất:\n'
+  - original: ' not active. Following items will be lost:\n'
+    translation: ' không được kích hoạt. Vật phẩm sau sẽ bị mất:\n'
+  - original: ' not active. Following monsters will not be created:\n'
+    translation: ' không kích hoạt. Những quái vật sau sẽ không được tạo ra:\n'
+  - original: ' not active. Following skills will be lost:'
+    translation: ' không được kích hoạt. Kỹ năng sau sẽ bị mất:\n'
+  - original: ' not active. Inventory spot missing, items will be lost:\n'
+    translation: ' không được kích hoạt. Thiếu thông tin hòm đồ, vật phẩm sau sẽ bị mất:\n'
   - original: '- Complete'
     translation: '- Hoàn thành'
   - original: '|c0097ffa1Left Hand Weapon|u'
@@ -5006,24 +5866,198 @@ Common:
     translation: '|cFFD1FF7ATay-trái|u'
   - original: '|cFFD1FF7ARight-Hand|u'
     translation: '|cFFD1FF7ATay-phải|u'
+  - original: '|cFFEAAA15[PLAYERNAME] rolls [RAND_INT_0_100].|u'
+    translation: '|cFFEAAA15[PLAYERNAME] xúc sắc ra [RAND_INT_0_100].|u'
+  - original: '|cFFEAAA15Appearance|u'
+    translation: '|cFFEAAA15Hình dạng|u'
+  - original: '|cFFEAAA15Level <STAT1>|u  <STAT2>'
+    translation: '|cFFEAAA15Cấp độ <STAT1>|u  <STAT2>'
   - original: '|cFFEAAA15Requires restart for mods to be installed.|u'
     translation: '|cFFEAAA15Yêu cầu khởi động lại game và kích hoạt mod.|u'
+  - original: '|cFFEAAA15Select Class|u'
+    translation: '|cFFEAAA15Chọn nghề|u'
+  - original: '|cFFF2BF4DAvg. Item Level:|u\n <STAT1>'
+    translation: '|cFFF2BF4DCấp độ trang bị (TB):|u\n <STAT1>'
   - original: '|cFFF5DB94-You Found-|u'
     translation: '|cFFF5DB94-Đã Tìm thấy-|u'
+  - original: '|cFFF5DB94At Current Level|u'
+    translation: '|cFFF5DB94Tại cấp độ hiện tại|u'
+  - original: '|cFFF5DB94Attack Statistics|u'
+    translation: '|cFFF5DB94Thông số chiến đấu|u'
+  - original: '|cFFF5DB94Game Data|u'
+    translation: '|cFFF5DB94Dữ liệu trò chơi|u'
+  - original: '|cFFF5DB94General Statistics|u'
+    translation: '|cFFF5DB94Chỉ số cơ bản|u'
+  - original: '|cFFF5DB94Miscellaneous Statistics|u'
+    translation: '|cFFF5DB94Các chỉ số khác|u'
+  - original: '|cFFF5DB94NO LONGER|u Requires a staff'
+    translation: '|cFFF5DB94KHÔNG|u yêu cầu Trượng'
+  - original: '|cFFF5DB94NO LONGER|u Requires a Wand\n\n\n'
+    translation: '|cFFF5DB94KHÔNG|u yêu cầu Gậy phép\n'
+  - original: '|cFFF5DB94NO LONGER|u when you are struck'
+    translation: '|cFFF5DB94KHÔNG|u yêu cầu bị đánh trúng'
+  - original: '|cFFFF0000CHEATED ITEM|u'
+    translation: '|cFFFF0000VẬT PHẨM ĂN GIAN|u'
   - original: '|cFFFF0000Hardcore|u'
     translation: '|cFFFF0000YOLO|u'
+  - original: '|cFFFF0000Unable to load because specific mods are missing( see mod details ).|u'
+    translation: '|cFFFF0000Không thể tải vì thiếu mod yêu cầu (xem Bảng chi tiết mod).|u'
   - original: '|cFFFF0000You Have Perished!|u'
     translation: '|cFFFF0000Bạn đã tử vong!|u'
+  - original: '|cFFFFBF61A Gem Socket|u'
+    translation: '|cFFFFBF61 Lỗ đặt ngọc|u'
   - original: '|cFFFFBF61Gem Needed|u'
     translation: '|cFFFFBF61Cần ngọc|u'
   - original: '|cFFFFBF61Locked|u'
     translation: '|cFFFFBF61Bị khóa|u'
+  - original: '|cFFFFBF61LOCKED|u'
+    translation: '|cFFFFBF61BỊ KHÓA|u'
   - original: '|cFFFFBF61Needs Plunger|u'
     translation: '|cFFFFBF61Cần pít tông|u'
   - original: '|cFFFFBF61Needs Souls|u'
     translation: '|cFFFFBF61Cần Linh hồn|u'
+  - original: '|cFFFFBF61Not Enough Crab Legs|u'
+    translation: '|cFFFFBF61Không đủ Càng cua?|u'
+  - original: 1 extra bounce
+    translation: thêm 1 lần nảy
+  - original: 1 or More Mods Missing
+    translation: 1 hoặc nhiều mod bị thiếu
+  - original: 1-handed
+    translation: 1 tay
+  - original: 10 champs
+    translation: 10 chiến binh
+  - original: 2-handed
+    translation: 2 tay
+  - original: Abandon
+    translation: Huỷ
+  - original: Abandon Quest
+    translation: Huỷ bỏ nhiệm vụ
+  - original: Abandon Quest (you can get it again)
+    translation: Huỷ bỏ nhiệm vụ (có thể nhận lại)
+  - original: Abyssal Caves
+    translation: Hang Bóng Tối
+  - original: Abyssal Caves Boss
+    translation: Hang Bóng Tối Boss
+  - original: Abyssal Caves Map (L96-100)
+    translation: Hang Bóng Tối (L96-100)
+  - original: Abyssal Fissure
+    translation: Hang Bóng Tối
+  - original: Abyssal Fissure Boss
+    translation: Hang Bóng Tối Boss
+  - original: Abyssal Fissure Map (L105)
+    translation: Hang Bóng Tối (L105)
+  - original: Abyssal Grotto
+    translation: Hang Bóng Tối
+  - original: Abyssal Grotto Boss
+    translation: Hang Bóng Tối Boss
+  - original: Abyssal Grotto Map (L76-85)
+    translation: Hang Bóng Tối (L76-85)
+  - original: Abyssal Pit
+    translation: Hang Bóng Tối
+  - original: Abyssal Pit Boss
+    translation: Hang Bóng Tối Boss
+  - original: Abyssal Pit Map (L86-95)
+    translation: Hang Bóng Tối (L86-95)
+  - original: Accept Quest
+    translation: Nhận nhiệm vụ
+  - original: Accept Reward Later
+    translation: Nhận thưởng sau
+  - original: Acclaimed
+    translation: Được hoan nghênh
+  - original: According to legend, they were crafted by Mamoga the Spellbinder.
+    translation: Theo truyền thuyết, chúng được tạo ra bởi Mamoga.
+  - original: Acid Spray - Smash Attack - Hatches Spiderlings
+    translation: Phun axit - Tấn công mạnh - Ấp trứng nhện
+  - original: Acknowledged
+    translation: Được thừa nhận
+  - original: ACT I
+    translation: CHƯƠNG I
+  - original: ACT II
+    translation: CHƯƠNG II
+  - original: ACT III
+    translation: CHƯƠNG III
+  - original: ACT IV
+    translation: CHƯƠNG IV
+  - original: ACT V
+    translation: CHƯƠNG V
+  - original: Activate the Teleporter
+    translation: Kích hoạt Cổng dịch chuyển
+  - original: Active Quests
+    translation: Nhiệm vụ đang làm
+  - original: Active Skill Swap
+    translation: Chuyển đổi kỹ năng
+  - original: Add One
+    translation: Thêm 1
+  - original: Add point to Dexterity
+    translation: Tăng điểm vào Nhanh nhẹn
+  - original: Add point to Focus
+    translation: Tăng điểm vào Trí lực
+  - original: Add point to Strength
+    translation: Tăng điểm vào Sức mạnh
+  - original: Add point to Vitality
+    translation: Tăng điểm vào Thể lực
+  - original: Add Socket to Item
+    translation: Thêm lỗ khảm vào vật phẩm
+  - original: Adds Sockets To Items
+    translation: Thêm lỗ khảm
+  - original: Adjusted range of this weapon
+    translation: Tầm đánh của vũ khí
+  - original: Adventuring
+    translation: Phiêu lưu
+  - original: Aegis
+    translation: Bảo hộ
+  - original: All
+    translation: Tất cả
+  - original: All Skills
+    translation: Tất cả kĩ năng
+  - original: Ally
+    translation: Điên cuồng
+  - original: Alma
+    translation: Alma
+  - original: Alpaca
+    translation: Lạc đà
+  - original: Alpha Zone
+    translation: Vùng Alpha
+  - original: Already Looted!
+    translation: Đã nhặt!
+  - original: Also a doctor, Shandor performed a lot of unnecessary surgery.
+    translation: Cũng là một bác sĩ, Shandor đã thực hiện rất nhiều ca phẫu thuật không cần thiết
+  - original: Also known as "Boots of Sliding and Skiing."
+    translation: 'Còn được biết đến là "Giày của người trượt tuyết" '
+  - original: Alt Hotbar Slot 1
+    translation: Phím tắt Dự phòng 1
+  - original: Alt Hotbar Slot 10
+    translation: Phím tắt Dự phòng 10
+  - original: Alt Hotbar Slot 2
+    translation: Phím tắt Dự phòng 2
+  - original: Alt Hotbar Slot 3
+    translation: Phím tắt Dự phòng 3
+  - original: Alt Hotbar Slot 4
+    translation: Phím tắt Dự phòng 4
+  - original: Alt Hotbar Slot 5
+    translation: Phím tắt Dự phòng 5
+  - original: Alt Hotbar Slot 6
+    translation: Phím tắt Dự phòng 6
+  - original: Alt Hotbar Slot 7
+    translation: Phím tắt Dự phòng 7
+  - original: Alt Hotbar Slot 8
+    translation: Phím tắt Dự phòng 8
+  - original: Alt Hotbar Slot 9
+    translation: Phím tắt Dự phòng 9
+  - original: Altar
+    translation: Bàn thờ
+  - original: Alternate Right Skill([KB:SkillSwap])
+    translation: Kỹ năng dự phòng ([KB:SkillSwap])
+  - original: Always
+    translation: Luôn luôn
+  - original: Always a hit at parties!
+    translation: Luôn luôn nổi bật giữa đám đông
+  - original: Always Enabled
+    translation: Luôn được kích hoạt
   - original: Battle Focus
     translation: Tập trung chiến đấu
+  - original: Big Treasure Chest
+    translation: Rương báu lớn
   - original: Celebrated
     translation: Lừng danh
   - original: Cell Doors
@@ -5088,4 +6122,44 @@ Common:
     translation: Phần thưởng
   - original: The story so far..
     translation: Câu chuyện cách đây đã lâu...
+  - original: 'version: <STAT1>'
+    translation: 'Phiên bản: <STAT1>'
+  - original: Very Famous
+    translation: Rất nổi tiếng
+  - original: Video
+    translation: Hình ảnh
+  - original: Vitality
+    translation: Thể lực
+  - original: Vitality Bonus
+    translation: Thể lực cộng thêm
+  - original: Warnings
+    translation: Cảnh báo
+  - original: Warp
+    translation: Dịch chuyển
+  - original: Warp to
+    translation: Dịch chuyển tới
+  - original: Warp to Zeryphesh
+    translation: Dịch chuyển đến Thành Phố Sa Mạc
+  - original: Warps to a specific dungeon
+    translation: Dịch chuyển tới một phụ bản chỉ định
+  - original: was killed.
+    translation: đã bị giết
+  - original: Watch those hands.
+    translation: Hãy nhìn vào tay này.
+  - original: Waygate
+    translation: Cửa
+  - original: Waygate to Town
+    translation: Cổng về Thị trấn
+  - original: Waypoint
+    translation: Điểm dừng
+  - original: Waypoint Activated
+    translation: Kích hoạt điểm dừng.
+  - original: Waypoint Portal
+    translation: Điểm dịch chuyển
+  - original: Waypoints
+    translation: Điểm dừng
+  - original: Waywatcher
+    translation: Đá mặt người
+  - original: Wazir
+    translation: Ma Thuật Sư
 
