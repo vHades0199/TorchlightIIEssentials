@@ -277,6 +277,46 @@ Equipments:
     translation: '[ITEM] Khôn ngoan'
   - original: '[ITEM] of Zapping'
     translation: '[ITEM] Đánh đập'
+  - original: A Mysterious Axe
+    translation: Rìu chưa giám định
+  - original: A Mysterious Belt
+    translation: Thắt lưng huyền bí
+  - original: A Mysterious Bow
+    translation: Cung huyền bí
+  - original: A Mysterious Crossbow
+    translation: Nỏ huyền bí
+  - original: A Mysterious Greataxe
+    translation: Rìu lớn huyền bí
+  - original: A Mysterious Mace
+    translation: Búa huyền bí
+  - original: A Mysterious Pet Tag
+    translation: Khuyên tai huyền bí
+  - original: A Mysterious Pistol
+    translation: Súng lục huyền bí
+  - original: A Mysterious Polearm
+    translation: Giáo huyền bí
+  - original: A Mysterious Ring
+    translation: Nhẫn huyền bí
+  - original: A Mysterious Shield
+    translation: Khiên huyền bí
+  - original: A Mysterious Shotgonne
+    translation: Súng trường huyền bí
+  - original: A Mysterious Staff
+    translation: Trượng huyền bí
+  - original: A Mysterious Sword
+    translation: Kiếm huyền bí
+  - original: A Mysterious Wand
+    translation: Gậy phép bí ẩn
+  - original: A Random Unique
+    translation: Đồ hiếm ngẫu nhiên
+  - original: Adanced Stock-Bow
+    translation: Nỏ cải tiến
+  - original: Adeptus Boots
+    translation: Giày nữ hoàng
+  - original: Adeptus Helm
+    translation: Mũ nữ hoàng
+  - original: Adeptus Shoulders
+    translation: Vai nữ hoàng
   - original: Adventurer Armor
     translation: Áo thám hiểm
   - original: Adventurer Baldric
@@ -315,6 +355,8 @@ Equipments:
     translation: Vai thám hiểm
   - original: Adventurer Trousers
     translation: Quần thám hiểm
+  - original: Air-Cooled Battle Rifle
+    translation: Súng trường vòng đạn
   - original: Alchemical  Plates
     translation: Vai Giả kim
   - original: Alchemical Belt
@@ -349,6 +391,12 @@ Equipments:
     translation: Giáp các loại [VALUE] giáp mỗi công kích
   - original: All Armor reduced by [VALUE] per hit for [DURATION]
     translation: Giáp các loại [VALUE] giáp mỗi công kích trong [DURATION]
+  - original: Ancient Bone Golem Sword
+    translation: Đại đao
+  - original: Arbiter Staff
+    translation: Trượng thẩm phán
+  - original: Archmage Wand
+    translation: Gậy đại pháp sư
   - original: Argonaut Amulet
     translation: Dây chuyền Bạch tuộc
   - original: Argonaut Armor
@@ -383,6 +431,8 @@ Equipments:
     translation: Quần Quí tộc
   - original: Aristocrat Ring
     translation: Nhẫn Quí tộc
+  - original: Arrowhead Greataxe
+    translation: Rìu lớn nghi lễ
   - original: Ascendant Armor
     translation: Giáp Siêu việt
   - original: Ascendant Belt
@@ -397,6 +447,16 @@ Equipments:
     translation: Vai Siêu việt
   - original: Ascendant Pants
     translation: Quần Siêu việt
+  - original: Ashen Shoulders
+    translation: Vai vua chúa
+  - original: Ashenfeld Dueling Pistol
+    translation: Súng lục săn bắn
+  - original: Axe
+    translation: Rìu
+  - original: Babbage Belt
+    translation: Đai lưng tỉ mỉ
+  - original: Babu's Lockpicking Gloves
+    translation: Găng phá khoá
   - original: Badlands Amulet
     translation: Dây chuyền Đắc địa
   - original: Badlands Armor
@@ -423,6 +483,12 @@ Equipments:
     translation: Nhẫn Hoả lôi
   - original: Bale Tag
     translation: Khuyên tai đau đớn
+  - original: Barbaric Bow
+    translation: Cung nguyền rủa
+  - original: Bastard Sword
+    translation: Đại đao dài
+  - original: Bat-Wing Staff
+    translation: Trượng cánh dơi
   - original: Battle Axe
     translation: Rìu chiến
   - original: Battle Crossbow
@@ -447,6 +513,100 @@ Equipments:
     translation: Quần ma thuật
   - original: Battlemage Shoulders
     translation: Vai ma thuật
+  - original: Beacon Wand
+    translation: Gậy hải tiêu
+  - original: Beaked Greataxe
+    translation: Rìu lớn mỏ chim
+  - original: Beast Tag
+    translation: Khuyên tai cầm thú
+  - original: Beastling Helm
+    translation: Mũ cầm thú
+  - original: Bedima Augur Wand
+    translation: Gậy chiêm tinh
+  - original: Beheading Sword
+    translation: Đại đao chém đầu
+  - original: Belfry Helm
+    translation: Mũ tháp chuông
+  - original: Belly-Bow
+    translation: Nỏ kị binh
+  - original: Belt
+    translation: Đai
+  - original: Big Bore Shotgonne
+    translation: Súng trường dài
+  - original: Bitter Tag
+    translation: Khuyên tai cay đắng
+  - original: Bitterbile Tag
+    translation: Khuyên tai cay đắng
+  - original: Black Palace Staff
+    translation: Trượng sao đen
+  - original: Black Powder Pistol
+    translation: Súng lục đen
+  - original: Black-Powder Shotgonne
+    translation: Súng trường lưỡi lê
+  - original: Bladed Shotgonne
+    translation: Súng trường lưỡi lê
+  - original: Bland Axe
+    translation: Rìu cũ
+  - original: Blazing Tag
+    translation: Khuyên tai rực rỡ
+  - original: Blighted Tag
+    translation: Khuyên tai mù quáng
+  - original: Blood Leather Belt
+    translation: Đai lưng Huyết bì
+  - original: Blood Leather Boots
+    translation: Giày Huyết bì
+  - original: Blood Leather Gloves
+    translation: Găng tay Huyết bì
+  - original: Bloodsteam Belt
+    translation: Đai Huyết giáp
+  - original: Bloodsteam Ring
+    translation: Nhẫn Huyết giáp
+  - original: Blue Fire Ring
+    translation: Nhẫn lửa lam
+  - original: Blue Flame Ring
+    translation: Nhẫn lửa lam
+  - original: Blue Forest Ring
+    translation: Nhẫn dây rừng
+  - original: Blue Lich Ring
+    translation: Nhẫn quỷ
+  - original: Blue Mountain Ring
+    translation: Nhẫn núi lam
+  - original: Blue Vanquisher Ring
+    translation: Nhẫn thủ vệ
+  - original: Bolt Sword
+    translation: Kiếm tia chớp
+  - original: Bone Axe
+    translation: Rìu xương
+  - original: Bone Crossbow
+    translation: Nỏ đầu lâu
+  - original: Bone Staff
+    translation: Trượng xương
+  - original: Bone Wand
+    translation: Gậy xương
+  - original: Bone-Barrel Shotgonne
+    translation: Súng trường tán xạ
+  - original: Bonechilling Tag
+    translation: Khuyên tai xương lạnh
+  - original: Boneskull Staff
+    translation: Trượng đầu lâu
+  - original: Booster Pistol
+    translation: Súng lục hơi nước
+  - original: Boots
+    translation: Giầy
+  - original: Border Axe
+    translation: Rìu biên giới
+  - original: Both-Hands Sword
+    translation: Đại đao cán vàng
+  - original: Bow
+    translation: Cung
+  - original: Boxlock Shotgonne
+    translation: Súng trường ngắn
+  - original: Brass-Barrel Shotgonne
+    translation: Súng trường vi phạm
+  - original: Brassbarrel Pistol
+    translation: Súng lục giả kim
+  - original: Brightember Ring
+    translation: Nhẫn tinh thể
   - original: Bronze Armor
     translation: Giáp đồng
   - original: Bronze Axe
@@ -489,6 +649,26 @@ Equipments:
     translation: Vai đồng
   - original: Bronze Spear
     translation: Giáo đồng thau
+  - original: Bronze-Blade Axe
+    translation: Rìu lớn lưỡi đá
+  - original: Brood Axe
+    translation: Rìu lo âu
+  - original: Bull Axe
+    translation: Rìu lớn dài
+  - original: Cabalist Boots
+    translation: Giày Thuật sư
+  - original: Cabalist Gloves
+    translation: Găng tay Thuật sư
+  - original: Cabalist Pants
+    translation: Quần Thuật sư
+  - original: Cavalry Axe
+    translation: Rìu kị binh
+  - original: Cavalry Crossbow
+    translation: Nỏ kị binh
+  - original: Cavalry Mace
+    translation: Búa kị binh
+  - original: Cavalry Pistol
+    translation: Súng lục nặng
   - original: Celestial Amulet
     translation: Vòng cổ Thiên đường
   - original: Celestial Armor
@@ -509,6 +689,54 @@ Equipments:
     translation: Nhẫn Thiên đường
   - original: Celestial Shoulders
     translation: Vai Thiên đường
+  - original: Ceremonial Ezrohir Belt
+    translation: Thắt lưng Dị nhân
+  - original: Ceremonial Ezrohir Boots
+    translation: Giày Dị nhân
+  - original: Ceremonial Ezrohir Helm
+    translation: Mũ Dị nhân
+  - original: Ceremonial Ezrohir Pants
+    translation: Quần Dị nhân
+  - original: Ceremonial Greataxe
+    translation: Rìu lớn nghi lễ
+  - original: Ceremonial Mace
+    translation: Búa nghi lễ
+  - original: Chain Belt
+    translation: Đai xiềng xích
+  - original: Chain Boots
+    translation: Giày xiềng xích
+  - original: Chain Gloves
+    translation: Găng xiềng xích
+  - original: Chain Helm
+    translation: Mũ xiềng xích
+  - original: Chain Pants
+    translation: Quần xiềng xích
+  - original: Chain Shoulders
+    translation: Vai xiềng xích
+  - original: Chainmail Belt
+    translation: Đai chuỗi sắt
+  - original: Chainmail Boots
+    translation: Giày chuỗi sắt
+  - original: Chainmail Gloves
+    translation: Găng chuỗi sắt
+  - original: Chainmail Helm
+    translation: Mũ chuỗi sắt
+  - original: Chainmail Pants
+    translation: Quần chuỗi sắt
+  - original: Chainmail Shoulders
+    translation: Vai chuỗi sắt
+  - original: Champ Shield
+    translation: Khiên chiến binh
+  - original: Charmer Pants
+    translation: Quần phép thuật
+  - original: Charred Tag
+    translation: Khuyên tai tàn dư
+  - original: Chief's Bow
+    translation: Cung thợ săn
+  - original: Chill Tag
+    translation: Khuyên tai hăng hái
+  - original: Chipped Axe
+    translation: Rìu mẻ
   - original: Class Skill
     translation: Kĩ năng nghề nghiệp
   - original: Claw
@@ -583,18 +811,1524 @@ Equipments:
     translation: Búa đá
   - original: Coach Gun
     translation: Súng huấn luyện
+  - original: Cobblestone Sword
+    translation: Kiếm minecraft
+  - original: Cold Shoulders
+    translation: Hộ vai lạnh giá
+  - original: Cold Tag
+    translation: Khuyên tai lạnh
   - original: Collar
     translation: Vòng cổ
   - original: Collar Slot\n\n |c00ff9933The best way to find\nCollars is to fish in\ndangerous areas!|u
     translation: Vòng cổ\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
   - original: Collars can only be worn by pets
     translation: Vòng cổ chỉ có thể dùng cho thú nuôi
+  - original: Colonial Crossbow
+    translation: Nỏ thực dân
+  - original: Colonist Belt
+    translation: Đai lưng thực dân
+  - original: Colonist Boots
+    translation: Giày thực dân
+  - original: Colonist Gloves
+    translation: Găng tay thực dân
+  - original: Colonist Helm
+    translation: Mũ thực dân
+  - original: Colonist Pants
+    translation: Quần thực dân
+  - original: Colonist Shoulders
+    translation: Vai thực dân
+  - original: Command Staff
+    translation: Trượng chỉ huy
+  - original: Command Sword
+    translation: Kiếm đế chế
+  - original: Composite Bow
+    translation: Cung hỗn hợp
+  - original: Composite Crossbow
+    translation: Nỏ cải tiến
+  - original: Cool Tag
+    translation: Khuyên tai cool ngầu
+  - original: Corpseleather Gloves
+    translation: Găng da tử thi
+  - original: Coupler Ring
+    translation: Nhẫn Bảo hộ
+  - original: Crackle Tag
+    translation: Khuyên tai kêu réo
+  - original: Cracklebolt Tag
+    translation: Khuyên tai nứt nẻ
+  - original: Creed Axe
+    translation: Rìu lớn nghi lễ
+  - original: Crest Shield
+    translation: Khiên mào gà
+  - original: Crested Staff
+    translation: Trượng đầu lông
+  - original: Critter Tag
+    translation: Khuyên tai hoang dã
+  - original: Crossbones Bow
+    translation: Cung bộ lạc
+  - original: Crossbow
+    translation: Nỏ
+  - original: Crystal Mace
+    translation: Búa tinh thể
+  - original: Cursed Bow
+    translation: Cung nguyền rủa
+  - original: Cursed Sword
+    translation: Kiếm nguyền rủa
+  - original: Death's-Head Axe
+    translation: Rìu tử thi
+  - original: Desert Belt
+    translation: Đai lưng sa mạc
+  - original: Desert Boots
+    translation: Giày sa mạc
+  - original: Desert Gloves
+    translation: Găng tay sa mạc
+  - original: Desert Helm
+    translation: Mũ sa mạc
+  - original: Desert Pants
+    translation: Quần sa mạc
+  - original: Desert Shoulders
+    translation: Vai sa mạc
+  - original: Diamond Sword
+    translation: Kiếm kim cương
+  - original: Dog Boots
+    translation: Giày hư danh
+  - original: Dominion Belt
+    translation: Đai lưng Siêu phàm
+  - original: Dominion Boots
+    translation: Giày Siêu phàm
+  - original: Dominion Gloves
+    translation: Găng tay Siêu phàm
+  - original: Dominion Pants
+    translation: Quần Siêu phàm
+  - original: Double Axe
+    translation: Rìu lớn 2 đầu
+  - original: Double Pole Axe
+    translation: Rìu lớn 2 lưỡi
+  - original: Double-Headed Axe
+    translation: Rìu hai đầu
+  - original: Dragonrift Belt
+    translation: Đai Long quang
+  - original: Dragonrift Ring
+    translation: Nhẫn Long quang
+  - original: Dragoon Pistol
+    translation: Súng lục nặng
+  - original: Draketalon Belt
+    translation: Đai lưng Điềm báo
+  - original: Draketalon Boots
+    translation: Giày Điềm báo
+  - original: Draketalon Gloves
+    translation: Găng tay Điềm báo
+  - original: Draketalon Pants
+    translation: Quần Điềm báo
   - original: Dream Rod
     translation: Gậy Mộng tưởng
+  - original: Dwarf Pulley Bow
+    translation: Cung điểm tựa
+  - original: Dwarfking Boots
+    translation: Giày Quân vương
+  - original: Dwarfking Pants
+    translation: Quần Quân vương
+  - original: Dwarfking Ring
+    translation: Nhẫn Quân vương
+  - original: Dwarfking Shoulders
+    translation: Vai Quân vương
+  - original: Dwarven Bane-Axe
+    translation: Rìu lớn sa mạc
+  - original: Dwarven Belt
+    translation: Đai lưng người lùn
+  - original: Dwarven Bolt Ring
+    translation: Nhẫn người lùn
+  - original: Dwarven Boots
+    translation: Giày người lùn
+  - original: Dwarven Clog-Boots
+    translation: Giày người lùn
+  - original: Dwarven Crossbow
+    translation: Nỏ hoàng gia
+  - original: Dwarven Fang Ring
+    translation: Nhẫn người lùn
+  - original: Dwarven Flame Ring
+    translation: Nhẫn người lùn
+  - original: Dwarven Gloves
+    translation: Găng tay người lùn
+  - original: Dwarven Helm
+    translation: Mũ người lùn
+  - original: Dwarven Pants
+    translation: Quần người lùn
+  - original: Dwarven Sentry Shield
+    translation: Dwarven Sentry Shield
+  - original: Dwarven Shard Ring
+    translation: Nhẫn người lùn
+  - original: Dwarven Shoulders
+    translation: Vai người lùn
+  - original: Eight-Armed Axe
+    translation: Rìu Bát vị
+  - original: Electric Ring
+    translation: Nhẫn lôi
+  - original: Electric Shield
+    translation: Khiên điện
+  - original: Elegent  LongBow
+    translation: Cung cánh vàng
+  - original: Elite Smith - Enchanted Fire Sword
+    translation: Thợ rèn siêu cấp - Kiếm lửa cường hóa
+  - original: Elite Smith - Enchanted Lightning Mace
+    translation: Thợ rèn siêu cấp - Búa điện cường hóa
+  - original: Ember Eye Ring
+    translation: Nhẫn tinh thể
+  - original: Ember Shield
+    translation: Khiên năng lượng
+  - original: Ember-Sights Shotgonne
+    translation: Súng trường ngắn
+  - original: Ember-Studded Staff
+    translation: Trượng tinh thể
+  - original: Emberclad Boots
+    translation: Giày tinh thể
+  - original: Emberclad Gloves
+    translation: Găng tay tinh thể
+  - original: Emberclad Helm
+    translation: Mũ tinh thể
+  - original: Embercraft Boots
+    translation: Giày Tạo hoá
+  - original: Embercraft Gloves
+    translation: Găng tay Tạo hoá
+  - original: Embercraft Helm
+    translation: Mũ Tạo hoá
+  - original: Embercraft Ring
+    translation: Nhẫn Tạo hoá
+  - original: Emberheart Belt
+    translation: Dây chuyền tinh thể
+  - original: Emberheart Boots
+    translation: Giày tinh thể
+  - original: Emberheart Helm
+    translation: Mũ tinh thể
+  - original: Emberplate Boots
+    translation: Giày tinh thể
+  - original: Emberplate Gloves
+    translation: Găng tay tinh thể
+  - original: Embershard Ring
+    translation: Nhẫn tinh thể
+  - original: Emberstud Belt
+    translation: Đai lưng tinh thể
+  - original: Emberweave Boots
+    translation: Giày Thanh tẩy
+  - original: Emberweave Gloves
+    translation: Găng tay Thanh tẩy
+  - original: Emberweave Helm
+    translation: Mũ Thanh tẩy
+  - original: Emberweave Pants
+    translation: Quần Thanh tẩy
+  - original: Emberweave Ring
+    translation: Nhẫn Thanh tẩy
+  - original: Emberweave Shoulders
+    translation: Vai Thanh tẩy
+  - original: Empire Sword
+    translation: Kiếm đế chế
+  - original: Estherian Belt
+    translation: Đai lưng dân cư
+  - original: Estherian Bolt Ring
+    translation: Nhẫn tia sét
+  - original: Estherian Boots
+    translation: Giày dân cư
+  - original: Estherian Fang Ring
+    translation: Nhẫn răng thú
+  - original: Estherian Flame Ring
+    translation: Nhẫn ngọn lửa
+  - original: Estherian Gloves
+    translation: Găng dân cư
+  - original: Estherian Pants
+    translation: Quần dân cư
+  - original: Estherian Shard Ring
+    translation: Nhẫn mảnh vỡ
+  - original: Estherian Shoulders
+    translation: Vai dân cư
+  - original: Even More Inferior Boots
+    translation: Giày hạ gục
+  - original: Exorcist Belt
+    translation: Đai lưng Pháp sư
+  - original: Exorcist Boots
+    translation: Giày Pháp sư
+  - original: Exorcist Gloves
+    translation: Găng Pháp sư
+  - original: Exorcist Helm
+    translation: Mũ Pháp sư
+  - original: Exorcist Pants
+    translation: Quần Pháp sư
+  - original: Exorcist Ring
+    translation: Nhẫn Pháp sư
+  - original: Explodes on Death - Reflective Shield
+    translation: Nổ khi chết - Khiên phản hồi
+  - original: Explorer Belt
+    translation: Đai lưng khám phá
+  - original: Explorer Boots
+    translation: Giày khám phá
+  - original: Explorer Gloves
+    translation: Găng khám phá
+  - original: Explorer Helm
+    translation: Mũ khám phá
+  - original: Explorer Pants
+    translation: Quần khám phá
+  - original: Explorer Shoulders
+    translation: Vai khám phá
+  - original: Ezrohir Belt
+    translation: Đai lưng đột biến
+  - original: Ezrohir Boots
+    translation: Giày đột biến
+  - original: Ezrohir Carrion Axe
+    translation: Giáo lưỡi vàng
+  - original: Ezrohir Crossbow
+    translation: Nỏ hoàng gia
+  - original: Ezrohir Field Axe
+    translation: Rìu lớn chiến tranh
+  - original: Ezrohir Gloves
+    translation: Găng đột biến
+  - original: Ezrohir Heirloom Axe
+    translation: Rìu lớn chiến tranh
+  - original: Ezrohir Pants
+    translation: Quần đột biến
+  - original: Ezrohir Ring
+    translation: Nhẫn dị dạng
+  - original: Ezrohir Shoulders
+    translation: Vai đột biến
+  - original: Farmer's Shotgonne
+    translation: Súng trường nông dân
+  - original: Felling Axe
+    translation: Rìu lớn chặt cây
+  - original: Feral Gloves
+    translation: Găng Hoang dã
+  - original: Feral Helm
+    translation: Mũ Hoang dã
+  - original: Feral Ring
+    translation: Nhẫn Hoang dã
+  - original: Fever Tag
+    translation: Khuyên tai sôi nổi
+  - original: Fighting Staff
+    translation: Trượng chiến đấu
+  - original: Fighting Sword
+    translation: Đại đao kị binh
+  - original: Fire Ring
+    translation: Nhẫn hoả
+  - original: Fire Shield
+    translation: Khiên lửa
+  - original: Fire Wand
+    translation: Gậy lửa
+  - original: Firebox Belt
+    translation: Đai lưng hàng thùng
+  - original: Firebox Ring
+    translation: Nhẫn Bảo hộ
+  - original: Fist Axe
+    translation: Vuốt dao găm
+  - original: Fjord Axe
+    translation: Rìu vùng vịnh
+  - original: Flame Tag
+    translation: Khuyên tai lửa
+  - original: Flaming Sword
+    translation: Kiếm lửa
+  - original: Flanged Mace
+    translation: Búa sao sắt
+  - original: Flanged Steel Mace
+    translation: Búa đồng
+  - original: Flare Tag
+    translation: Khuyên tai bùng phát
+  - original: Flint Axe
+    translation: Rìu đánh lửa
+  - original: Flintlock Pistol
+    translation: Súng lục bút chì
+  - original: Flintlock Shotgonne
+    translation: Súng trường ngắn
+  - original: Footman's Mace
+    translation: Búa kị binh
+  - original: Forest Belt
+    translation: Đai dây rừng
+  - original: Forest Boots
+    translation: Giày dây rừng
+  - original: Forest Gloves
+    translation: Găng dây rừng
+  - original: Forest Helm
+    translation: Mũ dây rừng
+  - original: Forest Pants
+    translation: Quần dây rừng
+  - original: Forest Shoulders
+    translation: Vai dây rừng
+  - original: Forgecrafted Boots
+    translation: Giày Tôi luyện
+  - original: Forgecrafted Gloves
+    translation: Găng tay Tôi luyện
+  - original: Forgecrafted Helm
+    translation: Mũ Tôi luyện
+  - original: Forgecrafted Ring
+    translation: Nhẫn Tôi luyện
+  - original: Forked Staff
+    translation: Trượng chỉa hai
+  - original: Formal Regent Gloves
+    translation: Găng tay Nhiếp chính
+  - original: Formal Regent Pants
+    translation: Quần Nhiếp chính
+  - original: Foul Tag
+    translation: Khuyên tai phạm lỗi
+  - original: Foundation Boots
+    translation: Giày xây dựng
+  - original: Four-Bearded Axe
+    translation: Rìu bốn cạnh
+  - original: Four-Bones Crossbow
+    translation: Nỏ xương
+  - original: Four-Gauge Heavy Rifle
+    translation: Súng trường đòn bẩy
+  - original: Frigid Tag
+    translation: Khuyên tai lạnh lùng
+  - original: Frost Shield
+    translation: Giáp băng
+  - original: Frost Tag
+    translation: Khuyên tai băng giá
+  - original: Frostbite Tag
+    translation: Khuyên tai tê cóng
+  - original: Frozen Tag
+    translation: Khuyên tai băng giá
+  - original: Fulcrum Bow
+    translation: Cung điểm tựa
+  - original: Full-Staff
+    translation: Trượng cánh
+  - original: Fused Iron Gloves
+    translation: Găng tay Thiết thạch
+  - original: Gambler's Holdout Pistol
+    translation: Súng lục ba nòng
+  - original: Gambler's Pistol
+    translation: Súng lục ba nòng
+  - original: Gear Bow
+    translation: Cung điểm tựa
+  - original: Gearspring Ring
+    translation: Nhẫn mùa xuân
+  - original: Gem-Studded Wand
+    translation: Gậy đầu đinh
+  - original: Geodetic Ring
+    translation: Đai trắc địa
+  - original: Ghastly Boots
+    translation: Giày Khủng khiếp
+  - original: Ghastly Gloves
+    translation: Găng Khủng khiếp
+  - original: Ghastly Shoulders
+    translation: Vai Khủng khiếp
+  - original: Glamer-Gloves
+    translation: Găng buộc vải
+  - original: Gloves
+    translation: Găng tay
+  - original: Glow-Crystal Wand
+    translation: Gậy lấp lánh
+  - original: Glowing Wand
+    translation: Gậy phát sáng
+  - original: Glyph Shield
+    translation: Khiên ấn thạch
+  - original: Goat Head Wand
+    translation: Gậy đầu dê
+  - original: Gold Sword
+    translation: Kiếm vàng
+  - original: Golden Bow
+    translation: Cung cánh vàng
+  - original: Gouging Axe
+    translation: Rìu mài mòn
+  - original: Grand Architect Boots
+    translation: Giày Nền tảng
+  - original: Grand Architect Gloves
+    translation: Găng tay Nền tảng
+  - original: Grand Architect Helm
+    translation: Mũ Nền tảng
+  - original: Grand Architect Pants
+    translation: Quần Nền tảng
+  - original: Grand Architect Shoulders
+    translation: Vai Nền tảng
+  - original: Grand Wazir Belt
+    translation: Đai lưng Ma thuật sư
+  - original: Grand Wazir Boots
+    translation: Giày Ma thuật sư
+  - original: Grand Wazir Gloves
+    translation: Găng tay Ma thuật sư
+  - original: Grand Wazir Helm
+    translation: Mũ Ma thuật sư
+  - original: Grand Wazir Pants
+    translation: Quần Ma thuật sư
+  - original: Grand Wazir Ring
+    translation: Nhẫn Ma thuật sư
+  - original: Granite Belt
+    translation: Đai lưng Thiết quyền
+  - original: Granite Boots
+    translation: Giày Thiết quyền
+  - original: Granite Gloves
+    translation: Găng Thiết quyền
+  - original: Granite Helm
+    translation: Mũ Thiết quyền
+  - original: Granite Pants
+    translation: Quần Thiết quyền
+  - original: Granite Ring
+    translation: Nhẫn Thiết quyền
+  - original: Great-Staff
+    translation: Trượng lớn
+  - original: Greataxe
+    translation: Rìu lớn
+  - original: Green Flame Ring
+    translation: Nhẫn lửa lục
+  - original: Green Forest Ring
+    translation: Nhẫn dây rừng
+  - original: Green Mountain Ring
+    translation: Nhẫn núi lục
+  - original: Green Shard Ring
+    translation: Nhẫn mảnh lục
+  - original: Green Vanquisher Ring
+    translation: Nhẫn thủ vệ
+  - original: Grimbone Wand
+    translation: Gậy xương gồ gề
+  - original: Grimy Work-Gloves
+    translation: Găng mồ hôi
+  - original: Grimy Work-Pants
+    translation: Quần mồ hôi
+  - original: Grundig's Pants
+    translation: Quần Pháo đài
+  - original: Grunnheim Lock-Staff
+    translation: Trượng khoá cổng
+  - original: Gyrostoic Boots
+    translation: Giày nhanh nhẹn
+  - original: Half-Moon Axe
+    translation: Rìu lớn bán nguyệt
+  - original: Hammer Axe
+    translation: Rìu búa
+  - original: Hammer Mace
+    translation: Búa chiến
+  - original: Hand Axe
+    translation: Rìu cầm tay
   - original: Hand Crossbow
     translation: Nỏ tay
+  - original: Hand-and-a-Half Sword
+    translation: Đại đao cán vàng
+  - original: Harbinger Belt
+    translation: Thắt lưng Điềm báo
+  - original: Harbinger Ring
+    translation: Nhẫn Điềm báo
+  - original: Headsman's Axe
+    translation: Rìu lớn hiến tế
+  - original: Hearth Tag
+    translation: Khuyên tai đá hoa
+  - original: Heartwood Bow
+    translation: Cung ngắn
+  - original: Heatwave Tag
+    translation: Khuyên tai nhiệt đới
+  - original: Heavy Crossbow
+    translation: Nỏ nặng nề
+  - original: Heavy Metal Shoulders
+    translation: Vai thợ rèn
+  - original: Heavy Pistol
+    translation: Súng lục nặng
+  - original: Heavy Shield
+    translation: Khiên kềnh càng
+  - original: Heavy Shotgonne
+    translation: Súng trường nặng nề
+  - original: Heavy Sword
+    translation: Đại đao nặng
+  - original: Hellneedle Staff
+    translation: Trượng sao
+  - original: Hexenjaeger Helm
+    translation: Mũ lục giác
+  - original: Hexenjaeger Pants
+    translation: Quần lục giác
+  - original: Hexing Staff
+    translation: Trượng đầu lâu
+  - original: Highridge Belt
+    translation: Đai lưng Thái sơn
+  - original: Highridge Boots
+    translation: Giày Thái sơn
+  - original: Highridge Gloves
+    translation: Găng Thái sơn
+  - original: Highridge Pants
+    translation: Quần Thái sơn
+  - original: Highridge Ring
+    translation: Nhẫn Thái sơn
+  - original: Highridge Shoulders
+    translation: Vai Thái sơn
+  - original: Holocaust Tag
+    translation: Khuyên tai hoả hoạn
+  - original: Homesteader Belt
+    translation: Đai lưng cắm trại
+  - original: Homesteader Boots
+    translation: Giày cắm trại
+  - original: Homesteader Gloves
+    translation: Găng cắm trại
+  - original: Homesteader Helm
+    translation: Mũ cắm trại
+  - original: Homesteader Pants
+    translation: Quần cắm trại
+  - original: Homesteader Shoulders
+    translation: Vai cắm trại
+  - original: Horn-Prod Crossbow
+    translation: Nỏ tên sắt
+  - original: House Carl Pants
+    translation: Quần xây dựng
+  - original: Howdah Pistol
+    translation: Súng lục săn bắn
+  - original: Hunter's Shotgonne
+    translation: Súng trường thợ săn
+  - original: Hunting Bow
+    translation: Cung săn bắn
+  - original: Hunting Crossbow
+    translation: Nỏ săn bắn
+  - original: Hunting Pistol
+    translation: Súng lục săn bắn
+  - original: Huntsman's Bow
+    translation: Cung thợ săn
+  - original: Ice Ring
+    translation: Nhẫn băng
+  - original: Ice Shield
+    translation: Khiên băng
+  - original: Ice Wand
+    translation: Gậy băng
+  - original: Ice-Crystal Wand
+    translation: Gậy tinh thể băng
+  - original: Icy Tag
+    translation: Khuyên tai băng
+  - original: Imperial Battle Sword
+    translation: Đại đao chiến đấu
+  - original: Imperial Belt
+    translation: Đai lưng hoàng gia
+  - original: Imperial Bolt Ring
+    translation: Nhẫn hoàng gia
+  - original: Imperial Boots
+    translation: Giày hoàng gia
+  - original: Imperial Crossbow
+    translation: Nỏ hoàng gia
+  - original: Imperial Fang Ring
+    translation: Nhẫn hoàng gia
+  - original: Imperial Flame Ring
+    translation: Nhẫn hoàng gia
+  - original: Imperial Gloves
+    translation: Găng hoàng gia
+  - original: Imperial Helm
+    translation: Mũ hoàng gia
+  - original: Imperial Pants
+    translation: Quần hoàng gia
+  - original: Imperial Shard Ring
+    translation: Nhẫn hoàng gia
+  - original: Imperial Shoulders
+    translation: Vai hoàng gia
+  - original: Imperial Trench-Rifle
+    translation: Súng trường lưỡi lê
+  - original: Incubus Belt
+    translation: Đai lưng Hồn quỷ
+  - original: Incubus Boots
+    translation: Giày Hồn quỷ
+  - original: Incubus Gloves
+    translation: Găng Hồn quỷ
+  - original: Incubus Helm
+    translation: Mũ Hồn quỷ
+  - original: Incubus Pants
+    translation: Quần Hồn quỷ
+  - original: Incubus Shoulders
+    translation: Vai Hồn quỷ
+  - original: Industrium Crossbow
+    translation: Nỏ tên sắt
+  - original: Industrium Heavy Pistol
+    translation: Súng lục chiến đấu
+  - original: Industrium Master-Bow
+    translation: Nỏ xạ thủ
+  - original: Industrium Sear-Sword
+    translation: Kiếm đế chế
+  - original: Inert Staff
+    translation: Trượng cơ bản
+  - original: Infantry Axe
+    translation: Rìu bộ binh
+  - original: Infantry Sword
+    translation: Đại đao kị binh
+  - original: Inferior Boots
+    translation: Giày hạ gục
+  - original: Inferno Tag
+    translation: Khuyên tai hoả ngục
+  - original: Inquisitor Belt
+    translation: Đai lưng Thanh tra
+  - original: Inquisitor Ring
+    translation: Nhẫn Thanh tra
+  - original: Iron Axe
+    translation: Rìu sắt
+  - original: Iron Belt
+    translation: Đai lưng sắt
+  - original: Iron Boots
+    translation: Giày sắt
+  - original: Iron Bow
+    translation: Cung thợ săn
+  - original: Iron Gloves
+    translation: Găng tay sắt
+  - original: Iron Helm
+    translation: Mũ sắt
+  - original: Iron Mace
+    translation: Búa thép lớn
+  - original: Iron Pants
+    translation: Quần sắt
+  - original: Iron Shoulders
+    translation: Vai sắt
+  - original: Iron Sword
+    translation: Kiếm sắt
+  - original: Iron-Blade Greataxe
+    translation: Rìu lớn lưỡi đá
+  - original: Iron-Fork Staff
+    translation: Trượng sắt
+  - original: Iron-Prod Crossbow
+    translation: Nỏ tên sắt
+  - original: Iron-Rim Shield
+    translation: Khiên sắt miếng
+  - original: Iron-Wing Staff
+    translation: Trượng cánh sắt
+  - original: Ironmail Pants
+    translation: Quần chuỗi sắt
+  - original: Ironwrought Pants
+    translation: Quần chuỗi sắt
+  - original: Jagged Axe
+    translation: Rìu răng cưa
+  - original: Janissary Belt
+    translation: Đai lưng lữ hành
+  - original: Janissary Boots
+    translation: Giày lữ hành
+  - original: Janissary Gloves
+    translation: Găng lữ hành
+  - original: Janissary Pants
+    translation: Quần lữ hành
+  - original: Janissary Ring
+    translation: Nhẫn lữ hành
+  - original: Janissary Shoulders
+    translation: Vai lữ hành
+  - original: Jolt Tag
+    translation: Khuyên tai chấn động
+  - original: Karz's Boots
+    translation: Giày chiến đấu
+  - original: Killian's Boots
+    translation: Giày Hoang dã
+  - original: King's mail Belt
+    translation: Đai lưng của vua
+  - original: King's Mail Boots
+    translation: Giày của vua
+  - original: King's Mail Gloves
+    translation: Găng của vua
+  - original: King's Mail Helm
+    translation: Mũ của vua
+  - original: King's Mail Pants
+    translation: Quần của vua
+  - original: King's Mail Shoulders
+    translation: Vai của vua
+  - original: Kite Shield
+    translation: Khiên kềnh càng
+  - original: Kwat Pai Belt
+    translation: Đai lưng da đen
+  - original: Labarinto Boots
+    translation: Giày Mê cung
+  - original: Labarinto Gloves
+    translation: Găng tay Mê cung
+  - original: Labarinto Helm
+    translation: Mũ Mê cung
+  - original: Labarinto Pants
+    translation: Quần Mê cung
+  - original: Labarinto Shoulders
+    translation: Vai Mê cung
+  - original: Laminated Belt
+    translation: Đai tráng men
+  - original: Laminated Boots
+    translation: Giày tráng men
+  - original: Laminated Gloves
+    translation: Găng tráng men
+  - original: Laminated Helm
+    translation: Mũ tráng men
+  - original: Laminated Pants
+    translation: Quần tráng men
+  - original: Laminated Shoulders
+    translation: Vai tráng men
+  - original: Laughing Bow
+    translation: Cung nguyền rủa
+  - original: Leather Belt
+    translation: Đai lưng da
+  - original: Leather Boots
+    translation: Giày da
+  - original: Leather Gloves
+    translation: Găng tay da
+  - original: Leather Helm
+    translation: Mũ da
+  - original: Leather Infantry Boots
+    translation: Giày bộ binh da
+  - original: Leather Military Boots
+    translation: Giày bộ binh da
+  - original: Leather Pants
+    translation: Quần da
+  - original: Leather Shoulders
+    translation: Vai da
+  - original: Legion Sword
+    translation: Kiếm đế chế
+  - original: Legionnaire Belt
+    translation: Đai lưng quân đoàn
+  - original: Legionnaire Boots
+    translation: Giày quân đoàn
+  - original: Legionnaire Gloves
+    translation: Găng tay quân đoàn
+  - original: Legionnaire Helm
+    translation: Mũ quân đoàn
+  - original: Legionnaire Pants
+    translation: Quần quân đoàn
+  - original: Legionnaire Shoulders
+    translation: Vai quân đoàn
+  - original: Leone's Fancy Pants
+    translation: Quần Mê hoặc
+  - original: Lever-Action Crossbow
+    translation: Nỏ xương
+  - original: Liberation Boots
+    translation: Giày Giải phóng
+  - original: Liberation Gloves
+    translation: Găng Giải phóng
+  - original: Liberation Helm
+    translation: Mũ Giải phóng
+  - original: Liberation Ring
+    translation: Nhẫn Giải phóng
+  - original: Light Belt
+    translation: Đai lưng nhẹ
+  - original: Light Boots
+    translation: Giày nhẹ
+  - original: Light Gloves
+    translation: Găng tay nhẹ
+  - original: Light Infantry Boots
+    translation: Giày bộ binh nhẹ
+  - original: Light Military Boots
+    translation: Giày bộ binh nhẹ
+  - original: Light Pants
+    translation: Quần nhẹ
+  - original: Lightning Tag
+    translation: Khuyên tai tia sét
+  - original: Linen Belt
+    translation: Đai lưng lụa
+  - original: Linen Boots
+    translation: Giày lụa
+  - original: Linen Gloves
+    translation: Găng tay lụa
+  - original: Linen Pants
+    translation: Quần lụa
+  - original: Linen Shoulders
+    translation: Vai lụa
+  - original: Link Belt
+    translation: Đai liên kết
+  - original: Link Boots
+    translation: Giày liên kết
+  - original: Link Gloves
+    translation: Găng liên kết
+  - original: Link Helm
+    translation: Mũ liên kết
+  - original: Link Pants
+    translation: Quần liên kết
+  - original: Link Shoulders
+    translation: Vai liên kết
+  - original: Load-Bearing Shoulders
+    translation: Vai chịu tải
+  - original: Locomotor Belt
+    translation: Đai lưng động cơ
+  - original: Long Axe
+    translation: Rìu lớn dài
+  - original: Low Soft Boots
+    translation: Giày vải mềm
+  - original: Luck Belt
+    translation: Đai lưng may mắn
+  - original: Lumber Axe
+    translation: Rìu lớn chặt cây
+  - original: MacAlister's Belt
+    translation: Thắt lưng bảo hộ
+  - original: Mace
+    translation: Búa
+  - original: Machine Forged Belt
+    translation: Đai lưng Máy rèn
+  - original: Machine Forged Helm
+    translation: Mũ Máy rèn
+  - original: Machine Forged Pants
+    translation: Quần Máy rèn
+  - original: Machine Forged Shoulders
+    translation: Vai Máy rèn
+  - original: Machinist Gloves
+    translation: Găng máy móc
+  - original: Mad Demon Staff
+    translation: Trượng quỷ ám
+  - original: Madmorrow's Staff
+    translation: Trượng ngày mai
+  - original: Mage Wand
+    translation: Gậy pháp sư
+  - original: Magma Mace
+    translation: Chùy Dung Nham
+  - original: Mail Belt
+    translation: Đai vòng sắt
+  - original: Mail Boots
+    translation: Giày vòng sắt
+  - original: Mail Gloves
+    translation: Găng vòng sắt
+  - original: Mail Helm
+    translation: Mũ vòng sắt
+  - original: Mail Pants
+    translation: Quần vòng sắt
+  - original: Mail Shoulders
+    translation: Vai vòng sắt
+  - original: Mainspring Belt
+    translation: Đai lưng mùa xuân
+  - original: Mandible Mace
+    translation: Búa lớn quái thú
+  - original: Maple Bow
+    translation: Cung rừng xanh
+  - original: Marksman's Bow
+    translation: Cung xạ thủ
+  - original: Marksman's Crossbow
+    translation: Nỏ xạ thủ
+  - original: Mastercrafted Crossbow
+    translation: Nỏ xạ thủ
+  - original: Match Pistol
+    translation: Súng lục chiến đấu
+  - original: Matchlock Pistol
+    translation: Súng lục bút chì
+  - original: Mechano-Pants
+    translation: Quần thợ máy
+  - original: Mephitic Tag
+    translation: Khuyên tai lá phong
+  - original: Merciless Belt
+    translation: Đai lưng Tàn nhẫn
+  - original: Merciless Helm
+    translation: Mũ Tàn nhẫn
+  - original: Merciless Pants
+    translation: Quần Tàn nhẫn
+  - original: Merciless Shoulders
+    translation: Vai Tàn nhẫn
+  - original: Meteor Sword
+    translation: Kiếm răng cá mập
+  - original: Mika's Boots
+    translation: Giày buộc vải
+  - original: Military Crossbow
+    translation: Nỏ săn bắn
+  - original: Military Shotgonne
+    translation: Súng trường kị binh
+  - original: Mondon's Belt
+    translation: Đai lưng Thiết giáp
+  - original: Mondon's Ring
+    translation: Nhẫn Thiết giáp
+  - original: Mosby's Ring
+    translation: Nhẫn Kiến tạo
+  - original: Mountain Axe
+    translation: Rìu leo nói
+  - original: Mountain Belt
+    translation: Đai lưng leo núi
+  - original: Mountain Boots
+    translation: Giày leo núi
+  - original: Mountain Gloves
+    translation: Găng leo núi
+  - original: Mountain Helm
+    translation: Mũ leo núi
+  - original: Mountain Pants
+    translation: Quần leo núi
+  - original: Mountain Shoulders
+    translation: Vai leo núi
+  - original: Mud-Caked Boots
+    translation: Giày bám bùn
+  - original: Mulberry Bow
+    translation: Cung gỗ dâu
+  - original: Mysterious Boots
+    translation: Giầy huyền bí
+  - original: Mysterious Gem
+    translation: Đá quý bí ẩn
+  - original: Mysterious Gloves
+    translation: Găng tay huyền bí
+  - original: Mysterious Pants
+    translation: Quần huyền bí
+  - original: Mysterious Shoulders
+    translation: Vai huyền bí
+  - original: Near-and-Far Boots
+    translation: Giày tiến bộ
+  - original: Necromius Gloves
+    translation: Găng thầy tế
+  - original: Necrotic Belt
+    translation: Thắt lưng Hoại tử
+  - original: Necrotic Boots
+    translation: Giày Hoại tử
+  - original: Necrotic Gloves
+    translation: Găng Hoại tử
+  - original: Necrotic Helm
+    translation: Mũ Hoại tử
+  - original: Necrotic Pants
+    translation: Quần Hoại tử
+  - original: Necrotic Ring
+    translation: Nhẫn Hoại tử
+  - original: Necrotic Shoulders
+    translation: Vai Hoại tử
+  - original: Needs Gem
+    translation: Cần đá quý
+  - original: Netherrealm Axe
+    translation: Rìu Ác quỷ
+  - original: Netherrealm Bow
+    translation: Cung quỷ tộc
+  - original: Netherrealm Crossbow
+    translation: Nỏ quỷ tộc
+  - original: Netherrealm Greataxe
+    translation: Rìu lớn quỷ tộc
+  - original: Netherrealm Pistol
+    translation: Súng lục quỷ tộc
+  - original: Netherrealm Shield
+    translation: Khiên quỷ tộc
+  - original: Netherrealm Shotgonne
+    translation: Súng trường quỷ tộc
+  - original: Netherrealm Staff
+    translation: Trượng quỷ tộc
+  - original: Netherrealm Sword
+    translation: Kiếm quỷ tộc
+  - original: Netherrealm Wand
+    translation: Gậy phép quỷ tộc
+  - original: Netherskull Mace
+    translation: Búa nghi lễ
+  - original: Nighteye Staff
+    translation: Trượng mắt đêm
+  - original: Noble Shield
+    translation: Khiên cao thượng
+  - original: Notched Axe
+    translation: Rìu mẻ
+  - original: Oaken Bow
+    translation: Cung ngắn
+  - original: Oathbreaker Boots
+    translation: Giày bội ước
+  - original: Oathbreaker Gloves
+    translation: Găng bội ước
+  - original: Oathbreaker Shoulders
+    translation: Vai bội ước
+  - original: Obscure Belt
+    translation: Đai lưng Hiếm cụ
+  - original: Obscure Boots
+    translation: Giày Hiếm cụ
+  - original: Obscure Gloves
+    translation: Găng Hiếm cụ
+  - original: Obscure Helm
+    translation: Mũ Hiếm cụ
+  - original: Obscure Pants
+    translation: Quần Hiếm cụ
+  - original: Obscure Shoulders
+    translation: Vai Hiếm cụ
+  - original: Oil-Stained Shoulders
+    translation: Vai dầu mỡ
+  - original: Old-Tooth Wand
+    translation: Gậy răng cũ
+  - original: Ole's Mighty Helm
+    translation: Mũ Thiết cụ
+  - original: Omen Axe
+    translation: Rìu điềm báo
+  - original: Outercore Belt
+    translation: Đai lưng Thiết giáp
+  - original: Outercore Boots
+    translation: Giày Thiết giáp
+  - original: Outercore Gloves
+    translation: Găng tay Thiết giáp
+  - original: Outercore Pants
+    translation: Quần Thiết giáp
+  - original: Outland Bow
+    translation: Cung chiến tranh
+  - original: Outlaw's Pistol
+    translation: Súng lục Vô pháp
+  - original: Over-Under Crossbow
+    translation: Nỏ cải tiến
+  - original: Over-Under Pistol
+    translation: Súng lục lính canh
+  - original: Padded Belt
+    translation: Đai lưng nhồi bông
+  - original: Patchwork Belt
+    translation: Đai lưng chắp vá
+  - original: Patchwork Boots
+    translation: Giày chắp vá
+  - original: Patchwork Gloves
+    translation: Găng tay chắp vá
+  - original: Patchwork Pants
+    translation: Quần chắp vá
+  - original: Patchwork Shoulders
+    translation: Vai chắp vá
+  - original: Pathfinder Belt
+    translation: Đai lưng tìm đường
+  - original: Pathfinder Boots
+    translation: Giày tìm đường
+  - original: Pathfinder Gloves
+    translation: Găng tìm đường
+  - original: Pathfinder Helm
+    translation: Mũ tìm đường
+  - original: Pathfinder Pants
+    translation: Quần tìm đường
+  - original: Pathfinder Shoulders
+    translation: Vai tìm đường
+  - original: Peasant Crossbow
+    translation: Nỏ tên sắt
+  - original: Perdurabo Boots
+    translation: Giày ma pháp
+  - original: Perictione's Shoulders
+    translation: Vai hiền nhân
+  - original: Pernicious Tag
+    translation: Khuyên tai độc hại
+  - original: Pestilence Tag
+    translation: Khuyên tai bệnh dịch
   - original: Pet Tag Slot\n\n |c00ff9933The best way to find\nPet Tags is to fish \nin dangerous areas!|u
     translation: Khuyên tai\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
+  - original: Phoenix Belt
+    translation: Đai lưng phượng hoàng
+  - original: Phoenix Boots
+    translation: Giày phượng hoàng
+  - original: Phoenix Gloves
+    translation: Găng phượng hoàng
+  - original: Phoenix Helm
+    translation: Mũ phượng hoàng
+  - original: Phoenix Pants
+    translation: Quần phượng hoàng
+  - original: Phoenix Shoulders
+    translation: Vai phượng hoàng
+  - original: Physical Shield
+    translation: Khiên vật lý
+  - original: Pike-Staff
+    translation: Trượng cúp
+  - original: Pilgrim's Staff
+    translation: Trượng hành hương
+  - original: Pioneer Belt
+    translation: Đai lưng tiên phong
+  - original: Pioneer Boots
+    translation: Giày tiên phong
+  - original: Pioneer Gloves
+    translation: Găng tiên phong
+  - original: Pioneer Helm
+    translation: Mũ tiên phong
+  - original: Pioneer Pants
+    translation: Quần tiên phong
+  - original: Pioneer Shoulders
+    translation: Vai tiên phong
+  - original: Pistol
+    translation: Súng lục
+  - original: Piston Ring
+    translation: Nhẫn Kiến tạo
+  - original: Pistonlock Pistol
+    translation: Súng lục hơi nước
+  - original: Place Gem
+    translation: Đặt đá quý
+  - original: Plague-Crystal Wand
+    translation: Gậy tai hoạ
+  - original: Plainslord Belt
+    translation: Đai lưng Nguyên soái
+  - original: Plainslord Helm
+    translation: Mũ Nguyên soái
+  - original: Plainslord Pants
+    translation: Quần Nguyên soái
+  - original: Plainslord Shoulders
+    translation: Vai Nguyên soái
+  - original: Plate Belt
+    translation: Đai kim loại
+  - original: Plate Boots
+    translation: Giày kim loại
+  - original: Plate Gloves
+    translation: Găng kim loại
+  - original: Plate Helm
+    translation: Mũ kim loại
+  - original: Plate Pants
+    translation: Quần kim loại
+  - original: Plate Shoulders
+    translation: Vai kim loại
+  - original: Pleated Belt
+    translation: Đai lưng nếp gấp
+  - original: Pleated Boots
+    translation: Giày nếp gấp
+  - original: Pleated Gloves
+    translation: Găng tay nếp gấp
+  - original: Pleated Pants
+    translation: Quần nếp gấp
+  - original: Pleated Shoulders
+    translation: Vai nếp gấp
+  - original: Plumb-Bob T-Square Pants
+    translation: Quần khảo sát
+  - original: Pocket Pistol
+    translation: Súng lục bỏ túi
+  - original: Poison Ring
+    translation: Nhẫn độc
+  - original: Poison Shield
+    translation: Khiên độc
+  - original: Poison Sword
+    translation: Kiếm độc
+  - original: Poison Wand
+    translation: Gậy độc
+  - original: Pole Axe
+    translation: Rìu lớn sắc bén
+  - original: Polearm
+    translation: Giáo
+  - original: Ponya Boots
+    translation: Giày chiến sĩ
+  - original: Ponya Gloves
+    translation: Găng chiến sĩ
+  - original: Ponya Pants
+    translation: Quần chiến sĩ
+  - original: Power Tag
+    translation: Khuyên tai sức mạnh
+  - original: Praetorian Belt
+    translation: Praetorian Belt
+  - original: Praetorian Boots
+    translation: Giày pháp quan
+  - original: Praetorian Gloves
+    translation: Găng pháp quan
+  - original: Praetorian Helm
+    translation: Mũ pháp quan
+  - original: Praetorian Pants
+    translation: Quần pháp quan
+  - original: Praetorian Shoulders
+    translation: Vai pháp quan
+  - original: Precision Manumorphic Gloves
+    translation: Găng tay tinh xảo
+  - original: Primitive Greataxe
+    translation: Rìu lớn nguyên thuỷ
+  - original: Professor Parma's Steam-Shield
+    translation: Khiên mặt quỷ
+  - original: Pulley-Bow
+    translation: Nỏ ròng rọc
+  - original: Pyromancer Pants
+    translation: Quần nứt nẻ
+  - original: Quad-Barrel Shotgonne
+    translation: Súng trường bốn nòng
+  - original: Quartz Sword
+    translation: Kiếm thạch anh
+  - original: Rail-Forge Helm
+    translation: Mũ thợ rèn
+  - original: Railforged Boots
+    translation: Giày Thiết kị
+  - original: Railforged Gloves
+    translation: Găng tay Thiết kị
+  - original: Railforged Pants
+    translation: Quần Thiết kị
+  - original: Railman Lamp-Helm
+    translation: Mũ thợ máy
+  - original: Railspike Ring
+    translation: Nhẫn Hoả lôi
+  - original: Ratchet Bow
+    translation: Cung điểm tựa
+  - original: Ratchet Ring
+    translation: Nhẫn nhỏ nhắn
+  - original: Raw Gem
+    translation: Ngọc thô
+  - original: Rawhide Belt
+    translation: Đai lưng da sống
+  - original: Rawhide Bolt Ring
+    translation: Nhẫn da sống
+  - original: Rawhide Boots
+    translation: Giày da sống
+  - original: Rawhide Fang Ring
+    translation: Nhẫn da sống
+  - original: Rawhide Flame Ring
+    translation: Nhẫn da sống
+  - original: Rawhide Gloves
+    translation: Găng da sống
+  - original: Rawhide Helm
+    translation: Mũ da sống
+  - original: Rawhide Pants
+    translation: Quần da sống
+  - original: Rawhide Shard Ring
+    translation: Nhẫn da sống
+  - original: Rawhide Shoulders
+    translation: Vai da sống
+  - original: Reactive Shield
+    translation: Kích hoạt lại khiên
+  - original: Red Bolt Ring
+    translation: Nhẫn sét đỏ
+  - original: Red Forest Ring
+    translation: Nhẫn dây rừng
+  - original: Red Glow Ring
+    translation: Nhẫn lửa đỏ
+  - original: Red Lich Ring
+    translation: Nhẫn quỷ
+  - original: Red Mountain Ring
+    translation: Nhẫn núi đỏ
+  - original: Red Paw Gloves
+    translation: Găng móng đỏ
+  - original: Red Vanquisher Ring
+    translation: Nhẫn thủ vệ
+  - original: Redscale Belt
+    translation: Đai lưng vảy đỏ
+  - original: Redscale Boots
+    translation: Giày vảy đỏ
+  - original: Redscale Gloves
+    translation: Găng vảy đỏ
+  - original: Redscale Helm
+    translation: Mũ vảy đỏ
+  - original: Redscale Pants
+    translation: Quần vảy đỏ
+  - original: Redscale Shoulders
+    translation: Vai vảy đỏ
+  - original: Reflex Crossbow
+    translation: Nỏ cải tiến
+  - original: Regent Belt
+    translation: Đai phụ chánh
+  - original: Regent Bolt Ring
+    translation: Nhẫn phụ chánh
+  - original: Regent Boots
+    translation: Giày phụ chánh
+  - original: Regent Fang Vo Ring
+    translation: Nhẫn phụ chánh
+  - original: Regent Flame Vo Ring
+    translation: Nhẫn phụ chánh
+  - original: Regent Gloves
+    translation: Găng phụ chánh
+  - original: Regent Pants
+    translation: Quần phụ chánh
+  - original: Regent Shard Vo Ring
+    translation: Nhẫn phụ chánh
+  - original: Regent Shoulders
+    translation: Vai phụ chánh
+  - original: Reinforced Bow
+    translation: Cung hỗn hợp
+  - original: Repeating Crossbow
+    translation: Nỏ kị binh
+  - original: Requires a Bow, Crossbow, Shotgonne, or Pistol
+    translation: Yêu cầu cung, nỏ, súng trường hoặc súng lục
+  - original: Requires a Shotgonne
+    translation: Yêu cầu sử dụng súng trường.
+  - original: Requires a Staff
+    translation: 'Yêu cầu vũ khí: Trượng'
+  - original: Requires a Staff or Wand
+    translation: Yêu cầu Trượng hoặc Gậy phép
+  - original: Requires a Wand
+    translation: Yêu cầu vũ khí:Gậy phép
+  - original: Rhino-Hide Belt
+    translation: Đai lưng da tê giác
+  - original: Rhino-Hide Boots
+    translation: Giày da tê giác
+  - original: Rhino-Hide Gloves
+    translation: Găng da tê giác
+  - original: Rhino-Hide Helm
+    translation: Mũ da tê giác
+  - original: Rhino-Hide Pants
+    translation: Quần da tê giác
+  - original: Rhino-Hide Shoulders
+    translation: Vai da tê giác
+  - original: Riding-Sword
+    translation: Kiếm biểu diễn
+  - original: Rifle
+    translation: Súng bắn tỉa
+  - original: Ring
+    translation: Nhẫn
+  - original: Ringed Belt
+    translation: Đai bao vây
+  - original: Ringed Boots
+    translation: Giày bao vây
+  - original: Ringed Gloves
+    translation: Găng bao vây
+  - original: Ringed Pants
+    translation: Quần bao vây
+  - original: Ringed Shoulders
+    translation: Vai bao vây
+  - original: Ritual Janissary Gloves
+    translation: Găng tay Thiết ngưu
+  - original: Ritual Janissary Pants
+    translation: Quần Thiết ngưu
+  - original: Riverman's Pistol
+    translation: Súng lục săn bắn
+  - original: Rivet Shield
+    translation: Khiên đinh tán
+  - original: Rockjaw Axe
+    translation: Rìu răng đá
+  - original: Rohac's Comic Boots
+    translation: Giày hài kịch
+  - original: Rookie Shotgonne
+    translation: Súng trường lính mới
+  - original: Rotating Shotgonne
+    translation: Súng trường bốn nòng
+  - original: Runemaster Belt
+    translation: Thắt lưng Thuật sư
+  - original: Runemaster Boots
+    translation: Giày Thuật sư
+  - original: Runemaster Gloves
+    translation: Găng tay Thuật sư
+  - original: Runemaster Helm
+    translation: Mũ Thuật sư
+  - original: Runemaster Pants
+    translation: Quần Thuật sư
+  - original: Runic Shotgonne
+    translation: Súng trường ấn thạch
+  - original: Sacrificial Axe
+    translation: Rìu lớn hiến tế
+  - original: Sage's Staff
+    translation: Trượng hiền nhân
+  - original: Sailor's Crossbow
+    translation: Nỏ thực dân
+  - original: Salamander Belt
+    translation: Đai lưng kỳ nhông
+  - original: Salamander Boots
+    translation: Giày kỳ nhông
+  - original: Salamander Gloves
+    translation: Găng tay kỳ nhông
+  - original: Salamander Pants
+    translation: Quần kỳ nhông
+  - original: Salamander Shoulders
+    translation: Vai kỳ nhông
+  - original: Sanguine Gem
+    translation: Tinh hồng bảo thạch
+  - original: Savage Boots
+    translation: Giày Man rợ
+  - original: Savage Gloves
+    translation: Găng tay Man rợ
+  - original: Savage Helm
+    translation: Mũ Man rợ
+  - original: Savage Pants
+    translation: Quần Man rợ
+  - original: Savage Shoulders
+    translation: Vai Man rợ
+  - original: Scale Belt
+    translation: Đai vảy cá
+  - original: Scale Boots
+    translation: Giày vảy cá
+  - original: Scale Gloves
+    translation: Găng vảy cá
+  - original: Scale Helm
+    translation: Mũ vảy cá
+  - original: Scale Pants
+    translation: Quần vảy cá
+  - original: Scale Shoulders
+    translation: Vai vảy cá
+  - original: Scalloped Shield
+    translation: Khiên ấn thạch
+  - original: Scortch-Wing Staff
+    translation: Trượng cánh thiêu đốt
+  - original: Searing Tag
+    translation: Khuyên tai nóng bức
+  - original: Seastar Staff
+    translation: Trượng sao biển
+  - original: Seeker's Staff
+    translation: Trượng tìm kiếm
+  - original: Segmented Belt
+    translation: Đai ngăn cách
+  - original: Segmented Boots
+    translation: Giày ngăn cách
+  - original: Segmented Gloves
+    translation: Găng ngăn cách
+  - original: Segmented Helm
+    translation: Mũ ngăn cách
+  - original: Segmented Pants
+    translation: Quần ngăn cách
+  - original: Segmented Shoulders
+    translation: Vai ngăn cách
+  - original: Sentinel Belt
+    translation: Đai lưng Quân binh
+  - original: Sentinel Boots
+    translation: Giày Quân binh
+  - original: Sentinel Gloves
+    translation: Găng Quân binh
+  - original: Sentinel Pants
+    translation: Quần Quân binh
+  - original: Sentinel Pistol
+    translation: Súng lục lính canh
+  - original: Sentinel Ring
+    translation: Nhẫn Quân binh
+  - original: Sentinel Shoulders
+    translation: Vai Quân binh
+  - original: Serrated Axe
+    translation: Rìu răng cưa
+  - original: Servo-Helm
+    translation: Mũ thợ máy
+  - original: Settler Belt
+    translation: Đai lưng di cư
+  - original: Settler Boots
+    translation: Giày di cư
+  - original: Settler Gloves
+    translation: Găng tay di cư
+  - original: Settler Helm
+    translation: Mũ di cư
+  - original: Settler Pants
+    translation: Quần di cư
+  - original: Settler Shoulders
+    translation: Vai di cư
+  - original: Shaman's Bow
+    translation: Cung bộ lạc
+  - original: Shaman's Shoulders
+    translation: Vai triệu hồn
+  - original: Shandor's Ring
+    translation: Nhẫn Hoả lôi
+  - original: Shank's Gloves
+    translation: Găng cá mập
+  - original: Shard-Wand
+    translation: Gậy thuỷ tinh
+  - original: Sharktooth Sword
+    translation: Kiếm răng cá mập
+  - original: Shatterbolt Tag
+    translation: Khuyên tai tan vỡ
+  - original: Shield
+    translation: Khiên
+  - original: Shiny Metal Shoulders
+    translation: Vai thợ máy
+  - original: Shiver Tag
+    translation: Khuyên tai rùng mình
+  - original: Shock Tag
+    translation: Khuyên tai sốc
+  - original: Short Sword
+    translation: Kiếm ngắn
+  - original: Shotgonne
+    translation: Súng trường
+  - original: Siege Bow
+    translation: Cung xiềng xích
+  - original: Siege Crossbow
+    translation: Nỏ xiềng xích
+  - original: Simple Crossbow
+    translation: Nỏ cơ bản
+  - original: Sinfully Ugly Boots
+    translation: Giày xấu xí
+  - original: Six-King Staff
+    translation: Trượng lục vương
+  - original: Six-Stick Belt
+    translation: Đai lưng sáu thanh
+  - original: Six-Stick Ring
+    translation: Nhẫn sáu thanh
+  - original: Skeleton Mace
+    translation: Búa xương
+  - original: Skjollheimer Axe
+    translation: Rìu lưỡi thép
+  - original: Skull Axe
+    translation: Rìu đầu lâu
+  - original: Skull Bow
+    translation: Cung nguyền rủa
+  - original: Skull Staff
+    translation: Trượng đầu lâu
+  - original: Skullcracker Axe
+    translation: Rìu đầu lâu vỡ
+  - original: Smokebox Belt
+    translation: Đai lưng hàng thùng
+  - original: Smokebox Ring
+    translation: Nhẫn Kiến tạo
+  - original: Smoothbore Pistol
+    translation: Súng lục mượt mà
+  - original: Snow Tag
+    translation: Khuyên tai tuyết
+  - original: Sodalis Gloves
+    translation: Găng ma pháp
+  - original: Sodalis Helm
+    translation: Mũ ma pháp
+  - original: Sodalis Shoulders
+    translation: Vai ma pháp
+  - original: Soldier's Crossbow
+    translation: Nỏ chiến sĩ
+  - original: Soldier's Sword
+    translation: Đại đao chiến sĩ
+  - original: Spark Tag
+    translation: Khuyên tai tia lửa
+  - original: Spectral Sword
+    translation: Kiếm linh hồn
+  - original: Spellbinder Shoulders
+    translation: Vai mê hoặc
+  - original: Spellfire Belt
+    translation: Đai lưng Băng giá
+  - original: Spellfire Ring
+    translation: Nhẫn Băng giá
+  - original: Spellgunner's Belt
+    translation: Đai lưng Hoả ngục
+  - original: Spellgunner's Ring
+    translation: Nhẫn Hoả ngục
+  - original: Spellweaver Belt
+    translation: Đai lưng Phép thuật
+  - original: Spellweaver Helm
+    translation: Mũ Phép thuật
+  - original: Spellweaver Pants
+    translation: Quần Phép thuật
+  - original: Spellweaver Shoulders
+    translation: Vai Phép thuật
+  - original: Spike Axe
+    translation: Rìu đinh
+  - original: Spike-Tooth Wand
+    translation: Gậy răng nhọn
+  - original: Spikebeard Greataxe
+    translation: Rìu lớn lưỡi đá
+  - original: Spiked Bow
+    translation: Cung xiềng xích
+  - original: Spinecord Crossbow
+    translation: Nỏ đầu lâu
+  - original: Splitkick Shoulders
+    translation: Vai thô sơ
+  - original: Sprawl Street Pistol
+    translation: Súng lục hạt tiêu
   - original: Stab
     translation: Cú đâm
   - original: Staff
@@ -603,10 +2337,296 @@ Equipments:
     translation: Trượng Đế vương
   - original: Staff of Industry
     translation: Trượng Thông thái
+  - original: Star-Bladed Mace
+    translation: Búa đồng
+  - original: Steam-Loaded Pistol
+    translation: Súng lục hơi nước
+  - original: Steam-Valve Rifle
+    translation: Súng trường hơi nước
+  - original: Steampowered Shotgonne
+    translation: Súng trường hơi nước
+  - original: Steel Belt
+    translation: Đai lưng thép
+  - original: Steel Boots
+    translation: Giày thép
+  - original: Steel Gloves
+    translation: Găng tay thép
+  - original: Steel Helm
+    translation: Mũ thép
+  - original: Steel Mace
+    translation: Búa thép lớn
+  - original: Steel Pants
+    translation: Quần thép
+  - original: Steel Shoulders
+    translation: Vai thép
+  - original: Steel Sword
+    translation: Kiếm thép
+  - original: Steel-Thorn Greataxe
+    translation: Rìu lớn bán nguyệt
+  - original: Steeleye Mace
+    translation: Búa nghi lễ
+  - original: Stock Crossbow
+    translation: Nỏ cơ bản
+  - original: Stone Axe
+    translation: Rìu đá
+  - original: Stone Belt
+    translation: Đai lưng đá
+  - original: Stone Bolt Ring
+    translation: Nhẫn đá
+  - original: Stone Boots
+    translation: Giày đá
+  - original: Stone Fang Ring
+    translation: Nhẫn đá
+  - original: Stone Flame Ring
+    translation: Nhẫn đá
+  - original: Stone Gloves
+    translation: Găng đá
+  - original: Stone Helm
+    translation: Mũ đá
+  - original: Stone Pants
+    translation: Quần đá
+  - original: Stone Shard Ring
+    translation: Nhẫn đá
+  - original: Stone Shoulders
+    translation: Vai đá
+  - original: Stone-Blade Greataxe
+    translation: Rìu lớn lưỡi đá
+  - original: Stonewedge Mace
+    translation: Búa đá lớn
+  - original: Striking Dragon Staff
+    translation: Trượng tấn công
+  - original: Sturdy Belt
+    translation: Đai bền bỉ
+  - original: Sturdy Boots
+    translation: Giày bền bỉ
+  - original: Sturdy Gloves
+    translation: Găng bền bỉ
+  - original: Sturdy Pants
+    translation: Quần bền bỉ
+  - original: Sturdy Shoulders
+    translation: Vai bền bỉ
+  - original: Sturm Bolt Ring
+    translation: Nhẫn người gấu
+  - original: Sturm Fang Ring
+    translation: Nhẫn răng gấu
+  - original: Sturm Flame Ring
+    translation: Nhẫn người gấu
+  - original: Sturm Shard Ring
+    translation: Nhẫn người gấu
+  - original: Sturm Shield
+    translation: Khiên người gấu
+  - original: Sturmbeorn Belt
+    translation: Đai lưng người gấu
+  - original: Sturmbeorn Boots
+    translation: Giày người gấu
+  - original: Sturmbeorn FireStaff
+    translation: Trượng người gấu lửa
+  - original: Sturmbeorn Gloves
+    translation: Găng tay người gấu
+  - original: Sturmbeorn Helm
+    translation: Mũ người gấu
+  - original: Sturmbeorn Necro-Staff
+    translation: Trượng người gấu triệu hồn
+  - original: Sturmbeorn Pants
+    translation: Quần người gấu
+  - original: Sturmbeorn Shoulders
+    translation: Vai người gấu
+  - original: Sturmbeorn Staff
+    translation: Trượng người gấu
+  - original: Suicide Wand
+    translation: Gậy tự sát
+  - original: Surge Tag
+    translation: Khuyên tai dâng trào
+  - original: Surveyor Boots
+    translation: Giày khảo sát
+  - original: Surveyor Gloves
+    translation: Găng khảo sát
+  - original: Surveyor Pants
+    translation: Quần khảo sát
+  - original: Surveyor Shoulders
+    translation: Vai khảo sát
+  - original: Sweltering Tag
+    translation: Khuyên tai nôn nóng
   - original: Sword
     translation: Kiếm
   - original: Sword and Board
     translation: Kiếm và Khiên
+  - original: Tag
+    translation: Khuyên tai
+  - original: Tainted Tag
+    translation: Khuyên tai ô nhiễm
+  - original: Taper Shield
+    translation: Khiên hình nón
+  - original: Tarroch's Battle-Gloves
+    translation: Găng của Tarroch
+  - original: Tarroch's Boots
+    translation: Giày của Tarroch
+  - original: Tarroch's Gloves
+    translation: Găng của Tarroch
+  - original: Tarroch's Helm
+    translation: Mũ của Tarroch
+  - original: Tarroch's Hobnail Boots
+    translation: Giày của Tarroch
+  - original: Tarroch's Leather Gloves
+    translation: Găng của Tarroch
+  - original: Tarroch's Shoulders
+    translation: Vai của Tarroch
+  - original: Tarroch's Tackety Boots
+    translation: Giày của Tarroch
+  - original: Teardrop Shield
+    translation: Khiên giọt nước
+  - original: Telescoping Goggle-Helm
+    translation: Mũ khảo sát
+  - original: Tenebra's Boots
+    translation: Giày bóng tối
+  - original: Tenebra's Helm
+    translation: Mũ bóng tối
+  - original: Tenebra's Shoulders
+    translation: Vai bóng tối
+  - original: Tenebris Boots
+    translation: Giày bóng tối
+  - original: Tenebris Helm
+    translation: Mũ bóng tối
+  - original: Tenebris Shoulders
+    translation: Vai bóng tối
+  - original: Thargo's Mighty Boots
+    translation: Giày mạnh mẽ
+  - original: Thargo's Mighty Helm
+    translation: Mũ mạnh mẽ
+  - original: The Astrolabe Ring
+    translation: Nhẫn tinh tú
+  - original: The Black Knight's Helm
+    translation: Mũ kị sĩ đen
+  - original: The Blackburne Ring
+    translation: Nhẫn bóng đêm
+  - original: The Blackpowder Staff
+    translation: Trượng thuốc nổ
+  - original: The Bloody Red Helm
+    translation: Mũ đẫm máu
+  - original: The Broken Ring
+    translation: Nhẫn Thợ săn
+  - original: The Brutal Belt
+    translation: Đai lưng hung dữ
+  - original: The Cast-Iron Ring
+    translation: Nhẫn Hoả lôi
+  - original: The Deep One Ring
+    translation: Nhẫn Băng giá
+  - original: The Ethereal Ring
+    translation: Nhẫn chiến binh
+  - original: The Extension Sword
+    translation: Đại đao khuếch trương
+  - original: The Gann Ring
+    translation: Nhẫn Trí thức
+  - original: The Hunting God's Bow
+    translation: Cung quái thú
+  - original: The Long and Winding Ring
+    translation: Nhẫn Hắc nhãn
+  - original: The Mechano-Axe
+    translation: Rìu lớn lắp ghép
+  - original: The Mountain King's Axe
+    translation: Rìu vua núi
+  - original: The Nether-Ring
+    translation: Nhẫn quỷ tộc
+  - original: The Ravenous Ring
+    translation: Nhẫn đói khát
+  - original: The Savage Belt
+    translation: Đai lưng tàn bạo
+  - original: The Savage Sword
+    translation: Đại đao dữ tợn
+  - original: The Shard Ring
+    translation: Nhẫn Ảo ảnh
+  - original: The Starry Wisdom Belt
+    translation: Đai lưng liên kết
+  - original: The Sundered Ring
+    translation: Nhẫn Khí hậu
+  - original: The Vitruvian Ring
+    translation: Nhẫn Bảo hộ
+  - original: The Voynich Gloves
+    translation: Găng tay tự nhiên
+  - original: The Wrought-Iron Belt
+    translation: Đai rèn sắt
+  - original: The Wrought-Iron Ring
+    translation: Nhẫn Kiến tạo
+  - original: The Wyrdfire Ring
+    translation: 'Nhẫn ma trơi '
+  - original: The Wyrdshard Ring
+    translation: Nhẫn ma trơi
+  - original: The Wyrdsplinter Ring
+    translation: Nhẫn ma trơi
+  - original: Three Steel Sword
+    translation: Kiếm răng cá mập
+  - original: Three-Hand Sword
+    translation: Đại đao 3 tay
+  - original: Throwing Axe
+    translation: Ném rìu
+  - original: Thunder Tag
+    translation: Khuyên tai sấm sét
+  - original: Timber Axe
+    translation: Rìu lớn chặt cây
+  - original: Tinder Tag
+    translation: Khuyên tai bắt lửa
+  - original: Torque Ring
+    translation: Nhẫn mỏng manh
+  - original: Torquetum Ring
+    translation: Nhẫn phương hướng
+  - original: Totemic Greataxe
+    translation: Rìu lớn nguyên thuỷ
+  - original: Tower Shield
+    translation: Khiên tháp
+  - original: Toxic Tag
+    translation: Khuyên tai độc
+  - original: Trailblazer Belt
+    translation: Đai lưng dẫn đầu
+  - original: Trailblazer Boots
+    translation: Giày dẫn đầu
+  - original: Trailblazer Clog Boots
+    translation: Giày dẫn đầu
+  - original: Trailblazer Gloves
+    translation: Găng dẫn đầu
+  - original: Trailblazer Helm
+    translation: Mũ dẫn đầu
+  - original: Trailblazer Pants
+    translation: Quần dẫn đầu
+  - original: Trailblazer Shoulders
+    translation: Vai dẫn đầu
+  - original: Trancendent Ring
+    translation: Nhẫn Siêu việt
+  - original: Trapper Pistol
+    translation: Súng lục chiến đấu
+  - original: Traveling Staff
+    translation: Trượng du lịch
+  - original: Tribal Bow
+    translation: Cung bộ lạc
+  - original: Tribal Greataxe
+    translation: Rìu lớn nguyên thuỷ
+  - original: Tribal Staff
+    translation: Trượng bộ lạc
+  - original: Trophy Pistol
+    translation: Súng lục giả kim
+  - original: True Estheria Belt
+    translation: Đai lưng Thủ hộ
+  - original: True Estheria Boots
+    translation: Giày Thủ hộ
+  - original: True Estheria Pants
+    translation: Quần Thủ hộ
+  - original: True Estheria Ring
+    translation: Nhẫn Thủ hộ
+  - original: True Estheria Shoulders
+    translation: Vai Thủ hộ
+  - original: True North Boots
+    translation: Giày Bắc đẩu
+  - original: True North Gloves
+    translation: Găng tay Bắc đẩu
+  - original: True North Pants
+    translation: Quần Bắc đẩu
+  - original: True Sword
+    translation: Đại đao sắc sảo
+  - original: Tuned Staff
+    translation: Trượng điều chỉnh
+  - original: Twinferno Wand
+    translation: Gậy Bạo pháp
+  - original: Twisted Bone Staff
+    translation: Trượng xương Cổ độc
   - original: Two-Finger Claw
     translation: Vuốt hai ngón
   - original: Two-Handed Axe
@@ -619,6 +2639,10 @@ Equipments:
     translation: Đại đao
   - original: Two-Hander
     translation: Dùng hai tay
+  - original: Unearthly Belt
+    translation: Đai lưng Siêu phàm
+  - original: Unearthly Ring
+    translation: Nhẫn Siêu phàm
   - original: Unidentified Amulet
     translation: Dây chuyền chưa giám định
   - original: Unidentified Axe
@@ -683,6 +2707,18 @@ Equipments:
     translation: Hiếm có
   - original: Unknown
     translation: Không rõ
+  - original: Valgang Axe
+    translation: Rìu băng đảng
+  - original: Valgang War Axe
+    translation: Rìu lớn chiến tranh
+  - original: Valkyrie Belt
+    translation: Thắt lưng thần nữ
+  - original: Valkyrie Ring
+    translation: Nhẫn thần nữ
+  - original: Valmarken Axe
+    translation: Rìu lưỡi thép
+  - original: Vance's Gloves
+    translation: Găng tay theo dõi
   - original: Vanquisher Armor
     translation: Giáp thủ vệ
   - original: Vanquisher Belt
@@ -697,6 +2733,190 @@ Equipments:
     translation: Quần thủ vệ
   - original: Vanquisher Shoulders
     translation: Vai thủ vệ
+  - original: Varkolyn Belt
+    translation: Đai lưng người dơi
+  - original: Varkolyn Bolt Ring
+    translation: Nhẫn người dơi
+  - original: Varkolyn Boots
+    translation: Giày người dơi
+  - original: Varkolyn Claw-Boots
+    translation: Giày người dơi
+  - original: Varkolyn Claw-Gloves
+    translation: Găng người dơi
+  - original: Varkolyn Fang Ring
+    translation: Nhẫn người dơi
+  - original: Varkolyn Flame Ring
+    translation: Nhẫn người dơi
+  - original: Varkolyn Gloves
+    translation: Găng người dơi
+  - original: Varkolyn Helm
+    translation: Mũ người dơi
+  - original: Varkolyn Mage's Staff
+    translation: Trượng phép của Người dơi
+  - original: Varkolyn Pants
+    translation: Quần người dơi
+  - original: Varkolyn Shard Ring
+    translation: Nhẫn người dơi
+  - original: Varkolyn Shoulders
+    translation: Vai người dơi
+  - original: Varkolyn Staff
+    translation: Trượng người dơi
+  - original: Varkolyn Talon-Boots
+    translation: Giày người dơi
+  - original: Varkolyn Talon-Gloves
+    translation: Găng người dơi
+  - original: Varmint Tag
+    translation: Khuyên tai ti tiện
+  - original: Venin Tag
+    translation: Khuyên tai cánh dơi
+  - original: Venom Tag
+    translation: Khuyên tai độc ác
+  - original: Vented Shotgonne
+    translation: Súng trường vòng đạn
+  - original: Vile Tag
+    translation: Khuyên tai vô cớ
+  - original: Walkabout Boots
+    translation: Giày đi bộ
+  - original: Walking Staff
+    translation: Trượng đi bộ
+  - original: Wand
+    translation: Gậy phép
+  - original: Wanderer Ring
+    translation: Nhẫn lang thang
+  - original: Wanderlust Boots
+    translation: Giày Lạc lối
+  - original: Wanderlust Gloves
+    translation: Găng tay Lạc lối
+  - original: Wanderlust Pants
+    translation: Quần Lạc lối
+  - original: War Axe
+    translation: Rìu chiến tranh
+  - original: War Bow
+    translation: Cung bộ lạc
+  - original: War Mace
+    translation: Búa chiến tranh
+  - original: War Shield
+    translation: Khiên chiến đấu
+  - original: War Sword
+    translation: Kiếm chiến tranh
+  - original: War-Dog Boots
+    translation: Giày hư danh
+  - original: War-Rune Shield
+    translation: Khiên ấn thạch
+  - original: Warcaster Boots
+    translation: Giày chiến binh
+  - original: Warcaster Helm
+    translation: Mũ chiến binh
+  - original: Warcaster Shoulders
+    translation: Vai chiến binh
+  - original: Warlock Belt
+    translation: Đai lưng pháp sư
+  - original: Warlock Dueling Pistol
+    translation: Súng lục mượt mà
+  - original: Warlock Gloves
+    translation: Găng phù thuỷ
+  - original: Warlock Helm
+    translation: Mũ phù thuỷ
+  - original: Warlock Pants
+    translation: Quần pháp sư
+  - original: Warlock Shoulders
+    translation: Vai phù thuỷ
+  - original: Wasteland Bow
+    translation: Cung xiềng xích
+  - original: Wazir Belt
+    translation: Đai lưng pháp thuật
+  - original: Wazir Boots
+    translation: Giày pháp thuật
+  - original: Wazir Gloves
+    translation: Găng tay pháp thuật
+  - original: Wazir Helm
+    translation: Mũ pháp thuật
+  - original: Wazir Ka Bolt Ring
+    translation: Nhẫn pháp thuật
+  - original: Wazir Ka Fang Ring
+    translation: Nhẫn pháp thuật
+  - original: Wazir Ka Flame Ring
+    translation: Nhẫn pháp thuật
+  - original: Wazir Ka Shard Ring
+    translation: Nhẫn pháp thuật
+  - original: Wazir Pants
+    translation: Quần pháp thuật
+  - original: Wazir Shoulders
+    translation: Vai pháp thuật
+  - original: Wheellock Pistol
+    translation: Súng lục bút chì
+  - original: Wildwood Belt
+    translation: Đai lưng Mộc lâm
+  - original: Wildwood Boots
+    translation: Giày Mộc lâm
+  - original: Wildwood Gloves
+    translation: Găng Mộc lâm
+  - original: Wildwood Helm
+    translation: Mũ Mộc lâm
+  - original: Wildwood Pants
+    translation: Quần Mộc lâm
+  - original: Wildwood Ring
+    translation: Nhẫn Mộc lâm
+  - original: Wildwood Shoulders
+    translation: Vai Mộc lâm
+  - original: Winter Tag
+    translation: Khuyên tai mùa đông
+  - original: Winterkiss Tag
+    translation: Khuyên tai đông lạnh
+  - original: Witch-Wand
+    translation: Gậy phù thuỷ
+  - original: Witchfinder Boots
+    translation: Giày tìm kiếm
+  - original: Wizard Staff
+    translation: Trượng pháp sư
+  - original: Wood Shield
+    translation: Khiên gỗ
+  - original: Wooden Sword
+    translation: Kiếm gỗ
+  - original: Wraith Lord's Axe
+    translation: Rìu lớn băng tinh
+  - original: Wraith Lord's Mace
+    translation: Búa lớn băng tinh
+  - original: Wrapped Bow
+    translation: Cung chiến tranh
+  - original: Wright's Ring
+    translation: Nhẫn Trí thức
+  - original: Yellow Fang Ring
+    translation: Nhẫn răng vàng
+  - original: Yellow Flame Ring
+    translation: Nhẫn lửa vàng
+  - original: Yellow Forest Ring
+    translation: Nhẫn dây rừng
+  - original: Yellow Mountain Ring
+    translation: Nhẫn núi vàng
+  - original: Yellow Vanquisher Ring
+    translation: Nhẫn thủ vệ
+  - original: Yew Bow
+    translation: Cung rừng xanh
+  - original: Zeraphi Belt
+    translation: Đai lưng sa mạc
+  - original: Zeraphi Boots
+    translation: Giày sa mạc
+  - original: Zeraphi Crossbow
+    translation: Nỏ ròng rọc
+  - original: Zeraphi Fang Ring
+    translation: Nhẫn sa mạc
+  - original: Zeraphi Flame Ring
+    translation: Nhẫn sa mạc
+  - original: Zeraphi Gloves
+    translation: Găng tay sa mạc
+  - original: Zeraphi Helm
+    translation: Mũ sa mạc
+  - original: Zeraphi Pants
+    translation: Quần sa mạc
+  - original: Zeraphi Shard Ring
+    translation: Nhẫn sa mạc
+  - original: Zeraphi Shoulders
+    translation: Vai sa mạc
+  - original: Zugmeister's Boots
+    translation: Giày thợ máy
+  - original: Zugmeister's Gloves
+    translation: Găng tay thợ máy
 
 Equipments/Skills Stats:
   - original: '-[VALUE_OT] [DMGTYPE] Damage'
