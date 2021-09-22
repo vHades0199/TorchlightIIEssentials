@@ -69,11 +69,28 @@ const getObjFromSrc = () => {
 }
 
 const writeYamlFile = (filePath, doc) => {
-    const strDump = typeof doc === 'string' ? doc : yaml.dump(doc, {
-        sortKeys: true, quotingType: '"', lineWidth: -1
+    Object.keys(doc).forEach(k => {
+        doc[k] = doc[k].sort((a, b) => {
+            if (!a.original) return 1;
+            if (!b.original) return -1;
+            return a.original.localeCompare(b.original);
+        });
+        console.info(` [${doc[k].length}] ${k}`);
+    });
+    const strDump = yaml.dump(doc, {
+        sortKeys: sortGroupFunc, quotingType: '"', lineWidth: -1
     }).replace(/^(?!\s)/gm, '\n').trimStart();
     writeFileSync(filePath, strDump, { encoding: 'utf8' });
 }
+
+const sortGroupFunc = (a, b) => {
+    if (a == 'original') return -1;
+    if (b == 'original') return 1;
+    if (['mod', 'Common'].includes(a)) return 1;
+    if (['mod', 'Common'].includes(b)) return -1;
+
+    return a.localeCompare(b);
+};
 
 switch (process.argv[3]) {
     // {file}.[YAML] sort
@@ -82,25 +99,9 @@ switch (process.argv[3]) {
             console.error('Is not a YAML file!');
             break;
         }
-        const sortGroupFunc = (a, b) => {
-            if (a == 'original') return -1;
-            if (b == 'original') return 1;
-            if (a == 'Common') return 1;
-            if (b == 'Common') return -1;
 
-            return a.localeCompare(b);
-        };
         const doc = yaml.load(src);
-        Object.keys(doc).forEach(k => {
-            doc[k] = doc[k].sort((a, b) => {
-                return a.original.localeCompare(b.original);
-            });
-            console.info(` [${doc[k].length}] ${k}`);
-        });
-        const text = yaml.dump(doc, {
-            sortKeys: sortGroupFunc, quotingType: '"', lineWidth: -1
-        }).replace(/^(?!\s)/gm, '\n').trimStart();
-        writeYamlFile(pathSrc, text);
+        writeYamlFile(pathSrc, doc);
         break;
 
     // {file}.[YAML|DAT] merge
@@ -111,9 +112,9 @@ switch (process.argv[3]) {
         Object.keys(root).forEach(k => {
             root[k].forEach((item, inx) => {
                 const newItem = mergeObj.Common.find(x => x.original == item.original);
-                if (newItem?.translation)
+                if (!item.translation && newItem?.translation)
                     root[k][inx].translation = newItem.translation;
-            })
+            });
         });
         writeYamlFile(rootPath, root);
         break;

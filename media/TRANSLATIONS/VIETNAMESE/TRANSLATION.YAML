@@ -1,3 +1,55 @@
+Character Stats:
+  - original: <STAT1> degrees
+    translation: <STAT1> độ
+  - original: <STAT1> meters
+    translation: <STAT1> mét
+  - original: <STAT1> seconds
+    translation: <STAT1> giây
+  - original: <STAT1>/sec
+    translation: <STAT1>/giây
+  - original: <STAT1>%/sec
+    translation: <STAT1>%/giây
+  - original: "|cFFD1FF7ALeft-Hand|u"
+    translation: "|cFFD1FF7ATay-trái|u"
+  - original: "|cFFD1FF7ARight-Hand|u"
+    translation: "|cFFD1FF7ATay-phải|u"
+  - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
+    translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
+  - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
+    translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
+  - original: "|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u."
+    translation: "|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u."
+  - original: "|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously)."
+    translation: "|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay)."
+  - original: "|cFFEAAA15Level <STAT1>|u"
+    translation: "|cFFEAAA15Cấp <STAT1>|u"
+  - original: "|cFFEAAA15Skill Points: <STAT1>|u"
+    translation: "|cFFEAAA15Điểm Kỹ năng: <STAT1>|u"
+  - original: "|cFFEAAA15Stat Points|u"
+    translation: "|cFFEAAA15Điểm Tiềm năng|u"
+  - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u."
+    translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
+  - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u."
+    translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
+  - original: "|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields."
+    translation: "|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên."
+  - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
+    translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
+  - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
+    translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
+  - original: "|cFFF5DB94Defense Statistics|u"
+    translation: "|cFFF5DB94Thông số Phòng thủ|u"
+  - original: Current Rank
+    translation: Cấp bậc hiện tại
+  - original: Damage
+    translation: Sát thương
+  - original: Monsters
+    translation: Quái vật
+  - original: Monsters Defeated
+    translation: Quái vật đã hạ
+  - original: Monsters Slain
+    translation: Quái vật bị giết
+
 Characters - Demonhunter:
   - original: Creation
     translation: Sáng tạo
@@ -646,21 +698,7 @@ Equipments:
   - original: Vanquisher Shoulders
     translation: Vai thủ vệ
 
-Equipments - Torchlight II Essentials:
-  - original: "|cFFFF0000-[VALUE]% to [DMGTYPE] Armor for [DURATION]|u"
-    translation: "|cFFFF0000-[VALUE]% [DMGTYPE] Giáp trong [DURATION]|u"
-  - original: "|cFFFF0000-[VALUE]% to [DMGTYPE] Armor|u"
-    translation: "|cFFFF0000-[VALUE]% [DMGTYPE] Giáp|u"
-  - original: "|cFFFF0000[DMGTYPE] Armor reduced by [VALUE] for [DURATION]|u"
-    translation: "|cFFFF0000Giáp [DMGTYPE] giảm [VALUE] trong [DURATION]|u"
-  - original: "|cFFFF0000[DMGTYPE] Armor reduced by [VALUE]|u"
-    translation: "|cFFFF0000Giáp [DMGTYPE] giảm [VALUE]|u"
-  - original: "|cFFFF0000Movement Speed reduced by [VALUE]% for [DURATION]|u"
-    translation: "|cFFFF0000Tốc độ di chuyển giảm [VALUE]% trong [DURATION]|u"
-  - original: "|cFFFF0000Movement Speed reduced by [VALUE]%|u"
-    translation: "|cFFFF0000Tốc độ di chuyển giảm [VALUE]%|u"
-
-Equipments Stats:
+Equipments/Skills Stats:
   - original: "-[VALUE_OT] [DMGTYPE] Damage"
     translation: "-[VALUE_OT] sát thương [DMGTYPE]"
   - original: "-[VALUE_OT] [DMGTYPE] Damage over [DURATION]"
@@ -1589,6 +1627,28 @@ Equipments Stats:
     translation: "|cffff0000Mất đi [VALUE] Năng lượng trong [DURATION]|u"
   - original: "|cffff0000[VALUE] Mana loss per second!|u"
     translation: "|cffff0000Mất đi [VALUE] Năng lượng mỗi giây!|u"
+  - original: Left hand require
+    translation: Yêu cầu tay trái
+  - original: Left Hand Weapon Slot (Empty)
+    translation: Vũ khí Tay trái (Trống)
+  - original: Movement Speed reduced by [VALUE]%
+    translation: Tốc độ di chuyển giảm [VALUE]%
+  - original: Movement Speed reduced by [VALUE]% for [DURATION]
+    translation: Tốc độ di chuyển giảm [VALUE]% trong [DURATION]
+
+Equipments/Skills Stats - Torchlight II Essentials:
+  - original: "|cFFFF0000-[VALUE]% to [DMGTYPE] Armor for [DURATION]|u"
+    translation: "|cFFFF0000-[VALUE]% [DMGTYPE] Giáp trong [DURATION]|u"
+  - original: "|cFFFF0000-[VALUE]% to [DMGTYPE] Armor|u"
+    translation: "|cFFFF0000-[VALUE]% [DMGTYPE] Giáp|u"
+  - original: "|cFFFF0000[DMGTYPE] Armor reduced by [VALUE] for [DURATION]|u"
+    translation: "|cFFFF0000Giáp [DMGTYPE] giảm [VALUE] trong [DURATION]|u"
+  - original: "|cFFFF0000[DMGTYPE] Armor reduced by [VALUE]|u"
+    translation: "|cFFFF0000Giáp [DMGTYPE] giảm [VALUE]|u"
+  - original: "|cFFFF0000Movement Speed reduced by [VALUE]% for [DURATION]|u"
+    translation: "|cFFFF0000Tốc độ di chuyển giảm [VALUE]% trong [DURATION]|u"
+  - original: "|cFFFF0000Movement Speed reduced by [VALUE]%|u"
+    translation: "|cFFFF0000Tốc độ di chuyển giảm [VALUE]%|u"
 
 Inventory:
   - original: Consumables Inventory
@@ -1941,8 +2001,6 @@ Quests:
     translation: "- Lấy được |cFFD1FF7ABản thảo giáp trụ|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u từ thợ rèn của Người gấu"
   - original: "- Talk to the |cFFFFBA00Vanquisher|u"
     translation: "- Nói chuyện với |cFFFFBA00Thủ vệ|u"
-  - original: "- Talk to Vale the |cFFFFBA00Vanquisher|u"
-    translation: "- Nói chuyện với Vale"
   - original: "- Travel to |cFFFFBA00Grunnheim|u"
     translation: "- Di chuyển tới |cFFFFBA00Kinh Đô Xưa|u"
   - original: "|cFFF5DB94-You Found-|u"
@@ -1951,8 +2009,6 @@ Quests:
     translation: Quái thú Nổi loạn
   - original: Go through the |cFFFFBA00Path of the Honored Dead|u to the |cFFFFBA00Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe.
     translation: Đi qua |cFFFFBA00Con Đường Vinh Quang|u đến |cFFFFBA00Đồng Bằng Quái Thú|u.  Vào |cFFFFBA00Đền Thờ Mùa Xuân|u và chắc chắn rằng |cFFFFBA00Thuỷ Vệ Thần|u vẫn an toàn.
-  - original: It appears you were too late!  The Alchemist has already reached the Enclave ... and was rebuffed by the Estherian Grand Regent, Eldrayn.  The Alchemist fled toward the south, through the Path of the Honored Dead, toward the Wellspring Temple.\n\nShortly afterward, Commander Vale, another of the Heroes of Torchlight, and a close friend of the Destroyer's, arrived with a platoon of troops.  She quickly set off for the Wellspring Temple, to protect the Guardian of Water, in case the Alchemist struck there next.  There has been no word from her since.
-    translation: Có vẻ bạn đã đến muộn! Alchemist đã tới Thị Trấn Mùa Xuân ... và bị đẩy lui bởi Đại trưởng lão của Estheria, Eldrayn. Alchemist đã chuyển hướng sang phía nam, đi qua Con Đường Vinh Quang, thẳng tới Đền Thờ Mùa Xuân.\n\nChỉ ngay sau đó, Chỉ huy Vale, một anh hùng nữa của Torchlight, và là bạn thân thiết của Destroyer, đến với một trung đội lính. Cô ấy nhanh chóng tới Đền Thờ Mùa Xuân, để bảo vệ Thuỷ Vệ Thần, trong trường hợp Alchemist sẽ tới đó tiếp theo. Vẫn chưa có tin tức gì từ cô ấy kể từ đó.
   - original: Reward Choices
     translation: Phần thưởng được chọn
   - original: Rewards
@@ -1960,40 +2016,81 @@ Quests:
   - original: The story so far..
     translation: Câu chuyện cách đây đã lâu...
 
+Quests - Activate the Teleporter:
+  - original: null
+
 Quests - Protect the Guardian:
-  - original: Commander Vale believes that the Alchemist might attack the |cFFFFBA00Wellspring Temple|u, in an attempt to reach the |cFFFFBA00Guardian of Water|u ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.\n\nScout the |cFFFFBA00Wellspring Temple|u, and determine if the |cFFFFBA00Guardian of Water|u is in any danger.
-    translation: Chỉ huy Vale tin rằng Alchemist có thể sẽ tấn công |cFFFFBA00Đền Thờ Mùa Xuân|u, trong cố gắng vươn tới chỗ của |cFFFFBA00Thuỷ Vệ Thần|u ... cho mục đích đen tối của hắn.  Vẫn chưa có tin tức gì từ Vale, cũng như Vệ Thần.\n\nHãy dò xét |cFFFFBA00Đền Thờ Mùa Xuân|u, và xác định xem |cFFFFBA00Thuỷ Vệ Thần|u có đang gặp bất kỳ nguy hiểm nào.
-    mod: xxx
-  - original: Protect the Guardian!
-    translation: Bảo vệ Vệ thần!
   - original: "- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale"
     translation: "- Khám phá ra |cFFFFBA00Đền Wellspring|u trong |cFFFFBA00Đền Steppes|u và tìm Chỉ huy Vale."
     mod: Unearthed Arcana
-  - original: I must be on my way soon.  If the Alchemist I must be on my way soon.  If the Alchemist is attacking Guardians, he will be after the Guardian, at the Watchweald Temple ... assuming the Vanquisher failed to stop him at the Wellspring.\n\nThe Guardians are immensely powerful beings.  They control the elements, and thus provide for life.  But they are not inviolate; a sufficiently powerful attacker could overcome them.  If the Alchemist was able to do so, then the threat he poses is greater than anything the world has faced since the Netherim invasion a millennium ago.
-  
+  - original: "- Talk to |cFFFFBA00Chỉ huy Vale|u"
+    translation: "- Nói chuyện với |cFFFFBA00Commander Vale|u"
+  - original: "- Talk to Vale the |cFFFFBA00Vanquisher|u"
+    translation: "- Nói chuyện với |cFFFFBA00Người Thủ vệ|u Vale"
+  - original: Commander Vale believes that the Alchemist might attack the |cFFFFBA00Wellspring Temple|u, in an attempt to reach the |cFFFFBA00Guardian of Water|u ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.\n\nScout the |cFFFFBA00Wellspring Temple|u, and determine if the |cFFFFBA00Guardian of Water|u is in any danger.
+    translation: |-
+      |cFFFFBA00Chỉ huy|u Vale tin rằng Alchemist có thể sẽ tấn công |cFFFFBA00Đền Thờ Mùa Xuân|u, trong cố gắng vươn tới chỗ của |cFFFFBA00Thuỷ Vệ Thần|u ... cho mục đích đen tối của hắn.  Vẫn chưa có tin tức gì từ Vale, cũng như Vệ Thần.
+
+      Hãy dò xét |cFFFFBA00Đền Thờ Mùa Xuân|u, và xác định xem |cFFFFBA00Thuỷ Vệ Thần|u có đang gặp bất kỳ nguy hiểm nào.
+  - original: Go through the |cFFFFBA00Path of the Honored Dead|u to |cFFFFBA00The Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe.
+    translation: Đi ngang qua |cFFFFBA00Con đường của Người chết được vinh danh|u để đến |cFFFFBA00Đền Steppes|u.  Vào |cFFFFBA00Đền Wellspring|u và đảm bảo rằng |cFFFFBA00Người giám hộ của Nước|u an toàn.
+    mod: Unearthed Arcana
+  - original: I don't know who you are ... but I'm glad you came along!  We arrived just as the Alchemist was subduing the Guardian, but he caught us by surprise.  We couldn't stop him.\n\nGrell and his raiders arrived shortly after the Alchemist left.  They've been trying to get in here and loot this place for years; the Alchemist's attack finally gave them the opening they needed.
+    translation: Tôi không biết bạn là ai ... nhưng tôi mừng vì bạn đã tới! Chúng tôi tới ngay khi Alchemist vừa chinh phục Vệ Thần, nhưng hắn đã làm chúng tôi bất ngờ. Chúng tôi không thể dừng hắn lại.\n\nGrell và quân của hắn đến đây sau khi Alchemist rời đi. Chúng cố gắng vào đây và cướp bóc nơi này nhiều năm rồi; cuộc tấn công của Alchemist đã cho chúng cơ hội vào đúng lúc chúng cần.
+  - original: I must be on my way soon.  If the Alchemist is attacking Guardians, he will be after the Guardian, at the Watchweald Temple ... assuming the Vanquisher failed to stop him at the Wellspring.\n\nThe Guardians are immensely powerful beings.  They control the elements, and thus provide for life.  But they are not inviolate; a sufficiently powerful attacker could overcome them.  If the Alchemist was able to do so, then the threat he poses is greater than anything the world has faced since the Netherim invasion a millennium ago.
+    translation: Tôi sẽ lên đường sớm thôi. Nếu Alchemist đang tấn công các Vệ Thần, hắn sẽ theo sau họ, tại Thần Điện ... giả sử rằng Thủ vệ thất bại trong việc ngăn cản hắn tại Điện Thờ Mùa Xuân.\n\nCác Vệ Thần là những sinh vật vô cùng mạnh mẽ. Họ kiểm soát các nguyên tố và cung cấp chúng cho cuộc sống của mọi người. Nhưng họ đã bị đe dọa; một kẻ với sức mạnh có thể vượt qua họ. Nếu Alchemist có thể làm được điều đó, mối đe dọa mà hắn gây ra có lẽ là lớn hơn tất cả mọi thứ thế giới từng đối mặt kể từ cuộc xâm lăng của Quỷ tộc một thiên niên kỷ trước.
+  - original: It appears you were too late!  The Alchemist has already reached the Enclave ... and was rebuffed by the Estherian Grand Regent, Eldrayn.  The Alchemist fled toward the south, through the Path of the Honored Dead, toward the Wellspring Temple.\n\nShortly afterward, Commander Vale, another of the Heroes of Torchlight, and a close friend of the Destroyer's, arrived with a platoon of troops.  She quickly set off for the Wellspring Temple, to protect the Guardian of Water, in case the Alchemist struck there next.  There has been no word from her since.
+    translation: Có vẻ bạn đã đến muộn! Alchemist đã tới Thị Trấn Mùa Xuân ... và bị đẩy lui bởi Đại trưởng lão của Estheria, Eldrayn. Alchemist đã chuyển hướng sang phía nam, đi qua Con Đường Vinh Quang, thẳng tới Đền Thờ Mùa Xuân.\n\nChỉ ngay sau đó, Chỉ huy Vale, một anh hùng nữa của Torchlight, và là bạn thân thiết của Destroyer, đến với một trung đội lính. Cô ấy nhanh chóng tới Đền Thờ Mùa Xuân, để bảo vệ Thuỷ Vệ Thần, trong trường hợp Alchemist sẽ tới đó tiếp theo. Vẫn chưa có tin tức gì từ cô ấy kể từ đó.
+  - original: Protect the Guardian!
+    translation: Bảo vệ Vệ thần!
+
+Quests - The Ember Keys:
+  - original: Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from the |cFFFFBA00Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u.
+    translation: Thu thập |cFFFFBA00Tinh thể Chìa khóa|u từ |cFFFFBA00Nhà ngục Nô lệ|u, và |cFFFFBA00Tinh thể Chốt khóa|u từ |cFFFFBA00Hầm Mỏ Yêu tinh|u.  Dùng chúng để mở ra |cFFFFBA00Cổng Tới Thần Điện|u, tại trung tâm của |cFFFFBA00Đại Điện Cổ|u.
+  - original: From the symptoms I observed, the Grand Regent has definitely contracted the illness.  He insisted on pushing on, though; the Guardian's welfare is more important.  But, if this sickness is instead some form of magical corruption, then the Grand Regent is taking it directly to the Guardian!
+    translation: Từ những dấu hiệu mà tôi thấy, Đại trưởng lão có lẽ đã bị nhiễm bệnh. Ông ấy vẫn cố gắng bởi sự an toàn của Vệ Thần mới là quan trọng nhất. Nhưng nếu như căn bệnh này là một dạng ma thuật thì Đại trưởng lão sẽ chính là người mang nó thẳng tới với Vệ Thần!
+  - original: The Ember Keys
+    translation: Chìa khóa thất lạc
+  - original: Use the gems to open the |cFFFFBA00Watchweald Portal|u, in the |cFFFFBA00Estherian Refuge|u, in the |cFFFFBA00Frosted Hills|u.
+    translation: Sử dụng tinh thể để mở |cFFFFBA00Cổng Tới Thần Điện|u, trong |cFFFFBA00Đại Điện Cổ|u, tại |cFFFFBA00Cao Nguyên Băng Giá|u.
+  - original: null
+  - original: null
+  - original: null
+
+Quests - The Ember Keys - Unearthed Arcana:
+  - original: |
+      - Acquire |cFFFFBA00[ACQUIRE1]|u from the |cFFFFBA00Slavers' Stockade|u in |cFFFFBA00The Frosted Hills|u
+      - Acquire |cFFFFBA00[ACQUIRE2]|u from |cFFFFBA00The Emberscratch Mines|u in |cFFFFBA00The Frosted Hills|u
+  - original: "- Use the |cFFFFBA00Ember Keys|u to activate the |cFFFFBA00Watchweald Portal|u in the |cFFFFBA00Estherian Refuge|u, in |cFFFFBA00The Frosted Hills|u"
+  - original: Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from |cFFFFBA00The Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u.
+  - original: En route to the Watchweald Temple, you met Grand Regent Eldrayn's assistant, Elder Valin.  Valin told you that he had become lost en route to the Watchweald ... and that the Grand Regent was beginning to exhibit symptoms of the sickness!\n\nWith the temple doors sealed, though, the only way in is through an inactive portal in the abandoned Estherian Refuge.  Elder Valin told you that, to reactivate the portal, you would need to retrieve the Passkey Ember from a slavers' camp, and the Latchkey Ember from the goblin mines.\n
+    translation: Trên đường tới Thần Điện, bạn gặp người hỗ trợ của Đại trưởng lão Eldrayn, Trưởng lão Valin. Valin nói với bạn rằng ông ấy đã mất chìa khóa vào Thần Điện  ... và Đại trưởng lão bắt đầu biểu hiện những dấu hiệu của bệnh tật!\n\nVới cánh cửa bị khóa, vì vậy cách duy nhất là bạn phải tìm cách kích hoạt cổng vào tại Đại Điện Cổ. Trưởng lão Valin nói với bạn rằng để có thể tái kích hoạt, bạn cần phải tìm ra các Tinh thể Dịch chuyển từ trại nô lệ và hầm mỏ yêu tinh.
+  - original: From the symptoms I observed, the Grand Regent has definitely contracted the illness.  He insisted on pushing on, though; the Guardian's welfare is more important.  But, if this sickness is instead some form of magical corruption, then the Grand Regent is taking it directly to the Guardian!
+    translation: Từ những dấu hiệu mà tôi thấy, Đại trưởng lão có lẽ đã bị nhiễm bệnh. Ông ấy vẫn cố gắng bởi sự an toàn của Vệ Thần mới là quan trọng nhất. Nhưng nếu như căn bệnh này là một dạng ma thuật thì Đại trưởng lão sẽ chính là người mang nó thẳng tới với Vệ Thần!
+  - original: I was planning to enter the Watchweald through the other portal in the old |cFFFFBA00Estherian Refuge|u.  Unfortunately the keys have been stolen.  Goblin miners took one, and we believe that some slavers who recently moved into the area have the other.  It takes both keys to activate the |cFFFFBA00Watchweald Portal|u ... and it is beyond my abilities to retrieve them.\n\nRecover the |cFFFFBA00Passkey Ember|u from the slavers, and the |cFFFFBA00Latchkey Ember|u from the goblins. You can use them to open the Portal in the Refuge, and intercept the Regent before he infects the Guardian!
+  - original: Use the gems to open the |cFFFFBA00Watchweald Portal|u at the |cFFFFBA00Estherian Refuge|u, in |cFFFFBA00The Frosted Hills|u.
+
 Quests - The Merryweather Poultice:
   - original: "- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u"
-    translation: "- Thu thập |cFFD1FF7Alá Linh Dược|u cho Medrus tại |cFFD1FF7AĐồng Bằng Quái Thú|u"
+    translation: "- Thu thập |cFFD1FF7Alá Merryweather|u cho |cFFD1FF7AMedrus|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u"
   - original: "*The Merryweather Poultice"
     translation: "*Thuốc đắp Merryweather"
   - original: Any luck finding the Merryweather Leaves?  I'm not sure how much longer I can hold on ...
-    translation: Bạn có may mắn tìm thấy lá Linh Dược nào không? Tôi không chắc có thể chờ được bao lâu nữa...
+    translation: Bạn có may mắn tìm thấy lá Merryweather nào không? Tôi không chắc có thể chờ được bao lâu nữa...
   - original: Collect  |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u, and return to |cFFD1FF7AMedrus|u, in the |cFFD1FF7ATemple Steppes|u.
-    translation: Thu thập |cFFD1FF7ALá Linh Dược|u từ một |cFFD1FF7ABụi Linh Dược|u, và mang về cho |cFFD1FF7AMedrus|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
+    translation: Thu thập |cFFD1FF7ALá Merryweather|u từ một |cFFD1FF7ABụi Merryweather|u, và mang về cho |cFFD1FF7AMedrus|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
   - original: Collect |cFFD1FF7AMerryweather Leaves|u from a |cFFD1FF7AMerryweather Bush|u in |cFFD1FF7AThe Temple Steppes|u.
-    translation: Thu thập  |cFFD1FF7ALá Linh Dược|u từ một |cFFD1FF7Abụi Linh Dược|u trong |cFFD1FF7AĐồng Bằng Quái Thú|u.
+    translation: Thu thập |cFFD1FF7ALá Merryweather|u từ một |cFFD1FF7Abụi Merryweather|u trong |cFFD1FF7AĐồng Bằng Quái Thú|u.
   - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
-    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên tôi là |cFFD1FF7AMedrus|u. Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi đã bị thương nặng. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
+    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên tôi là |cFFD1FF7AMedrus|u. Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi đã bị thương nặng. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Merryweather|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
   - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's Medrus.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
-    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên của tôi là |cFFD1FF7AMedrus|u.  Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi bị thương khá nặng trong quá trình này. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
-  - original: Merryweather bush
-    translation: Bụi Linh Dược
+    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên của tôi là |cFFD1FF7AMedrus|u.  Tôi đã bị một số Người gấu phục kích, và chúng đã gần đạt được điều đó ... nhưng tôi bị thương khá nặng trong quá trình này. Tôi có thể điều trị nó với một vài |cFFD1FF7Alá Merryweather|u. Chúng mọc quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
   - original: Merryweather Bush
-    translation: Bụi Linh Dược
+    translation: Bụi Merryweather
   - original: Merryweather Leaves
-    translation: Lá Linh Dược
+    translation: Lá Merryweather
   - original: The Merryweather Poultice
-    translation: Thuốc đắp Linh Dược
+    translation: Thuốc đắp Merryweather
 
 Quests - The Warbeast Armory:
   - original: If you're going out to the |cFFD1FF7ATemple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
@@ -2024,8 +2121,6 @@ Quests - Unearthed Arcana:
     translation: Vào |cFFD1FF7AHang Okwari bí mật|u ở |cFFD1FF7AĐền Steppes|u và tìm hiểu xem điều gì làm phiền nhiễu đến đàn quái thú.
   - original: Glyph of Balthazar
     translation: Biểu tượng của Balthazar
-  - original: Go through the |cFFFFBA00Path of the Honored Dead|u to |cFFFFBA00The Temple Steppes|u.  Enter the |cFFFFBA00Wellspring Temple|u and ensure that the |cFFFFBA00Guardian of Water|u is safe.
-    translation: Đi ngang qua |cFFFFBA00Con đường của Người chết được vinh danh|u để đến |cFFFFBA00Đền Steppes|u.  Vào |cFFFFBA00Đền Wellspring|u và đảm bảo rằng |cFFFFBA00Người giám hộ của Nước|u an toàn.
   - original: I am merely a spirit, but I mean you no harm.  In life, I was an ambitious thief, and I thought I was invincible.  My greatest achievement was when I stole the |cFFD1FF7AGlyph of Balthazar|u from |cFFD1FF7AThe Wellspring Treasury|u. I thought I could master its power over water, but I was very, very wrong.\n\nNow I am trapped here in eternal torment, unable to rectify my mistake. Will you return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u, and set my spirit free at last?
     translation: Tôi đơn thuần chỉ là một linh hồn, ý tôi là vô hại với bạn. Trong cuộc sống, tôi là một tên trộm đầy tham vọng, và tôi nghĩ rằng mình là kẻ bất khả chiến bại. Thành tích lớn nhất của tôi là khi tôi đánh cắp |cFFD1FF7ABiểu tượng của Balthazar|u từ |cFFD1FF7AKho bạc Wellspring|u. Tôi nghĩ tôi có thể làm chủ sức mạnh của nó đối với nước, nhưng tôi đã rất, rất sai lầm.\n\nBây giờ tôi đang bị mắc kẹt ở đây trong sự dày vò vĩnh viễn, không thể sửa chữa lỗi lầm của mình. Bạn sẽ trả lại |cFFD1FF7ABiểu tượng của Balthazar|u cho |cFFD1FF7ALưu vực Wellspring|u, và cuối cùng là giải phóng linh hồn của tôi được không?
   - original: I've been charged with culling the warbeasts here, for the Imperial colonization effort. I can keep their population down, but something is driving them wild, almost like they're rabid or something.\n\nCan you go into the |cFFD1FF7AThe Lost Okwari Caves|u and get rid of whatever's making them so vicious?
@@ -2086,13 +2181,13 @@ Socketables:
   - original: Ice Elemental
     translation: Nguyên tố Băng
   - original: Ice Ember
-    translation: "Nham thạch"
+    translation: Băng tinh
   - original: Ice Ember Chip
-    translation: "Vụn Nham thạch"
+    translation: Vụn Băng tinh
   - original: Ice Ember Shard
-    translation: "Mảnh vỡ Nham thạch"
+    translation: Mảnh Băng tinh
   - original: Ice Ember Speck
-    translation: "Cục Nham thạch"
+    translation: Viên Băng tinh
   - original: Ice Gel
     translation: Bóng nước Băng
   - original: Ice Labs
@@ -2186,38 +2281,6 @@ Spells - Torchlight II Essentials:
   - original: "|cFFF2ACB1Spell: Summon Archers VI"
     translation: "|cFFF2ACB1Phép: Triệu hồi Cung thủ VI"
 
-Stats:
-  - original: <STAT1> degrees
-    translation: <STAT1> độ
-  - original: <STAT1> meters
-    translation: <STAT1> mét
-  - original: <STAT1> seconds
-    translation: <STAT1> giây
-  - original: <STAT1>/sec
-    translation: <STAT1>/giây
-  - original: <STAT1>%/sec
-    translation: <STAT1>%/giây
-  - original: "|cFFD1FF7ALeft-Hand|u"
-    translation: "|cFFD1FF7ATay-trái|u"
-  - original: "|cFFD1FF7ARight-Hand|u"
-    translation: "|cFFD1FF7ATay-phải|u"
-  - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
-    translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
-  - original: "|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u."
-    translation: "|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u."
-  - original: "|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously)."
-    translation: "|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay)."
-  - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u."
-    translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
-  - original: "|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u."
-    translation: "|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u."
-  - original: "|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields."
-    translation: "|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên."
-  - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
-    translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
-  - original: "|cFFF5DB94Defense Statistics|u"
-    translation: "|cFFF5DB94Thông số Phòng thủ|u"
-
 Targets Status:
   - original: (Dividing)
     translation: (Phân thân)
@@ -2297,10 +2360,6 @@ Common:
     translation: "|c0097ffa1Vũ khí Tay phải|u"
   - original: "|cFF4B4B4BSkill Points: <STAT1>|u"
     translation: "|cFF4B4B4BĐiểm Kỹ năng: <STAT1>|u"
-  - original: "|cFF4B4B4BSkill Points: <STAT1>|u"
-    translation: "|cFF4B4B4BĐiểm Kỹ năng: <STAT1>|u"
-  - original: "|cFF4B4B4BStat Points|u"
-    translation: "|cFF4B4B4BĐiểm Tiềm năng|u"
   - original: "|cFF4B4B4BStat Points|u"
     translation: "|cFF4B4B4BĐiểm Tiềm năng|u"
   - original: "|cFF917D56Password|u"
@@ -2315,18 +2374,8 @@ Common:
     translation: "|cFFD1FF7ATay-trái|u"
   - original: "|cFFD1FF7ARight-Hand|u"
     translation: "|cFFD1FF7ATay-phải|u"
-  - original: "|cFFE0E0E0Damage: <STAT1>-<STAT2>|u"
-    translation: "|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u"
-  - original: "|cFFEAAA15Level <STAT1>|u"
-    translation: "|cFFEAAA15Cấp <STAT1>|u"
   - original: "|cFFEAAA15Requires restart for mods to be installed.|u"
     translation: "|cFFEAAA15Yêu cầu khởi động lại game và kích hoạt mod.|u"
-  - original: "|cFFEAAA15Skill Points: <STAT1>|u"
-    translation: "|cFFEAAA15Điểm Kỹ năng: <STAT1>|u"
-  - original: "|cFFEAAA15Stat Points|u"
-    translation: "|cFFEAAA15Điểm Tiềm năng|u"
-  - original: "|cFFF2BF4DTime Played:|u\\n <STAT1>"
-    translation: "|cFFF2BF4DThời gian chơi:|u\\n <STAT1>"
   - original: "|cFFFF0000Hardcore|u"
     translation: "|cFFFF0000YOLO|u"
   - original: "|cFFFF0000You Have Perished!|u"
@@ -2339,6 +2388,8 @@ Common:
     translation: "|cFFFFBF61Cần pít tông|u"
   - original: "|cFFFFBF61Needs Souls|u"
     translation: "|cFFFFBF61Cần Linh hồn|u"
+  - original: Battle Focus
+    translation: Tập trung chiến đấu
   - original: Celebrated
     translation: Lừng danh
   - original: Cell Doors
@@ -2379,16 +2430,8 @@ Common:
     translation: Tạo Cổng dịch chuyển
   - original: Current Location
     translation: Vị trí hiện tại
-  - original: Current Rank
-    translation: Cấp bậc hiện tại
-  - original: Damage
-    translation: Sát thương
   - original: left hand
     translation: tay trái
-  - original: Left hand require
-    translation: Yêu cầu tay trái
-  - original: Left Hand Weapon Slot (Empty)
-    translation: Vũ khí Tay trái (Trống)
   - original: Left Mouse Button Attack
     translation: Tấn công chuột trái
   - original: Left-Click to assign Skills or Items
@@ -2399,22 +2442,10 @@ Common:
     translation: Chế độ dùng Mod - Sử dụng thư mục Save Mod
   - original: Modifier
     translation: Phím nhấn kèm
-  - original: Monsters
-    translation: Quái vật
-  - original: Monsters Defeated
-    translation: Quái vật đã hạ
-  - original: Monsters Slain
-    translation: Quái vật bị giết
   - original: Monstrous Shrine
     translation: Ấn Kì quái
   - original: Move
     translation: Di chuyển
   - original: Move/Attack
     translation: Di chuyển/Tấn công
-  - original: Movement Speed reduced by [VALUE]%
-    translation: Tốc độ di chuyển giảm [VALUE]%
-  - original: Movement Speed reduced by [VALUE]% for [DURATION]
-    translation: Tốc độ di chuyển giảm [VALUE]% trong [DURATION]
-  - original: Battle Focus
-    translation: Tập trung chiến đấu
 
