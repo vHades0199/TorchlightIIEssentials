@@ -2016,10 +2016,19 @@ Quests:
   - original: The story so far..
     translation: Câu chuyện cách đây đã lâu...
 
-Quests - Activate the Teleporter:
-  - original: null
+Quests - ACT I - Mission of Mercy:
+  - original: "- Enter the |cFFFFBA00Watchweald Temple|u via the |cFFFFBA00Watchweald Portal|u and stop the |cFFFFBA00Grand Regent|u"
+    translation: "- Vào |cFFFFBA00Thần Điện|u thông qua |cFFFFBA00Cổng Tới Thần Điện|u và ngăn chặn |cFFFFBA00Đại trưởng lão|u"
+  - original: "- Speak to |cFFFFBA00Guardian of the Wild|u in the |cFFFFBA00Watchweald Temple|u"
+    translation: "- Nói chuyện với |cFFFFBA00Hoang Dã Vệ Thần|u tại |cFFFFBA00Thần Điện|u"
+  - original: As soon as you entered the Watchweald Temple, it was obvious that something was very wrong.  The entire building is overrun with mutated Estherians, and there are signs that a mighty battle has taken place ... and might still be going on.\n\nSomewhere amid all of this chaos is Grand Regent Eldrayn.  And if he is trying to protect the Guardian of the Wild, he may have already infected the Guardian with the mysterious illness that has affected so many Estherians ... the same malady that appears to have turned them into ravening Nether-Thralls!
+    translation: Ngay khi bạn vừa vào trong |cFFFFBA00Thần Điện|u, bạn đã cảm thấy mọi thứ không ổn. Toàn bộ nơi này đang trốn chạy với những người Estheria đột biến, và có dấu hiệu cho thấy nơi đây đã xảy ra một trận chiến lớn ... và có lẽ vẫn đang tiếp diễn.\n\nĐại trưởng lão Eldrayn chắc chắn đang ở nơi nào đó trong đám hỗn độn này. Và nếu ông ấy cố gắng bảo vệ |cFFFFBA00Hoang Dã Vệ Thần|u thì có thể ông ấy đã lây bệnh sang cho Vệ Thần, căn bệnh mà đã ảnh hưởng tới rất nhiều người Estheria ... căn bệnh này biến đổi họ thành những con Quỷ nô!
+  - original: Thank you, mortal.  I was too weakened by the Alchemist to fend off the Nether-Beast, when it revealed itself.  Had you not appeared when you did, it would have possessed me as completely as it had the Regent.
+    translation: Cám ơn, chiến binh. Tôi đã quá yếu vì Alchemist để có thể chống lại đám Quái thú Quỷ tộc khi chúng tự lộ ra. Nếu bạn không xuất hiện như bạn đã làm, nó sẽ chiếm hữu tôi hoàn toàn như đã làm với Trưởng lão.
+  - original: Use the |cFFFFBA00Watchweald Portal|u to enter the |cFFFFBA00Watchweald Temple|u. Stop the |cFFFFBA00Grand Regent|u before he harms the |cFFFFBA00Guardian of the Wild|u.
+    translation: Sử dụng |cFFFFBA00Cổng Tới Thần Điện|u để vào |cFFFFBA00Thần Điện|u. Ngăn chặn |cFFFFBA00Đại trưởng lão|u trước khi ông ấy gây hại đến |cFFFFBA00Hoang Dã Vệ Thần|u.
 
-Quests - Protect the Guardian:
+Quests - ACT I - Protect the Guardian:
   - original: "- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale"
     translation: "- Khám phá ra |cFFFFBA00Đền Wellspring|u trong |cFFFFBA00Đền Steppes|u và tìm Chỉ huy Vale."
     mod: Unearthed Arcana
@@ -2044,23 +2053,26 @@ Quests - Protect the Guardian:
   - original: Protect the Guardian!
     translation: Bảo vệ Vệ thần!
 
-Quests - The Ember Keys:
+Quests - ACT I - The Ember Keys:
+  - original: "- Acquire |cFFFFBA00[ACQUIRE1]|u at |cFFFFBA00Slavers' Stockade|u in |cFFFFBA00Frosted Hills|u\\n- Acquire |cFFFFBA00[ACQUIRE2]|u at |cFFFFBA00Emberscratch Mine|u in |cFFFFBA00Frosted Hills|u\\n"
+    translation: "- Lấy |cFFFFBA00[ACQUIRE1]|u tại |cFFFFBA00Nhà Ngục Nô Lệ|u trong |cFFFFBA00Cao Nguyên Băng Giá|u\\n- Lấy |cFFFFBA00[ACQUIRE2]|u tại |cFFFFBA00Hầm Mỏ Yêu tinh|u trong |cFFFFBA00Cao Nguyên Băng Giá|u\\n"
   - original: Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from the |cFFFFBA00Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u.
-    translation: Thu thập |cFFFFBA00Tinh thể Chìa khóa|u từ |cFFFFBA00Nhà ngục Nô lệ|u, và |cFFFFBA00Tinh thể Chốt khóa|u từ |cFFFFBA00Hầm Mỏ Yêu tinh|u.  Dùng chúng để mở ra |cFFFFBA00Cổng Tới Thần Điện|u, tại trung tâm của |cFFFFBA00Đại Điện Cổ|u.
+    translation: Thu thập |cFFFFBA00Tinh thể Chìa khóa|u từ |cFFFFBA00Nhà ngục Nô lệ|u, và |cFFFFBA00Tinh thể Chốt khóa|u từ |cFFFFBA00Hầm Mỏ Yêu tinh|u.  Dùng chúng để mở ra |cFFFFBA00Cổng Tới Thần Điện|u, ở |cFFFFBA00Nơi trú ẩn của người Estherian|u bỏ hoang.
+  - original: En route to the Watchweald Temple, you met Grand Regent Eldrayn's assistant, Elder Valin.  Valin told you that he had become lost en route to the Watchweald ... and that the Grand Regent was beginning to exhibit symptoms of the sickness!\n\nWith the temple doors sealed, though, the only way in is through an inactive portal in the abandoned Estherian Refuge.  Elder Valin told you that, to reactivate the portal, you would need to retrieve the Passkey Ember from a slavers' camp, and the Latchkey Ember from the goblin mines.\n
+    translation: Trên đường tới |cFFFFBA00Thần Điện|u, bạn gặp người hỗ trợ của Đại trưởng lão Eldrayn, Trưởng lão Valin. Valin nói với bạn rằng ông ấy đã mất chìa khóa vào Thần Điện  ... và Đại trưởng lão bắt đầu biểu hiện những dấu hiệu của bệnh tật!\n\nVới cánh cửa bị khóa, vì vậy cách duy nhất là bạn phải tìm cách kích hoạt cổng vào tại |cFFFFBA00Nơi trú ẩn của người Estherian|u. Trưởng lão Valin nói với bạn rằng để có thể tái kích hoạt, bạn cần phải tìm ra các |cFFFFBA00Tinh thể Chìa khóa|u từ trại nô lệ và |cFFFFBA00Tinh thể Chốt khóa|u từ hầm mỏ yêu tinh.
   - original: From the symptoms I observed, the Grand Regent has definitely contracted the illness.  He insisted on pushing on, though; the Guardian's welfare is more important.  But, if this sickness is instead some form of magical corruption, then the Grand Regent is taking it directly to the Guardian!
     translation: Từ những dấu hiệu mà tôi thấy, Đại trưởng lão có lẽ đã bị nhiễm bệnh. Ông ấy vẫn cố gắng bởi sự an toàn của Vệ Thần mới là quan trọng nhất. Nhưng nếu như căn bệnh này là một dạng ma thuật thì Đại trưởng lão sẽ chính là người mang nó thẳng tới với Vệ Thần!
+  - original: I was planning to enter the |cFFFFBA00Watchweald|u through the other portal in the old |cFFFFBA00Estherian Refuge|u.  Unfortunately the keys have been stolen.  Goblin miners took one, and we believe that some slavers who recently moved into the area have the other.  It takes both keys to activate the |cFFFFBA00Watchweald Portal|u ... and it is beyond my abilities to retrieve them.\n\nRecover the |cFFFFBA00Passkey Ember|u from the slavers, and the |cFFFFBA00Latchkey Ember|u from the goblins. You can use them to open the Portal in the Refuge, and intercept the Regent before he infects the Guardian!
+    translation: Tôi đang lên kế hoạch vào |cFFFFBA00Thần Điện|u thông qua cánh cổng tại |cFFFFBA00Nơi trú ẩn của người Estherian|u. Thật không may là chìa khóa đã bị trộm mất. Yêu tinh hầm mỏ lấy 1 và chúng tôi tin rằng lũ buôn nô lệ mới chuyển tới đây đang giữ cái còn lại. Cần phải có cả 2 chìa khóa mới kích hoạt được |cFFFFBA00Cổng Tới Thần Điện|u ... và tôi không đủ khả năng lấy lại chúng.\n\nHãy lấy lại |cFFFFBA00Tinh thể Chìa khóa|u từ lũ nô lệ và |cFFFFBA00Tinh thể Chốt khóa|u từ lũ Yêu tinh. Bạn có thể dùng chúng để mở ra cánh cổng tại |cFFFFBA00Nơi trú ẩn|u, và ngăn chặn Đại trưởng lão trước khi ông ta lây bệnh cho Vệ Thần!
   - original: The Ember Keys
-    translation: Chìa khóa thất lạc
+    translation: Các Chìa khóa Tinh thể
   - original: Use the gems to open the |cFFFFBA00Watchweald Portal|u, in the |cFFFFBA00Estherian Refuge|u, in the |cFFFFBA00Frosted Hills|u.
-    translation: Sử dụng tinh thể để mở |cFFFFBA00Cổng Tới Thần Điện|u, trong |cFFFFBA00Đại Điện Cổ|u, tại |cFFFFBA00Cao Nguyên Băng Giá|u.
-  - original: null
-  - original: null
-  - original: null
+    translation: Sử dụng tinh thể để mở |cFFFFBA00Cổng Tới Thần Điện|u, tới |cFFFFBA00Nơi trú ẩn của người Estherian|u, tại |cFFFFBA00Cao Nguyên Băng Giá|u.
 
-Quests - The Ember Keys - Unearthed Arcana:
+Quests - ACT I - The Ember Keys - Unearthed Arcana:
   - original: |
-      - Acquire |cFFFFBA00[ACQUIRE1]|u from the |cFFFFBA00Slavers' Stockade|u in |cFFFFBA00The Frosted Hills|u
-      - Acquire |cFFFFBA00[ACQUIRE2]|u from |cFFFFBA00The Emberscratch Mines|u in |cFFFFBA00The Frosted Hills|u
+      - Acquire |cFFFFBA00[ACQUIRE1]|u at |cFFFFBA00Slavers' Stockade|u in |cFFFFBA00Frosted Hills|u
+      - Acquire |cFFFFBA00[ACQUIRE2]|u at |cFFFFBA00Emberscratch Mine|u in |cFFFFBA00Frosted Hills|u
   - original: "- Use the |cFFFFBA00Ember Keys|u to activate the |cFFFFBA00Watchweald Portal|u in the |cFFFFBA00Estherian Refuge|u, in |cFFFFBA00The Frosted Hills|u"
   - original: Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from |cFFFFBA00The Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u.
   - original: En route to the Watchweald Temple, you met Grand Regent Eldrayn's assistant, Elder Valin.  Valin told you that he had become lost en route to the Watchweald ... and that the Grand Regent was beginning to exhibit symptoms of the sickness!\n\nWith the temple doors sealed, though, the only way in is through an inactive portal in the abandoned Estherian Refuge.  Elder Valin told you that, to reactivate the portal, you would need to retrieve the Passkey Ember from a slavers' camp, and the Latchkey Ember from the goblin mines.\n
@@ -2070,7 +2082,7 @@ Quests - The Ember Keys - Unearthed Arcana:
   - original: I was planning to enter the Watchweald through the other portal in the old |cFFFFBA00Estherian Refuge|u.  Unfortunately the keys have been stolen.  Goblin miners took one, and we believe that some slavers who recently moved into the area have the other.  It takes both keys to activate the |cFFFFBA00Watchweald Portal|u ... and it is beyond my abilities to retrieve them.\n\nRecover the |cFFFFBA00Passkey Ember|u from the slavers, and the |cFFFFBA00Latchkey Ember|u from the goblins. You can use them to open the Portal in the Refuge, and intercept the Regent before he infects the Guardian!
   - original: Use the gems to open the |cFFFFBA00Watchweald Portal|u at the |cFFFFBA00Estherian Refuge|u, in |cFFFFBA00The Frosted Hills|u.
 
-Quests - The Merryweather Poultice:
+Quests - ACT I - The Merryweather Poultice:
   - original: "- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u"
     translation: "- Thu thập |cFFD1FF7Alá Merryweather|u cho |cFFD1FF7AMedrus|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u"
   - original: "*The Merryweather Poultice"
@@ -2092,7 +2104,7 @@ Quests - The Merryweather Poultice:
   - original: The Merryweather Poultice
     translation: Thuốc đắp Merryweather
 
-Quests - The Warbeast Armory:
+Quests - ACT I - The Warbeast Armory:
   - original: If you're going out to the |cFFD1FF7ATemple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
     translation: Nếu bạn chuẩn bị tới |cFFD1FF7AĐồng Bằng Quái Thú|u, có thể tôi cần bạn giúp việc này. Người gấu đã dựng một doanh trại ngoài đó và chúng có hai thợ rèn áo giáp cho những quái thú hoang dã mà chúng bắt được.\n\nNhững Người gấu này có vẻ đã làm việc với các bản thảo, nhưng chúng đã giấu những bản thảo này đi. Bạn có nghĩ rằng bạn có thể tới đó và lấy được |cFFD1FF7ABản thảo giáp trụ|u không?
   - original: Obtain the |cFFD1FF7AArmor Schematics|u from the |cFFD1FF7ABeast Warrens|u, in the |cFFD1FF7ATemple Steppes|u.
@@ -2103,6 +2115,25 @@ Quests - The Warbeast Armory:
     translation: Vũ trang Quái thú
   - original: "Well done! I'm sure Commander Vale would have no objection to me giving you a reward for your service to the Empire. Take this: It's all I've got, but know that you have my gratitude, as well!"
     translation: "Tốt lắm! Tôi chắc chắn Chỉ huy Vale sẽ không hề phàn nàn gì nếu tôi cho bạn phần thưởng vì sự giúp đỡ của bạn với Empire. Hãy nhận lấy thứ này: Đó là tất cả những gì tôi có, nhưng hãy biết rằng bạn đã có được sự chúc mừng của tôi, làm tốt lắm!"
+
+Quests - ACT I - Warn the Estherians:
+  - original: "- Reach the |cFFFFBA00Estherian Enclave|u and speak to the |cFFFFBA00Grand Regent|u"
+    translation: "- Đến được |cFFFFBA00Thị Trấn Mùa Xuân|u và nói chuyện với |cFFFFBA00Đại trưởng lão|u"
+  - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
+    translation: Đi qua |cFFFFBA00Đèo Tiếng Vọng|u tới |cFFFFBA00Thị Trấn Mùa Xuân|u và cảnh báo |cFFFFBA00người dân Estheria|u về Alchemist.
+  - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Estherian Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
+    source: Unearthed Arcana
+    translation: Xuyên qua |cFFFFBA00Đèo Tiếng Vọng|u để đến |cFFFFBA00Thị Trấn Mùa Xuân Estherian|u và cảnh báo |cFFFFBA00người dân Estherian|u về Alchemist.
+  - original: Having trekked with the wounded Destroyer to Echo Pass to warn the Estherians of the Alchemist's approach, you are now on your own.  The Destroyer was too badly wounded in his battle with the Alchemist to go on ... and, you suspect, he wanted to mourn the death of his old friend and mentor, Syl.
+    translation: Sau khi cùng với Destroyer bị thương đến |cFFFFBA00Đèo Tiếng Vọng|u để cảnh báo người dân Estheria về sự tấn công của Alchemist, bạn giờ đang phải tự bước đi. Destroyer đã bị thương quá nặng trong trận chiến với Alchemist để có thể đi tiếp ... và, bạn nghi ngờ rằng ông ấy đang muốn tưởng nhớ cái chết của người bạn cũ và cùng là người thầy của ông, Syl.
+  - original: I thank you for your warning, but it has arrived too late.  This "Alchemist" has already come and gone, and it was all I could do to prevent him from entering the Enclave.  As it was, many Estherians were injured, and, since the confrontation, several more have become ill.  We are not sure what is causing it.\n\nAfter his assault failed here, the Alchemist carried on southward, toward the Temple Steppes.  Commander Vale and her Vanquishers arrived a short while later, and pursued him, hoping to prevent further damage.
+    translation: Tôi cảm ơn lời cảnh báo của bạn, nhưng nó đã đến quá muộn. Alchemist đã tới và đã rời đi, và đó là tất cả những gì tôi có thể làm để ngăn hắn vào được Thị Trấn Mùa Xuân. Như bạn thấy, nhiều người Estheria đã bị thương, và kể từ lần đối đâu đó, ngày càng có nhiều người bị ốm. Chúng tôi chưa giám chắc về cái gì đã gây ra điều đó.\n\nSau khi tấn công không thành, Alchemist đã đi về phía nam, tiến tới Đồng Bằng Quái Thú. Chỉ huy Vale và các cảnh vệ của cô ấy đã theo sau hắn và truy tìm hắn, hi vọng có thể ngăn chặn thiệt hại thêm nữa.
+  - original: I think this is as far as I can go.  You should carry on to the |cFFFFBA00Estherian Enclave|u, but you're on your own.\n\nWarn them that the Alchemist destroyed Torchlight, and is headed their way.  He may be there already...
+    translation: Tôi không nghĩ mình có thể đi xa thêm được nữa. Bạn nên tiếp tục tới |cFFFFBA00Thị Trấn Mùa Xuân|u, nhưng bạn phải tự đi một mình.\n\nCảnh báo cho họ rằng Alchemist đã phá hủy Torchlight, và đang trên đường tới đó. Có thể hắn đã tới đó rồi ...
+  - original: The Alchemist will be headed this way.  And if he passes through here, we'll be waiting for him!\n\nSomeone needs to warn the Estherians.  Head up the pass to their Enclave.  Find my old friend, Commander Vale, and let her know what happened.
+    translation: Alchemist sẽ đi theo hướng này. Và nếu hắn qua đây, chúng tôi sẽ đợi hắn!\n\nCần có ai đó cảnh báo cho người dân Estheria. Hãy đi qua con đèo này và tới |cFFFFBA00Thị Trấn Mùa Xuân|u. Tìm bạn cũ của tôi, Chỉ huy Vale, và cho cô ấy biết điều đã xảy ra.
+  - original: Warn the Estherians
+    translation: Cảnh báo người dân Estherians
 
 Quests - Unearthed Arcana:
   - original: "- Enter |cFFD1FF7AThe Wellspring Treasury|u via the portal in |cFFD1FF7AThe Temple Steppes|u and return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u"
@@ -2135,25 +2166,6 @@ Quests - Unearthed Arcana:
     translation: Quay lại chỗ |cFFD1FF7AEdovar|u ở |cFFD1FF7AĐền Steppes|u.
   - original: Talk to |cFFFFBA00Commander Vale|u the Vanquisher.
     translation: Nói chuyện với |cFFFFBA00Chỉ huy Vale|u người Vanquisher.
-
-Quests - Warn the Estherians:
-  - original: "- Reach the |cFFFFBA00Estherian Enclave|u and speak to the |cFFFFBA00Grand Regent|u"
-    translation: "- Đến được |cFFFFBA00Thị Trấn Mùa Xuân|u và nói chuyện với |cFFFFBA00Đại trưởng lão|u"
-  - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
-    translation: Đi qua |cFFFFBA00Đèo Tiếng Vọng|u tới |cFFFFBA00Thị Trấn Mùa Xuân|u và cảnh báo |cFFFFBA00người dân Estheria|u về Alchemist.
-  - original: Go through |cFFFFBA00Echo Pass|u to the |cFFFFBA00Estherian Enclave|u and warn the |cFFFFBA00Estherians|u about the Alchemist.
-    source: Unearthed Arcana
-    translation: Xuyên qua |cFFFFBA00Đèo Tiếng Vọng|u để đến |cFFFFBA00Thị Trấn Mùa Xuân Estherian|u và cảnh báo |cFFFFBA00người dân Estherian|u về Alchemist.
-  - original: Having trekked with the wounded Destroyer to Echo Pass to warn the Estherians of the Alchemist's approach, you are now on your own.  The Destroyer was too badly wounded in his battle with the Alchemist to go on ... and, you suspect, he wanted to mourn the death of his old friend and mentor, Syl.
-    translation: Sau khi cùng với Destroyer bị thương đến |cFFFFBA00Đèo Tiếng Vọng|u để cảnh báo người dân Estheria về sự tấn công của Alchemist, bạn giờ đang phải tự bước đi. Destroyer đã bị thương quá nặng trong trận chiến với Alchemist để có thể đi tiếp ... và, bạn nghi ngờ rằng ông ấy đang muốn tưởng nhớ cái chết của người bạn cũ và cùng là người thầy của ông, Syl.
-  - original: I thank you for your warning, but it has arrived too late.  This "Alchemist" has already come and gone, and it was all I could do to prevent him from entering the Enclave.  As it was, many Estherians were injured, and, since the confrontation, several more have become ill.  We are not sure what is causing it.\n\nAfter his assault failed here, the Alchemist carried on southward, toward the Temple Steppes.  Commander Vale and her Vanquishers arrived a short while later, and pursued him, hoping to prevent further damage.
-    translation: Tôi cảm ơn lời cảnh báo của bạn, nhưng nó đã đến quá muộn. Alchemist đã tới và đã rời đi, và đó là tất cả những gì tôi có thể làm để ngăn hắn vào được Thị Trấn Mùa Xuân. Như bạn thấy, nhiều người Estheria đã bị thương, và kể từ lần đối đâu đó, ngày càng có nhiều người bị ốm. Chúng tôi chưa giám chắc về cái gì đã gây ra điều đó.\n\nSau khi tấn công không thành, Alchemist đã đi về phía nam, tiến tới Đồng Bằng Quái Thú. Chỉ huy Vale và các cảnh vệ của cô ấy đã theo sau hắn và truy tìm hắn, hi vọng có thể ngăn chặn thiệt hại thêm nữa.
-  - original: I think this is as far as I can go.  You should carry on to the |cFFFFBA00Estherian Enclave|u, but you're on your own.\n\nWarn them that the Alchemist destroyed Torchlight, and is headed their way.  He may be there already...
-    translation: Tôi không nghĩ mình có thể đi xa thêm được nữa. Bạn nên tiếp tục tới |cFFFFBA00Thị Trấn Mùa Xuân|u, nhưng bạn phải tự đi một mình.\n\nCảnh báo cho họ rằng Alchemist đã phá hủy Torchlight, và đang trên đường tới đó. Có thể hắn đã tới đó rồi ...
-  - original: The Alchemist will be headed this way.  And if he passes through here, we'll be waiting for him!\n\nSomeone needs to warn the Estherians.  Head up the pass to their Enclave.  Find my old friend, Commander Vale, and let her know what happened.
-    translation: Alchemist sẽ đi theo hướng này. Và nếu hắn qua đây, chúng tôi sẽ đợi hắn!\n\nCần có ai đó cảnh báo cho người dân Estheria. Hãy đi qua con đèo này và tới |cFFFFBA00Thị Trấn Mùa Xuân|u. Tìm bạn cũ của tôi, Chỉ huy Vale, và cho cô ấy biết điều đã xảy ra.
-  - original: Warn the Estherians
-    translation: Cảnh báo người dân Estherians
 
 Settings:
   - original: ( only below 100% UI Scale )
