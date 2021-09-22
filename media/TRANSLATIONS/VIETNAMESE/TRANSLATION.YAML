@@ -1650,6 +1650,14 @@ Equipments/Skills Stats - Torchlight II Essentials:
   - original: '|cFFFF0000Movement Speed reduced by [VALUE]%|u'
     translation: '|cFFFF0000Tốc độ di chuyển giảm [VALUE]%|u'
 
+Events - ACT I:
+  - original: My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
+    translation: Tôi xin cám ơn bạn, loài người. Sau khi ngôi đền đã thất thủ, những kẻ tay sai khiến chúng tôi trở thành tị nạn, tôi lo sợ rằng số phận chúng tôi đã an bài.\n\nNhưng tôi không phải là tù nhân duy nhất. Chỉ huy lũ tay sai đã bắt nhốt họ vào lồng, trong Hang Động dưới hồ nước này.Một trong những cửa sập bên ngoài gần túp lều gần đó dẫn đến Hang Động.\n\nLàm ơn, nhân danh Vệ Thần ... bạn phải giải phóng họ!
+  - original: Oh, thank you, my friend!  I had feared I would never see my family again!
+    translation: Oh, cảm ơn anh bạn! Tôi đã lo sợ rằng sẽ không bao giờ đoàn tụ với gia đình nữa!
+  - original: You have saved us!  I had given up all hope that someone would come!
+    translation: Bạn đã cứu chúng tôi! Tôi đã từng bỏ hy vọng rằng sẽ có người đến cứu!
+
 Inventory:
   - original: Consumables Inventory
     translation: Túi đồ tiêu dùng
@@ -1994,13 +2002,245 @@ NPC:
   - original: Weapons for sale
     translation: Vũ khí
 
-Quests:
-  - original: '- Obtain |cFFD1FF7AArmor Schematics|u in |cFFD1FF7AThe Temple Steppes|u from Sturmbeorn blacksmiths'
-    translation: '- Lấy được |cFFD1FF7ABản thảo giáp trụ|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u từ thợ rèn của Người gấu'
-  - original: '- Travel to |cFFFFBA00Grunnheim|u'
-    translation: '- Di chuyển tới |cFFFFBA00Kinh Đô Xưa|u'
-  - original: Angry Beasts
+Quests - ACT I - *Angry Beasts:
+  - original: '- Investigate the |cFFD1FF7AWarbeast Lair|u'
+    translation: '- Điều tra tại |cFFD1FF7AHang Chiến Thú|u'
+  - original: '*Angry Beasts'
     translation: Quái thú Nổi loạn
+  - original: A fungus infestation, eh? Nasty business!\n\nAt any rate, you've done an admirable job ... and you've earned every last bit of this reward!
+    translation: Eo ơi, một loại nấm ký sinh ư? Thật là ghê tởm!\n\nỞ mức nào đó, bạn đã thực hiện công việc một cách đáng ngưỡng mộ ... và bạn cuối cùng đã có thể nhận phần thưởng này!
+  - original: How's it going with the warbeasts?  Any clue yet what's making them so aggressive?
+    translation: Có chuyện gì đã xảy ra với những quái thú đó vậy? Việc gì đã làm cho chúng hung dữ như thế?
+  - original: I've been charged with culling the warbeasts here, for the Imperial colonization effort.  I can keep their population down, but something is driving them wild, almost like they're rabid or something.\n\nCan you get into the |cFFD1FF7AWarbeast Den|u, in the |cFFD1FF7ABone Defile|u, and get rid of whatever's making them so vicious?
+    translation: Tôi đã buộc phải tiêu diệt các quái thú ở gần đây, vì sự an toàn của người dân Imperial. Tôi có thể giữ cho số lượng của chúng giảm xuống, nhưng một cái gì đó đã làm cho chúng trở nên hoang dã, hầu như chúng đang mắc bệnh dại hoặc một cái gì đó.\n\nBạn có thể vào |cFFD1FF7AHang Chiến Thú|u, tại |cFFD1FF7AHẻm Xương|u, và tìm hiểu ra thứ gì đã làm cho chúng trở nên như vậy được không?
+  - original: Journey to the |cFFD1FF7ABone Defile|u, in the |cFFD1FF7ATemple Steppes|u, and discover what is disturbing the warbeast population.
+    translation: Đi tới |cFFD1FF7AHẻm Xương|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u, và khám phá ra điều gì đang ảnh hưởng đến những quái thú ở đó
+  - original: Return to the |cFFD1FF7AImperial Trapper|u for your reward.
+    translation: Trả lời cho |cFFD1FF7ANgười Bẫy Thú|u và nhận thưởng.
+
+Quests - ACT I - *Coming Out Ahead:
+  - original: '- Locate the |cFFD1FF7ABronze Head|u in the |cFFD1FF7AWellspring Temple|u'
+    translation: '- Tìm kiếm |cFFD1FF7AĐầu đồng|u tại |cFFD1FF7AĐền Thờ Mùa Xuân|u'
+  - original: '- Secure the |cFFD1FF7ABronze Head|u from the Sturmbeorn'
+    translation: '- Bảo vệ |cFFD1FF7AĐầu đồng|u khỏi Người gấu'
+  - original: '*Coming Out Ahead'
+  - original: I am the great bard Trill ... heard of me?\n\nThat's ... really ... astonishing talent.  Word ... among the masses ... I have not yet found ... your heroic deeds.
+    translation: Tôi là một thi sĩ vĩ đại Trill ... đã từng nghe về tôi rồi chứ?\n\nĐó ... thật sự là ... một tài năng. Từ ngữ ... xung quanh chúng ta ... tôi vẫn chưa tìm thấy ... hành động anh hùng của bạn.
+  - original: Search the |cFFD1FF7AWellspring Temple|u for the |cFFD1FF7ABronze Head|u, and keep it safe from the Sturmbeorn.
+    translation: Tìm kiếm tại |cFFD1FF7AĐền Thờ Mùa Xuân|u cho |cFFD1FF7AĐầu đồng|u, và giữ nó an toàn khỏi Người gấu.
+  - original: 'Thank the Guardians someone has come to our rescue!  The Sturmbeorn broke their way in here some time ago, and have been ransacking the temple!  Commander Vale and her Vanquisher Corps arrived some time ago to help ... but we haven''t heard from her since she left for the Inner Sanctum!\n\nIn our flight from the temple, we had to leave behind a priceless treasure: The |cFFD1FF7ABronze Head|u of Grunnheim!  Can you locate it, and ensure that it is safe from the Sturmbeorn?'
+    translation: 'Cám ơn Vệ Thần đã có ai đó tới cứu chúng ta! Người gấu đã phá hoại nơi này vài lần và cướp bóc ngôi đền! Chỉ huy Vale và đội quân Thủ vệ của cô ấy đã đến đây giúp vài lần ... nhưng chúng tôi chưa nghe tin tức gì về cô ấy kể từ khi cô ấy rời khỏi Inner Sanctum!\n\nTrong cuộc trốn chạy khỏi ngôi đền, chúng tôi đã để quên một bảo vật ở lại: Cái |cFFD1FF7AĐầu đồng|u của Kinh Đô Xưa! Bạn có thể tìm lại nó và chắc chắn rằng nó sẽ an toàn khỏi Người gấu được không?'
+  - original: We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold!  The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!\n\nWe were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind!  Please, find it!  Some of its records are the only accounts we have of major historic events!
+    translation: Chúng tôi thực sự an toàn ở đây, nhưng tên Người gấu đần độn đã phá hủy bất cứ thứ gì không phải là vàng! Ngôi đền này là nhà của những tạo vật và tài liệu có hàng ngàn năm lịch sử, và sự đau đớn này làm tôi nghĩ rằng tất cả những kho báu này đã mất!\n\nChúng tôi có thể thu thập lại một số cổ vật, nhưng Đầu đồng của Kinh Đô Xưa đã bị bỏ lại phía sau! Làm ơn hãy tìm nó! Có một số ghi chép rằng trong đó là thứ duy nhất chúng tôi có về những sự kiện quan trọng trong lịch sử!
+
+Quests - ACT I - *Ghost of a Chance:
+  - original: '- Defeat the |cFFD1FF7ASpectral Champions|u in |cFFD1FF7ACrows'' Pass|u'
+    translation: '- Hạ gục |cFFD1FF7AChiến binh ma quỷ|u tại |cFFD1FF7AĐèo Con Quạ|u'
+  - original: '- Return to the |cFFD1FF7AForgotten Hero|u in |cFFD1FF7ACrows'' Pass|u'
+    translation: '- Báo lại với |cFFD1FF7AAnh hùng quên lãng|u tại |cFFD1FF7AĐèo Con Quạ|u'
+  - original: '*Ghost of a Chance'
+  - original: Defeat the five |cFFD1FF7ASpectral Champions|u in |cFFD1FF7ACrows' Pass|u.
+    translation: Hạ gục 5 |cFFD1FF7AChiến binh ma quỷ|u tại |cFFD1FF7AĐèo Con Quạ|u.
+  - original: I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure.\n\nWill you be that hero?  I offer you five challenges.  Should you master them all, my most prized possession is yours ...
+    translation: Tôi đã chết cách đây lâu rồi, và trong những thế kỷ đó, tôi đã không tìm thấy một linh hồn nào xứng đáng để nhận lấy chiếc áo choàng của anh hùng, như tôi đã từng làm và lao vào những chuyến phiêu lưu.\n\nBạn có thể trở thành người anh hùng đó được không? Tôi sẽ giao cho bạn 5 thử thách. Nếu như bạn có thể vượt qua chúng, phần thưởng tuyệt vời nhất của tôi sẽ dành cho bạn...
+  - original: I have found you ... worthy.
+    translation: Tôi đã tìm thấy bạn ... thật xứng đáng.
+  - original: Return to the |cFFD1FF7AForgotten Hero|u for your reward.
+    translation: Quay về |cFFD1FF7AAnh hùng quên lãng|u để nhận thưởng.
+
+Quests - ACT I - *Hidden Costs:
+  - original: '- Bring |cFFD1FF7AImplements of Enchantment|u to |cFFD1FF7AEnchanter|u in |cFFD1FF7AEstherian Enclave|u'
+    translation: '- Đem |cFFD1FF7ANguyên liệu Nâng cấp|u cho |cFFD1FF7AThuật sư|u ở |cFFD1FF7AThị Trấn Mùa Xuân|u'
+  - original: '- Search |cFFD1FF7APath of the Honored Dead|u for |cFFD1FF7ASturmbeorn Necromancer|u'
+    translation: '- Tìm ở |cFFD1FF7ACon Đường Vinh Quang|u về |cFFD1FF7AThầy tế Người gấu|u'
+  - original: '*Hidden Costs'
+  - original: 'Ah, you have them!  Excellent!  I trust the bear-mage didn''t haggle too fiercely ...? \n\nWait.  Is that blood on these tools?  Oh.  Well, perhaps it''s best I don''t ask. \n\nNow, then:  I believe I promised you a free enchantment, as reward ...?'
+    translation: Wow, bạn đã có chúng!  Thật xuất sắc! Đây là máu à? Ah, có lẽ tôi không nên hỏi.\n\nVà bây giờ tôi tin rằng tôi đã hứa với bạn một nâng cấp miễn phí, và phần thưởng là...?
+  - original: Locate the |cFFD1FF7ASturmbeorn Necromancer|u in the |cFFD1FF7APath of the Honored Dead|u and obtain his |cFFD1FF7AImplements of Enchantment|u.
+    translation: Xác định |cFFD1FF7AThầy tế Người gấu|u ở |cFFD1FF7ACon Đường Vinh Quang|u và lấy |cFFD1FF7ANguyên liệu Nâng cấp|u.
+  - original: Return to the |cFFD1FF7AEnchanter|u in the |cFFD1FF7AEstherian Enclave|u for your reward.
+    translation: Trở về với |cFFD1FF7AThuật sư|u ở |cFFD1FF7AThị Trấn Mùa Xuân|u để lấy phần thưởng.
+  - original: Welcome!  Welcome, my friend.  I have numerous enchantments available ... weapons, armor, trinkets, and the like.  Or, rather, I would, if I hadn't lost my enchantment kit!\n\nMaybe you can help me.  I've heard there's a Beornen shaman or something out in the |cFFD1FF7APath of the Honored Dead|u, who has the kind of enchanting tools I need.  If you could locate this bear-mage and acquire those tools, I would happily give you your first enchantment, free of charge!
+    translation: Chào mừng. Tôi có rất nhiều vũ khí, áo giáp, trang sức... Hay nói đúng hơn, tôi sẽ không làm gì được nếu không có dụng cụ nâng cấp!\n\nNếu bạn có thể giúp tôi. Tôi nghe nói có một pháp sư Beorning hoặc một cái gì đó trong |cFFD1FF7ACon Đường Vinh Quang|u, người mà có công cụ nâng cấp mà tôi cần. Nếu bạn có thể xác định vị trí pháp sư này và có được công cụ, tôi sẽ làm miễn phí cho lần nâng cấp đầu tiên cho bạn!
+  - original: Well, well!  Back so soon?  Oh, you don't have the tools yet ... \n\nWell, come back when you do!
+    translation: Trở lại sớm như vậy? Oh, bạn vẫn chưa có nó.\n\nHãy quay lại khi đã hoàn thành nhé!
+
+Quests - ACT I - *Hostage Negotiations:
+  - original: '- Defeat |cFFD1FF7AKidrik the Mauler|u and rescue the |cFFD1FF7ACaptured Estherians|u'
+    translation: '- Hạ gục |cFFD1FF7AThủ lĩnh Kidrik|u và giải cứu |cFFD1FF7ANgười dân bị bắt|u'
+  - original: '- Return to |cFFD1FF7AElder Josimon|u'
+    translation: '- Báo cáo với |cFFD1FF7ATrưởng lão Josimon|u'
+  - original: '*Hostage Negotiations'
+  - original: Defeat |cFFD1FF7AKidrik the Mauler|u in the |cFFD1FF7ASlavers' Den|u and rescue the |cFFD1FF7ACaptured Estherians|u
+    translation: Hạ gục |cFFD1FF7AThủ lĩnh Kidrik|u tại |cFFD1FF7AHang Nô Lệ|u và giải cứu |cFFD1FF7ANgười dân bị bắt|u
+  - original: Have you found the hostages yet?  Kidrik the Mauler will almost certainly be keeping them in cages, down in the Slavers' Den.
+    translation: Bạn đã tìm thấy những người bị bắt giữ chưa? Thủ lĩnh bọn cướp - Kidrik có khả năng lớn là đang giữ họ trong gông cùm tại Hang Nô Lệ.
+  - original: Return to |cFFD1FF7AElder Josimon|u in the |cFFD1FF7ASlavers' Camp|u, in the |cFFD1FF7AFrosted Hills|u.
+    translation: Báo lại với |cFFD1FF7ATrưởng lão Josimon|u tại |cFFD1FF7ATrại Nô Lệ|u, trong |cFFD1FF7ACao Nguyên Băng Giá|u.
+  - original: The slavers' leader, |cFFD1FF7AKidrik the Mauler|u, must have slipped away during the attack, and concealed himself in their underground slave den!  And, if the Estherian captives are there, as well, Kidrik must be holding them hostage!\n\nYou must free them, or all that you have done to stop the slavers will have been for naught!
+    translation: '|cFFD1FF7AThủ lĩnh bọn cướp - Kidrik|u đã lén trốn thoát trong cuộc tấn công, và giấu mình trong hang động ngầm của chúng! Và, nếu những người dân đã bị bắt giữ, hắn hẳn phải giữ họ làm con tin!\n\nBạn phải giải thoát họ, hay tất cả những gì bạn đã làm để ngăn chặn các nô lệ sẽ là vô ích!'
+  - original: You have done the Estherians a great service today.  I know that you are on your way to even greater acts of heroism, so, please, do not let me keep you.  Simply accept this, and my thanks.
+    translation: Bạn đã giúp đỡ rất nhiều cho chúng tôi hôm nay. Tôi biết rằng bạn đang trên đường làm những việc vĩ đại hơn, vì vậy, làm ơn, tôi sẽ không níu kéo bạn đâu. Chỉ đơn giản là hãy nhận lấy thứ này và lời cảm ơn trân trọng nhất của tôi.
+
+Quests - ACT I - *Sudden Outbreaks:
+  - original: '- Open |cFFD1FF7ABarricaded Doors|u 0/X to free |cFFD1FF7ATemple Priests|u'
+    translation: '- Mở |cFFD1FF7ACửa Bị Khoá|u để giải thoát cho |cFFD1FF7AThầy tu|u'
+  - original: '- Secure the |cFFD1FF7ABronze Head|u from the Sturmbeorn'
+    translation: '- Bảo vệ |cFFD1FF7AĐầu đồng|u khỏi Người gấu'
+  - original: '*Sudden Outbreaks'
+  - original: I should have known something was amiss with the Grand Regent.  He seemed ill, when he arrived, but he insisted on seeing the Guardian of the Wild immediately.  But it seemed as though everyone with whom he came into contact also became ill ... and soon transformed.  A few were not initially infected, and some of those were able to find refuge from the Nether-Thralls ... but, if the infection gets to them, it will not matter if they are safe behind the barricades.
+    translation: Tôi nên được biết điều gì đã xảy ra với Đại trưởng lão. Ông ấy có vẻ đang bị ốm khi tới đây, nhưng ông ấy muốn gặp Hoang Dã Vệ Thần ngay lập tức. Nhưng có vẻ những người gặp ông ấy đều đã bị ốm ... và biến đổi. Một vài thì lại không bị lây nhiễm, và một vài người trong họ đã đi tìm nơi ấn náu khỏi Quỷ biến đổi ... nhưng nếu như sự lây nhiễm tóm được họ, họ sẽ không còn an toàn nữa.
+  - original: Locate and break down |cFFD1FF7ABarricaded Doors|u in the |cFFD1FF7AWatchweald Temple|u to rescue |cFFD1FF7ATemple Priests|u.
+    translation: Tìm kiếm và phá vỡ |cFFD1FF7ACửa Bị Khoá|u tại |cFFD1FF7AThần Điện|u để giải cứu |cFFD1FF7AThầy tu|u.
+  - original: Thank the Guardians you are here!  A plague is sweeping through the |cFFD1FF7AWatchweald Temple|u, transforming the |cFFD1FF7ATemple Priests|u into Nether-Thralls!  Several uninfected priests are still inside, trapped by the Nether-Thralls.  I can protect them, if I can reach them ... or if they can reach me.\n\nLook for places where the |cFFD1FF7ATemple Priests|u may have hidden from the Nether-Thralls, and send them back here.  Once they are all safe, we can focus on aiding the Guardian of the Wild.
+    translation: Cám ơn Vệ Thần là bạn đã ở đây! Một tai họa đang càn quét qua |cFFD1FF7AThần Điện|u, biến đổi |cFFD1FF7AThầy tu|u thành Quỷ biến đổi! Một vài thầy tu không bị nhiễm bệnh vẫn còn ở trong đó, bị bắt giữ bởi Quỷ biến đổi. Tôi có thể bảo vệ họ, nếu tôi có thể đến chỗ họ ... hoặc nếu họ có thể tới đây.\n\nHãy tìm tới chỗ của |cFFD1FF7AThầy tu|u có thể đang trốn tránh Quỷ biến đổi, và đưa họ về đây. Một khi họ đã được an toàn, chúng tôi có thể tập trung chữa trị cho Hoang Dã Vệ Thần.
+
+Quests - ACT I - *Template - Acquire Quest:
+  - original: '- Obtain |cFFD1FF7A[item]|u in |cFFD1FF7A[zone]|u'
+    translation: '- Lấy|cFFD1FF7A[item]|u tại |cFFD1FF7A[zone]|u'
+  - original: '- Return |cFFD1FF7AArmor Schematics|u to |cFFD1FF7AVanquisher Scout|u'
+    translation: '- Mang |cFFD1FF7ABản thảo giáp trụ|u về cho |cFFD1FF7AThủ vệ Do thám|u'
+  - original: '*Template: Acquire Quest'
+  - original: Obtain the |cFFD1FF7A[item]|u from the |cFFD1FF7A[place]|u, in the |cFFD1FF7A[zone]|u.
+    translation: '- Lấy |cFFD1FF7A[item]|u tại |cFFD1FF7A[place]|u; tại|cFFD1FF7A[zone]|u.'
+  - original: Quest completion text
+    translation: Hoàn thành nhiệm vụ
+  - original: Quest introduction text
+    translation: Giới thiệu nhiệm vụ
+  - original: Return to Quest NPC text
+    translation: Quay lại gặp NPC
+  - original: Return to the |cFFD1FF7A[questNPC] in the |cFFD1FF7A[zone]|u for your reward.
+    translation: '- Báo cáo lại cho |cFFD1FF7A[questNPC]|u tại |cFFD1FF7A[zone]|u'
+
+Quests - ACT I - *Template-Kill Quest:
+  - original: '- Step One'
+    translation: '- Bước 1'
+  - original: '- Step Two'
+    translation: '- Bước 2'
+  - original: '*Template: Kill Quest'
+  - original: Journey to the |cFFD1FF7A[place]|u, in the |cFFD1FF7A[zone]|u, and defeat [champion].
+    translation: Đi thới |cFFD1FF7A[place]|u, tại |cFFD1FF7A[zone]|u, và hạ gục [champion].
+  - original: Quest completion text
+    translation: Hoàn thành nhiệm vụ
+  - original: Quest introduction text
+    translation: Giới thiệu nhiệm vụ
+  - original: Return to Quest NPC text
+    translation: Quay lại gặp NPC
+  - original: Return to the |cFFD1FF7A[quest npc]|u for your reward.
+    translation: Trở lại chỗ |cFFD1FF7A[quest npc]|u để nhận thưởng.
+
+Quests - ACT I - *Template-Kill-and-Acquire Quest:
+  - original: '- Obtain |cFFD1FF7Athing|u in |cFFD1FF7Azone|u from [champion]'
+    translation: '- Lấy lại|cFFD1FF7Athing|u trong |cFFD1FF7Azone|u từ [champion]'
+  - original: '- Return |cFFD1FF7Athing|u to |cFFD1FF7Aquest NPC|u'
+    translation: '- Mang về |cFFD1FF7Athing|u cho |cFFD1FF7Aquest NPC|u'
+  - original: '*Template: Kill-and-Acquire Quest'
+  - original: Complete
+    translation: Hoàn thành
+  - original: Introduction
+    translation: Giới thiệu
+  - original: Obtain the |cFFD1FF7Athing|u from the |cFFD1FF7Aplace|u, in the |cFFD1FF7Azone|u.
+    translation: Tìm lại |cFFD1FF7Athing|u ở |cFFD1FF7Aplace|u, trong vùng |cFFD1FF7Azone|u.
+  - original: Return
+    translation: Quay lại
+  - original: Return to the |cFFD1FF7Aquest NPC|u in the |cFFD1FF7Aplace|u for your reward.
+    translation: Quay lại chỗ |cFFD1FF7Aquest NPC|u tại |cFFD1FF7Aplace|u để nhận thưởng.
+
+Quests - ACT I - *The Merryweather Poultice:
+  - original: '- Return to |cFFD1FF7AMedrus|u in the |cFFD1FF7ATemple Steppes|u'
+    translation: '- Mang về cho |cFFD1FF7AMedrus|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u'
+  - original: '*The Merryweather Poultice'
+    translation: '*Thuốc đắp Merryweather'
+  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên tôi là |cFFD1FF7AMedrus|u. Tôi đã bị tấn công bởi một số Người gấu, và chúng đã gần đạt được điều đó ... nhưng tôi đã bị thương nặng. Tôi có thể giải quyết vấn đề này với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc ở quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
+  - original: 'You found some!  Oh, thank the gods. A few moments'' work, and … yes, there it is:  a healing poultice.  Now it will just take a little rest, and I''ll be good as new.\n\nAs it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it''ll set you right in no time!'
+    translation: 'Bạn đã tìm thấy nó! Ôi, cảm ơn chúa. Chỉ cần làm việc thêm một chút, và ... nó đây rồi: một loại thuốc hồi phục. Bây giờ hãy nghỉ ngơi một chút và tôi sẽ quay lại với tin tốt lành.\n\nNhư bạn đã thấy, bạn mang về nhiều hơn số lá mà tôi cần. Vì vậy, đây: một chút thuốc hồi phục dành cho bạn, như một phần thưởng. Có thể bạn sẽ bị thương, và nó sẽ làm cho bạn khỏe khoắn ngay lập tức!'
+
+Quests - ACT I - *Up In Smoke:
+  - original: '- Ignite the |cFFD1FF7AFlammable Lanterns|u in the |cFFD1FF7ASlavers'' Camp|u'
+    translation: '- Đốt cháy |cFFD1FF7AĐèn lồng|u tại |cFFD1FF7ATrại Nô Lệ|u'
+  - original: '- Return to |cFFD1FF7AJosimon|u in the |cFFD1FF7ASlavers'' Camp|u'
+    translation: '- Báo lại cho |cFFD1FF7AJosimon|u tại |cFFD1FF7ATrại Nô Lệ|u'
+  - original: '*Up In Smoke'
+  - original: Return to |cFFFFBA00Josimon|u in the |cFFFFBA00Slavers'' Camp|u in the |cFFFFBA00Frosted Hills|u.
+  - original: Thank you for rescuing me.  I had recovered the |cFFD1FF7APasskey Ember|u from these slavers, but they captured me as I was trying to return to the Enclave.\n\nI know that you are trying to reach the |cFFD1FF7AWatchweald Temple|u, but I could use your help with one small matter before you go.  These slavers have been harrying the Estherians for several weeks now.  You defeated many, but there are many more watching us from the safety of those huts.  Burn them out!  If they are allowed to remain, the Frosted Hills will never be safe.
+    translation: Cám ơn vì đã cứu tôi. Tôi khám phá ra rằng |cFFD1FF7ATinh thể dịch chuyển|u đang ở trong tay bọn nô lệ, nhưng chúng đã bắt tôi khi tôi cố gắng trở về Thị Trấn Mùa Xuân.\n\nTôi hiểu rằng bạn đang cố gắng vào được |cFFD1FF7AThần Điện|u, nhưng tôi cần sự giúp đỡ của bạn trước khi bạn đi. Lũ cướp này đã bắt giữ vài người dân trong vài tuần. Bạn đã hạ gục khá nhiều, nhưng vẫn còn rất nhiều kẻ đang theo dõi chúng ta từ lều trại của chúng. Hãy đốt cháy chúng! Nếu chúng vẫn còn ở lại đây, Cao Nguyên Băng Giá sẽ không bao giờ được an toàn.
+  - original: That was well done, although I wish it had not been necessary.  Still, without permanent housing, they will find it harder to survive here ... and ply their abominable trade.\n\nBut, wait ... I do not see their leader, among the dead!  Nor do I see any of the Estherians they had taken captive!
+    translation: Điều đó thật là tốt, mặc dù tôi ước điều đó không cần thiết. Tuy vậy, với những ngôi nhà bị hỏng, chúng sẽ khó khăn trong việc tồn tại ở đây ... và nhưng giao dịch khả ố của chúng.\n\nNhưng, chờ đã ... tôi không thấy chỉ huy của chúng, trong số đã chết! Cũng như không hề thấy một người dân nào mà chúng đã bắt giữ!
+  - original: Use the |cFFD1FF7AFlammable Lanterns|u to burn down the huts in the |cFFD1FF7ASlavers'' Camp|u in the |cFFD1FF7AFrosted Hills|u.
+  - original: We had thought at first that these slavers would simply pass through the area, but the slavers have been steadily fortifying this camp for weeks now, which tells me that they have no intention of leaving any time soon.\n\nIt would appear that, with the Sturmbeorn invasion, business is too good.  The Estherians are easy targets right now, and will be, until we recover from all of this chaos.  The slavers will only make that recovery more difficult, unless they are persuaded to leave.
+    translation: Chúng tôi đã nghĩ lúc đầu tiên mà các nô lệ sẽ chỉ đơn giản là đi qua khu vực này, nhưng chúng đã củng cố doanh trại trong  tuần nay, có nghĩa rằng chúng không có ý định rời khỏi.\n\nNó thể hiện rằng, với sự xâm lược của Người gấu, kinh doanh là quá tốt. Cư dân là mục tiêu dễ dàng ngay bây giờ, và sẽ là vậy, cho đến khi chúng ta phục hồi từ tất cả sự hỗn loạn này. Các nô lệ sẽ chỉ làm cho sự phục hồi đó khó khăn hơn, trừ khi họ được thuyết phục để rời đi.
+
+Quests - ACT I - An Enchanter in Chains:
+  - original: An Enchanter in Chains
+    translation: THUẬT SĨ BỊ GIAM CẦM
+  - original: Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again!\n\nI'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there.  Come by and see me, if you get a chance!
+    translation: Ôi, cám ơn bạn rất nhiều! Đây là những gì tôi có, sợ rằng tôi sẽ không bao giờ cường hóa bất cứ thứ gì nữa!\n\nTôi đang trên đường tới Thị Trấn Mùa Xuân khi mà vài kẻ đang muốn ám toán tôi. Ngay khi tôi hoàn thành nâng cấp, tôi sẽ tới đó. Hãy đến gặp tôi nếu bạn có thể nhé!
+
+Quests - ACT I - Blair's Notes:
+  - original: Blair's Notes
+    translation: Ghi chú của Blair
+  - original: It was in the ice.  Who knows how long?  But it wasn't dead.  And now it's hiding, here somewhere ... in one of us.  We found it in Bennings, but then Fuchs disappeared.  It's still here, and it's looking for a way out.  If it gets out into the world, it can infect everyone, everywhere.  Three years, at most.  Guardians forgive us for what we've set  loose upon the world.
+
+Quests - ACT I - Bring Out Your Dead:
+  - original: '- Bring the |cFFD1FF7ARosamortis|u back to |cFFD1FF7ASelrenki|u in |cFFD1FF7ASkull Hollow|u, in the |cFFD1FF7ATemple Steppes|u'
+    translation: '- Đem |cFFD1FF7ALy thánh|u cho |cFFD1FF7ASelrenki|u ở |cFFD1FF7AHố Đầu Lâu|u, nơi |cFFD1FF7AĐồng Bằng Quái Thú|u'
+  - original: '- Rouse the Estherian Spirits, and enter the |cFFD1FF7ABone Gallery|u in the |cFFD1FF7ATemple Steppes|u.  Retrieve the |cFFD1FF7ARosamortis|u'
+    translation: '- Thuyết phục những linh hồn đã khuất, và vào |cFFD1FF7AThư Viện Hài Cốt|u ở |cFFD1FF7AĐồng Bằng Quái Thú|u. Lấy |cFFD1FF7ALy thánh|u'
+  - original: Bring Out Your Dead
+    translation: ĐEM ĐẾN CHẾT CHÓC
+  - original: Bring the |cFFD1FF7ARosamortis|u to |cFFD1FF7ASelrenki|u, in |cFFD1FF7ASkull Hollow|u in the |cFFD1FF7ATemple Steppes|u.
+    translation: Đem |cFFD1FF7ALy thánh|u cho |cFFD1FF7ASelrenki|u, ở |cFFD1FF7AHố Đầu Lâu|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
+  - original: Convince the Estherian Spirits to let you into the |cFFD1FF7ABone Gallery|u, and retrieve the |cFFD1FF7ARosamortis|u.
+    translation: Thuyết phục những linh hồn đã khuất để cho bạn vào |cFFD1FF7AThư Viện Hài Cốt|u và lấy lại |cFFD1FF7ALy thánh|u.
+  - original: I got a proposition for you ... a little "I scratch my back, you scratch yours" kind of thing.  See this crypt over here?  It's called the |cFFD1FF7ABone Gallery|u, and there's a little thing in there called the |cFFD1FF7ARosamortis|u ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\n\nYou'll have to convince the Estherian spirits to unlock the |cFFD1FF7AGhost Chains|u and give you access, then get the Rosamortis away from that monster ... but I promise to make it worth your while!\n
+    translation: Tôi có một đề xuất cho bạn... Thấy ngôi mộ ở đây không? Nó được gọi là |cFFD1FF7AThư Viện Hài Cốt|u, và vật trong đó gọi là |cFFD1FF7ALy thánh|u... cái mà rất có giá trị, nó cũng được bảo vệ bởi những con quái vật địa ngục lớn nhất mà tôi từng thấy.\n\nBạn sẽ phải thuyết phục những linh hồn đã khuất để mở |cFFD1FF7AKhoá linh hồn|u. Sau đó lấy Ly thánh từ bọn quái vật...
+  - original: The Rosamortis is apparently a handy little thingamajig that can save the life of someone who's been mortally wounded.  Obviously, this sort of thing would be very valuable to someone whose homeland were being invaded by, for example, bear-people ... But, as much as the Rosamortis is worth, it doesn't do me any good if I can't get inside the Sepulcher of Sorrows to retrieve it!\n\nThe Vanquishers' commander told me about this thing, like I could just stroll out here and pick it up.  But she didn't tell me the gate was locked with chains only a ghost can open!  And, of course, while I wasted precious time trying to find another way in, the Sturmbeorn showed up and cut off my way out.
+    translation: Ly thánh rõ ràng một vật tiện lợi mà có thể cứu sống một ai đó đang chờ chết. Rõ ràng, thứ này sẽ rất có giá trị cho ai đó có quê hương đang bị xâm lăng... Nhưng Ly thánh càng giá trị, thì tôi càng khó để vào bên trong Lăng Mộ Phiền Muộn để lấy nó!\n\nChỉ huy Thủ vệ đã từng nói với tôi về điều này, như thể tôi vào đó như đi dạo và nhặt nó. Nhưng cô ấy không cho tôi biết cánh cửa ấy bị khoá và chỉ có một vong hồn có thể mở nó! Và tất nhiên, trong khi tôi đang cố tìm lối vào trong, thì bọn Người gấu đã xuất hiện và chặn lối ra của tôi.
+  - original: You found it?  Fantastic!  Here, let me just pay you for your trouble, and I'll be on my way ...
+    translation: Bạn đã tìm thấy nó? Tuyệt vời! Đây, hãy để tôi chi trả cho những rắc rối của bạn đã trải qua và tôi sẽ phải tiếp tục hành trình của mình...
+
+Quests - ACT I - Ghosts of Plunder Cove:
+  - original: '- Defeat |cFFD1FF7ACaptain Willy|u'
+    translation: '- Đánh bại |cFFD1FF7AThủ lĩnh Hải tặc|u'
+  - original: '- Enter |cFFD1FF7APlunder Cove|u via the portal in the |cFFD1FF7ATemple Steppes|u\n'
+    translation: '- Vào |cFFD1FF7AVịnh Cướp Biển|u thông qua cổng tại |cFFD1FF7AĐồng Bằng Quái Thú|u\n'
+  - original: Defeat |cFFD1FF7ACaptain Willy|u in |cFFD1FF7APlunder Cove|u.
+    translation: Đánh bại |cFFD1FF7AThủ lĩnh Hải tặc|u ở |cFFD1FF7AVịnh Cướp Biển|u.
+  - original: Ghosts of Plunder Cove
+    translation: BÓNG MA NƠI VỊNH CƯỚP BIỂN
+  - original: I mean you no harm; I am but a lonely soul, trapped in the afterlife.  Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged.\n\nBut it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in |cFFD1FF7APlunder Cove|u.  Seek their leader, |cFFD1FF7ACaptain Willy|u, through this portal.  Show him that justice has neither forgotten him ... nor forgiven him!
+    translation: Tôi không có ý hại bạn; Tôi là một vong hồn cô đơn và mắc kẹt ở kiếp trước. Bị phản bội và bị hại chết bởi những chiến hữu tôi tin tưởng. Tôi ở đây, hồi tưởng lại ký ức đau đớn, chờ đợi trong vô vọng rằng cái chết của tôi sẽ được báo thù.\n\nNhưng đã một trăm năm từ khi tôi trút hơi thở cuối cùng, và gần như là những kẻ hại tôi đã bỏ mạng ở |cFFD1FF7AVịnh Cướp Biển|u. Tìm lãnh đạo của họ, |cFFD1FF7AThủ lĩnh Hải tặc|u, thông qua cổng này. Cho ông ta biết rằng công lý dù có quên... nhưng không tha!
+  - original: I was a villain, in my time.  I broke into tombs and stole from the dead.  But, one day, I realized how much pain I had caused those still living ... and I swore it would stop.\n\nMy comrades ... my accomplices ... felt differently.  They lured me out onto the river in this boat, knowing it would sink.  They laughed as I sank beneath the waters.  I assumed they would be caught, and punished, but instead they were killed while concealing their loot in Plunder Cove ... and so my death has gone  unavenged for all these years.
+    translation: Tôi là một kẻ xấu trong suốt cuộc đời tôi. Tôi đã đột nhập vào ngôi mộ và đánh cắp của cải từ người chết. Nhưng tôi nhận ra bao nhiêu nỗi đau mà tôi đã gây ra cho những người còn sống... tôi đã thề rằng nó sẽ phải dừng lại.\n\nBằng hữu của tôi, những anh em... Họ lôi kéo tôi ra sông với con thuyền dù biết rằng nó sẽ chìm. Họ cười khi tôi bị chìm dưới nước. Tôi muốn họ bị bắt, và bị trừng phạt, nhưng thay vào đó họ đã bỏ mạng trong khi che giấu chiến lợi phẩm của họ trong Vịnh Cướp Biển...
+  - original: It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.
+    translation: Có vẻ như tôi chưa kiếm được nơi yên nghỉ đời đời của tôi. Bạn là một phần của cuộc đời tôi.
+
+Quests - ACT I - Little Lost Ones:
+  - original: '- Locate Bellethe''s husband |cFFD1FF7AFinnas|u in the |cFFD1FF7AWidow''s Veil|u'
+    translation: '- Tìm chồng của Bellethe |cFFD1FF7AFinnas|u trong |cFFD1FF7AHang Nhện Chúa|u'
+  - original: '- Return to |cFFD1FF7ABellethe|u in |cFFD1FF7ACrows Pass|u'
+    translation: '- Báo lại với |cFFD1FF7ABellethe|u tại |cFFD1FF7AĐèo Con Quạ|u'
+  - original: Find Finnas in the |cFFD1FF7AWidow's Veil|u, located in |cFFD1FF7ACrow's Pass|u.
+    translation: Tìm Finnas bên trong |cFFD1FF7AHang Nhện Chúa|u, tại |cFFD1FF7AĐèo Con Quạ|u.
+  - original: Little Lost Ones
+    translation: NGƯỜI CHỒNG MẤT TÍCH
+  - original: My husband Finnas and I were on our way to the Estherian Enclave.  We're homesteaders, with a small farm in the Frosted Hills.  The weather is getting harsh, so we were making one last run for supplies before winter.  We only looked away for a moment, and our little darlings wandered into that nasty cave!
+    translation: Finnas - chồng tôi và tôi đang trên đường tới Thị Trấn Mùa Xuân. Chúng tôi là khách hàng thường, với một nông trại nhỏ ở Cao Nguyên Băng Giá. Thời tiết đang ngày càng khắc nghiệt, vì vậy nên chúng tôi đang gấp rút chuẩn bị trước mùa đông. Chúng tôi chỉ bất cẩn một chút và những đứa trẻ yêu dấu của tôi đã lang thang trong cái Hang Động hôi hám này!
+  - original: Oh, my babies!  My babies!  Are you hurt?  Are you all right?  Thank the Guardians my precious darlings are safe!  Where's Finnas?  Where's my husband?\n\nAh, I see. We'll wait here for him until he returns.\n\nThank you so much - many don't understand the beauty of these special creatures ... it's obvious that you recognize their gentle natures.  Here, take this as a token of our gratitude!
+    translation: Ôi những bé cưng! Các bé có đau ở đâu không? Bạn vẫn ổn chứ? Cám ơn Vệ Thần vì những đứa bé cưng yêu quí của tôi vẫn an toàn! Finnas đang ở đâu? Chồng của tôi đâu?\n\nÀ, tôi hiểu rồi. Chúng tôi sẽ đợi anh ấy đến khi anh ấy trở lại.\n\nCám ơn bạn rất nhiều - không có nhiều người biết được sự đẹp đẽ của những tạo vật đặc biệt này ... rõ ràng rằng bạn đã nhận ra bản chất của chúng. Đây, hãy nhận lấy thứ này thay cho lòng biết ơn của tôi!
+  - original: Please, help me!  Our dear little ones wandered into that cave!  My husband |cFFD1FF7AFinnas|u ventured after them, but it is crawling with nasty creatures, and he hasn't returned! \n\nOh, I'm beside myself with worry!  Please, find |cFFD1FF7AFinnas|u and our precious babies!  You have to help us!
+    translation: Làm ơn giúp tôi! Những đứa trẻ bé bỏng của tôi đã lang thang vào trong cái động này! Chồng tôi |cFFD1FF7AFinnas|u đã vào đó và tìm kiếm, nhưng nó chứa đầy những tạo vật hôi hám, và anh ấy vẫn chưa trở lại!\n\nÔi, tôi thật sự lo lắng quá! Làm ơn, hãy tìm |cFFD1FF7AFinnas|u và đứa trẻ bé bỏng của chúng tôi! Bạn phải giúp chúng tôi!
+  - original: Return to Bellethe in |cFFD1FF7ACrow's Pass|u for your reward.
+    translation: Quay lại với Bellethe tại |cFFD1FF7AĐèo Con Quạ|u và nhận thưởng.
+
+Quests - ACT I - Little Lost Ones2:
+  - original: Little Lost Ones
+    translation: NGƯỜI CHỒNG MẤT TÍCH
+  - original: Please ... I know this is strange, but Snowball and Sunbeam are really quite gentle creatures, unlike the beasts that live here in the Icedeep Caverns.  They can't survive on their own down here.  The other spiders will kill them to get at me.  Please, take them back to my wife, and as soon as I catch my breath, I'll make my way out, as well.
+    translation: Làm ơn ... tôi biết rằng việc này rất lạ, nhưng Snowball và Sunbeam thực sự là những tạo vật tốt, không giống như những quái vật sống trong Hang Động này. Chúng không thể tồn tại ở đây. Những con nhện khác sẽ giết chúng. Làm ơn hãy đưa chúng về cho vợ của tôi, và tôi cũng sẽ theo sau bạn ngay lập tức. Tôi sẽ tự tìm được đường ra.
+  - original: You ... you came to rescue us?  Thank the guardians!\n\nI've managed to keep |cFFD1FF7ASnowbell|u and |cFFD1FF7ASunbeam|u safe up here, but I injured my leg.  I can't make my way out of this cave while carrying them.  If you'll take them to |cFFD1FF7ABellethe|u, I'll follow you out at my own pace.  My thanks to you for your help!
+    translation: Bạn ... bạn đến để cứu chúng tôi ư? Thật cám ơn Vệ Thần!\n\nTôi đang cố gắng giữ cho |cFFD1FF7AChuông tuyết|u và |cFFD1FF7AÁnh dương|u an toàn tại đây, nhưng chân tôi đã bị thương. Tôi không thể tìm ra cách nào để thoát khỏi cái động này mà đem theo chúng được. Nếu bạn có thể đưa chúng tới cho |cFFD1FF7ABellethe|u, tôi sẽ theo sau bạn với tốc độ của mình. Tôi sẽ rất cảm ơn sự giúp đỡ của bạn!
 
 Quests - ACT I - Mission of Mercy:
   - original: '- Enter the |cFFFFBA00Watchweald Temple|u via the |cFFFFBA00Watchweald Portal|u and stop the |cFFFFBA00Grand Regent|u'
@@ -2013,6 +2253,24 @@ Quests - ACT I - Mission of Mercy:
     translation: Cám ơn, chiến binh. Tôi đã quá yếu vì Alchemist để có thể chống lại đám Quái thú Quỷ tộc khi chúng tự lộ ra. Nếu bạn không xuất hiện như bạn đã làm, nó sẽ chiếm hữu tôi hoàn toàn như đã làm với Trưởng lão.
   - original: Use the |cFFFFBA00Watchweald Portal|u to enter the |cFFFFBA00Watchweald Temple|u. Stop the |cFFFFBA00Grand Regent|u before he harms the |cFFFFBA00Guardian of the Wild|u.
     translation: Sử dụng |cFFFFBA00Cổng Tới Thần Điện|u để vào |cFFFFBA00Thần Điện|u. Ngăn chặn |cFFFFBA00Đại trưởng lão|u trước khi ông ấy gây hại đến |cFFFFBA00Hoang Dã Vệ Thần|u.
+
+Quests - ACT I - One Man's Trash:
+  - original: '- Enter |cFFD1FF7ATarroch''s Rift|u in the |cFFD1FF7AOssean Wastes|u and recharge the |cFFD1FF7ASpent Ember|u'
+    translation: '- Vào |cFFD1FF7AKhe Tarroch|u tại |cFFD1FF7AỐc Đảo Bỏ Hoang|u và sạc lại |cFFD1FF7AMẩu tinh thể|u'
+  - original: '- Return to |cFFD1FF7ANerasis|u in the |cFFD1FF7AOssean Wastes|u'
+    translation: '- Quay về |cFFD1FF7ANerasis|u tại |cFFD1FF7AỐc Đảo Bỏ Hoang|u'
+  - original: Enter |cFFD1FF7ATarroch's Rift|u in the |cFFD1FF7AOssean Wastes|u and recharge the |cFFD1FF7ASpent Ember|u.
+    translation: Vào |cFFD1FF7AKhe Năng Lượng Lớn|u tại |cFFD1FF7AỐc Đảo Bỏ Hoang|u và sạc lại |cFFD1FF7AMẩu tinh thể|u.
+  - original: Hello there!  I wonder if you have a moment to help me out?  My name is |cFFD1FF7ANerasis|u; I'm an Ember surveyor for the Empire.  I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana.  My research led me to |cFFD1FF7ATarroch's Rift|u, where the mana output ratio is ... well, it's very high.\n\nThe problem is that there are quite a few horrible monsters between me and the mana source.  I would be willing to pay you to take this burned-out |cFFD1FF7ASpent Ember|u into |cFFD1FF7ATarroch's Rift|u and attempt to charge it, then bring it back here so I can see if my theory is correct.
+    translation: Xin chào! Tôi tự hỏi bạn có thể dành chút thời gian giúp tôi được không? Tên tôi và |cFFD1FF7ANerasis|u; Tôi là một người thu thập Tinh thể cho Đế chế. Tôi đã làm việc với những Tinh thể có thể sạc lại, với sự tiếp xúc với nguồn năng lượng lớn. Nghiên cứu của tôi đã đưa tôi đến với |cFFD1FF7AKhe Năng Lượng Lớn|u, nơi mà tỉ lệ năng lượng rất ... tốt, rất cao.\n\nVấn đề là có một số quái vật giữa tôi và nguồn năng lượng đó. Tôi sẽ trả ơn bạn nếu bạn có thể mang |cFFD1FF7AMẩu tinh thể|u bị cháy này vào trong |cFFD1FF7AKhe Năng Lượng Lớn|u và sạc lại nó, sau đó mang về cho tôi và tôi có thể biết được dự đoán của mình đúng hay sai.
+  - original: I'm certain that mana vents can be used to recharge burned-out Ember, which will greatly ease the Empire's energy burden.  But not just any mana vent will do; it has to be one with a direct link to a powerful source of mana.  Tarroch's Rift is the most powerful I've found, bar none.  I'm actually a little concerned that it will destroy the Spent Ember, instead of recharging it.  But we won't know until you get it down there and expose it to the rift.
+    translation: Tôi chắc chắn rằng các lỗ thông năng lượng có thể được sử dụng để nạp các Mẩu tinh thể bị cháy, việc mà sẽ giảm bớt gánh nặng năng lượng của Đế quốc. Nhưng không phải bất kỳ khe năng lượng nào cũng được; nó có phải là có một liên kết trực tiếp đến một nguồn sức mạnh của mana. Khe Năng Lượng Lớn là mạnh nhất mà tôi đã tìm thấy. Tôi thực sự là một chút lo ngại rằng nó sẽ phá hủy Mẩu tinh thể, thay vì sạc nó. Nhưng chúng ta sẽ không biết cho đến khi bạn đưa nó xuống đó và tiếp xúc với các vết nứt.
+  - original: One Man's Trash
+    translation: TINH THỂ CẠN NĂNG LƯỢNG
+  - original: Return to |cFFFFBA00Nerasis|u in the |cFFFFBA00Ossean Wastes|u and report your results.
+    translation: Quay lại |cFFFFBA00Nerasis|u tại |cFFFFBA00Ốc Đảo Bỏ Hoang|u và báo cáo kết quả của bạn.
+  - original: Well, it sounds as though my process works ... but it doesn't sound like the risk is worth the reward.  Still, if my surveys are accurate, I should be able to find another mana rift somewhere else, and with any luck it won't be as full of otherworldly monsters as that one was!\n\nThank you for all you have done on my behalf.  And please, take the Ember you recharged, as payment for your efforts!
+    translation: Vâng, nó có vẻ như là mặc dù quá trình của tôi hoạt động ... nhưng nó có vẻ cũng không tệ lắm. Tuy nhiên, nếu điều tra của tôi là chính xác, tôi sẽ có thể tìm thấy một khe nứt năng lượng ở một nơi khác, và với bất kỳ may mắn nó sẽ không chứa đầy quái vật như cái đã được phát hiện!\n\nCảm ơn bạn cho tất cả những gì đã thực hiện cho tôi. Và xin vui lòng, nhận lấy Mẩu tinh thể mà bạn đã sạc, như phần thưởng cho những nỗ lực của bạn!
 
 Quests - ACT I - Protect the Guardian:
   - original: '- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale'
@@ -2078,6 +2336,47 @@ Quests - ACT I - Return to the Enclave:
   - original: 'The Netherim, the Alchemist, and this plague are all connected.  Everywhere the Alchemist goes, Ordrak''s Heart taints the nature of magic itself.  It creates a kind of infection ... not too dissimilar from Ember Blight.  These tiny infections grow, and, eventually, develop into a conduit for Netherim.  The victim becomes a host to the Netherim: a "Nether-Thrall."\n\nThis is what happened to the Estherians.  And, for some reason, the effect was stronger with the Grand Regent.  Perhaps he was exposed more directly when he battled the Alchemist.  In any case, the thing that possessed the Regent, the thing that attempted to possess me, is more powerful than the others:  It is a Nether-Beast ... one of the Netherim Kings who led the invasion of our world an age ago.  I am sure it will return, seeking vengeance.'
     translation: 'Quỷ tộc, Alchemist và dịch bệnh này đều có kết nối. Mọi nơi Alchemist tới, Trái tim của Ordrak đã dùng ma thuật của mình và làm phá hủy tự nhiên. Nó tạo ra một kiểu lây nhiễm ... không quá khác với Ember Blight. Sự lây nhiễm nhỏ bé này lớn dần lên và thậm chí phát triển thành một ống dẫn cho Quỷ tộc. Nạn nhân trở thành vật chủ của Quỷ tộc: Một con "Quỷ nô".\n\nĐó là điều xảy ra với người dân Estheria. Và vì một vài lý do, hiệu ứng này mạnh hơn với Đại trưởng lão. Có lẽ ông ấy đã tiếp cận gần Alchemist hơn so với những người khác trong trận chiến với hắn. Theo nhiều cách khác, thứ mà chiếm hữu Đại trưởng lão, thứ mà muốn chiếm hữu tôi, nó mạnh mẽ hơn những thứ khác: Nó là một Quái thú Quỷ tộc ... một trong những vị vua của Quỷ tộc, kẻ mà đã muốn xâm lược thế giới chúng ta nhiều năm trước. Tôi chắc rằng hắn sẽ trở lại, tìm kiếm sự trả thù.'
 
+Quests - ACT I - Taking Notes:
+  - original: '- Acquire |cFFD1FF7A[DEFEATCOMPLETECOUNT]/[DEFEATCOUNT] Journals|u in the |cFFD1FF7AIcedeep Caverns|u'
+    translation: '- Nhận được |cFFD1FF7A[DEFEATCOMPLETECOUNT]/[DEFEATCOUNT] Ghi chú|u tại |cFFD1FF7AHang Băng Giá|u'
+  - original: '- Return to |cFFD1FF7AJadok|u in the |cFFD1FF7AFrosted Hills|u'
+    translation: '- Mang về cho |cFFD1FF7AJadok|u tại |cFFD1FF7ACao Nguyên Băng Giá|u'
+  - original: After months of research and experiments, I am forced to conclude that my Ember Blight is incurable ... and I am not alone.  Hundreds die from it every year.  Thousands more must be isolated from Ember, lest even the least exposure trigger a psychotic episode.  The only real solution, it seems, is to remove the source of the infection ... to destroy all Ember, everywhere.  Until now, this has been an unrealistic proposal.  But, with the defeat of Ordrak, I believe a universal cure to Ember Blight is finally within reach ...
+  - original: Enter the |cFFD1FF7AIcedeep Caverns|u, in |cFFD1FF7ACrows' Pass|u, and locate the Alchemist's other three |cFFD1FF7AJournals|u.
+    translation: Vào |cFFD1FF7AHang Băng Giá|u, tại |cFFD1FF7AĐèo Con Quạ|u, và xác định nơi ở của 3 |cFFD1FF7AGhi chú|u của Alchemist
+  - original: Ordrak's Heart is itself corrupted, and might actually be more dangerous to me than Ember.  I have designed and crafted a tool, in the form of a stave, to control and wield the Heart.  But it is not enough; the foul energies released by the Heart are capable of creating physical and mental deformities, even with only casual exposure.  Accordingly, I must construct a suit of Ember-resistant armor, to shield me from the worst of the effects.
+  - original: Taking Notes
+    translation: NHỮNG GHI CHÚ BIẾT NÓI
+  - original: There must be a way to increase the Heart's power ... perhaps by drawing it from the elemental Guardians?  Their power is incomprehensibly vast, and any one of them could 'super-charge' Ordrak's Heart to more than equal the task.  But would draining away that energy kill the Guardian?  Would its associated element then run amok ... or vanish altogether?  I must spread the 'donation' across multiple Guardians.  The Guardians are unlikely to willingly part with that energy; I must take what I need, and pray that there is time for apologies later.
+  - original: These notes are enlightening, to say the least.  Clearly, the Alchemist is suffering from Ember Blight-induced dementia.  Each subsequent note is more delusional than the last.\n\nBut ... hm.  He did wear a suit of armor, and he did wield Ordrak's Heart, and he did attack the Guardian of Water.  What if there is some nugget of truth in his madness?
+    translation: Những ghi chú này thật quý báu. Rõ ràng là, Alchemist đã bị loạn trí do sức mạnh của Ember Blight. Mỗi ghi chú tiếp theo lại càng trở nên ảo tưởng.\n\nNhưng mà ... hm ... Hắn đã mặc một bộ giáp, và hắn đã sử dụng Trái tim của Ordrak, và tấn công Thuỷ Vệ Thần. Liệu có tồn tại sự thật nào đó đằng sau sự điên loạn của hắn không?
+  - original: These notes seem incomplete.  There are a lot of blanks here that need to be filled in.  Have you had a chance to see if there were any more?
+    translation: Ghi chú này chưa hoàn thành. Có nhiều chỗ trống cần phải được lấp đầy. Bạn có bất kỳ cơ hội nào để nhìn thấy nếu như còn nhiều hơn nữa không?
+  - original: Your arrival is well-timed.  I believe I have located the Alchemist's lair, here in the |cFFD1FF7AIcedeep Caverns|u.  I found a |cFFD1FF7AJournal|u just inside the entrance; it speaks of entering the mine at Torchlight and retrieving Ordrak's Heart.  I intended to look for more, further inside the Caverns, but the creatures dwelling there now are too much for me.\n\nFinding the rest of the Alchemist's |cFFD1FF7AJournals|u would probably be very helpful in ascertaining how to stop him.  The one I saw was volume four, so there are probably three more in the |cFFD1FF7AIcedeep Caverns|u.
+    translation: Bạn đến thật đúng lúc. Tôi tin rằng tôi đã xác định được hang ổ của Alchemist, tại ngay |cFFD1FF7AHang Băng Giá|u này. Tôi tìm thấy một |cFFD1FF7AGhi chú|u ngay tại cổng vào; nó nói về việc xâm nhập các hầm mỏ tại Torchlight và lấy Trái tim của Ordrak. Tôi dự dịnh tìm kiếm nhiều hơn nữa, sâu bên trong Hang Động, nhưng những sinh vật ở đây là quá nhiều so với tôi.\n\nTìm ra nơi đặt những |cFFD1FF7AGhi chú|u của Alchemist sẽ giúp ích rất nhiều cho việc dừng hắn lại. Cái mà tôi tìm được là bản thứ 4, vậy là có thể còn nhiều hơn nữa ở trong  |cFFD1FF7AHang Băng Giá|u.
+
+Quests - ACT I - The Brave Ones:
+  - original: '- Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u'
+    translation: '- Đi vào |cFFD1FF7AĐường Ngầm|u tại |cFFD1FF7AThung Lũng Trống Trải|u và phá hủy 4 |cFFD1FF7AMáy Bơm Chất Độc|u'
+  - original: '- Return to |cFFD1FF7ADilawar|u in the |cFFD1FF7AEmpty Quarter|u'
+    translation: '- Báo cáo lại với |cFFD1FF7ADilawar|u tại |cFFD1FF7AThung Lũng Trống Trải|u'
+  - original: Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u.
+    translation: Vào |cFFD1FF7AĐường Ngầm|u tại |cFFD1FF7AThung Lũng Trống Trải|u và phá hủy 4 |cFFD1FF7AMáy Bơm Chất Độc|u.
+  - original: My friend, I need your help!  My squad and I had observed a group of Ezrohir moving in and out of the |cFFD1FF7AUndercurrents|u. They have installed machines to pump a virulent poison into the city's water supply.  Their "Manatoxin" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life.  If you can enter the |cFFD1FF7AUndercurrents|u and destroy those machines for me, I will reward you.  What do you say?
+    translation: Bạn ơi, tôi cần sự giúp đỡ của bạn! Tôi và nhóm lính của mình đang theo dõi một nhóm Ezrohir ra vào |cFFD1FF7AĐường Ngầm|u. Chúng đã cài đặt một số máy bơm một loại virus vào nguồn cấp nước của thành phố. Những máy "Bơm Chất Độc" đó được thiết kế đặc biệt để làm gián đoạn cuộc sống của Zeraphi. Thật không may là, nồng độ chất độc có vẻ đã thu hút một số quái vật, và tôi vừa mới may mắn thoát ra khỏi đó. Nếu bạn có thể vào |cFFD1FF7AĐường Ngầm|u và phá hủy những cỗ máy đó, tôi sẽ trả ơn bạn xứng đáng. Bạn có đồng ý không?
+  - original: Return to |cFFD1FF7ADilawar|u in the |cFFD1FF7AEmpty Quarter|u for your reward.
+    translation: Báo lại cho |cFFD1FF7ADilawar|u tại |cFFD1FF7AThung Lũng Trống Trải|u và nhận thưởng
+  - original: The Brave Ones
+    translation: THỬ THÁCH LÒNG DŨNG CẢM
+  - original: The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!
+    translation: Bọn Ezrohir đã cài đặt một số thiết bị lây nhiễm trong Đường Ngầm, làm ảnh hưởng tới nguồn nước của Thành Phố Sa Mạc. Bạn phải phá hủy những máy móc đó hoặc là Thành Phố Sa Mạc sẽ không thể đứng vững trước Ezrohir!
+  - original: The Ezrohir were clearly confident that the beasts infesting the Undercurrents would be dangerous enough to keep us out.  Be careful in there.
+    translation: Bọn Ezrohir khá là chắc chắn rằng lũ quái thú bị nhiễm trong Đường Ngầm sẽ là đủ nguy hiểm để giữ chúng tôi ở bên ngoài. Hãy cẩn thận khi vào đó.
+  - original: 'The Undercurrents supply Zeryphesh with water, from wells deep under the sands.  Although Zeraphi do not drink, as such, we still have need of water, and this Manatoxin is specifically designed to take advantage of that.  It is a fiendish concoction, which will kill our spirits but leave our bodies intact.\n\nThe creatures infesting in the Undercurrents are dangerous, and will not be easily overcome.  I won''t lie to you:  Destroying those machines won''t be simple ... but it''s vital, and you''re the only one who can do it.'
+    translation: 'Đường Ngầm cung cấp nước cho Thành Phố Sa Mạc từ sâu trong lòng cát. Mặc dù Zeraphi không uống nước nhưng vẫn cần có nước, và cái Bơm Chất Độc được thiết kế đặc biệt để tận dụng lợi thế đó. Nó là một âm mưu xảo quyệt, nó sẽ phá hủy linh hồn chúng ta nhưng để lại cho chúng ta thể xác vô hồn.\n\nNhững tạo vật bị nhiễm ở Đường Ngầm rất nguy hiểm, và sẽ không để chúng ta qua đó dễ dàng. Tôi sẽ không nói dối bạn: Phá hủy những cỗ máy đó không hề đơn giản ... nhưng nó là cần thiết, và bạn là người duy nhất có thể làm điều đó.'
+  - original: You did it?  You destroyed the Ezrohir machines?  \n\nYou've succeed beyond my most fervent hopes!  Thanks to you, Zeryphesh is that much safer!  I thank you ... and I reward you, with this.
+    translation: Bạn đã làm được? Bạn đã phá hủy cỗ máy của Ezrohir?\n\nBạn đã thành công trên cả sự hy vọng của tôi! Cám ơn rất nhiều, Thành Phố Sa Mạc đã an toàn hơn rồi! Cám ơn bạn... và đây là phần thưởng cho bạn.
+
 Quests - ACT I - The Ember Keys:
   - original: '- Acquire |cFFFFBA00[ACQUIRE1]|u at |cFFFFBA00Slavers'' Stockade|u in |cFFFFBA00Frosted Hills|u\n- Acquire |cFFFFBA00[ACQUIRE2]|u at |cFFFFBA00Emberscratch Mine|u in |cFFFFBA00Frosted Hills|u\n'
     translation: '- Lấy |cFFFFBA00[ACQUIRE1]|u tại |cFFFFBA00Nhà Ngục Nô Lệ|u trong |cFFFFBA00Cao Nguyên Băng Giá|u\n- Lấy |cFFFFBA00[ACQUIRE2]|u tại |cFFFFBA00Hầm Mỏ Yêu tinh|u trong |cFFFFBA00Cao Nguyên Băng Giá|u\n'
@@ -2121,6 +2420,24 @@ Quests - ACT I - The Guardian's Tale:
   - original: You have my gratitude, mortal.  Now listen closely, for a great evil is at work here.\n\nThe Alchemist's search for a cure to his Ember Blight has driven him to the brink of madness.  He siphoned off my energy to magnify the power of Ordrak's Heart, after he depleted it destroying Torchlight.\n\nWith the power of the Guardians, Ordrak's Heart could destroy all Ember everywhere.  Perhaps he believes that might cure his affliction.
     translation: Bạn đã có được sự biết ơn của tôi, phàm nhân. Bây giờ hãy lắng nghe kỹ càng, vì một tội ác lớn đang xảy ra ở đây.\n\nCuộc tìm kiếm của Alchemist để chữa lành cho Ember Blight của hắn đã làm hắn trở nên điên loạn. Hắn hút lấy sức mạnh của tôi để tăng cho sức mạnh của Trái tim của Ordrak, sau khi hắn đã phá hủy Torchlight.\n\nVới sức mạnh của các Vệ Thần, Trái tim của Ordrak có thể phá hủy tất cả Ember ở mọi nơi. Có lẽ hắn tin rằng việc đó sẽ chữa lành cho sự đau đớn của hắn.
 
+Quests - ACT I - The Lost Key:
+  - original: '- Bring the |cFFD1FF7AGolden Gear|u back to |cFFD1FF7AAmbassador Taldimut|u'
+    translation: '- Đem |cFFD1FF7ABánh răng vàng|u về cho |cFFD1FF7AĐại sứ Taldimut|u'
+  - original: '- Retrieve the |cFFD1FF7AGolden Gear|u from the |cFFD1FF7AWhispering Cave|u'
+    translation: '- Lấy |cFFD1FF7ABánh răng vàng|u từ |cFFD1FF7AHang Thì Thầm|u'
+  - original: Bring the |cFFD1FF7AGolden Gear|u back to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u
+    translation: Đem |cFFD1FF7ABánh răng vàng|u về cho |cFFD1FF7AĐại sứ Taldimut|u ở |cFFD1FF7ACao Nguyên Băng Giá|u
+  - original: I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave.  If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.
+    translation: Tôi đã tiếp tục nghiên cứu các ấn thạch, và tôi tin chắc rằng Bánh răng vàng được giấu trong Hang Thì Thầm.Nếu bạn có thể lấy nó, tôi có thể đem về Thành Phố Sa Mạc, để hỗ trợ cho sự phòng thủ của thành phố chống lại cuộc bao vây của Ezrohir.
+  - original: Locate the |cFFD1FF7AWhispering Cave|u in the |cFFD1FF7AFrosted Hills|u and retrieve the |cFFD1FF7AGolden Gear|u.
+    translation: Xác định |cFFD1FF7AHang Thì Thầm|u ở |cFFD1FF7ACao Nguyên Băng Giá|u và lấy |cFFD1FF7ABánh răng vàng|u.
+  - original: 'The Estherians apparently secured the |cFFD1FF7AGolden Gear|u in the |cFFD1FF7AWhispering Cave|u, so that we would not be able to find it, let alone recapture it.  They encoded those three crests with the location of the cave, so that they would be able to recover the horn, themselves ... but then lost the crests.\n\nPlease, for the sake of the Zeraphi people:  Go to the |cFFD1FF7AWhispering Cave|u and retrieve the |cFFD1FF7AGolden Gear|u, and bring it back to me.'
+    translation: 'Có người nói đảm bảo rằng |cFFD1FF7ABánh răng vàng|u ở |cFFD1FF7AHang Thì Thầm|u, vì vậy mà chúng ta thể thể tìm thấy nó. Họ mã hóa những ấn thạch với vị trí của Hang Động, do đó họ sẽ có thể phục hồi...nhưng sau đó họ đã để mất những ấn thạch này\n\nLàm ơn, vì lợi ích của nhân dân Zeraphi: Hãy đến |cFFD1FF7AHang Thì Thầm|u lấy |cFFD1FF7ABánh răng vàng|u và đem về cho tôi.'
+  - original: The Lost Key
+    translation: CHÌA KHOÁ THẤT LẠC
+  - original: This is it!  The Golden Gear!  I thank you on behalf of all the Zeraphi people.  This might just have tipped the battle in our favor!  I can only offer you this as payment, but if you are ever in Zeryphesh, come find me and I will grant you a proper reward!
+    translation: Nó đây rồi! Bánh răng vàng! Tôi thay mặt cho tất cả những người Zeraphi cảm ơn bạn! Điều này đã mở ra con đường thắng lợi của chúng tôi! Tôi chỉ có thể cung cấp cho bạn thứ này như phần thưởng nhỏ, nhưng nếu bạn ở Thành Phố Sa Mạc, hãy tìm đến tôi và tôi sẽ cấp cho bạn phần thưởng xứng đáng!
+
 Quests - ACT I - The Merryweather Poultice:
   - original: '- Gather |cFFD1FF7AMerryweather Leaves|u for Medrus in the |cFFD1FF7ATemple Steppes|u'
     translation: '- Thu thập |cFFD1FF7Alá Merryweather|u cho |cFFD1FF7AMedrus|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u'
@@ -2136,16 +2453,6 @@ Quests - ACT I - The Merryweather Poultice:
     translation: Lá Merryweather
   - original: The Merryweather Poultice
     translation: Thuốc đắp Merryweather
-
-Quests - ACT I - The Merryweather Poultice - Unearthed Arcana:
-  - original: '- Return to |cFFD1FF7AMedrus|u in the |cFFD1FF7ATemple Steppes|u'
-    translation: '- Mang về cho |cFFD1FF7AMedrus|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u'
-  - original: '*The Merryweather Poultice'
-    translation: '*Thuốc đắp Merryweather'
-  - original: Hello!  I thought I heard a human moving around out there.\n\nListen, my name's |cFFD1FF7AMedrus|u.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some |cFFD1FF7AMerryweather Leaves|u.  They grow around here, but I'm too weak to look for them.\n\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.
-    translation: Xin chào! Tôi nghĩ rằng tôi đã nghe thấy một ai đó ở quanh đây.\n\nNghe này, tên tôi là |cFFD1FF7AMedrus|u. Tôi đã bị tấn công bởi một số Người gấu, và chúng đã gần đạt được điều đó ... nhưng tôi đã bị thương nặng. Tôi có thể giải quyết vấn đề này với một vài |cFFD1FF7Alá Linh Dược|u. Chúng mọc ở quanh đây, nhưng tôi quá yếu để có thể đi tìm chúng.\n\nLàm ơn hãy tìm giúp tôi một vài lá và mang về đây, tôi sẽ trả ơn bạn xứng đáng, tôi xin hứa.
-  - original: 'You found some!  Oh, thank the gods. A few moments'' work, and … yes, there it is:  a healing poultice.  Now it will just take a little rest, and I''ll be good as new.\n\nAs it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it''ll set you right in no time!'
-    translation: 'Bạn đã tìm thấy nó! Ôi, cảm ơn chúa. Chỉ cần làm việc thêm một chút, và ... nó đây rồi: một loại thuốc hồi phục. Bây giờ hãy nghỉ ngơi một chút và tôi sẽ quay lại với tin tốt lành.\n\nNhư bạn đã thấy, bạn mang về nhiều hơn số lá mà tôi cần. Vì vậy, đây: một chút thuốc hồi phục dành cho bạn, như một phần thưởng. Có thể bạn sẽ bị thương, và nó sẽ làm cho bạn khỏe khoắn ngay lập tức!'
 
 Quests - ACT I - The Scroll of Anom-Irek:
   - original: '- Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from the |cFFD1FF7ACorrupted Crypt|u, in the |cFFD1FF7APath of the Honored Dead|u'
@@ -2166,16 +2473,40 @@ Quests - ACT I - The Scroll of Anom-Irek:
     translation: Bạn chắc hẳn là người mà cư dân thị trấn đã nói tới. Tôi rất mừng vì đã được gặp bạn. Tôi được cử đi làm nhiệm vụ cho Đại trưởng lão Eldrayn để tìm ra |cFFD1FF7AQuyển trục của Anom-Irek|u, được đặt trong |cFFD1FF7AHầm Mộ Tàn phá|u này. Thật không may là Người gấu cũng đã vào trong Hầm Mộ này và tôi không thể theo chúng được.\n\nLiệu bạn có thể giúp tôi tìm lại quyển trục đó được không? Tôi sẽ chờ bạn ở đây trong |cFFD1FF7ACon Đường Vinh Quang|u khi bạn quay lại. Nếu bạn thành công, tôi sẽ xem thử mình có thể cung cấp cho bạn một vài trang bị phù hợp với hành động anh hùng của bạn.
 
 Quests - ACT I - The Warbeast Armory:
+  - original: '- Obtain |cFFD1FF7AArmor Schematics|u in |cFFD1FF7AThe Temple Steppes|u from Sturmbeorn blacksmiths'
+    translation: '- Lấy được |cFFD1FF7ABản thảo giáp trụ|u tại |cFFD1FF7AĐồng Bằng Quái Thú|u từ thợ rèn của Người gấu'
+  - original: '- Return |cFFD1FF7AArmor Schematics|u to |cFFD1FF7AVanquisher Scout|u'
+    translation: '- Mang |cFFD1FF7ABản thảo giáp trụ|u về cho |cFFD1FF7AThủ vệ Do thám|u'
   - original: If you're going out to the |cFFD1FF7ATemple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
     translation: Nếu bạn chuẩn bị tới |cFFD1FF7AĐồng Bằng Quái Thú|u, có thể tôi cần bạn giúp việc này. Người gấu đã dựng một doanh trại ngoài đó và chúng có hai thợ rèn áo giáp cho những quái thú hoang dã mà chúng bắt được.\n\nNhững Người gấu này có vẻ đã làm việc với các bản thảo, nhưng chúng đã giấu những bản thảo này đi. Bạn có nghĩ rằng bạn có thể tới đó và lấy được |cFFD1FF7ABản thảo giáp trụ|u không?
   - original: Obtain the |cFFD1FF7AArmor Schematics|u from the |cFFD1FF7ABeast Warrens|u, in the |cFFD1FF7ATemple Steppes|u.
     translation: Lấy được |cFFD1FF7ABản thảo giáp trụ|u từ |cFFD1FF7AVòng Vây Quái Thú|u, tại |cFFD1FF7AĐồng Bằng Quái Thú|u.
   - original: Return to the |cFFD1FF7AVanquisher Scout|u in the |cFFD1FF7AEnclave|u for your reward.
     translation: Mang về cho |cFFD1FF7AThủ vệ Do thám|u tại |cFFD1FF7AThị Trấn Mùa Xuân|u và nhận thưởng.
+  - original: The Sturmbeorn have rounded up a bunch of warbeasts to use as shock troops, and now they're bolting plates of armor onto 'em.  They're dangerous at the best of times, but with that armor, they're even harder to kill.  That's why we need to find out how the Sturmbeorn designed the armor; there has to be a weak spot somewhere.
+    translation: Người gấu đã tụ tập thành một nhóm quái vật hiếu chiến, và giờ chúng đã được trang bị với một bộ giáp tốt. Chúng đã khá nguy hiểm từ trước và giờ với bộ giáp đó việc đánh bại chúng càng trở nên khó khăn hơn. Đó là lý do tại sao chúng ta cần tìm ra cách mà chúng tạo ra bộ giáp đó, chắc hẳn phải có điểm yếu nào đó.
   - original: The Warbeast Armory
     translation: Vũ trang Quái thú
   - original: 'Well done! I''m sure Commander Vale would have no objection to me giving you a reward for your service to the Empire. Take this: It''s all I''ve got, but know that you have my gratitude, as well!'
     translation: 'Tốt lắm! Tôi chắc chắn Chỉ huy Vale sẽ không hề phàn nàn gì nếu tôi cho bạn phần thưởng vì sự giúp đỡ của bạn với Empire. Hãy nhận lấy thứ này: Đó là tất cả những gì tôi có, nhưng hãy biết rằng bạn đã có được sự chúc mừng của tôi, làm tốt lắm!'
+
+Quests - ACT I - The Zeraphi Envoy:
+  - original: '- Bring the |cFFD1FF7ACrests|u to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u'
+    translation: '- Mang các |cFFD1FF7AẤn thạch|u về cho |cFFD1FF7AĐại sứ Taldimut|u tại |cFFD1FF7ACao Nguyên Băng Giá|u'
+  - original: '- Search the |cFFD1FF7AFrosted Hills|u for the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u'
+    translation: '- Tìm kiếm tại |cFFD1FF7ACao Nguyên Băng Giá|u và tìm ra |cFFD1FF7AThủy ấn thạch|u, |cFFD1FF7ATrường giang ấn thạch|u, và |cFFD1FF7AThủy triều ấn thạch|u'
+  - original: 'My friend, thank you for coming to our aid.  We are a Zeraphi envoy from Zeryphesh, in the Ossean Wastes, sent to procure the Estherians'' aid in our upcoming war with the Ezrohir.  Grand Regent Eldrayn gave us leave to search the Frosted Hills for the Golden Gear, and we had narrowed our search to this area before we were assaulted by these goblins.\n\nNow we are too injured to continue our search.  Can you aid us?  Search the |cFFD1FF7AFrosted Hills|u for three components: the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u. Bring them to me, and I will reward you, on behalf of the Zeraphi people.'
+    translation: Xin chào người bạn, cám ơn bạn đã đến trong lúc chúng tôi cần nhất. Chúng tôi là những đặc sứ của Thành Phố Sa Mạc tại Ốc Đảo Bỏ Hoang, được cử đến giúp đỡ trong cuộc chiến của chúng tôi với Ezrohir. Đại trưởng lão Eldrayn đã để chúng tôi lại và đi tìm Bánh răng vàng tại Cao Nguyên Băng Giá, và ông ấy đã thu hẹp phạm vi tìm kiếm tại khu vực này trước khi chúng tôi bị tấn công.\n\nGiờ đây chúng tôi đã đều bị thương và khó có thể tiếp tục tìm kiếm. Bạn có thể giúp chúng tôi không? Hãy tìm |cFFD1FF7AThủy ấn thạch|u, |cFFD1FF7ATrường giang ấn thạch|u, và |cFFD1FF7AThủy triều ấn thạch|u tại |cFFD1FF7ACao Nguyên Băng Giá|u và mang chúng về cho tôi, tôi sẽ thay mặt cho người dân Zeraphi trả ơn bạn.
+  - original: Return to |cFFD1FF7AAmbassador Taldimut|u in the |cFFD1FF7AFrosted Hills|u.
+    translation: Mang về cho |cFFD1FF7AĐại sứ Taldimut|u tại |cFFD1FF7ACao Nguyên Băng Giá|u.
+  - original: Search the cliffside in the |cFFD1FF7AFrosted Hills|u for the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u.
+    translation: Tìm kiếm tại các sườn đồi của |cFFD1FF7ACao Nguyên Băng Giá|u và tìm về |cFFD1FF7AThủy ấn thạch|u, |cFFD1FF7ATrường giang ấn thạch|u, và |cFFD1FF7AThủy triều ấn thạch|u.
+  - original: The Sultan of Zeryphesh sent us here to beg the Estherians' leave to recover the Golden Gear ... an ancient artifact, required to unlock the Celestial Armory, in the Ossean Wastes.  The Estherians captured it from us in our war with them, long ago, but Grand Regent Eldrayn was willing to return it to us, so that we might arm ourselves against the Ezrohir assault.\n\nThe exact location of the Golden Gear is long forgotten, but the Estherians created a map from the three crests I spoke of.  If you can find those, I can interpret the map and find the Gear!
+    translation: Quốc vương Thành Phố Sa Mạc gửi chúng tôi đây để xin phép về việc thu hồi Bánh răng vàng ... một tạo tác cổ đại, để mở khóa Kho Báu Trời Ban, tại Ốc Đảo Bỏ Hoang. Các Etherians lấy nó từ chúng tôi trong cuộc chiến tranh của chúng tôi với họ, từ lâu, nhưng Đại Trưởng lão Eldrayn đã sẵn sàng để lại cho chúng tôi, để chúng tôi có thể trang bị cho mình chống lại các cuộc tấn công của Ezrohir.\nVị trí chính xác của Bánh răng vàng bị lãng quên từ lâu, nhưng có thể tạo ra một bản đồ từ ba ấn thạch. Nếu bạn có thể tìm thấy chúng, tôi có thể phá giải bản đồ và tìm ra Bánh răng vàng!
+  - original: The Zeraphi Envoy
+    translation: ĐẶC SỨ CỦA ZERAPHI
+  - original: Yes, those are the three crests.  Now, allow me a moment to fit them together ... I see ... yes ... yes!  The Estherians hid  the Golden Gear in a small cave, not so far from here!
+    translation: Phải, đó là ba ấn thạch. Bây giờ, xin cho tôi chút thời gian để ghép chúng lại với nhau ... Tôi thấy rồi ... phải ... phải! Bánh răng vàng được giấu trong một Hang Động nhỏ cách đây không xa!
 
 Quests - ACT I - Trail of the Grand Regent:
   - original: '- Seek the Grand Regent in the |cFFFFBA00Frosted Hills|u'
@@ -2212,6 +2543,22 @@ Quests - ACT I - Warn the Estherians:
   - original: Warn the Estherians
     translation: Cảnh báo người dân Estherians
 
+Quests - ACT I - Wash Away My Sins:
+  - original: '- Enter the |cFFD1FF7AWellspring Treasury|u via the portal in the |cFFD1FF7ATemple Steppes|u'
+    translation: '- Vào |cFFD1FF7AKho Báu Mùa Xuân|u thông qua cổng đến |cFFD1FF7AĐồng Bằng Quái Thú|u'
+  - original: '- Return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u'
+    translation: '- Mang về |cFFD1FF7AHình tượng của Balthazar|u và nói chuyện với |cFFD1FF7ALưu Vực Mùa Xuân|u'
+  - original: I am merely spirit, but I mean you no harm.  In life, I was an ambitious thief, and I thought I was invincible.  My greatest achievement was when I stole the |cFFD1FF7AGlyph of Balthazar|u from the |cFFD1FF7AWellspring Treasury|u.  I thought I could master its power over water, but I was very, very wrong.\n\nNow I am trapped here in eternal torment, unable to rectify my mistake.  Will you return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u, and set my spirit free at last?
+    translation: Tôi chỉ là một vong hồn, nhưng không có nghĩa rằng tôi sẽ hại bạn. Trong cuộc đời trộm cắp của tôi, tôi luôn nghĩ rằng tôi là bất khả chiến bại. thành tựu lớn nhất của tôi là khi tôi đã lấy trộm |cFFD1FF7AHình tượng của Balthazar|u từ |cFFD1FF7AKho Báu Mùa Xuân|u. Tôi từng nghĩ rằng nó có thể làm chủ sức mạnh của nước, nhưng tôi đã lầm, một sai lầm mà tôi vẫn ân hận...\n\nBây giờ tôi mắc kẹt ở đây trong đau khổ và không thể sửa chữa lỗi lầm của mình. Bạn trả lại |cFFD1FF7AHình tượng của Balthazar|u cho |cFFD1FF7ALưu Vực Mùa Xuân|u và giải phóng linh hồn tôi được không?
+  - original: I was a criminal, in my time ... a vain and ambitious thief.  I broke into tombs and stole from the dead, just to further my reputation.  But I was too vain.  I stole the Glyph of Balthazar.  The Guardian of Water tried to warn me to return the Glyph, but still I was too vain.\n\nI thought I could control its powers, and, to an extent, I could.  But, when I tried to use it to walk across the river ... it drew power from river, and rebelled against me.  Soon my lungs were filling with water, even on dry land.  Now my spirit drowns for eternity.
+    translation: Tôi từng là một kẻ tội phạm, trong cuộc đời tôi... một tên trộm ngu ngốc và đầy tham vọng. Tôi đã đột nhập vào ngôi mộ và cướp của cải người chết. Nhưng tôi quá ngu ngốc. Thuỷ Vệ Thần đã cố gắng cảnh báo tôi trả lại cho Glyph, nhưng tôi vẫn ngoan cố.\n\nTôi nghĩ có thể kiểm soát được quyền lực ấy, chỉ ở mức độ nào đó. Nhưng khi tôi sử dụng nó để sang sông... nó lấy sức mạnh từ dòng sông và chống lại tôi. Tôi sớm bị nhấn chìm dưới làn nước. Bây giờ linh hồn của tôi vẫn mãi không thế siêu thoát.
+  - original: Pass through the |cFFD1FF7ATreasury Portal|u and return the |cFFD1FF7AGlyph of Balthazar|u to its proper place in |cFFD1FF7AWellspring Basin|u.
+    translation: Băng qua |cFFD1FF7ACổng vào|u và đưa |cFFD1FF7AHình tượng của Balthazar|u đến đúng chỗ của nó trong |cFFD1FF7ALưu Vực Mùa Xuân|u.
+  - original: Wash Away My Sins
+    translation: RỬA SẠCH TỘI LỖI
+  - original: You have lifted the curse I brought upon myself, and my torment is finally at an end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...
+    translation: Bạn đã gỡ bỏ lời nguyền mà tôi phải mang theo suốt đời này, và sự đau khổ của tôi cuối cùng cũng đã biến mất. Tôi nghĩ, tôi sẽ nghỉ ngơi ở đây một chút, trước khi tôi đi tới cái kết cuối cùng của mình. Có lẽ, từ nay về sau, tôi sẽ kể câu chuyện của tôi cho những tên trộm cắp khác, để cứu chúng khỏi số phận như của tôi ...
+
 Quests - ACT I - Welcome to Torchlight II:
   - original: '- Speak to the |cFFFFBA00Destroyer|u'
     translation: '- Nói chuyện với |cFFFFBA00Destroyer|u'
@@ -2219,38 +2566,6 @@ Quests - ACT I - Welcome to Torchlight II:
     translation: Nói chuyện với |cFFFFBA00Destroyer|u. Ông ấy đang đứng cạnh Thủ vệ Medic, gần quán rượu.\n
   - original: 'The Destroyer, one of the famous "Heroes of Torchlight," asked you to accompany him back to the scene of his greatest triumph:  the small mining town where he, the Vanquisher, and the Alchemist defeated the dragon Ordrak.  When you got there, though, a pitched battle was going on, between soldiers of the Vanquisher Corps, led by Syl the Seer ... and the Alchemist!\n\nThe armor-clad Alchemist had retrieved Ordrak''s Heart and was laying waste to Torchlight.  When Syl fell in battle, the Destroyer realized that he couldn''t stop the Alchemist ... and, instead turned his efforts toward warning the next nearest settlement.  Unfortunately, between the winding trail and the Destroyer''s injuries, it took you days to get even this far ... and the Destroyer can''t go on ...\n'
     translation: 'Destroyer, nổi tiếng là một trong những "Anh hùng của Torchlight", mời bạn đi cùng anh ta quay lại nơi có chiến thắng lớn nhất của ông: một thị trấn khai thác mỏ nhỏ, nơi ông, những Thủ vệ, và Alchemist đánh bại con rồng Ordrak.Tuy nhiên, khi bạn tới đó, một trận chiến chói tai đang xảy ra, giữa những người lính của Quân đoàn Thủ vệ, dẫn đầu bởi Syl ... và Alchemist!\n\nAlchemist mặc giáp đã lấy trái tim Ordrak và làm vấy bẩn Torchlight. Khi Syl ngã xuống trong trận chiến, Destroyer nhận ra rằng ông không thể ngăn chặn Alchemist ... và, ông đang cố gắng quay lại để cảnh báo về những trận chiến sắp tới. Thật không may, giữa các đường mòn quanh co và Destroyer đã bị thương, bạn đã mất nhiều ngày để đi xa như vậy... và Destroyer không thể tiếp tục được nữa ...'
-
-Quests - Unearthed Arcana:
-  - original: '- Enter |cFFD1FF7AThe Wellspring Treasury|u via the portal in |cFFD1FF7AThe Temple Steppes|u and return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u'
-    translation: '- Vào |cFFD1FF7ANgân khố Wellspring|u qua cổng dịch chuyển trong |cFFD1FF7AĐền Steppes|u và trả lại |cFFD1FF7ABiểu tượng của Balthazar|u cho |cFFD1FF7ALưu vực Wellspring|u'
-  - original: '- Investigate the |cFFD1FF7AThe Lost Okwari Caves|u in |cFFD1FF7AThe Temple Steppes|u'
-    translation: '- Điều tra |cFFD1FF7AHang Okwari bị mất|u trong |cFFD1FF7AĐền Steppes|u'
-  - original: '- Return to |cFFD1FF7ADoff|u in |cFFD1FF7AThe Temple Steppes|u and report your findings'
-    translation: '- Quay lại chỗ |cFFD1FF7ADoff|u ở |cFFD1FF7AĐền Steppes|u và báo cáo những phát hiện của bạn'
-  - original: '- Return to |cFFD1FF7AEdovar|u in |cFFD1FF7AThe Temple Steppes|u'
-    translation: '- Quay lại chỗ |cFFD1FF7AEdovar|u ở |cFFD1FF7AĐền Steppes|u'
-  - original: A fungus infestation, eh? Nasty business! Must be all the goblins they've been eating.\n\nAt any rate, you've done an admirable job... and you've earned every last bit of this reward!
-    translation: Nhiễm trùng nấm, hả? Thật bẩn thỉu! Hẳn phải là những con yêu tinh mà chúng đã ăn.\n\nDù sao đi nữa, bạn đã hoàn thành một công việc đáng ngưỡng mộ... và bạn đã kiếm được chút phần thưởng cuối cùng này!
-  - original: An ancient stone tablet stolen from the Wellspring Basin.
-    translation: Một hòn đá cổ bị đánh cắp từ Lưu vực Wellspring.
-  - original: Enter the |cFFD1FF7AThe Lost Okwari Caves|u in |cFFD1FF7AThe Temple Steppes|u and discover what is disturbing the warbeast population.
-    translation: Vào |cFFD1FF7AHang Okwari bí mật|u ở |cFFD1FF7AĐền Steppes|u và tìm hiểu xem điều gì làm phiền nhiễu đến đàn quái thú.
-  - original: Glyph of Balthazar
-    translation: Biểu tượng của Balthazar
-  - original: I am merely a spirit, but I mean you no harm.  In life, I was an ambitious thief, and I thought I was invincible.  My greatest achievement was when I stole the |cFFD1FF7AGlyph of Balthazar|u from |cFFD1FF7AThe Wellspring Treasury|u. I thought I could master its power over water, but I was very, very wrong.\n\nNow I am trapped here in eternal torment, unable to rectify my mistake. Will you return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u, and set my spirit free at last?
-    translation: Tôi đơn thuần chỉ là một linh hồn, ý tôi là vô hại với bạn. Trong cuộc sống, tôi là một tên trộm đầy tham vọng, và tôi nghĩ rằng mình là kẻ bất khả chiến bại. Thành tích lớn nhất của tôi là khi tôi đánh cắp |cFFD1FF7ABiểu tượng của Balthazar|u từ |cFFD1FF7AKho bạc Wellspring|u. Tôi nghĩ tôi có thể làm chủ sức mạnh của nó đối với nước, nhưng tôi đã rất, rất sai lầm.\n\nBây giờ tôi đang bị mắc kẹt ở đây trong sự dày vò vĩnh viễn, không thể sửa chữa lỗi lầm của mình. Bạn sẽ trả lại |cFFD1FF7ABiểu tượng của Balthazar|u cho |cFFD1FF7ALưu vực Wellspring|u, và cuối cùng là giải phóng linh hồn của tôi được không?
-  - original: I've been charged with culling the warbeasts here, for the Imperial colonization effort. I can keep their population down, but something is driving them wild, almost like they're rabid or something.\n\nCan you go into the |cFFD1FF7AThe Lost Okwari Caves|u and get rid of whatever's making them so vicious?
-    translation: Tôi đã được giao trách nhiệm thanh lý các linh thú ở đây, cho nỗ lực thuộc địa hóa của Đế quốc. Tôi có thể giữ cho dân số của chúng giảm xuống, nhưng có điều gì đó đang khiến chúng trở nên điên cuồng, gần giống như chúng bị bệnh dại hay gì đó.\n\nBạn có thể đi vào |cFFD1FF7AHang Okwari bị mất|u và loại bỏ bất cứ điều gì đang làm cho chúng trở nên mất kiểm soát không?
-  - original: Quest Accepted
-    translation: Nhiệm vụ Đã được nhận
-  - original: Return the |cFFD1FF7AGlyph of Balthazar|u to its rightful place at the |cFFD1FF7AWellspring Basin|u in |cFFD1FF7AThe Wellspring Treasury|u.
-    translation: Trả lại |cFFD1FF7ABiểu tượng của Balthazar|u về nơi của nó trong |cFFD1FF7ALưu vực Wellspring|u ở |cFFD1FF7ANgân khố Wellspring|u.
-  - original: Return to |cFFD1FF7ADoff|u in |cFFD1FF7AThe Temple Steppes|u to report your findings.
-    translation: Quay lại chỗ |cFFD1FF7ADoff|u ở |cFFD1FF7AĐền Steppes|u để báo cáo những phát hiện của bạn.
-  - original: Return to |cFFD1FF7AEdovar|u in |cFFD1FF7AThe Temple Steppes|u.
-    translation: Quay lại chỗ |cFFD1FF7AEdovar|u ở |cFFD1FF7AĐền Steppes|u.
-  - original: Talk to |cFFFFBA00Commander Vale|u the Vanquisher.
-    translation: Nói chuyện với |cFFFFBA00Chỉ huy Vale|u người Vanquisher.
 
 Settings:
   - original: ( only below 100% UI Scale )
