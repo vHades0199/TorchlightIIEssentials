@@ -123,7 +123,7 @@ if (process.argv[2] == 'new') {
                     root.Common = root.Common.filter(item => item.original != newKey);
                     console.log(`--> ${newItem.original}`);
                 }
-                if (!newItem) newItem = { original: newKey };
+                if (!newItem) newItem = { original: newKey, translation: '' };
                 root[category].push(newItem);
             });
     }
@@ -210,7 +210,7 @@ switch (process.argv[3]) {
                 const doc = yaml.load(src);
                 convertToDAT(doc);
                 transFile = path.join(fSrc.dir, `${fSrc.name}.DAT`);
-                writeFileSync(transFile, `[TRANSLATIONS]\n${dest}[/TRANSLATIONS]\n`, { encoding: 'utf16le' });
+                writeFileSync(transFile, `[TRANSLATIONS]\n${dest}[/TRANSLATIONS]\n`, { encoding: 'utf16le', mode: 'w' });
                 console.info('Keys:', dest.match(/\[TRANSLATION\]/g).length);
                 break;
 
