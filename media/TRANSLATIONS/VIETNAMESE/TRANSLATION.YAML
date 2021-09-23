@@ -1,55 +1,3 @@
-Character Stats:
-  - original: <STAT1> degrees
-    translation: <STAT1> độ
-  - original: <STAT1> meters
-    translation: <STAT1> mét
-  - original: <STAT1> seconds
-    translation: <STAT1> giây
-  - original: <STAT1>/sec
-    translation: <STAT1>/giây
-  - original: <STAT1>%/sec
-    translation: <STAT1>%/giây
-  - original: '|cFFD1FF7ALeft-Hand|u'
-    translation: '|cFFD1FF7ATay-trái|u'
-  - original: '|cFFD1FF7ARight-Hand|u'
-    translation: '|cFFD1FF7ATay-phải|u'
-  - original: '|cFFE0E0E0Damage: <STAT1>-<STAT2>|u'
-    translation: '|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u'
-  - original: '|cFFE0E0E0Damage: <STAT1>-<STAT2>|u'
-    translation: '|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u'
-  - original: '|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u.'
-    translation: '|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u.'
-  - original: '|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously).'
-    translation: '|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay).'
-  - original: '|cFFEAAA15Level <STAT1>|u'
-    translation: '|cFFEAAA15Cấp <STAT1>|u'
-  - original: '|cFFEAAA15Skill Points: <STAT1>|u'
-    translation: '|cFFEAAA15Điểm Kỹ năng: <STAT1>|u'
-  - original: '|cFFEAAA15Stat Points|u'
-    translation: '|cFFEAAA15Điểm Tiềm năng|u'
-  - original: '|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u.'
-    translation: '|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u.'
-  - original: '|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u.'
-    translation: '|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u.'
-  - original: '|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields.'
-    translation: '|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên.'
-  - original: '|cFFF2BF4DTime Played:|u\n <STAT1>'
-    translation: '|cFFF2BF4DThời gian chơi:|u\n <STAT1>'
-  - original: '|cFFF2BF4DTime Played:|u\n <STAT1>'
-    translation: '|cFFF2BF4DThời gian chơi:|u\n <STAT1>'
-  - original: '|cFFF5DB94Defense Statistics|u'
-    translation: '|cFFF5DB94Thông số Phòng thủ|u'
-  - original: Current Rank
-    translation: Cấp bậc hiện tại
-  - original: Damage
-    translation: Sát thương
-  - original: Monsters
-    translation: Quái vật
-  - original: Monsters Defeated
-    translation: Quái vật đã hạ
-  - original: Monsters Slain
-    translation: Quái vật bị giết
-
 Characters - Demonhunter:
   - original: Creation
     translation: Sáng tạo
@@ -73,10 +21,74 @@ Characters - Demonhunter:
     translation: Trượng của bạn hội tụ sức mạnh để tấn công vùng đất với một loạt các cơn lốc xoáy có độc có thể làm mù mắt kẻ thù.
 
 Characters - Embermage:
+  - original: Attacks using your wand can result in bizarre, random elemental disturbances. These effects can also happen with the Magma Mace, Magma Spear, Icy Blast and Shockbolts skills.
+    translation: 'Khi đánh phép với Gậy phép có thể gây ra cho kẻ thù các trạng thái bất lợi. Ngoài việc đánh thường bằng Gậy phép chỉ có 4 phép có khả năng kích hoạt gồm: Chùy Dung Nham, Tia Dung Nham, Tia Băng Giá và Tia Điện Lan Tỏa'
+  - original: Chaotic Rift
+    translation: Khe hỗn loạn
+  - original: Charge Mastery
+    translation: Bậc Thầy Nộ Khí
+  - original: Damage increased by 10%
+    translation: Tăng 10% sát thương
+  - original: Damage increased by 20%
+    translation: Tăng 20% sát thương
+  - original: Damage increased by 30%
+    translation: Tăng 30% sát thương
+  - original: Elemental Attunement
+    translation: Hòa Hợp Nguyên Tố
   - original: Embermage
     translation: Pháp sư huyền bí
+  - original: EMBERMAGE CHARGE BAR
+    translation: PHÁP SƯ CUỒNG NỘ
+  - original: Fire Brand
+    translation: Hỏa Phá
+  - original: Lightning Brand
+    translation: Lôi Phá
+  - original: Lightning Storm
+    translation: Bão Điện
+  - original: Prismatic Bolt
+    translation: Tia Lăng Trụ
+  - original: The Embermage gains charge by damaging enemies. When the charge bar is full, the Embermage achieves total concentration for 12 seconds. During this period, skills cost no mana, and skill damage is increased by 25%. Charge will decay after a period of inactivity.
+    translation: Pháp sư huyền bí nhận được nộ khí khi sát thương kẻ thù. Khi thanh nộ khí đầy, trong vòng 12 giây, Pháp sư huyền bí có thể dùng kĩ năng không tốn năng lượng, sát thương kĩ năng tăng 25%. Nộ khí sẽ giảm dần kể cả khi đứng im.
+  - original: The Embermage gains charge by damaging enemies. When the charge bar is full, the Embermage achieves total concentration for 12 seconds. During this period, skills cost no mana, and skill damage is increased by 50%. Charge will decay after a period of inactivity.
+    translation: Pháp sư huyền bí nhận được nộ khí khi sát thương kẻ thù. Khi thanh nộ khí đầy, trong vòng 12 giây, Pháp sư huyền bí có thể dùng kĩ năng không tốn năng lượng, sát thương kĩ năng tăng 50%. Nộ khí sẽ giảm dần kể cả khi đứng im.
+  - original: The Embermage is finely attuned to the elements, inflicting elemental effects on nearby enemies and extending the duration of all elemental effects.
+    translation: Ngẫu nhiên gây ra các hiệu ứng nguyên tố vào các đối tượng ở gần. Tăng thời gian gây ra các hiệu ứng nguyên tố.
+  - original: The Locus can blast four foes at once
+    translation: Giật 4 đối tượng cùng một lúc
+  - original: The Locus can blast four foes at once, can summon a fourth Locus
+    translation: Giật 4 đối tượng cùng lúc, có thể triệu hồi 4 quả cầu.
+  - original: The Locus can blast three foes at once
+    translation: Giật 3 đối tượng cùng một lúc
+  - original: The Locus can blast three foes at once, can summon a third Locus
+    translation: Giật 3 đối tượng cùng lúc, có thể triệu hồi 3 quả cầu.
+  - original: The Locus can blast two foes at once
+    translation: Giật 2 đối tượng cùng một lúc
+  - original: The Locus can blast two foes at once, can summon a second Locus
+    translation: Giật 2 đối tượng cùng lúc, có thể triệu hồi 2 quả cầu.
+  - original: Thunder Locus
+    translation: Quả Cầu Sấm Sét
   - original: Trained in the arcane arts, Embermages employ a variety of elemental spells to deadly effect.
     translation: Được đào tạo với các bí thuật, các Pháp sư sử dụng nhiều phép thuật nguyên tố để gây ảnh hưởng chết người.
+  - original: Wand Chaos
+    translation: Gậy Phép Hỗn Độn
+  - original: When you hit a burning enemy, you do an additional burst of fire damage.
+    translation: Khi đánh mục tiêu đang bị hiệu ứng cháy thì sẽ cộng dồn thêm hỏa sát
+  - original: When you hit a shocked enemy, you do an additional burst of lightning damage.
+    translation: Khi đánh mục tiêu đang bị trạng thái Sốc, sẽ gây thêm lôi sát lên mục tiêu đó
+  - original: You call down lightning from the heavens, blasting nearby foes with multiple storm bolts. While casting Lightning Storm, you take reduced damage.
+    translation: Gọi sấm sét tới từ thiên đường, tấn công kẻ thù với nhiều tia sét. Giảm sát thương phải nhận khi thi triển kĩ năng.
+  - original: You call down lightning from the heavens, blasting nearby foes with multiple storm bolts. While casting Lightning Storm, you take reduced damage. Enemies hit by the bolts recieve more lightning damage for 6 seconds!
+    translation: Gọi xuống sấm sét từ thiên đường, tấn công kẻ thù xung quanh với nhiều tia sét. Khi thi triển Bão Sấm Sét, giảm sát thương bạn nhận phải. Kẻ thù bị tấn công sẽ nhận thêm lôi sát trong 6 giây.
+  - original: You call down lightning from the heavens, blasting nearby foes with multiple stormbolts.
+    translation: Gọi xuống sấm sét từ thiên đường, tấn công kẻ thù xung quanh với nhiều tia sét.
+  - original: You summon a concentrated thunderstorm at a target location, which blasts foes within 7 meters for the duration of its existence. Thunder Locus does not build |c00ff9933Charge|u.
+    translation: Tập trung năng lượng điện của một cơn bão tại một điểm tạo thành một quả cầu năng lượng phóng sét giật các mục tiêu lại gần trong chu vi 7mét suốt thời gian nó tồn tại
+  - original: You unleash a flurry of 5 prismatic bolts that seek out nearby foes.
+    translation: Ném ra 5 tia sét lăng trụ mạnh mẽ có thể tự tìm mục tiêu
+  - original: Your chaotic energy make enemies vulnerable to elemental damage when you strike them, with a chance of random elemental effects.
+    translation: Bùa chú hộ thân tự động phát ra năng lượng hỗn độn, đẩy kẻ thù vào cổng dịch chuyển tức thời đi nơi khác khi kẻ thù đánh trúng và có thể kèm theo ngẫu nhiên 1 trong các hiệu ứng tự nhiên (Bị dính độc, bị cháy, bị đóng băng, bị giật)
+  - original: Your expertise with |c00ff9933Charge|u lets you gain it faster, and retain it longer.
+    translation: Giúp tăng điểm |c00ff9933Nộ khí|u nhanh hơn và giữ nó lâu hơn
 
 Characters - Necromancer:
   - original: Masters of dealing death, raising the dead and the long forgotten art of Bonedancing
@@ -127,12 +139,18 @@ Common - Events - Talking:
     translation: Mọi thứ thật yên ả. Mọi thứ ở trên đèo thế nào rồi?
   - original: All's quiet.  There's been some Estherian travelers passing through, probably headed to the Watchweald Temple.
     translation: Mọi thứ thật im lặng. Có một vài người du lịch đã đi qua đây, có lẽ là tới Thần Điện.
+  - original: I just need a few minutes to purify the Tranquil Censer ... It has touched the ground, and now is unclean. It is marred by the stain of necromantic ...\n... actually, I think it's just dirt. I can probably just polish it. I'm sure it'll be fine.
+    translation: Tôi chỉ cần vài phút nữa để thanh tẩy Hương an thần ... Nó đã chạm đất và đang bị bẩn. Nó đã bị hoen ố bởi những kẻ xấu xa...\n...Tuy nhiên, tôi nghĩ nó chỉ bị bụi dính thôi. Tôi chắc chỉ cần lau sạch nó. Tôi chắc chắn nó vẫn còn tốt.
   - original: My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
     translation: Tôi xin cám ơn bạn, loài người. Sau khi ngôi đền đã thất thủ, những kẻ tay sai khiến chúng tôi trở thành tị nạn, tôi lo sợ rằng số phận chúng tôi đã an bài.\n\nNhưng tôi không phải là tù nhân duy nhất. Chỉ huy lũ tay sai đã bắt nhốt họ vào lồng, trong Hang Động dưới hồ nước này.Một trong những cửa sập bên ngoài gần túp lều gần đó dẫn đến Hang Động.\n\nLàm ơn, nhân danh Vệ Thần ... bạn phải giải phóng họ!
   - original: Oh, thank you, my friend!  I had feared I would never see my family again!
     translation: Oh, cảm ơn anh bạn! Tôi đã lo sợ rằng sẽ không bao giờ đoàn tụ với gia đình nữa!
+  - original: The Honored Dead did so much for us when they were alive ... we should not treat them with disrespect now that they are dead!\n\nThe Tranquil Censer would put them to rest again ... if only I had not dropped it!  Are you sure you cannot find it?
+    translation: Những vị anh hùng đã làm rất nhiều việc cho chúng ta khi họ còn sống ... chúng ta không nên đối xử không tốt với họ khi họ đã chết!\n\nHương an thần có thể giúp họ thanh thản ... nếu như tôi không làm rớt nó! Bạn có chắc rằng bạn không thể tìm ra nó?
   - original: Wake of the Alchemist
     translation: Sự thức tỉnh của ALCHEMIST
+  - original: You have retrieved the Tranquil Censer! Thank you!\n\nI can use the censer to purge the necromantic stain from the Path of the Honored Dead. Guardians willing, that should let the Honored Dead return to their tombs in peace.
+    translation: Bạn đã lấy lại được Hương an thần! Cám ơn bạn!\n\nTôi có thể sử dụng nó để đẩy lùi những kẻ chiêu hồn xấu xa ra khỏi con đường này. Cầu trời, hãy cho những linh hồn đáng thương này quay lại mộ của họ trong hòa bình!
   - original: You have saved us!  I had given up all hope that someone would come!
     translation: Bạn đã cứu chúng tôi! Tôi đã từng bỏ hy vọng rằng sẽ có người đến cứu!
 
@@ -233,6 +251,14 @@ Coop:
     translation: Máu và ren đen
   - original: Blood Combo Stat
     translation: Chỉ số combo máu
+  - original: Unblock
+    translation: Huỷ chặn
+  - original: Unblock Player
+    translation: Huỷ chặn người chơi
+  - original: Unblocked [CHARACTERNAME].
+    translation: Hủy chặn [CHARACTERNAME].
+  - original: Unconfirm Trade
+    translation: Huỷ xác nhận
   - original: Vote To Kick Player From Game
     translation: Bỏ phiếu kick
   - original: Voted to kick player [CHARACTERNAME] from game.
@@ -3486,9 +3512,9 @@ Equipments/Skills Stats:
   - original: '-[VALUE] Fire Armor for [DURATION]'
     translation: '-[VALUE] Hỏa giáp trong [DURATION]'
   - original: '-[VALUE] Focus Attribute bonus'
-    translation: '-[VALUE] Trí lực'
+    translation: '-[VALUE] chỉ số Trí lực'
   - original: '-[VALUE] Focus Attribute bonus for [DURATION]'
-    translation: '-[VALUE] Trí lực trong [DURATION]'
+    translation: '-[VALUE] chỉ số Trí lực trong [DURATION]'
   - original: '-[VALUE] Health'
     translation: '-[VALUE] Sinh lực'
   - original: '-[VALUE] Health for [DURATION]'
@@ -4134,9 +4160,9 @@ Equipments/Skills Stats:
   - original: +[VALUE] Fire Armor for [DURATION]
     translation: +[VALUE] Hỏa giáp trong [DURATION]
   - original: +[VALUE] Focus Attribute bonus
-    translation: +[VALUE] Trí lực
+    translation: +[VALUE] chỉ số Trí lực
   - original: +[VALUE] Focus Attribute bonus for [DURATION]
-    translation: +[VALUE] Trí lực trong [DURATION]
+    translation: +[VALUE] chỉ số Trí lực trong [DURATION]
   - original: +[VALUE] Health
     translation: +[VALUE] Sinh lực
   - original: +[VALUE] Health for [DURATION]
@@ -4561,6 +4587,10 @@ Equipments/Skills Stats:
     translation: Tốc độ di chuyển giảm [VALUE]%
   - original: Movement Speed reduced by [VALUE]% for [DURATION]
     translation: Tốc độ di chuyển giảm [VALUE]% trong [DURATION]
+  - original: Slow Attack Speed
+    translation: Tốc độ đánh chậm
+  - original: Slowest Attack Speed
+    translation: Tốc độ đánh chậm nhất
 
 Equipments/Skills Stats - Torchlight II Essentials:
   - original: '|cFFFF0000-[VALUE]% to [DMGTYPE] Armor for [DURATION]|u'
@@ -4601,6 +4631,18 @@ Inventory:
     translation: Túi đồ tiêu dùng
   - original: Electric Armor
     translation: Lôi Giáp
+  - original: Enchant
+    translation: Cường hóa
+  - original: Enchant Item Cost
+    translation: Phí Cường hóa
+  - original: Enchant price
+    translation: Giá Cường hóa
+  - original: Enchanted
+    translation: Cường hóa
+  - original: Enchanted Component
+    translation: Thành phần cường hóa
+  - original: Enchanter
+    translation: Người Cường hóa
   - original: Equipment Inventory
     translation: Túi trang bị
   - original: equipped
@@ -4651,14 +4693,32 @@ Inventory:
     translation: Thú cưng - Phép thuật
   - original: Pet Spells Inventory
     translation: Thú cưng - Ngăn Phép thuật
+  - original: Physical
+    translation: Vật lý
+  - original: Physical & Elemental
+    translation: Vật lý & nguyên tố
   - original: Physical Armor
     translation: Giáp Vật lý
+  - original: Physical Damage
+    translation: Sát thương vật lý
+  - original: Physical Damage Bonus
+    translation: Sát thương vật lý cộng thêm
+  - original: Physical Damage Reduction
+    translation: Giảm sát thương vật lý
   - original: Poison Armor
     translation: Độc Giáp
+  - original: Rare
+    translation: Tinh chế
   - original: Right-click to identify the item.
     translation: Chuột phải để giám định.
   - original: Send Pet to Town\n\nYour pet will sell all items in its \ninventory and buy any items \nrequested on your shopping list.
     translation: Gửi Thú cưng về Thị trấn\n\nThú cưng của bạn sẽ bán tất cả vật phẩm trong \nhành trang của nó và mua bất kỳ vật phẩm \nchỉ định trong Danh sách mua sắm của bạn.
+  - original: Set
+    translation: Bộ đồ
+  - original: 'Set Item:'
+    translation: 'Bộ trang bị:'
+  - original: 'Set Item: '
+    translation: 'Bộ đồ: '
   - original: Shift-click to buy
     translation: Shift-chuột trái để mua
   - original: Shift-click to Buy
@@ -4711,6 +4771,146 @@ Maps:
     translation: '- Vào |cFFFFBA00Hầm Mỏ Đổ Nát|u\n'
   - original: '- Enter the |cFFFFBA00Watchweald Temple|u via the |cFFFFBA00Watchweald Portal|u and stop the |cFFFFBA00Grand Regent|u'
     translation: '- Vào |cFFFFBA00Thần Điện|u thông qua |cFFFFBA00Cổng Tới Thần Điện|u và ngăn chặn |cFFFFBA00Đại trưởng lão|u'
+  - original: Enables entry to the Abyssal Caves via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Abyssal Fissure via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Abyssal Grotto via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Abyssal Pit via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Blighted Depths via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Blighted Retreat via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Blighted Sanctum via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Bloody Boneyard via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Bloody Crypt via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Bloody Mortuary via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Bloody Vault via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Cursed Catacombs via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Cursed Mausoleum via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Cursed Tombs via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Defiled Burrow via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Defiled Cemetery via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Defiled Graves via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Desecrated Burrow via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Desecrated Cemetery via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Desecrated Graves via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Desecrated Sepulcher via the Mapworks
+    translation: Di chuyển tới Hang Động Bẩn Thỉu thông qua Mapworks
+  - original: Enables entry to the Deserted Factory via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Deserted Foundry via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Deserted Labs via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Deserted Workshop via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Desolate Chantry via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Desolate Sanctuary via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Desolate Shrine via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Desolate Temple via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Dragon Bastion via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Dragon Citadel via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Dragon Keep via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Dragon Stronghold via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Estherian Depths via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Ezrohir Commons via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ezrohir Halls via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ezrohir Treasurey via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ezrohir Vault via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Forgotten Factory via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Forgotten Labs via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Forgotten Workshop via the Mapworks
+    translation: Di chuyển tới Nhà Máy Bị Quên Lãng thông qua Mapworks
+  - original: Enables entry to the Frostbitten Caverns via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostbitten Chasm via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostbitten Ravine via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostshorn Breach via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostshorn Caverns via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostshorn Chasm via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Frostshorn Ravine via the Mapworks
+    translation: Di chuyển tới Hang Băng Giá thông qua Mapworks
+  - original: Enables entry to the Ghastly Crypt via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Ghastly Mortuary via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Ghastly Vault via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Infected Depths via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Infected Hollow via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Infected Retreat via the Mapworks
+    translation: Di chuyển tới Động Hư Vô thông qua Mapworks
+  - original: Enables entry to the Infernal Catacombs via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Infernal Mausoleum via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Infernal Necropolis via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Infernal Tombs via the Mapworks
+    translation: Di chuyển tới Lăng Mộ Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Ransacked Commons via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ransacked Halls via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ransacked Vault via the Mapworks
+    translation: Di chuyển tới Kho Báu Lãng Quên thông qua Mapworks
+  - original: Enables entry to the Ruined Sanctuary via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Ruined Shrine via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Ruined Temple via the Mapworks
+    translation: Di chuyển tới Điện Thờ Bị Nguyền Rủa thông qua Mapworks
+  - original: Enables entry to the Shadowy Caves via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Shadowy Grotto via the Mapworks
+    translation: Di chuyển tới Hang Bóng Tối thông qua Mapworks
+  - original: Enables entry to the Wyvern Citadel via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Wyvern Keep via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to the Wyvern Stronghold via the Mapworks
+    translation: Di chuyển tới Thành Luỹ Của Rồng thông qua Mapworks
+  - original: Enables entry to WHO KNOWS via the Mapworks
+    translation: Mở cổng tới nơi ... KHÔNG AI BIẾT ĐƯỢC thông qua Mapworks
   - original: Enter the |cFFD1FF7ASkaran Hives|u.
     translation: Vào trong |cFFD1FF7ATổ của Thằn lằn bay|u.
   - original: Enter the |cFFD1FF7AUndercurrents|u in the |cFFD1FF7AEmpty Quarter|u and destroy the four |cFFD1FF7AManatoxin Pumps|u.
@@ -4805,6 +5005,20 @@ Maps:
     translation: Đã vào\nTế Đàn Quỷ
   - original: Entered\nWidowmaker Woods
     translation: Đã vào\nRừng Goá Phụ
+  - original: Estherian Enclave
+    translation: Thị Trấn Mùa Xuân
+  - original: Portal to Estherian City
+    translation: Cổng tới Thị Trấn Mùa Xuân
+  - original: Portal to Glyph Room
+    translation: Cổng dịch chuyển
+  - original: Portal to Surface
+    translation: Cổng lên mặt đất
+  - original: Portal to Table Mountain
+    translation: Tới Table Mountain
+  - original: The Corrupted Crypt
+    translation: Hầm mộ tàn phá
+  - original: The Path of the Honored Dead
+    translation: Con đường vinh quang
 
 Miscellaneous items:
   - original: Big Health Potion
@@ -4927,6 +5141,112 @@ Monsters:
     translation: Kẻ cướp dùng giáo
   - original: Blade Stalker
     translation: Cốt binh mạnh mẽ
+  - original: Bleached Captain
+    translation: Đại uý Bleached
+  - original: Bleached Crewman
+    translation: Hải tặc
+  - original: Bleached Marksman
+    translation: Hải tặc bắn súng
+  - original: Bleached Recluse
+    translation: Nhện trắng
+  - original: Bleak Spirit
+    translation: Linh hồn ô uế
+  - original: Bleakwood
+    translation: Ma cây siêu cấp
+  - original: Blight Brute
+    translation: Quỷ mồm rộng
+  - original: Blight Maggot
+    translation: Dòi độc
+  - original: Blight Skeleton
+    translation: Cốt binh tàn lụi
+  - original: Blight Skeleton Warrior
+    translation: Binh sĩ cốt binh tàn lụi
+  - original: Elite Tom Field
+    translation: Mộ quỷ cấp cao
+  - original: Shield Stalker
+    translation: Cốt binh mạnh mẽ
+  - original: Skara
+    translation: Thằn lằn bay
+  - original: Skara Queen
+    translation: Thằn lằn bay nữ hoàng
+  - original: Skeletal Archer
+    translation: Cung thủ cốt binh
+  - original: Skeletal Footsoldier
+    translation: Chiến sĩ Cốt binh
+  - original: Skeletal General
+    translation: Tướng Cốt binh
+  - original: Skeletal Headsman
+    translation: Thủ lĩnh Cốt binh
+  - original: Skeletal Mage
+    translation: Phù thuỷ cốt binh
+  - original: Skeletal Marksman
+    translation: Cốt binh xạ thủ
+  - original: Skeletal Phalanx
+    translation: Chiến binh xương
+  - original: Skeletal Phantom
+    translation: Bóng ma cốt binh
+  - original: Skeletal Pyromancer
+    translation: Cốt binh hoả pháp
+  - original: Skeletal Shambler
+    translation: Cốt binh điên cuồng
+  - original: Skeletal Shuffler
+    translation: Cốt binh nặng nề
+  - original: Skeletal Slayer
+    translation: Cốt binh Sát thủ
+  - original: Skeletal Torso
+    translation: Xác cốt binh
+  - original: Skeletal Warrior
+    translation: Binh sĩ cốt binh
+  - original: Skeleton
+    translation: Cốt binh
+  - original: Skeleton Logger
+    translation: Cốt binh đầm lầy
+  - original: Skeleton No Move
+    translation: Cốt binh không di chuyển
+  - original: Skeleton Punchingbag
+    translation: Cốt binh túi đấm
+  - original: Skeleton Warrior
+    translation: Binh sĩ hài cốt
+  - original: Tom Field
+    translation: Mộ quỷ
+  - original: Undead
+    translation: Bất tử
+  - original: Undead - Cannot Be Interrupted
+    translation: Bất tử - Không thể ngăn chặn
+  - original: Undead - Casts Fire Spells
+    translation: Bất tử - Thi triển phép thuật hỏa
+  - original: Undead - Casts Lightning Spells
+    translation: Bất tử - Thi triển phép thuật lôi
+  - original: Undead - Extra Tough
+    translation: Bất tử - Rất mạnh
+  - original: Undead - Fast
+    translation: Bất tử - Nhanh
+  - original: Undead - Fast Attack
+    translation: Bất tử - Tấn công nhanh
+  - original: Undead - Hard To Kill
+    translation: Bất tử - Khó để giết
+  - original: Undead - Hurls Axes
+    translation: Bất tử - Ném rìu
+  - original: Undead - Hurls Phantasmal Skull
+    translation: Bất tử - Ném ra đầu lâu ma thuật
+  - original: Undead - Hurls Seeking Phantasmal Skulls
+    translation: Bất tử - Ném ra đầu lâu ma thuật
+  - original: Undead - Pistolier
+    translation: Bất tử - Bắn súng
+  - original: Undead - Poison Arrow Hail
+    translation: Bất tử - Mưa tên độc
+  - original: Undead - Resists Poison
+    translation: Bất tử - Kháng độc
+  - original: Undead - Shield Blocks Damage
+    translation: Bất tử - Khiên đỡ đòn
+  - original: Undead - Shield Blocks Damage - Poison
+    translation: Bất tử - Khiên đỡ đòn - Độc
+  - original: Undead - Shield Blocks Damage\nFast Attack
+    translation: Bất tử - Khiên đỡ đòn\nTấn công nhanh
+  - original: Undead - Speed Increases When Flesh Is Shed
+    translation: Bất tử - Tăng tốc khi rụng thịt
+  - original: Undercurrents Maggot
+    translation: Dòi độc đường ngầm
 
 New character:
   - original: '|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge.'
@@ -4955,12 +5275,32 @@ NPC:
     translation: Thợ rèn
   - original: Buy items back from the merchant
     translation: Mua lại vật phẩm từ thương gia
+  - original: Estherian
+    translation: Người dân Estheria
+  - original: Estherian Elder
+    translation: Trưởng lão người Estheria
+  - original: Hess the Merchant
+    translation: Thương gia Hess
   - original: Jana the Merchant
     translation: Thương gia Jana
+  - original: Luren the Merchant
+    translation: Thương gia Luren
   - original: Miscellaneous items for sale
     translation: Tạp hóa
+  - original: Retto the Mapper
+    translation: Người bán bản đồ Retto
+  - original: Tams the Merchant
+    translation: Thương gia Tams
+  - original: the Merchant
+    translation: thương gia
   - original: Tinya the Merchant
     translation: Thương gia Tinya
+  - original: Ulrec the Merchant
+    translation: Thương gia Ulrec
+  - original: Vanquisher
+    translation: Thủ vệ
+  - original: Vanquisher Scout
+    translation: Thủ vệ Trinh sát
   - original: Weapons for sale
     translation: Vũ khí
 
@@ -4969,6 +5309,8 @@ Quests:
     translation: Alchemist sẽ cố gắng để vào Thị Trấn Mùa Xuân thông qua Con Đường Vinh Quang. Giết hắn, và mang cho tôi chiếc trượng của hắn. Đừng trở lại mà không có nó, hoặc bạn sẽ phải chịu cơn thịnh nộ của tôi.
   - original: Bloodstained Message
     translation: Bức huyết thư
+  - original: It is my duty to tend to the Honored Dead.  But they are angry, and have risen from their tombs!\n\nThe Tranquil Censer should calm them once again.  But they attacked me, and, during the struggle, I dropped it. Can you help me get it back?\n
+    translation: Đó là nhiệm vụ của tôi phải tới và thắp hương cho những vị anh hùng. Nhưng họ đã tức giận, và sống lại từ những ngôi mộ!\n\nHương an thần có thể giúp họ bình tĩnh lại 1 lần nữa. Nhưng họ đã tấn công tôi, và, trong lúc đó tôi đã đánh rơi nó. Bạn có thể giúp tôi lấy lại nó không?\n
 
 Quests - ACT I - *Angry Beasts:
   - original: '- Investigate the |cFFD1FF7AWarbeast Lair|u'
@@ -5435,8 +5777,12 @@ Quests - ACT I - The Scroll of Anom-Irek:
     translation: Lấy được |cFFD1FF7AQuyển trục của Anom-Irek|u từ trong |cFFD1FF7AHầm Mộ Tàn phá|u tại |cFFD1FF7ACon Đường Vinh Quang|u.
   - original: Return the |cFFD1FF7AScroll of Anom-Irek|u to |cFFD1FF7AMiamin|u in the |cFFD1FF7APath of the Honored Dead|u.
     translation: Mang về |cFFD1FF7AQuyển trục của Anom-Irek|u cho |cFFD1FF7AMiamin|u tại |cFFD1FF7ACon Đường Vinh Quang|u.
+  - original: Scroll of Anom-Irek
+    translation: Quyển trục của Anom-Irek
   - original: The Scroll of Anom-Irek
     translation: Quyển trục của Anom-Irek
+  - original: You must be the human the other Estherians are speaking of.  I am glad to have met you.  I have been sent on a quest by Grand Regent Eldrayn to recover the |cFFD1FF7AScroll of Anom-Irek|u, stored in a vault in |cFFD1FF7AThe Corrupted Crypt|u, here.  Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.\n\nCan I ask you to attempt to retrieve the scroll?  I will wait here in the |cFFD1FF7APath of the Honored Dead|u for your return.  Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.
+    translation: Bạn chắc hẳn là người mà cư dân thị trấn đã nói tới. Tôi rất mừng vì đã được gặp bạn. Tôi được cử đi làm nhiệm vụ cho Đại trưởng lão Eldrayn để tìm ra |cFFD1FF7AQuyển trục của Anom-Irek|u, được đặt trong |cFFD1FF7AHầm Mộ Tàn phá|u này. Thật không may là Người gấu cũng đã vào trong Hầm Mộ này và tôi không thể theo chúng được.\n\nLiệu bạn có thể giúp tôi tìm lại quyển trục đó được không? Tôi sẽ chờ bạn ở đây trong |cFFD1FF7ACon Đường Vinh Quang|u khi bạn quay lại. Nếu bạn thành công, tôi sẽ xem thử mình có thể cung cấp cho bạn một vài trang bị phù hợp với hành động anh hùng của bạn.
   - original: You must be the human the other Estherians are speaking of.  I am glad to have met you.  I have been sent on a quest by Grand Regent Eldrayn to recover the |cFFD1FF7AScroll of Anom-Irek|u, stored in a vault in the |cFFD1FF7ACorrupted Crypt|u, here.  Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.\n\nCan I ask you to attempt to retrieve the scroll?  I will wait here in the |cFFD1FF7APath of the Honored Dead|u for your return.  Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.
     translation: Bạn chắc hẳn là người mà cư dân thị trấn đã nói tới. Tôi rất mừng vì đã được gặp bạn. Tôi được cử đi làm nhiệm vụ cho Đại trưởng lão Eldrayn để tìm ra |cFFD1FF7AQuyển trục của Anom-Irek|u, được đặt trong |cFFD1FF7AHầm Mộ Tàn phá|u này. Thật không may là Người gấu cũng đã vào trong Hầm Mộ này và tôi không thể theo chúng được.\n\nLiệu bạn có thể giúp tôi tìm lại quyển trục đó được không? Tôi sẽ chờ bạn ở đây trong |cFFD1FF7ACon Đường Vinh Quang|u khi bạn quay lại. Nếu bạn thành công, tôi sẽ xem thử mình có thể cung cấp cho bạn một vài trang bị phù hợp với hành động anh hùng của bạn.
 
@@ -5556,6 +5902,8 @@ Settings:
     translation: Tắt nhạc
   - original: Mute Sound
     translation: Tắt âm
+  - original: UI Scale (Updates on Apply)
+    translation: Tỉ lệ UI (Cập nhật khi áp dụng)
 
 Socketables:
   - original: Blood Ember
@@ -5566,6 +5914,12 @@ Socketables:
     translation: Huyết thạch cấp 3
   - original: Blood Ember Speck
     translation: Huyết thạch cấp 1
+  - original: Chaos Ember
+    translation: Hỗn nguyên thạch cấp 4
+  - original: Giant Chaos Ember
+    translation: Hỗn nguyên thạch cấp 7
+  - original: Huge Chaos Ember
+    translation: Hỗn nguyên thạch cấp 6
   - original: Ice Elemental
     translation: Nguyên tố Băng
   - original: Ice Ember
@@ -5580,6 +5934,8 @@ Socketables:
     translation: Bóng nước Băng
   - original: Ice Labs
     translation: Phòng Thí Nghiệm Băng
+  - original: Large Chaos Ember
+    translation: Hỗn nguyên thạch cấp 5
 
 Spells:
   - original: Adrenaline Rush I
@@ -5808,6 +6164,94 @@ Tips:
     translation: Hầu hết những Người Cường hóa đều có thể |cFFFFBA00cường hóa|u cho vật phẩm bất kỳ 2 lần.  Những người khác có tay nghề cao hơn và có thể cường hóa lần thứ ba hoặc thứ tư! Người Cường hóa cũng có thể loại bỏ các thuộc tính cường hóa hiện có cho phép các vật phẩm được cường hóa lần nữa.
   - original: Most melee weapons do |cFFFFBA00Splash Damage|u, hitting adjacent monsters in an arc in front of you. Two-handed weapons have longer and wider arcs and do a larger amount of damage to these Splash targets.
     translation: Hầu hết các vũ khí cận chiến đều có |cFFFFBA00Sát thương lan toả|u, gây sát thương cho các quái vật trong một vòng cung trước mặt bạn. Vũ khí hai tay có vòng cung xa và rộng hơn và gây ra lượng sát thương lớn hơn cho mục tiêu bị lan tới.
+  - original: Right-click to \nlearn this ability
+    translation: Chuột phải để \nhọc kĩ năng
+  - original: Right-click to drink elixir
+    translation: Chuột phải để sử dụng
+  - original: Right-click to drink potion
+    translation: Chuột phải để sử dụng
+  - original: Right-click to drink tonic
+    translation: Nhấp chuột phải để uống thuốc bổ
+  - original: Right-click to eat fish
+    translation: Chuột phải để cho thú cưng ăn cá
+  - original: Right-click to eat polyp
+    translation: Chuột phải để ăn
+  - original: Right-click to eat tooth
+    translation: Chuột phải để ăn
+  - original: Right-click to equip
+    translation: Chuột phải để trang bị
+  - original: Right-click to Equip
+    translation: Chuột phải để mặc
+  - original: Right-click to feed fish to pet
+    translation: Chuột phải để cho thú nuôi ăn cá.
+  - original: Right-click to feed fish to pet.\n\nThe Big Bonefish transforms your pet into an armor shredding, half skeleton.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành chiến binh xương.
+  - original: Right-click to feed fish to pet.\n\nThe Big Crab Egg transforms your pet into a heavily armored Crab Warrior.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Chiến binh Cua giáp trụ.
+  - original: Right-click to feed fish to pet.\n\nThe Big Flying Fish transforms your pet into a Swampflyer capable of silencing targets.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Dơi sa mạc, có thể làm kẻ thù mù loà.
+  - original: Right-click to feed fish to pet.\n\nThe Big Jackal Bass transforms your pet into a Jackal with a venomous bite.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng cắn gây độc.
+  - original: Right-click to feed fish to pet.\n\nThe Big Largemouth Bass transforms your pet into a Mimic, a superior combat companion.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái hòm, bạn đồng hành ưu việt.
+  - original: Right-click to feed fish to pet.\n\nThe Big Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng làm choáng.
+  - original: Right-click to feed fish to pet.\n\nThe Bonefish transforms your pet into an armor shredding, half skeleton.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành chiến binh xương.
+  - original: Right-click to feed fish to pet.\n\nThe Crab Egg transforms your pet into a heavily armored Crab Warrior.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Chiến binh Cua giáp trụ.
+  - original: Right-click to feed fish to pet.\n\nThe Flying Fish transforms your pet into a Swampflyer capable of silencing targets.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Dơi sa mạc, có thể làm kẻ thù mù loà.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Bonefish transforms your pet into an armor shredding, half skeleton.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành chiến binh xương. Hiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Crab Egg permanently transforms your pet into a heavily armored Crab Warrior.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Chiến binh Cua giáp trụ vĩnh viễn cho tới khi thú cưng ăn loài cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Flying Fishpermanently transforms your pet into a Swampflyer capable of silencing targets.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Dơi sa mạc, có thể làm kẻ thù mù loà. Vĩnh viễn cho tới khi thú cưng ăn loài cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Jackal Bass permanently transforms your pet into a Jackal with a venomous bite.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng cắn gây độc. Hiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Largemouth Bass permanently transforms your pet into a Mimic, a superior combat companion.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái hòm, bạn đồng hành ưu việt. Hiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Tunnel Shark permanently transforms your pet into a Molebeast that has a chance to stun targets.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng làm choáng. Hiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Warsnout permanently transforms your pet into a high damage Warbeast.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Chiến thú sát thương mạnh vĩnh viễn cho tới khi thú cưng ăn loài cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Giant Web Fish permanently transforms your pet into a Spider that shoots immobilizing webs at foes.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Nhện phun ra mạng nhện làm chậm. Hiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThe Jackal Bass transforms your pet into a Jackal with a venomous bite.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng cắn gây độc.
+  - original: Right-click to feed fish to pet.\n\nThe Largemouth Bass transforms your pet into a Mimic, a superior combat companion.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái hòm, bạn đồng hành ưu việt.
+  - original: Right-click to feed fish to pet.\n\nThe Spider Egg transforms your pet into a very strong Vampiric Spider whose attacks steal life to heal you.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Ma cà nhện, tấn công và hút máu cho bạn.
+  - original: Right-click to feed fish to pet.\n\nThe Tunnel Shark transforms your pet into a Molebeast that has a chance to stun targets.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú nuôi thành Quái thú có khả năng làm choáng.
+  - original: Right-click to feed fish to pet.\n\nThe Warsnout transforms your pet into a high damage Warbeast.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Chiến thú sát thương mạnh.
+  - original: Right-click to feed fish to pet.\n\nThe Web Fish transforms your pet into a Spider that shoots immobilizing webs at foes.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\n Biến thú cưng thành Nhện phun ra mạng nhện làm chậm.
+  - original: Right-click to feed fish to pet.\n\nThis effect will last until another transforming fish is consumed.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\nHiệu ứng vĩnh viễn cho tới khi thú cưng ăn cá khác.
+  - original: Right-click to feed fish to pet.\n\nThis perplexing fish transforms your pet into a Giant Troll, a very superior combat companion.
+    translation: Chuột phải để cho thú nuôi ăn cá.\n\nBiến thú cưng thành Quỷ lùn khổng lồ, đồng hành cực kỳ ưu việt.
+  - original: 'Right-click to feed fish to pet.\n\nWarning: Permanent Effect!'
+    translation: 'Chuột phải để cho thú nuôi ăn cá.\n\n Cảnh báo: Hiệu quả ngay lập tức!'
+  - original: Right-click to open a portal to a lost dungeon
+    translation: Chuột phải để mở cánh cổng tới Hang động bỏ quên
+  - original: 'Right-click to open a portal to a Lost Dungeon.\n\nWarning: If you leave a Lost Dungeon, it can never be re-entered!'
+    translation: 'Chuột phải để mở ra đường tới Hang Bí Mật!\n\nCHÚ Ý: Nếu bạn rời khỏi đó sẽ không thể vào lại.'
+  - original: Right-click to open a portal to a Strange Land
+    translation: Chuột phải để mở cổng tới một vùng đất lạ
+  - original: Right-click to open a portal to the Wilds.
+    translation: Chuột phải để mở cổng tới nơi hoang dã
+  - original: Right-click to open portal
+    translation: Chuột phải để mở cổng dịch chuyển
+  - original: Right-click to open the entrance portal to The Deserted Goldmine. The deeper you go the more wealth awaits. But care, don't get too greedy...
+    translation: Chuột phải để mở cổng tới Mỏ vàng sa mạc. Càng vào sâu bên trong, bạn sẽ càng giàu có. Nhưng hãy nhớ "tham thì thâm, đa dâm thì ... :)" !
+  - original: Right-click to swallow eye
+    translation: Nhấp chuột phải để sử dụng
+  - original: Right-click to use scroll, then Left-click on an unidentified item
+    translation: Chuột phải để sử dụng sau đó chuột trái vào vật phẩm cần giám định
 
 Tips - Torchlight II Essentials:
   - original: Holding |cFFFFBA00[CTRL]|u while attacking will only move you or use a skill if you have a target highlighted. This is useful to prevent inadvertent movement during fast combat.
@@ -5846,6 +6290,16 @@ Common:
     translation: ' không được kích hoạt. Thiếu thông tin hòm đồ, vật phẩm sau sẽ bị mất:\n'
   - original: '- Complete'
     translation: '- Hoàn thành'
+  - original: <STAT1> degrees
+    translation: <STAT1> độ
+  - original: <STAT1> meters
+    translation: <STAT1> mét
+  - original: <STAT1> seconds
+    translation: <STAT1> giây
+  - original: <STAT1>/sec
+    translation: <STAT1>/giây
+  - original: <STAT1>%/sec
+    translation: <STAT1>%/giây
   - original: '|c0097ffa1Left Hand Weapon|u'
     translation: '|c0097ffa1Vũ khí Tay trái|u'
   - original: '|c0097ffa1Right Hand Weapon|u'
@@ -5864,26 +6318,56 @@ Common:
     translation: '|cFFB29560Bạn chắc chắn muốn ly khai?|u'
   - original: '|cFFD1FF7ALeft-Hand|u'
     translation: '|cFFD1FF7ATay-trái|u'
+  - original: '|cFFD1FF7ALeft-Hand|u'
+    translation: '|cFFD1FF7ATay-trái|u'
   - original: '|cFFD1FF7ARight-Hand|u'
     translation: '|cFFD1FF7ATay-phải|u'
+  - original: '|cFFD1FF7ARight-Hand|u'
+    translation: '|cFFD1FF7ATay-phải|u'
+  - original: '|cFFE0E0E0Damage: <STAT1>-<STAT2>|u'
+    translation: '|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u'
+  - original: '|cFFE0E0E0Damage: <STAT1>-<STAT2>|u'
+    translation: '|cFFE0E0E0Sát thương: <STAT1>-<STAT2>|u'
   - original: '|cFFEAAA15[PLAYERNAME] rolls [RAND_INT_0_100].|u'
     translation: '|cFFEAAA15[PLAYERNAME] xúc sắc ra [RAND_INT_0_100].|u'
   - original: '|cFFEAAA15Appearance|u'
     translation: '|cFFEAAA15Hình dạng|u'
+  - original: '|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCcritical strikes|u and |cFFA1D0FCdodge|u enemy attacks. Dexterity also increases |cFFA1D0FCfumble recovery|u.'
+    translation: '|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u.'
+  - original: '|cFFEAAA15Focus|u increases |cFFA1D0FCmana|u (MP) and all |cFFA1D0FCelemental damage|u.  Focus also increases the chance to |cFFA1D0FCexecute|u (strike with both hands simultaneously).'
+    translation: '|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay).'
+  - original: '|cFFEAAA15Level <STAT1>|u'
+    translation: '|cFFEAAA15Cấp <STAT1>|u'
   - original: '|cFFEAAA15Level <STAT1>|u  <STAT2>'
     translation: '|cFFEAAA15Cấp độ <STAT1>|u  <STAT2>'
   - original: '|cFFEAAA15Requires restart for mods to be installed.|u'
     translation: '|cFFEAAA15Yêu cầu khởi động lại game và kích hoạt mod.|u'
   - original: '|cFFEAAA15Select Class|u'
     translation: '|cFFEAAA15Chọn nghề|u'
+  - original: '|cFFEAAA15Skill Points: <STAT1>|u'
+    translation: '|cFFEAAA15Điểm Kỹ năng: <STAT1>|u'
+  - original: '|cFFEAAA15Stat Points|u'
+    translation: '|cFFEAAA15Điểm Tiềm năng|u'
+  - original: '|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCcritical strikes|u.'
+    translation: '|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u.'
+  - original: '|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u.'
+    translation: '|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u.'
+  - original: '|cFFEAAA15Vitality|u increases |cFFA1D0FChealth|u (HP), total |cFFA1D0FCarmor|u and the chance to |cFFA1D0FCblock|u with shields.'
+    translation: '|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên.'
   - original: '|cFFF2BF4DAvg. Item Level:|u\n <STAT1>'
     translation: '|cFFF2BF4DCấp độ trang bị (TB):|u\n <STAT1>'
+  - original: '|cFFF2BF4DTime Played:|u\n <STAT1>'
+    translation: '|cFFF2BF4DThời gian chơi:|u\n <STAT1>'
+  - original: '|cFFF2BF4DTime Played:|u\n <STAT1>'
+    translation: '|cFFF2BF4DThời gian chơi:|u\n <STAT1>'
   - original: '|cFFF5DB94-You Found-|u'
     translation: '|cFFF5DB94-Đã Tìm thấy-|u'
   - original: '|cFFF5DB94At Current Level|u'
     translation: '|cFFF5DB94Tại cấp độ hiện tại|u'
   - original: '|cFFF5DB94Attack Statistics|u'
     translation: '|cFFF5DB94Thông số chiến đấu|u'
+  - original: '|cFFF5DB94Defense Statistics|u'
+    translation: '|cFFF5DB94Thông số Phòng thủ|u'
   - original: '|cFFF5DB94Game Data|u'
     translation: '|cFFF5DB94Dữ liệu trò chơi|u'
   - original: '|cFFF5DB94General Statistics|u'
@@ -6072,6 +6556,8 @@ Common:
     translation: Trình đơn chỉ số nhân vật
   - original: Characters
     translation: Nhân vật
+  - original: Chest
+    translation: Hòm
   - original: Chester Copperpot
     translation: Tro cốt
   - original: Chests Opened
@@ -6092,40 +6578,484 @@ Common:
     translation: Đóng tất cả các bảng
   - original: Close Panel
     translation: Đóng bảng
+  - original: Conveys
+    translation: (Cộng dồn)
   - original: Corrupted Guardian
     translation: Vệ Thần Sa đọa
   - original: Create Waypoint Portal
     translation: Tạo Cổng dịch chuyển
   - original: Current Location
     translation: Vị trí hiện tại
+  - original: Current Rank
+    translation: Cấp bậc hiện tại
+  - original: Damage
+    translation: Sát thương
+  - original: damage per second
+    translation: sát thương trên giây
+  - original: Damage per Second
+    translation: Sát thương mỗi giây
+  - original: Damage Taken
+    translation: Sát thương nhận phải
+  - original: Damage Transference
+    translation: Chuyển hoá sát thương
+  - original: Damage you take is also reduced by foe proximity
+    translation: Giảm sát thương phải nhận cho mỗi quái vật trong phạm vi
+  - original: Darkness ever rests on your shoulders, whispering its secrets …
+    translation: Bóng tối thậm chí còn trú ngụ trong bờ vai của bạn, thì thầm lời bí mật …
+  - original: Dash Attack - Bolsters Nearby Tutara - Cannot be Interrupted
+    translation: Tấn công lao tới - Đỡ đòn cho Bò sát ở gần - Không thể ngăn chặn
+  - original: Dash Attack - Cannot be Interrupted
+    translation: Tấn công lao tới - Không thể ngăn chặn
+  - original: Dash Attack - Cannot Be Interrupted
+    translation: Tấn công lao tới - Không thể ngăn chặn
+  - original: Dash Attack - Ground Slam - Cannot Be Interrupted - Missile Reflection
+    translation: Tấn công lao tới - Tấn công mặt đất - Không thể ngăn cản - Phản hồi tên lửa
+  - original: Dash Attack - Inflicts Bleed
+    translation: Tấn công lao tới - Gây chảy máu
+  - original: Dash Attack - Knockback Slash
+    translation: Tấn công lao tới - Chém đẩy lùi
+  - original: Dash Attack - Stomp Attack
+    translation: Tấn công lao tới - Tấn công bão táp
+  - original: Decline Quest
+    translation: Không nhận
+  - original: Dexterity
+    translation: Nhanh nhẹn
+  - original: Dexterity Bonus
+    translation: Nhanh nhẹn cộng thêm
+  - original: Empty
+    translation: Trống rỗng
+  - original: Empty Skill, used to reserve a guid for auto attack
+    translation: Kỹ năng trống, được sử dụng để tấn công tự động
+  - original: Empty Socket
+    translation: Lỗ khảm trống
+  - original: Enable\Disable Level Difference Filter
+    translation: Bật\Tắt Lọc cấp độ
+  - original: Exit
+    translation: Thoát
+  - original: Exit Dungeon
+    translation: Rời phụ bản
+  - original: Exit Luminous Arena
+    translation: Thoát khỏi Đấu Trường Ánh Sáng
+  - original: Exit Portal
+    translation: Cổng rời khỏi
+  - original: Exit to main menu
+    translation: Thoát ra màn hình chính
+  - original: Exit?
+    translation: Thoát?
+  - original: Exorcist
+    translation: Pháp Sư
+  - original: Experience progress to next level
+    translation: Điểm kinh nghiệm cho cấp tiếp theo
+  - original: Experience Reward
+    translation: Kinh nghiệm
+  - original: Falcor
+    translation: Chậm chạp
+  - original: Fallen Guardian
+    translation: Thiên thần Sa Ngã
+  - original: Fire
+    translation: Hoả
+  - original: Focus
+    translation: Trí lực
+  - original: Focus Bonus
+    translation: Trí lực cộng thêm
+  - original: Gems
+    translation: Đá khảm
+  - original: General Goods Vendor
+    translation: Bán hàng hoá thông dụng
+  - original: Giant Chest
+    translation: Rương khổng lồ
+  - original: Gold
+    translation: Vàng
+  - original: has entered the area
+    translation: đã vào khu vực
+  - original: Has played modded games.
+    translation: Đang chơi trong chế độ Mod
+  - original: Ice
+    translation: Băng
   - original: left hand
     translation: tay trái
   - original: Left Mouse Button Attack
     translation: Tấn công chuột trái
   - original: Left-Click to assign Skills or Items
     translation: Nhấp chuột trái để gán Kỹ năng hoặc Vật phẩm
+  - original: Lever
+    translation: Đòn bẩy
+  - original: Load
+    translation: Tải
   - original: Mod Details
     translation: Thông tin Mod
   - original: Mod Mode Active - Using Mod Save Folder
     translation: Chế độ dùng Mod - Sử dụng thư mục Save Mod
   - original: Modifier
     translation: Phím nhấn kèm
+  - original: Monsters
+    translation: Quái vật
+  - original: Monsters Defeated
+    translation: Quái vật đã hạ
+  - original: Monsters Slain
+    translation: Quái vật bị giết
   - original: Monstrous Shrine
     translation: Ấn Kì quái
   - original: Move
     translation: Di chuyển
   - original: Move/Attack
     translation: Di chuyển/Tấn công
+  - original: New Game
+    translation: Chơi mới
+  - original: New Quest
+    translation: Nhiệm vụ mới
+  - original: Next Page
+    translation: Trang sau
+  - original: Next Rank
+    translation: Bậc kế tiếp
+  - original: Next Unlock Level
+    translation: Cấp độ mở khóa tiếp theo
+  - original: 'No'
+    translation: Không
+  - original: Ornate Chest
+    translation: Rương hoa văn
+  - original: Ornate Derringer
+    translation: Súng lục ba nòng
+  - original: Orpantile Skull
+    translation: Đầu lâu của Orpantile
+  - original: Ossataur
+    translation: Cốt binh cực khỏe
+  - original: Other
+    translation: Khác
+  - original: Play
+    translation: Chơi
+  - original: Play a Game on the Internet
+    translation: Chơi vói phòng Online
+  - original: Play a Game on the Local Network
+    translation: Chơi với phòng trong Mạng nội bộ
+  - original: Play a Single Player Game
+    translation: Chơi Đơn
+  - original: Player Effect Data
+    translation: Dữ liệu hiệu ứng
+  - original: Player Options
+    translation: Người chơi
+  - original: Player Quest Data
+    translation: Dữ liệu nhiệm vụ
+  - original: Players
+    translation: Người chơi
+  - original: Players and Pets
+    translation: Người chơi và thú cưng
+  - original: 'Players and Pets:'
+    translation: 'Người chơi và thú cưng:'
+  - original: Players In Game
+    translation: Người chơi trong phòng
+  - original: Playing as
+    translation: Chơi như là
+  - original: Quest
+    translation: Nhiệm vụ
+  - original: QUEST ACCEPTED
+    translation: NHẬN NHIỆM VỤ
+  - original: Quest Complete
+    translation: Hoàn thành nhiệm vụ
+  - original: Quest Item
+    translation: Vật phẩm nhiệm vụ
+  - original: Quest Items Acquired
+    translation: Vật phẩm nhiệm vụ
+  - original: Quest Menu
+    translation: Bảng nhiệm vụ
+  - original: Quest Panel
+    translation: Bảng nhiệm vụ
+  - original: Quest Reward
+    translation: Phần thưởng
+  - original: Quests
+    translation: Nhiệm vụ
+  - original: Quests [[KB:QuestMenu]]
+    translation: Nhiệm vụ [[KB:QuestMenu]]
+  - original: Quests Completed
+    translation: Hoàn thành nhiệm vụ
+  - original: Quests Completed
+    translation: Hoàn thành nhiệm vụ
+  - original: Quick Save
+    translation: Lưu nhanh
+  - original: Quickslot 0
+    translation: Phím tắt 0
+  - original: Quickslot 1
+    translation: Phím tắt 1
+  - original: Quickslot 2
+    translation: Phím tắt 2
+  - original: Quickslot 3
+    translation: Phím tắt 3
+  - original: Quickslot 4
+    translation: Phím tắt 4
+  - original: Quickslot 5
+    translation: Phím tắt 5
+  - original: Quickslot 6
+    translation: Phím tắt 6
+  - original: Quickslot 7
+    translation: Phím tắt 7
+  - original: Quickslot 8
+    translation: Phím tắt 8
+  - original: Quickslot 9
+    translation: Phím tắt 9
+  - original: Quit
+    translation: Thoát
+  - original: Quit Menu
+    translation: Trình đơn Thoát
+  - original: Quit to Main Menu
+    translation: Thoát ra Màn hình chính
+  - original: QUIT?
+    translation: LY KHAI?
+  - original: Required Mods
+    translation: Yêu cầu mod
+  - original: Requires
+    translation: Yêu cầu
+  - original: Requires a cannon
+    translation: Yêu cầu sử dụng pháo
+  - original: Requires a greataxe, greathammer, greatsword, polearm or cannon
+    translation: 'Yêu cầu: Rìu lớn, Búa lớn, Đại Đao, Giáo hoặc Pháo'
+  - original: Requires a melee weapon
+    translation: Yêu cầu một vũ khí cận chiến
+  - original: Requires a melee weapon equipped in the right hand
+    translation: Yêu cầu trang bị một vũ khí cận chiến cho tay phải
+  - original: Requires a melee weapon in the right hand slot
+    translation: Yêu cầu tay phải trang bị vũ khí cận chiến
+  - original: Requires a ranged weapon
+    translation: Yêu cầu vũ khí tầm xa
+  - original: Requires a shield
+    translation: Yêu cầu Khiên
+  - original: Requires a Shield and any melee weapon
+    translation: Yêu cầu dùng khiên và vũ khí cận chiến
+  - original: Requires a shotgonne
+    translation: Yêu cầu sử dụng súng trường.
+  - original: Requires a staff
+    translation: 'Yêu cầu vũ khí: Trượng'
+  - original: Requires a staff or wand
+    translation: Yêu cầu Trượng hoặc Gậy phép
+  - original: Requires a Staff or Wand, generates 20% charge on hit, and 40% charge on split!
+    translation: Yêu cầu Trượng hoặc Gậy phép, tạo ra 20% nộ khí khi đánh và 40% nộ khí khi tách ra!
+  - original: Requires an equipped shield
+    translation: Yêu cầu sử dụng Khiên
+  - original: Requires an\nIdentify Scroll.
+    translation: Cần mộ quyển\ntrục giám định.
+  - original: Requires any axe, sword, hammer, staff or polearm
+    translation: Yêu cầu một Rìu, Kiếm, Búa, Trượng hoặc Giáo
+  - original: Requires base melee weapon attacks to trigger.
+    translation: Yêu cầu trang bị vũ khí cận chiến cơ bản.
+  - original: Requires Class
+    translation: Yêu cầu nghề
+  - original: requires Defense
+    translation: yêu cầu Phòng thủ
+  - original: requires Dexterity
+    translation: yêu cầu Nhanh nhẹn
+  - original: Requires item level
+    translation: Yêu cầu cấp vật phẩm
+  - original: Requires Level
+    translation: Cấp độ yêu cầu
+  - original: requires Magic
+    translation: yêu cầu Ma thuật
+  - original: Requires melee weapons
+    translation: Yêu cầu vũ khí cận chiến
+  - original: Requires melee weapons to trigger.
+    translation: Yêu cầu sử dụng vũ khí cận chiến.
+  - original: Requires Pistols equipped in both hands
+    translation: Yêu cầu sử dụng súng lục ở cả 2 tay
+  - original: requires Strength
+    translation: yêu cầu Sức mạnh
+  - original: Requires two equipped pistols to function
+    translation: Yêu cầu sử dụng 2 súng lục cùng lúc.
+  - original: Reroll World
+    translation: Tái tạo
+  - original: Reset Camera
+    translation: Đặt lại Camera
+  - original: Reset Skills
+    translation: Đặt lại kĩ năng
+  - original: Resetting your Skill Investment will reclaim <STAT1> |cFFEAAA15Skill Points|u.
+    translation: Xoá bỏ mọi kĩ năng và lấy lại <STAT1> |cFFEAAA15Điểm kĩ năng|u.
+  - original: Resistance to Immobilization
+    translation: Kháng bất động
+  - original: Resistance to Slowing Effects
+    translation: Kháng làm chậm
+  - original: Resistant to Elements, except for Fire
+    translation: Kháng nguyên tố, trừ lửa
+  - original: Resists Elemental Attacks
+    translation: Kháng tấn công nguyên tố
+  - original: Resists Interrupts
+    translation: Kháng Gián đoạn
+  - original: Respected
+    translation: Tôn trọng
+  - original: Restart And Activate
+    translation: Khởi động lại và bật mod
+  - original: Restart And Install These Mods
+    translation: Khởi động lại và cài đặt các mod này
+  - original: Restart Required
+    translation: Yêu cầu khởi động lại
+  - original: 'Restart required for mod(s):'
+    translation: 'Mod yêu cầu khởi động lại:'
+  - original: 'Restart required for mod(s): '
+    translation: 'Yêu cầu khởi động lại với mod: '
+  - original: Restores mana
+    translation: Hồi năng lượng
+  - original: Resume
+    translation: Tiếp tục
+  - original: Resume Play
+    translation: Chơi tiếp
+  - original: Resurrect
+    translation: Hồi sinh
+  - original: Resurrect at the entrance to this area, but lose [GOLD] Gold.
+    translation: Hồi sinh tại cổng vào bản đồ này, nhưng bị mất [GOLD] vàng.
+  - original: Resurrect at the entrance to this floor, but lose [GOLD] Gold.
+    translation: Hồi sinh tại lối vào tầng này và mất [GOLD] vàng
+  - original: Resurrect here, but lose [GOLD] Gold, [FAME] Fame, and [XP] Xp.
+    translation: Hồi sinh tại đây, nhưng mất [GOLD] vàng, [FAME] danh vọng, và [XP] kinh nghiệm.
+  - original: Resurrect here, but lose [GOLD] Gold.
+    translation: Hồi sinh tại đây, nhưng mất [GOLD] Vàng.
+  - original: Resurrect here, but lose [XP] Experience and [FAME] Fame.
+    translation: Hồi sinh tại chỗ nhưng mất [XP] kinh nghiệm và [FAME] danh vọng
+  - original: Resurrect in town and lose nothing.
+    translation: Về Thị trấn và không mất gì
+  - original: Retire
+    translation: Về hưu
+  - original: Retired
+    translation: Đã nghỉ hưu
+  - original: Return to Game
+    translation: Trở lại Chơi tiếp
   - original: Reward Choices
     translation: Phần thưởng được chọn
   - original: Rewards
     translation: Phần thưởng
+  - original: Sarcophagus
+    translation: Hòm đá
+  - original: Save
+    translation: Lưu
+  - original: Save and Quit
+    translation: Lưu và Thoát
+  - original: Save and Resume
+    translation: Lưu và chơi tiếp
+  - original: SAVED
+    translation: ĐÃ LƯU
+  - original: Say hello!
+    translation: Nói xin chào nào!
+  - original: Select a language - requires a restart
+    translation: Chọn ngôn ngữ - yêu cầu khởi động lại
+  - original: Select a Reward
+    translation: Chọn 1 phần thưởng
+  - original: Select a Reward to Continue
+    translation: Chọn một phần thưởng
+  - original: Select an item or skill to assign
+    translation: Chọn vật phẩm hoặc kĩ năng
+  - original: Select Item Reward
+    translation: Chọn phần thưởng
+  - original: Self Destruct
+    translation: Tự hủy
+  - original: Self Destruct AOE
+    translation: Tự hủy Rộng
+  - original: Sell
+    translation: Bán
+  - original: Sell all
+    translation: Bán hết
+  - original: sell price
+    translation: giá bán
+  - original: Sell Price
+    translation: Giá bán
+  - original: Seller of Armor Sets
+    translation: Bán bộ đồ trang bị
+  - original: Settings
+    translation: Cài đặt
+  - original: Shield Armor
+    translation: Khiên giáp
+  - original: Shield Bash
+    translation: Xung Kích
+  - original: Shield Bash Attack - Shield Can Be Shattered
+    translation: Tấn công bằng khiên - Khiên có thể vỡ
+  - original: Shield Blocks Damage
+    translation: Khiên đỡ đòn
+  - original: Shield Bubble
+    translation: Khiên bong bóng
+  - original: Shield Dash - Shield Blocks Damage
+    translation: Dùng khiên lao tới - Khiên đỡ đòn
+  - original: Single Player
+    translation: Chơi đơn
+  - original: Skill & Stat Respec
+    translation: Tẩy điểm Kỹ năng & Tiềm năng
+  - original: Skill Menu
+    translation: Bảng kĩ năng
+  - original: Skill Panel
+    translation: Bảng kĩ năng
+  - original: Skill Reset
+    translation: Đặt lại kĩ năng
+  - original: Skill Respec
+    translation: Tẩy kĩ năng
+  - original: Skill Shrine
+    translation: Ấn Kĩ năng
+  - original: Skills
+    translation: Kỹ năng
+  - original: SKILLS
+    translation: KĨ NĂNG
+  - original: Skills [[KB:SkillMenu]]
+    translation: Kỹ năng [[KB:SkillMenu]]
+  - original: Skills Used
+    translation: Sử dụng kĩ năng
+  - original: Skills/Spells Cast
+    translation: Kỹ năng/Phép thuật thi triển
+  - original: Skull
+    translation: Đầu lâu
+  - original: Slow Attack Speed
+    translation: Tốc độ đánh chậm
+  - original: Slowest Attack Speed
+    translation: Tốc độ đánh chậm nhất
   - original: The story so far..
     translation: Câu chuyện cách đây đã lâu...
+  - original: Two fists are better than one.
+    translation: Hai tay thì tốt hơn một
+  - original: two handed
+    translation: 2 tay
+  - original: Two Stroke
+    translation: Đột Quỵ
+  - original: Two Stroke Hammer
+    translation: Búa Đột quỵ
+  - original: Two Thousand Maniacs!
+    translation: Hai nghìn cân!
+  - original: Two-Barrel Revolver
+    translation: Súng lục lính canh
+  - original: Two-Headed Viper
+    translation: Rìu lớn 2 lưỡi
+  - original: Type
+    translation: Kiểu
+  - original: Unattainable
+    translation: Vô cực
+  - original: Undead Dwarves Slain
+    translation: Số Bất tử người lùn giết
+  - original: Undead Slain
+    translation: Số Bất tử tộc giết
+  - original: Underling
+    translation: Đánh thuê
+  - original: Unearthly
+    translation: Siêu Phàm
+  - original: Unrecognized
+    translation: Vô danh
+  - original: Unremarkable
+    translation: '|cFFA1D0FCKhông đáng kể|u'
+  - original: Unspent\nSkill Points
+    translation: Kĩ năng
+  - original: Unspent\nStat Points
+    translation: Tiềm năng
+  - original: Unstable Acceleration
+    translation: Tăng tốc không ổn định
+  - original: Unsung
+    translation: Chưa nghe tới
+  - original: Updating...
+    translation: Đang cập nhật...
+  - original: Urn
+    translation: Lọ hài cốt
+  - original: Use an Identify Scroll to reveal enchantments or reach level
+    translation: Sử dụng Giám định phù để giám định hoặc đợi đạt tới cấp độ
+  - original: Use Best Health Potion
+    translation: Dùng Hồi sinh lực tốt nhất
+  - original: Use Best Mana Potion
+    translation: Dùng Hồi năng lượng tốt nhất
+  - original: Use Skill
+    translation: Dùng kĩ năng
   - original: 'version: <STAT1>'
     translation: 'Phiên bản: <STAT1>'
   - original: Very Famous
     translation: Rất nổi tiếng
+  - original: Veteran
+    translation: '|cFFA1D0FCCựu binh|u'
   - original: Video
     translation: Hình ảnh
   - original: Vitality
@@ -6160,6 +7090,4 @@ Common:
     translation: Điểm dừng
   - original: Waywatcher
     translation: Đá mặt người
-  - original: Wazir
-    translation: Ma Thuật Sư
 
