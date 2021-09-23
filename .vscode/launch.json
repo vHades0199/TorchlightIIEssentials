@@ -35,9 +35,12 @@
             "type": "pwa-node"
         },
         {
-            "name": "YAML",
+            "name": "Convert",
             "runtimeExecutable": "yarn",
-            "program": "yaml",
+            "program": "start",
+            "args": [
+                "${file}",
+            ],
             "cwd": "${workspaceFolder}",
             "request": "launch",
             "skipFiles": [
@@ -46,9 +49,14 @@
             "type": "pwa-node"
         },
         {
-            "name": "DAT",
+            "name": "New",
             "runtimeExecutable": "yarn",
-            "program": "dat",
+            "program": "start",
+            "args": [
+                "new",
+                "Globals",
+                "../../MEDIA/GLOBALS.DAT",
+            ],
             "cwd": "${workspaceFolder}",
             "request": "launch",
             "skipFiles": [
