@@ -6,20 +6,29 @@ const getLinesFromDAT = (str) => str
     .split('\n')
     .filter(x => x && !x.toUpperCase().endsWith('TRANSLATIONS]'));
 
-let dest = '';
 const convertToDAT = (node) => {
-    Object.entries(node).forEach(([key, val]) => {
-        if (Array.isArray(val)) {
-            val.forEach(x => {
-                dest += `\t[TRANSLATION]\n`
-                dest += `\t\t<STRING>ORIGINAL:${x.original}\n`;
-                dest += `\t\t<STRING>TRANSLATION:${x.translation}\n`;
-                dest += `\t[/TRANSLATION]\n`
-            });
-        } else {
-            convertToDAT(val);
-        }
-    });
+    let dest = '';
+    const makeDATContent = (node) => {
+        Object.entries(node).forEach(([name, val]) => {
+            if (Array.isArray(val)) {
+                val.forEach(x => {
+                    if (!x.translation) return;
+                    dest += `\t[TRANSLATION]\n`
+                    dest += `\t\t<STRING>ORIGINAL:${x.original}\n`;
+                    dest += `\t\t<STRING>TRANSLATION:${x.translation}\n`;
+                    if (name.startsWith('Mods'))
+                        dest += `\t\t<STRING>MODS:${name}\n`;
+                    dest += `\t[/TRANSLATION]\n`
+                });
+            } else {
+                makeDATContent(val);
+            }
+        });
+    }
+
+    makeDATContent(node);
+
+    return dest;
 }
 
 const convertToYaml = (lines) => {
@@ -73,6 +82,13 @@ const writeYamlFile = (filePath, doc) => {
         doc[k] = doc[k].sort((a, b) => {
             if (!a.original) return 1;
             if (!b.original) return -1;
+            const aText = a.translation.trim();
+            const bText = b.translation.trim();
+            if (!aText && !bText) return a.original.localeCompare(b.original);
+            if (!aText || !bText) {
+                if (!aText) return 1;
+                if (!bText) return -1;
+            }
             return a.original.localeCompare(b.original);
         });
         console.info(` [${doc[k].length}] ${k}`);
@@ -87,8 +103,8 @@ const writeYamlFile = (filePath, doc) => {
 const sortGroupFunc = (a, b) => {
     if (a == 'original') return -1;
     if (b == 'original') return 1;
-    if (['mod', 'Common'].includes(a)) return 1;
-    if (['mod', 'Common'].includes(b)) return -1;
+    if (['Common'].includes(a)) return 1;
+    if (['Common'].includes(b)) return -1;
 
     return a.localeCompare(b);
 };
@@ -109,10 +125,16 @@ if (process.argv[2] == 'new') {
         if (/TRANSLATION\.DAT$/.test(fileName.toUpperCase())) return;
         // console.info(fileName);
         const re = {
+            '.TEMPLATE': /<TRANSLATE>\w+:(.+)/g,
             '.DAT': /<TRANSLATE>\w+:(.+)/g,
-            '.LAYOUT': /<STRING>(TEXT( \d)?|TOOL TIP|DESCRIPTOR|NAME|DIALOG 1|DISCOVERED|AREA NAME|AREA NAME LEAVING|AREA NAME ENTERING|COMPLETE|RETURN|TITLE|GREET):(.+)/g,
+            '.LAYOUT': /<STRING>(TEXT( \d)?|TOOL TIP|DESCRIPTOR|DIALOG 1|DISCOVERED|AREA NAME|AREA NAME LEAVING|AREA NAME ENTERING|COMPLETE|RETURN|TITLE|GREET):(.+)/g,
         }
         const str = readFileSync(fileName, 'utf16le');
+        // const arr = str.match(re[path.extname(fileName)])
+        //     ?.filter(x => x.includes('NAME'))
+        //     ?.map(x => x.replace(/^(<TRANSLATE>\w+|<STRING>(\w|\s)+):/, ''));
+        // if (arr)
+        //     root[category] = root[category].filter(x => !(arr.includes(x.original) && !x.translation));
         str.match(re[path.extname(fileName)])
             ?.map(x => x.replace(/^(<TRANSLATE>\w+|<STRING>(\w|\s)+):/, ''))
             .forEach(newKey => {
@@ -132,23 +154,25 @@ if (process.argv[2] == 'new') {
             const filePath = path.join(dir, fileName);
             if (lstatSync(filePath).isDirectory()) {
                 convertDir(filePath);
-            } else if (/.(DAT|LAYOUT)$/.test(filePath.toUpperCase())) {
+            } else if (/.(DAT|LAYOUT|TEMPLATE)$/.test(filePath.toUpperCase())) {
                 convertFile(filePath);
             }
         });
     }
-    if (/.(DAT|LAYOUT)$/.test(dirPath.toUpperCase()))
-        convertFile(dirPath);
-    else
+
+    if (lstatSync(dirPath).isDirectory())
         convertDir(dirPath);
+    else if (/.(DAT|LAYOUT|TEMPLATE)$/.test(dirPath.toUpperCase()))
+        convertFile(dirPath);
+
     console.warn('Duplicates:')
     const keys = root[category].map(x => x.original);
+    root.Common = root.Common.filter(item => !keys.includes(item.original));
     const dupItems = [];
     for (const cat in root) {
         if (cat != category && !categoryCommon.includes(cat) && Object.hasOwnProperty.call(root, cat)) {
             root[cat].forEach(item => {
                 if (keys.includes(item.original)) {
-                    // root[categoryCommon].push(item);
                     dupItems.push(item.original);
                     console.log(`[${cat}] ${item.original}`);
                 }
@@ -171,9 +195,13 @@ switch (process.argv[3]) {
             console.error('Is not a YAML file!');
             break;
         }
+        try {
+            const doc = yaml.load(src);
 
-        const doc = yaml.load(src);
-        writeYamlFile(pathSrc, doc);
+            writeYamlFile(pathSrc, doc);
+        } catch (error) {
+            console.log(error)
+        }
         break;
 
     // {file}.[YAML|DAT] merge
@@ -208,9 +236,10 @@ switch (process.argv[3]) {
         switch (fSrc.ext) {
             case '.YAML':
                 const doc = yaml.load(src);
-                convertToDAT(doc);
+                let dest = convertToDAT(doc);
+                dest = `[TRANSLATIONS]\n${dest}[/TRANSLATIONS]\n`;
                 transFile = path.join(fSrc.dir, `${fSrc.name}.DAT`);
-                writeFileSync(transFile, `[TRANSLATIONS]\n${dest}[/TRANSLATIONS]\n`, { encoding: 'utf16le', mode: 'w' });
+                writeFileSync(transFile, dest, { encoding: 'utf16le' });
                 console.info('Keys:', dest.match(/\[TRANSLATION\]/g).length);
                 break;
 
