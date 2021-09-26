@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Imageset Name= "IngameTextureSheets8" Imagefile="media/ui/hud/ingametexturesheets8.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
-	<Image Name="ig_inventory_arms_insert_long" XPos="2" YPos="2" Width="482" Height="500" />
-	<Image Name="ig_inventory_spells_insert_long" XPos="2" YPos="511" Width="482" Height="500" />
-	<Image Name="ig_inventory_consumables_insert_long" XPos="493" YPos="2" Width="482" Height="500" />
-</Imageset>

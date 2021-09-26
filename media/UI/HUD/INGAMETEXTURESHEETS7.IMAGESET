@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Imageset Name= "IngameTextureSheets7" Imagefile="media/ui/hud/ingametexturesheets7.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
-	<Image Name="ig_inventory_menu_base_long" XPos="-1" YPos="-1" Width="510" Height="950" />
-	<Image Name="ig_merchant_menu_base_long" XPos="511" YPos="-1" Width="510" Height="950" />
-</Imageset>

@@ -1,4 +1,4 @@
-*.BINDAT
+*.BIN*
 *.mod
 .yarn/*
 !.yarn/cache

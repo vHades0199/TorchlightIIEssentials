@@ -618,7 +618,7 @@ Characters • Berserker:
   - original: You are immune to knockback and slowing effects while casting Ravage
     translation: Kháng đẩy lùi và các hiệu ứng làm chậm.
   - original: You bind a group of foes within a 5 meter radius of your target location. All your subsequent melee attacks transfer a percentage of damage to all shadowbound targets.
-    translation: 'Nguyền rủa các mục tiêu trong bán kính 5 mét. Tất cả đòn đánh tiếp theo sẽ chuyển một tỉ lệ sát thương vào các mục tiêu bị nguyền rủa. '
+    translation: Nguyền rủa các mục tiêu trong bán kính 5 mét. Tất cả đòn đánh tiếp theo sẽ chuyển một tỉ lệ sát thương vào các mục tiêu bị nguyền rủa.
   - original: You call forth an ice shield which reflects projectile missiles back at attackers. You also have a chance to gain 10% of your |c00ff9933Charge Bar|u when the shield is struck. The shield lasts for 10 seconds.
     translation: Tạo ra một hào quang băng bảo vệ nhân vật khỏi kẻ thù, Khi mục tiêu tấn công sẽ phản đòn lại, có xác xuất tăng 10% điểm |c00ff9933Nộ khí|u, Hào quang duy trì 10 giây
   - original: You channel the frigid north winds to unleash a blast of icy breath, which immobilizes enemies and makes them more susceptible to damage. The blast reaches 5 meters at a 90 degree angle.
@@ -630,7 +630,7 @@ Characters • Berserker:
   - original: You execute a brutal series of slashes, inflicting three strikes on all foes within 4 meters. Enemy armor is weakened with each strike.
     translation: Đánh 3 lần liên tiếp vào các mục tiêu trong phạm vi 4 mét, mỗi phát đánh làm giảm phòng thủ của mục tiêu.
   - original: You howl in fury, filling nearby foes with terror. Affected foes are slowed and become less able to defend themselves for several seconds.
-    translation: 'Tạo ra một cơn thịnh nộ làm cho mục tiêu hoảng sợ và bị tổn thương. Mục tiêu bị chậm lại. '
+    translation: Tạo ra một cơn thịnh nộ làm cho mục tiêu hoảng sợ và bị tổn thương. Mục tiêu bị chậm lại.
   - original: You imbue your weapons with an electrical energy. This power can cause a lightning bolt to arc toward nearby targets when you strike a foe. The lightning can chain up to 2 times.
     translation: Một năng lượng điện được sinh ra từ vũ khí. Khi tấn công một mục tiêu sẽ sinh ra một tia sét tấn công mục tiêu gần đó. Tia sét này có thể lan tới 2 mục tiêu.
   - original: You knock a single enemy back with a devastating strike. After a brief delay, the target explodes, damaging all foes within 4 meters.
@@ -1070,7 +1070,7 @@ Characters • Embermage:
   - original: When you kill an enemy, you have chance to freeze up to 4 additional enemies within a 7 meter radius.
     translation: Khi triệt hạ một kẻ thù, sẽ có thể làm nhiễm lạnh 4 mục tiêu khác trong bán kính 7 mét
   - original: Whirling Flames
-    translation: Đĩa lửa
+    translation: '|cFFF2ACB1Đĩa lửa'
   - original: You bind the lifeforce of all foes within 6 meters of the target. Upon their death, their life and mana are drawn to you or other players through 3 soul bolts. Stated health and mana recovery is per soul bolt.
     translation: Niệm phép nguyền rủa lên các mục tiêu trong một vòng tròn bán kính 6m, năng lượng sống của những mục tiêu bị nguyền sẽ bị lấy ra khỏi thân xác sau khi mục tiêu bị giết chết, dưới dạng 3 phần hồn. Bổ sung sinh lực, năng lượng cho nhân vật và đồng đội, mỗi khi chủ thể hấp thu một phần hồn
   - original: You call down burning cinders from the sky over a 15 meter radius, setting foes alight and increasing their susceptability to fire damage. Firestorm gains no |c00ff9933Charge|u.
@@ -1350,7 +1350,7 @@ Dungeons:
   - original: Alpha Zone
     translation: Vùng Alpha
   - original: Ancient Vaults of Chaos
-    translation: Hang Cổ Hỗn Độn
+    translation: Hang Hỗn Độn Cổ
   - original: Arena of Slaughter
     translation: Đấu trường sinh tử
   - original: Artificer's Workshop
@@ -2810,17 +2810,17 @@ Effects:
   - original: Only 1 of these can be active, highest priority on unit, then on shield, then default affix
     translation: Chỉ có một trong số này có thể hoạt động, ưu tiên cao nhất trên đơn vị, sau đó trên khiên chắn, sau đó gắn mặc định
   - original: Permanently decreases Dexterity by [VALUE]
-    translation: Giảm [VALUE] Nhanh nhẹn vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Nhanh nhẹn vĩnh viễn|u'
   - original: Permanently decreases Focus by [VALUE]
-    translation: Giảm [VALUE] Trí lực vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Trí lực vĩnh viễn|u'
   - original: Permanently decreases Health by [VALUE]
-    translation: Giảm [VALUE] Sinh lực vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Sinh lực vĩnh viễn|u'
   - original: Permanently decreases Mana by [VALUE]
-    translation: Giảm [VALUE] Năng lượng vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Năng lượng vĩnh viễn|u'
   - original: Permanently decreases Strength by [VALUE]
-    translation: Giảm [VALUE] Sức mạnh vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Sức mạnh vĩnh viễn|u'
   - original: Permanently decreases Vitality by [VALUE]
-    translation: Giảm [VALUE] Thể lực vĩnh viễn
+    translation: '|cFFFF0000Giảm [VALUE] Thể lực vĩnh viễn|u'
   - original: Permanently increases Dexterity by [VALUE]
     translation: Tăng [VALUE] Nhanh nhẹn vĩnh viễn
   - original: Permanently increases Focus by [VALUE]
@@ -3344,7 +3344,7 @@ Globals:
   - original: Left-Click to assign Skills or Items
     translation: Nhấp chuột trái để gán Kỹ năng hoặc Vật phẩm
   - original: Legendary
-    translation: Truyền thuyết
+    translation: Truyền thuyết •
   - original: Leggings
     translation: Quần
   - original: Level is greater than maximum level.
@@ -3526,7 +3526,7 @@ Globals:
   - original: Polearm
     translation: Giáo
   - original: Potion
-    translation: Thuốc
+    translation: Dược dịch
   - original: Pow
     translation: Khôn khéo
   - original: Press 'Destroy' to destroy gems
@@ -3782,7 +3782,7 @@ Globals:
   - original: Unidentified items may be identified by using an |cFFFFBA00identify scroll|u. Right-click on the item to identify it if and it will automatically use any identify scrolls you have.
     translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u. Chuột phải vào vật phẩm để giám định nó và việc này sẽ tự động sử dụng Giám định phù nào bạn có.
   - original: Unique
-    translation: Duy nhất •
+    translation: Cực hiếm •
   - original: Unknown
     translation: Không rõ
   - original: UNKNOWN
@@ -3924,7 +3924,7 @@ Globals:
 
 Items:
   - original: ' [ITEM] of Acid Rain'
-    translation: ' [ITEM] Mưa axit'
+    translation: '[ITEM] Mưa axit'
   - original: ... because they're pests.
     translation: ... vì chúng là sâu bọ.
   - original: '"A shadow shall fall over the universe." - The Book of Hurlant'
@@ -4463,7 +4463,7 @@ Items:
   - original: Also a doctor, Shandor performed a lot of unnecessary surgery.
     translation: Cũng là một bác sĩ, Shandor đã thực hiện rất nhiều ca phẫu thuật không cần thiết
   - original: Also known as "Boots of Sliding and Skiing."
-    translation: 'Còn được biết đến là "Giày của người trượt tuyết" '
+    translation: Còn được biết đến là "Giày của người trượt tuyết"
   - original: Always a hit at parties!
     translation: Luôn luôn nổi bật giữa đám đông
   - original: Always starts on the first try!
@@ -4519,7 +4519,7 @@ Items:
   - original: Ancient Bone Golem Sword
     translation: Đại đao
   - original: Ancient Gumfish
-    translation: Cá cổ đại
+    translation: Cá cao su cổ đại
   - original: And if they get back up, beat 'em down again.
     translation: Nếu chúng đứng dậy, hãy dập chúng xuống
   - original: Anger Managers
@@ -5197,7 +5197,7 @@ Items:
   - original: Bonefish
     translation: Cá xương nhỏ
   - original: Bonepry Wedge
-    translation: 'Vuốt rồng '
+    translation: Vuốt rồng
   - original: Boneshredder
     translation: Rìu lớn phá giáp
   - original: Boneskull Staff
@@ -7009,7 +7009,7 @@ Items:
   - original: Felling Axe
     translation: Rìu lớn chặt cây
   - original: Feral
-    translation: Hoang Dã
+    translation: Hoang dã
   - original: Feral Armor
     translation: Giáp Hoang dã
   - original: Feral Badge
@@ -7101,7 +7101,7 @@ Items:
   - original: Firefish
     translation: Cá lửa nhỏ
   - original: Fires Poison Bolts\n\nLegendary Rifle Collection\nNumber One of Three
-    translation: Bộ Súng ngắm Truyền thuyết\n1/3
+    translation: Bắn tia độc\n\nBộ Súng ngắm Truyền thuyết\nCái thứ nhất
   - original: Firewood
     translation: Gỗ sưởi
   - original: First worn by the despicable Chief Nosnra.
@@ -10609,19 +10609,21 @@ Items:
   - original: Pot-de-Fer
     translation: Pháo đầu rồng
   - original: Potion of Electric Resistance
-    translation: '|c00F5D107Thuốc kháng Lôi'
+    translation: '|c00F5D107Linh dịch Kháng lôi'
   - original: Potion of Fire Resistance
-    translation: '|cFFCF3F0AThuốc kháng Hoả'
+    translation: '|cFFCF3F0ALinh dịch Kháng hỏa'
   - original: Potion of Ice Resistance
-    translation: '|cFF4DDBE3Thuốc kháng Băng'
+    translation: '|cFF4DDBE3Linh dịch Kháng băng'
   - original: Potion of Poison Resistance
-    translation: '|cFF6CCC25Thuốc kháng Độc'
+    translation: '|cFF6CCC25Linh dịch Kháng độc'
   - original: Potion of Respec
-    translation: '|cFFB041CCThuốc tẩy kĩ năng'
+    translation: '|cFFB041CCLinh dịch Hồi nguyên'
   - original: Pound your enemies to mulch.
     translation: Đập kẻ thù của bạn nhừ tử
+  - original: Power by the handful.
+    translation: Quyền lực nắm trong tay.
   - original: Power Crystal
-    translation: Tinh thể năng lượng
+    translation: Kết tinh Sức mạnh
   - original: Power Tag
     translation: Khuyên tai sức mạnh
   - original: Powerful [ITEM]
@@ -11829,7 +11831,7 @@ Items:
   - original: Signet of the Jarls
     translation: Nhẫn Ảo ảnh
   - original: Silence
-    translation: Câm lặng
+    translation: '|cFFF2ACB1Câm lặng'
   - original: Silencing [ITEM]
     translation: Câm lặng [ITEM]
   - original: Silver Amulet of the Butcher's Boy
@@ -13607,7 +13609,7 @@ Items:
   - original: The Wyrdbolt Pendant
     translation: Vòng cổ sấm sét
   - original: The Wyrdfire Ring
-    translation: 'Nhẫn ma trơi '
+    translation: Nhẫn ma trơi
   - original: The Wyrdhammer
     translation: Búa mỏ nhọn
   - original: The Wyrdshard Ring
@@ -14287,7 +14289,7 @@ Items:
   - original: Vilderan Ripsaw
     translation: Vuốt sư tử
   - original: Vile Tag
-    translation: Khuyên tai vô cớ
+    translation: Khuyên tai vô giá trị
   - original: Viridiax
     translation: Nhẫn vàng
   - original: Virtually uncontrollable...
@@ -15488,8 +15490,6 @@ Items:
     translation: '  '
   - original: Ponya armor is sturdy, though it looks like little more than jewelry.
     translation: '  '
-  - original: Power by the handful.
-    translation: '   '
   - original: Powered by electrolytes.
     translation: '  '
   - original: Powered by the Miracle of Steam! Handle with care!
@@ -16681,25 +16681,25 @@ Items • Socketables:
   - original: Black Basilisk Eye
     translation: Mắt Kỳ Đà Sa Mạc Đen
   - original: Blood Ember
-    translation: Huyết thạch cấp 4
+    translation: '|cFFFFCC00Huyết thạch'
   - original: Blood Ember Chip
-    translation: Huyết thạch cấp 2
+    translation: '|cFFFFCC00Miếng Huyết thạch'
   - original: Blood Ember Shard
-    translation: Huyết thạch cấp 3
+    translation: '|cFFFFCC00Mảnh Huyết thạch'
   - original: Blood Ember Speck
-    translation: Huyết thạch cấp 1
+    translation: '|cFFFFCC00Vụn Huyết thạch'
   - original: Bondron Skull
     translation: Đầu lâu của Bondron
   - original: Celh Skull
     translation: Đầu lâu của Celh
   - original: Chaos Ember
-    translation: Hỗn nguyên thạch cấp 4
+    translation: '|cFFFFCC00Hỗn nguyên thạch'
   - original: Chaos Ember Chip
-    translation: Hỗn nguyên thạch cấp 2
+    translation: '|cFFFFCC00Miếng Hỗn nguyên thạch'
   - original: Chaos Ember Shard
-    translation: Hỗn nguyên thạch cấp 3
+    translation: '|cFFFFCC00Mảnh Hỗn nguyên thạch'
   - original: Chaos Ember Speck
-    translation: Hỗn nguyên thạch cấp 1
+    translation: '|cFFFFCC00Vụn Hỗn nguyên thạch'
   - original: Claptrap's Bolt
     translation: Ốc vít
   - original: Claptrap's Nut
@@ -16715,13 +16715,13 @@ Items • Socketables:
   - original: Fendix Skull
     translation: Đầu lâu của Fendix
   - original: Flame Ember
-    translation: '|cCCff2b0fHỏa thạch cấp 4'
+    translation: '|cFFF3F589Hỏa tinh'
   - original: Flame Ember Chip
-    translation: '|cCCff2b0fHỏa thạch cấp 2'
+    translation: '|cFFF3F589Miếng Hỏa tinh'
   - original: Flame Ember Shard
-    translation: '|cCCff2b0fHỏa thạch cấp 3'
+    translation: '|cFFF3F589Mảnh Hỏa tinh'
   - original: Flame Ember Speck
-    translation: '|cCCff2b0fHỏa thạch cấp 1'
+    translation: '|cFFF3F589Vụn Hỏa tinh'
   - original: flameemberbase NOSPAWN
     translation: flameemberbase NOSPAWN
   - original: Giant Blood Ember
@@ -16765,21 +16765,21 @@ Items • Socketables:
   - original: Ice Ember
     translation: Băng tinh
   - original: Ice Ember Chip
-    translation: Vụn Băng tinh
+    translation: '|cFFF3F589Miếng Băng tinh'
   - original: Ice Ember Shard
-    translation: Mảnh Băng tinh
+    translation: '|cFFF3F589Mảnh Băng tinh'
   - original: Ice Ember Speck
-    translation: Viên Băng tinh
+    translation: '|cFFF3F589Vụn Băng tinh'
   - original: Insert Ember into weapons and armor with empty slots to garner their effects.
-    translation: Khảm bảo thạch vào trang bị sẽ nhận được thuộc tính cộng thêm
+    translation: Khảm Tinh thạch vào vũ khí và áo giáp có các lỗ khảm để thu được hiệu ứng của chúng.
   - original: Iron Ember
-    translation: Tinh thạch Sắt
+    translation: '|cFFFFCC00Tinh thạch Sắt'
   - original: Iron Ember Chip
-    translation: Miếng Tinh thạch Sắt
+    translation: '|cFFFFCC00Miếng Tinh thạch Sắt'
   - original: Iron Ember Shard
-    translation: Mảnh vỡ Tinh thạch Sắt
+    translation: '|cFFFFCC00Mảnh Tinh thạch Sắt'
   - original: Iron Ember Speck
-    translation: Vụn Tinh thạch Sắt
+    translation: '|cFFFFCC00Vụn Tinh thạch Sắt'
   - original: ironemberbase NOSPAWN
     translation: ironemberbase NOSPAWN
   - original: Ismeldan Skull
@@ -16897,13 +16897,13 @@ Items • Socketables:
   - original: Sossimu Skull
     translation: Đầu lâu của Sossimu
   - original: Spark Ember
-    translation: '|cCCfffc33Lôi thạch cấp 4'
+    translation: '|cFFF3F589Lôi tinh'
   - original: Spark Ember Chip
-    translation: '|cCCfffc33Lôi thạch cấp 2'
+    translation: '|cFFF3F589Miếng Lôi tinh'
   - original: Spark Ember Shard
-    translation: '|cCCfffc33Lôi thạch cấp 3'
+    translation: '|cFFF3F589Mảnh Lôi tinh'
   - original: Spark Ember Speck
-    translation: '|cCCfffc33Lôi thạch cấp 1'
+    translation: '|cFFF3F589Vụn Lôi tinh'
   - original: The Eye of Aleera
     translation: Mắt của Aleera
   - original: The Eye of Aruk
@@ -16975,21 +16975,21 @@ Items • Socketables:
   - original: Vellinque Skull
     translation: Đầu lâu của Vellinque
   - original: Venom Ember
-    translation: '|cCC0fff23Độc thạch cấp 4'
+    translation: '|cFFF3F589Độc thạch'
   - original: Venom Ember Chip
-    translation: '|cCC0fff23Độc thạch cấp 2'
+    translation: '|cFFF3F589Miếng Độc thạch'
   - original: Venom Ember Shard
-    translation: '|cCC0fff23Độc thạch cấp 3'
+    translation: '|cFFF3F589Mảnh Độc thạch'
   - original: Venom Ember Speck
-    translation: '|cCC0fff23Độc thạch cấp 1'
+    translation: '|cFFF3F589Vụn Độc thạch'
   - original: Void Ember
-    translation: Hư vô thạch
+    translation: '|cFFFFCC00Tinh thể Hư vô'
   - original: Void Ember Chip
-    translation: Viên Hư vô thạch
+    translation: '|cFFFFCC00Miếng Tinh thể Hư vô'
   - original: Void Ember Shard
-    translation: Mảnh Hư vô thạch
+    translation: '|cFFFFCC00Mảnh Tinh thể Hư vô'
   - original: Void Ember Speck
-    translation: Vụn Hư vô thạch
+    translation: '|cFFFFCC00Vụn Tinh thể Hư vô'
   - original: voidemberbase NOSPAWN
     translation: voidemberbase NOSPAWN
   - original: Vyrax's Heartfire
@@ -17031,7 +17031,7 @@ Items • Spells/Scrolls:
   - original: Heals the caster.
     translation: Hồi phục máu của bản thân
   - original: Identify Scroll
-    translation: Giám định Phù
+    translation: '|cFFFFBA00Giám định Phù'
   - original: Identify Spell
     translation: Phép Giám định
   - original: Knowledge that improves the potency of potions, increases the rate of Experience and Fame gain, and reduces resurrection penalties.  Only one rank of Adventurering may be equipped at a time.
@@ -17381,23 +17381,23 @@ Items • Spells/Scrolls:
   - original: The caster's movement speed is increased by 8% and attack speed by 2%  for 12 seconds.
     translation: Tăng tốc độ chạy lên 8% và tốc độ đánh lên 2% trong 12 giây.
   - original: 'Tome:  Animal Handling I'
-    translation: 'Bí kíp:  Luyện thú I'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú I'
   - original: 'Tome:  Animal Handling II'
-    translation: 'Bí kíp:  Luyện thú II'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú II'
   - original: 'Tome:  Animal Handling III'
-    translation: 'Bí kíp:  Luyện thú III'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú III'
   - original: 'Tome:  Animal Handling IV'
-    translation: 'Bí kíp:  Luyện thú IV'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú IV'
   - original: 'Tome:  Animal Handling V'
-    translation: 'Bí kíp:  Luyện thú V'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú V'
   - original: 'Tome:  Animal Handling VI'
-    translation: 'Bí kíp:  Luyện thú VI'
+    translation: '|cFFACB1F2Bí kíp:  Luyện thú VI'
   - original: 'Tome: Adrenaline Burst'
     translation: '|cFFACB1F2Bí kíp: Cường hóa tốc độ cấp 2'
   - original: 'Tome: Adrenaline Rush'
-    translation: '|cFFACB1F2Bí kíp: Cường hóa tốc độ cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Adrenaline Tốc độ'
   - original: 'Tome: Adrenaline Shock'
-    translation: '|cFFACB1F2Bí kíp: Cường hóa tốc độ cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Sốc Adrenaline'
   - original: 'Tome: Adventuring I'
     translation: '|cFFACB1F2Bí kíp: Phiêu lưu cấp 1'
   - original: 'Tome: Adventuring II'
@@ -17411,17 +17411,17 @@ Items • Spells/Scrolls:
   - original: 'Tome: Adventuring VI'
     translation: '|cFFACB1F2Bí kíp: Phiêu lưu cấp 6'
   - original: 'Tome: Arcane Tools I'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí I'
   - original: 'Tome: Arcane Tools II'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí II'
   - original: 'Tome: Arcane Tools III'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí III'
   - original: 'Tome: Arcane Tools IV'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí IV'
   - original: 'Tome: Arcane Tools V'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí V'
   - original: 'Tome: Arcane Tools VI'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật pháp khí VI'
   - original: 'Tome: Armor Expertise I'
     translation: '|cFFACB1F2Bí kíp: Chuyên gia giáp trụ cấp 1'
   - original: 'Tome: Armor Expertise II'
@@ -17459,17 +17459,17 @@ Items • Spells/Scrolls:
   - original: 'Tome: Blocking VI'
     translation: '|cFFACB1F2Bí kíp: Đỡ đòn cấp 6'
   - original: 'Tome: Concentration'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Tập trung'
   - original: 'Tome: Concentration II'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Tập trung II'
   - original: 'Tome: Concentration III'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Tập trung III'
   - original: 'Tome: Concentration IV'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Tập trung IV'
   - original: 'Tome: Concentration V'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Tập trung V'
   - original: 'Tome: Concentration VI'
-    translation: '|cFFACB1F2Bí kíp: Tập trung cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Tập trung VI'
   - original: 'Tome: Critical Strikes I'
     translation: '|cFFACB1F2Bí kíp: Đòn chí mạng cấp 1'
   - original: 'Tome: Critical Strikes II'
@@ -17495,53 +17495,53 @@ Items • Spells/Scrolls:
   - original: 'Tome: Dual Wielding VI'
     translation: '|cFFACB1F2Bí kíp: Song thủ cấp 6'
   - original: 'Tome: Marksmanship I'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ I'
   - original: 'Tome: Marksmanship II'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ II'
   - original: 'Tome: Marksmanship III'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ III'
   - original: 'Tome: Marksmanship IV'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ IV'
   - original: 'Tome: Marksmanship V'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ V'
   - original: 'Tome: Marksmanship VI'
-    translation: '|cFFACB1F2Bí kíp: Thần xạ thủ cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Thiện xạ VI'
   - original: 'Tome: Treasure Hunter I'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu I'
   - original: 'Tome: Treasure Hunter II'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu II'
   - original: 'Tome: Treasure Hunter III'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu III'
   - original: 'Tome: Treasure Hunter IV'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu IV'
   - original: 'Tome: Treasure Hunter V'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu V'
   - original: 'Tome: Treasure Hunter VI'
-    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Thợ săn kho báu VI'
   - original: 'Tome: Weapons Expertise I'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí I'
   - original: 'Tome: Weapons Expertise II'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí II'
   - original: 'Tome: Weapons Expertise III'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí III'
   - original: 'Tome: Weapons Expertise IV'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí IV'
   - original: 'Tome: Weapons Expertise V'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí V'
   - original: 'Tome: Weapons Expertise VI'
-    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Bí thuật vũ khí VI'
   - original: 'Tome: Willpower I'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 1'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật I'
   - original: 'Tome: Willpower II'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 2'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật II'
   - original: 'Tome: Willpower III'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 3'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật III'
   - original: 'Tome: Willpower IV'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 4'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật IV'
   - original: 'Tome: Willpower V'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 5'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật V'
   - original: 'Tome: Willpower VI'
-    translation: '|cFFACB1F2Bí kíp: Giải băng thuật cấp 6'
+    translation: '|cFFACB1F2Bí kíp: Giải băng thuật VI'
   - original: Training that grants a chance to gain a burst of movement and attack speed upon being struck.
     translation: Luyện tập để có tỉ lệ tăng tốc độ di chuyển và tốc độ đánh khi bị tấn công.
   - original: Training that grants a chance to gain a burst of movement and attack speed upon being struck.  More powerful than Adrenaline Rush or Burst.
@@ -17567,7 +17567,7 @@ Items • Spells/Scrolls:
   - original: Vendor Boon Scroll
     translation: Quyển trục cửa hàng thần bí
   - original: Waypoint Portal Scroll
-    translation: '|cFFFFBA00Dịch chuyển phù|u'
+    translation: '|cFFFFFFFFDịch chuyển phù|u'
   - original: Waypoint Portal Spell
     translation: '|cFFFFBA00Phép: Cổng dịch chuyển|u'
 
@@ -17829,7 +17829,7 @@ Layouts:
   - original: '|cFF917D56Username|u'
     translation: '|cFF917D56Tài khoản|u'
   - original: '|cFFA1D0FCCasual Mode|u is great for players of all ages who favor fun action without deeper challenge.'
-    translation: '|cFFA1D0FCChế độ Đơn giản|u dành cho mọi lứa tuổi, những ai chỉ muốn chơi để biết cốt truyện và không muốn có nhiều thử thách.'
+    translation: '|cFFA1D0FCChế độ Đơn giản|u dành cho mọi lứa tuổi, những ai thích hành động vui nhộn mà không có thử thách sâu hơn.'
   - original: '|cFFA1D0FCElite Mode|u is for advanced or brave players. The monsters are significantly tougher and you may die often. Your adventure will likely take more time than in other game modes.'
     translation: '|cFFA1D0FCChế độ Thách thức|u dành cho người chơi chuyên nghiệp hoặc dũng cảm. Những con quái vật khó hơn đáng kể và bạn có thể chết thường xuyên. Cuộc phiêu lưu của bạn có thể sẽ mất nhiều thời gian hơn so với các chế độ chơi khác.'
   - original: '|cFFA1D0FCVeteran Mode|u is intended for players familiar with Torchlight. If the challenges become too difficult, you may need to take extra time to improve your character''s abilities to progress.'
@@ -17953,7 +17953,7 @@ Layouts:
   - original: Always Show Player Names
     translation: Luôn hiện tên nhân vật
   - original: An error occured in the game. Error message is
-    translation: 'Đã có lỗi xảy ra. Thông tin lỗi là '
+    translation: Đã có lỗi xảy ra. Thông tin lỗi là
   - original: Anti-Aliasing *
     translation: Chống nhoè
   - original: Apply
@@ -17961,7 +17961,7 @@ Layouts:
   - original: Apply Settings?
     translation: Áp dụng cài đặt?
   - original: Arcane Statistics
-    translation: Bảng thông số
+    translation: Thông số chi tiết
   - original: Are you sure you want to abandon this Quest?
     translation: Bạn có chắc chắn muốn huỷ nhiệm vụ này?
   - original: Are you sure you want to delete this character?
@@ -17969,7 +17969,7 @@ Layouts:
   - original: Are you sure you want to proceed to the next |cFFEAAA15New Game Plus|u mode?
     translation: Bạn có chắc chắn không?
   - original: Armor Bonus
-    translation: Giáp cộng thêm
+    translation: Giáp tăng thêm
   - original: Assign |cFFA1D0FCskills and consumables |uto the quick bar by drag and dropping them onto a slot or simply click on the slot to show a list of assignable options.
     translation: Đặt |cFFA1D0FCkĩ năng và đồ tiêu dùng |u tại thanh phím tắt bằng cách kéo thả chúng vào hoặc click vào các lỗ trống để hiện chi tiết.
   - original: Attack Speed
@@ -18009,7 +18009,7 @@ Layouts:
   - original: BERSERKER CHARGE BAR
     translation: CHIẾN BINH CUỒNG NỘ
   - original: Best for first-time players,\n|cFFA1D0FCNormal Mode|u presents a wide range of challenge without requiring in-depth knowledge of the game.
-    translation: Tốt nhất khi mới chơi lần đầu,\n|cFFA1D0FCChế độ Thường|u cung cấp một số thử thách và không yêu cầu phải hiểu quá sâu về game.
+    translation: Tốt nhất khi mới chơi lần đầu,\n|cFFA1D0FCChế độ Phổ thông|u cung cấp một số thử thách và không yêu cầu phải hiểu quá sâu về game.
   - original: Big Treasure Chest
     translation: Rương báu lớn
   - original: Block
@@ -18051,7 +18051,7 @@ Layouts:
   - original: Cast Speed Bonus
     translation: Tốc độ thi triển cộng thêm
   - original: Casual
-    translation: Thường
+    translation: Đơn giản
   - original: Cell Doors
     translation: Cửa nhỏ
   - original: Center UI Globes
@@ -18181,7 +18181,7 @@ Layouts:
   - original: Elemental Damages
     translation: Sát thương nguyên tố
   - original: Elite
-    translation: Cực khó
+    translation: Thách thức
   - original: EMBERMAGE CHARGE BAR
     translation: PHÁP SƯ CUỒNG NỘ
   - original: Enables entry to WHO KNOWS via the Mapworks
@@ -18413,7 +18413,7 @@ Layouts:
   - original: It's lucky you came along!  Take this, as a token of my gratitude.  Now, if you please, the Ambassador would like a word with you.
     translation: Thật may mắn là bạn đã tới! Hãy nhận lấy lòng biết ơn của tôi. Nếu bạn sẵn lòng thì đại sứ có vài điều muốn nói với bạn.
   - original: Item Display
-    translation: Hiển thị trang bị
+    translation: Hiện trang bị
   - original: ITEMS
     translation: VẬT PHẨM
   - original: Items Enchanted
@@ -18567,7 +18567,7 @@ Layouts:
   - original: No skills\nto reset.
     translation: Không có kĩ năng nào
   - original: Normal
-    translation: Thường
+    translation: Phổ thông
   - original: Not Logged In
     translation: Chưa đăng nhập
   - original: Note
@@ -18615,7 +18615,7 @@ Layouts:
   - original: Pet Inventory
     translation: Hành trang Thú cưng
   - original: Pet Panel
-    translation: Bảng thú nuôi
+    translation: Thú nuôi
   - original: Pet Spells
     translation: Thú cưng - Phép thuật
   - original: Pet will return from town in
@@ -18649,9 +18649,9 @@ Layouts:
   - original: Portals Used
     translation: Sử dụng cổng
   - original: Potions Used
-    translation: Sử dụng thuốc
+    translation: Dùng Linh dịch
   - original: Power Source
-    translation: Nguồn năng lượng
+    translation: Nguồn sức mạnh
   - original: Press a key or button
     translation: Ấn phím hoặc nút
   - original: Press button to exit to the main menu.
@@ -18711,7 +18711,7 @@ Layouts:
   - original: Required Mods
     translation: 'Mod bắt buộc:'
   - original: Requires an\nIdentify Scroll.
-    translation: Cần mộ quyển\ntrục giám định.
+    translation: Cần mộ quyển\nGiám định phù.
   - original: Reroll World
     translation: Tái tạo
   - original: Reset Skills
@@ -18879,7 +18879,7 @@ Layouts:
   - original: Tip
     translation: Mẹo
   - original: Toggle Map
-    translation: Bật bản đồ
+    translation: Bật/Tắt bản đồ
   - original: Total Dexterity
     translation: Tổng Nhanh nhẹn
   - original: Total Focus
@@ -18917,11 +18917,11 @@ Layouts:
   - original: Unfriend
     translation: Huỷ bạn
   - original: 'Unique '
-    translation: Duy nhất
+    translation: Cực hiếm
   - original: Unlearn Spells
-    translation: Xoá phép thuật
+    translation: Phế phép
   - original: Unlit Brazier
-    translation: Đốt lửa
+    translation: Lò than tàn
   - original: Unspent\nSkill Points
     translation: Kĩ năng\nchưa xài
   - original: Unspent\nStat Points
@@ -18977,7 +18977,7 @@ Layouts:
   - original: You must first speak with the Grand Regent before using portals.
     translation: Bạn phải nói chuyện với Đại Trưởng Lão trước khi dùng cổng.
   - original: You Will Receive
-    translation: 'Bạn sẽ nhận được '
+    translation: Bạn sẽ nhận được
   - original: Your basic attack.
     translation: Đòn tấn công cơ bản.
   - original: Your fight is ended.\nMemories of you will fade.\nSilence, all is lost.
@@ -19299,7 +19299,7 @@ Layouts • Tooltip:
   - original: Change sort order
     translation: Sắp xếp
   - original: Character Panel [[KB:StatMenu]]
-    translation: Bảng chỉ số nhân vật [[KB:StatMenu]]
+    translation: Chỉ số nhân vật [[KB:StatMenu]]
   - original: Chest Slot (Empty)
     translation: Áo (Trống)
   - original: Cinematics
@@ -19307,17 +19307,17 @@ Layouts • Tooltip:
   - original: Clear trade items and gold
     translation: Loại bỏ tất cả trang bị và vàng
   - original: Click for Best Health Potion ( [KB:BESTPETPOTION] )
-    translation: Nhấn để dùng Trị liệu dịch tốt nhất ( [KB:BESTPETPOTION] )
+    translation: Nhấp để dùng Hồi Sinh lực tốt nhất ( [KB:BESTPETPOTION] )
   - original: Click for Best Health Potion ( [KB:BESTPETPOTION] )
-    translation: Click để dùng thuốc sinh lực tốt nhất ( [KB:BESTPETPOTION] )
+    translation: Nhấp để dùng Hồi Sinh lực tốt nhất ( [KB:BESTPETPOTION] )
   - original: Click for Best Mana Potion ( [KB:BESTPETMANA] )
-    translation: Nhấn để dùng Hồi năng lượng tốt nhất ( [KB:BESTPETMANA] )
+    translation: Nhấp để dùng Hồi Năng lượng tốt nhất ( [KB:BESTPETMANA] )
   - original: Click for Best Mana Potion ( [KB:BESTPETMANA] )
-    translation: Click để dùng thuốc năng lượng tốt nhất ( [KB:BESTPETMANA] )
+    translation: Nhấp để dùng Hồi Năng lượng tốt nhất ( [KB:BESTPETMANA] )
   - original: Click for Social Options
     translation: Nhấp để tinh chỉnh Mạng xã hội
   - original: Close Panel
-    translation: Đóng bảng
+    translation: Đóng
   - original: Collar Slot\n\n |c00ff9933The best way to find\nCollars is to fish in\ndangerous areas!|u
     translation: Vòng cổ\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
   - original: Confirm
@@ -19345,7 +19345,7 @@ Layouts • Tooltip:
   - original: Damage penalty applied to a Fumbled attack
     translation: Sát thương bị giảm khi đánh sượt qua
   - original: Decline Quest
-    translation: Không nhận
+    translation: Từ chối nhiệm vụ
   - original: Decline Trade Request
     translation: Huỷ bỏ giao dịch
   - original: Description of the game
@@ -19391,7 +19391,7 @@ Layouts • Tooltip:
   - original: Filter By Name Prefix
     translation: Lọc bởi tiền tố của tên
   - original: Fire Armor
-    translation: Giáp hoả
+    translation: Hỏa giáp
   - original: Fire Resist
     translation: Kháng hoả
   - original: Floating Damage & Text sets the behavior of the floating numbers and \ntext events that appear over player characters and monsters in the game.\n\nVerbose - All events are displayed\nNormal - Block, parry, shield shatter, and damage absorption events are muted\nSparse - Only critical damage, death blows, and quest\system events are displayed\nNone - Only quest\system events are displayed
@@ -19429,7 +19429,7 @@ Layouts • Tooltip:
   - original: Hunter Skills
     translation: Đồ tể bóng tối
   - original: Ice Armor
-    translation: Giáp băng
+    translation: Băng giáp
   - original: Ice Resist
     translation: Kháng băng
   - original: Increase in the chance to catch better fish
@@ -19557,7 +19557,7 @@ Layouts • Tooltip:
   - original: Pet Tag Slot\n\n |c00ff9933The best way to find\nPet Tags is to fish \nin dangerous areas!|u
     translation: Khuyên tai\n\n |c00ff9933Cách tốt nhất để tìm\nlà câu cá tại\nvùng nguy hiểm!|u
   - original: Physical Armor
-    translation: Giáp vật lý
+    translation: Giáp Vật lý
   - original: Physical Damage
     translation: Sát thương vật lý
   - original: Pin Open
@@ -19575,7 +19575,7 @@ Layouts • Tooltip:
   - original: Play a Single Player Game
     translation: Chơi một mình
   - original: Poison Armor
-    translation: Giáp độc
+    translation: Độc giáp
   - original: Poison Resist
     translation: Kháng độc
   - original: Prefix of the server name
@@ -19689,7 +19689,7 @@ Layouts • Tooltip:
   - original: Skills [[KB:SkillMenu]]
     translation: Kỹ năng [[KB:SkillMenu]]
   - original: Spells Inventory
-    translation: Túi phép thuật
+    translation: Phép thuật
   - original: Spells Tab
     translation: Phép thuật
   - original: Start Server
@@ -19705,15 +19705,15 @@ Layouts • Tooltip:
   - original: Summation of all cast speed bonuses
     translation: Tổng của tất cả tốc độ thi triển được cộng thêm
   - original: Switch pet to be aggressive
-    translation: Chuyển sang trạng thái hiếu chiến
+    translation: Chuyển sang trạng thái Hiếu chiến
   - original: Switch pet to be defensive
-    translation: Chuyển sang trạng thái phòng thủ
+    translation: Chuyển sang trạng thái Phòng thủ
   - original: Switch pet to be passive
-    translation: Chuyển sang trạng thái theo sau
+    translation: Chuyển sang trạng thái Bị động
   - original: Switch To Primary Weapon Set 'W'
-    translation: Chuyển sang bộ vũ khí dự chính 'W'
+    translation: Chuyển sang bộ vũ khí Chính 'W'
   - original: Switch To Secondary Weapon Set 'W'
-    translation: Chuyển sang bộ vũ khí dự phòng 'W'
+    translation: Chuyển sang bộ vũ khí Dự phòng 'W'
   - original: test
     translation: test
   - original: The amount of electrical damage subtracted from incoming attacks. \nIf an attack is partially electrical and partially other elements, the armor's \neffective reduction is proportionally scaled to the percentage of electrical damage.
@@ -19739,9 +19739,9 @@ Layouts • Tooltip:
   - original: To purchase an enchantment, place weapons, armor or trinkets here.\n\nThe item may receive magical enchantments,\nor if you are unlucky, the enchantment may fizzle with no effect.
     translation: Đặt vũ khí, giáp hoặc trang sức vào đây để tiến hành cường hóa.\n\nVật phẩm có thể sẽ nhận được cường hóa hoặc \n nếu bạn không may, việc cường hóa sẽ không có tác dụng gì.
   - original: Toggle Active Quest Display
-    translation: Bật/tắt theo dõi nhiệm vụ
+    translation: Bật/Tắt theo dõi nhiệm vụ
   - original: Toggle Names for Items on Ground
-    translation: Hiển thị tên vật phẩm trên mặt đất
+    translation: Bật/Tắt Hiển thị tên vật phẩm trên mặt đất
   - original: Total Damage this weapon does on a Critcal Hit
     translation: Tổng sát thương gây ra khi 'Chí mạng'
   - original: Total dexterity after bonuses
@@ -20091,7 +20091,7 @@ LevelSets:
   - original: The Swarmstacks
     translation: Nơi Tụ Tập
   - original: The Temple Steppes\nvia\nThe Path of the Honored Dead
-    translation: Đến |cFFFFBA00Khu đền bỏ hoang|u\nthông qua\nCon Đường Vinh Quang
+    translation: Đến |cFFFFBA00Khu đền bỏ hoang|u\nthông qua\n|cFFFFBA00Con Đường Vinh Quang|u
   - original: Time Of Day
     translation: Thời gian trong ngày
   - original: To Crows Pass
@@ -20225,11 +20225,13 @@ Missings:
   - original: Character Stats Menu
     translation: Trình đơn chỉ số nhân vật
   - original: Close All Menus
-    translation: Đóng tất cả các bảng
+    translation: Đóng tất cả
   - original: Do you wish to travel to the Estherian Enclave?
     translation: Bạn có muốn đi du hành đến |cFFA1D0FCVùng đất Estherian|u không?
   - original: Do you wish to travel to the Imperial Camp?
     translation: Bạn có muốn đi du lịch đến trại Hoàng gia không?
+  - original: Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers
+    translation: Golem được nâng cấp sát thương, đánh chí mạng và phản lại một lượng tĩnh điện nhỏ lên kẻ tấn công
   - original: Ignite Braziers in Order
     translation: Đốt cháy lò than theo thứ tự
   - original: Money Taker
@@ -20238,6 +20240,8 @@ Missings:
     translation: Dữ liệu hiệu ứng
   - original: Player Quest Data
     translation: Dữ liệu nhiệm vụ
+  - original: Please! Help me! I can't hold these things off by myself!
+    translation: Vui lòng! Giúp tôi! Tôi không thể giữ những thứ này một mình!
   - original: Quest Menu
     translation: Bảng nhiệm vụ
   - original: Quick Save
@@ -20272,6 +20276,8 @@ Missings:
     translation: Những vị anh hùng đã làm rất nhiều việc cho chúng ta khi họ còn sống ... chúng ta không nên đối xử không tốt với họ khi họ đã chết!\n\nHương an thần có thể giúp họ thanh thản ... nếu như tôi không làm rớt nó! Bạn có chắc rằng bạn không thể tìm ra nó?
   - original: You have retrieved the Tranquil Censer! Thank you!\n\nI can use the censer to purge the necromantic stain from the Path of the Honored Dead. Guardians willing, that should let the Honored Dead return to their tombs in peace.
     translation: Bạn đã lấy lại được Hương an thần! Cám ơn bạn!\n\nTôi có thể sử dụng nó để đẩy lùi những kẻ chiêu hồn xấu xa ra khỏi con đường này. Cầu trời, hãy cho những linh hồn đáng thương này quay lại mộ của họ trong hòa bình!
+  - original: You saved my life! I thought those ratlins had my number, for sure!
+    translation: Bạn đã cứu mạng tôi! Tôi nghĩ chắc chắn là những con chuột cống đó có số của tôi, chắc vậy!
   - original: Alchemist Room
     translation: ''
   - original: Align
@@ -20430,8 +20436,6 @@ Missings:
     translation: ''
   - original: Geometry Rotator
     translation: ''
-  - original: Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers
-    translation: ''
   - original: Hail, Traveler!\nA member of our crew had ventured to Zeryphesh to obtain a replacement for our Iridian Focus. Upon returning, a band of fiendish Ratlins attacked him and stole the Focus!\nCould you go to the Mesa just North of here and see if you can win the Iridian Focus back from those treacherous beasts?
     translation: ''
   - original: Help! Please ... help me!
@@ -20515,8 +20519,6 @@ Missings:
   - original: Play a Game on the Local Network\n( not available in demo )
     translation: ''
   - original: Please, you must go to the mesa to the north and retrieve the Focus!
-    translation: ''
-  - original: Please! Help me! I can't hold these things off by myself!
     translation: ''
   - original: Poison the spider nests.
     translation: ''
@@ -20663,8 +20665,6 @@ Missings:
   - original: Window Blocker
     translation: ''
   - original: WINTER WIDOW
-    translation: ''
-  - original: You saved my life! I thought those ratlins had my number, for sure!
     translation: ''
 
 Mods • Synergies and Essentials Compatibility Patch:
@@ -21049,7 +21049,7 @@ Mods • Torchlight II Essentials:
   - original: '[ITEM] of the Stars'
     translation: '[ITEM] của các vì sao'
   - original: '[ITEM] of the Zodiac'
-    translation: '[ITEM] của Cung hoàng đạo'
+    translation: '[ITEM] Cung hoàng đạo'
   - original: '[ITEM] of Willpower'
     translation: '[ITEM] của Ý chí'
   - original: '[ITEM] of Yearning'
@@ -21158,8 +21158,14 @@ Mods • Torchlight II Essentials:
     translation: '|cFFE83131Siêu Hồi sinh lực'
   - original: '|cFFE83131Ultimate Health Potion'
     translation: '|cFFE83131Hồi sinh lực Tối thượng'
+  - original: '|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCCritical Strikes|u and |cFFA1D0FCDodge|u enemy attacks. Dexterity also increases |cFFA1D0FCFumble recovery|u.'
+    translation: '|cFFEAAA15Nhanh nhẹn|u tăng cơ hội ra đòn |cFFA1D0FCchí mạng|u và |cFFA1D0FCné tránh|u các đòn tấn công của kẻ thù. |cFFEAAA15Nhanh nhẹn|u cũng tăng |cFFA1D0FCGiảm hao tổn sát thương|u.'
+  - original: '|cFFEAAA15Focus|u increases |cFFA1D0FCMana|u (MP) and all |cFFA1D0FCElemental damage|u.  Focus also increases the chance to |cFFA1D0FCExecute|u (strike with both hands simultaneously).'
+    translation: '|cFFEAAA15Trí lực|u tăng |cFFA1D0FCnăng lượng|u (NL) và tất cả |cFFA1D0FCsát thương nguyên tố|u.  Đồng thời cũng tăng tỉ lệ |cFFA1D0FCHành hình|u (đồng thời tấn công với vũ khí cùng loại trên 2 tay).'
   - original: '|cFFEAAA15Strength|u increases |cFFA1D0FCall weapon damage |uas well as the amount of bonus damage done when performing |cFFA1D0FCCritical Strikes|u.'
     translation: '|cFFEAAA15Sức mạnh|u tăng |cFFA1D0FC tất cả sát thương vũ khí |ucũng như lượng sát thương gây ra khi thực hiện |cFFA1D0FCsát thương trí mạng|u.'
+  - original: '|cFFEAAA15Vitality|u increases |cFFA1D0FCHealth|u (HP), total |cFFA1D0FCArmor|u and the chance to |cFFA1D0FCBlock|u with shields.'
+    translation: '|cFFEAAA15Thể lực|u tăng |cFFA1D0FCsinh lực|u (SL), tổng |cFFA1D0FCgiáp|u và tỉ lệ |cFFA1D0FCđỡ đòn|u với khiên.'
   - original: '|cFFF2ACB1Spell: Summon Archers I'
     translation: '|cFFF2ACB1Phép: Triệu hồi Cung thủ I'
   - original: '|cFFF2ACB1Spell: Summon Archers II'
@@ -21367,7 +21373,7 @@ Mods • Torchlight II Essentials:
   - original: Dawnweave [ITEM]
     translation: Bình minh • [ITEM]
   - original: Decayed [ITEM]
-    translation: Thối rữa • [ITEM]
+    translation: Lụi tàn • [ITEM]
   - original: Defiant [ITEM]
     translation: Khiêu khích • [ITEM]
   - original: Detonating [ITEM]
@@ -21394,6 +21400,10 @@ Mods • Torchlight II Essentials:
     translation: Tàn nhẫn • [ITEM]
   - original: Fleet [ITEM]
     translation: Hạm đội • [ITEM]
+  - original: Forget
+    translation: Quên
+  - original: Forget All
+    translation: Quên hết đi
   - original: Forgeworked [ITEM]
     translation: Đã rèn • [ITEM]
   - original: Frost Covered [ITEM]
@@ -21548,6 +21558,8 @@ Mods • Torchlight II Essentials:
     translation: Chuyển đổi Phím tắt
   - original: Thick [ITEM]
     translation: Đặc • [ITEM]
+  - original: Toggle Menu Buttons Display
+    translation: Bật/Tắt hiển thị nút chức năng
   - original: Totemic [ITEM]
     translation: Vật tổ • [ITEM]
   - original: Tracker's [ITEM]
@@ -21556,6 +21568,10 @@ Mods • Torchlight II Essentials:
     translation: Bắn chân chính • [ITEM]
   - original: Turtle's [ITEM]
     translation: '[ITEM] của Turtle'
+  - original: Unidentified Chest
+    translation: Chưa giám định • Ngực
+  - original: Unidentified items may be identified by using an |cFFFFBA00Identify Scroll|u. Right-click on the item to identify it which will automatically use any Identify Scrolls you have.
+    translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u. Chuột phải vào vật phẩm để giám định nó và việc này sẽ tự động sử dụng Giám định phù nào bạn có.
   - original: Vigilant [ITEM]
     translation: Cảnh giác • [ITEM]
   - original: War-Mage's [ITEM]
@@ -22448,13 +22464,7 @@ Mods • Torchlight II Essentials:
     translation: ''
   - original: '|cFFEAAA15<STAT1>''s Stash|u'
     translation: ''
-  - original: '|cFFEAAA15Dexterity|u increases the chance to perform |cFFA1D0FCCritical Strikes|u and |cFFA1D0FCDodge|u enemy attacks. Dexterity also increases |cFFA1D0FCFumble recovery|u.'
-    translation: ''
-  - original: '|cFFEAAA15Focus|u increases |cFFA1D0FCMana|u (MP) and all |cFFA1D0FCElemental damage|u.  Focus also increases the chance to |cFFA1D0FCExecute|u (strike with both hands simultaneously).'
-    translation: ''
   - original: '|cFFEAAA15SynergiesMOD: V2.055|u\n'
-    translation: ''
-  - original: '|cFFEAAA15Vitality|u increases |cFFA1D0FCHealth|u (HP), total |cFFA1D0FCArmor|u and the chance to |cFFA1D0FCBlock|u with shields.'
     translation: ''
   - original: '|cFFF2ACB1Repel Spell'
     translation: ''
@@ -25309,10 +25319,6 @@ Mods • Torchlight II Essentials:
   - original: Forged at the highest Mountains.\nBlade 2 of 3.
     translation: ''
   - original: Forged from the ruins of a Legendary blade.\nBlade 3 of 3.
-    translation: ''
-  - original: Forget
-    translation: ''
-  - original: Forget All
     translation: ''
   - original: Forget last skills first
     translation: ''
@@ -28842,8 +28848,6 @@ Mods • Torchlight II Essentials:
     translation: ''
   - original: To avoid getting caught with your pants down.
     translation: ''
-  - original: Toggle Menu Buttons Display
-    translation: ''
   - original: Tokimonsta
     translation: ''
   - original: Too much attacking makes you tired
@@ -29138,10 +29142,6 @@ Mods • Torchlight II Essentials:
     translation: ''
   - original: Undertaker Shovel
     translation: ''
-  - original: Unidentified Chest
-    translation: Chưa giám định • Ngực
-  - original: Unidentified items may be identified by using an |cFFFFBA00Identify Scroll|u. Right-click on the item to identify it which will automatically use any Identify Scrolls you have.
-    translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u. Chuột phải vào vật phẩm để giám định nó và việc này sẽ tự động sử dụng Giám định phù nào bạn có.
   - original: Unique Amulet
     translation: ''
   - original: Unique Item
@@ -29731,7 +29731,7 @@ Mods • Torchlight II Essentials:
 
 Mods • Unearthed Arcana:
   - original: '- Access |cFFD1FF7AThe Bone Gallery|u in |cFFD1FF7AThe Temple ở|u to retrieve the |cFFD1FF7ARosamortis|u'
-    translation: • Tiếp cận |cFFD1FF7AKhu chứa cốt|u trong |cFFFFBA00Khu đền bỏ hoang|u để lấy |cFFD1FF7ARosamortis|u
+    translation: • Tiếp cận |cFFD1FF7AKhu chứa cốt|u trong |cFFFFBA00Khu đền bỏ hoang|u để lấy |cFFD1FF7ALy thánh|u
   - original: '- Discover the |cFFFFBA00Wellspring Temple|u in |cFFFFBA00The Temple Steppes|u and find Commander Vale'
     translation: • Khám phá ra |cFFFFBA00Đền Cội nguồn|u trong |cFFFFBA00Khu đền bỏ hoang|u và tìm Chỉ huy Vale.
   - original: '- Enter |cFFD1FF7AThe Wellspring Treasury|u via the portal in |cFFD1FF7AThe Temple Steppes|u and return the |cFFD1FF7AGlyph of Balthazar|u to the |cFFD1FF7AWellspring Basin|u'
@@ -29744,6 +29744,8 @@ Mods • Unearthed Arcana:
     translation: • Điều tra |cFFD1FF7AHang Okwari bí mật|u trong |cFFD1FF7AKhu đền bỏ hoang|u
   - original: '- Locate Bellethe''s husband |cFFD1FF7AFinnas|u in the |cFFD1FF7AWidows Veil|u'
     translation: • Xác định vị trí chồng của Bellethe |cFFD1FF7AFinnas|u trong |cFFD1FF7AMàn che của Góa phụ|u
+  - original: '- Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from |cFFD1FF7AThe Corrupted Crypt|u, in the |cFFD1FF7APath of the Honored Dead|u'
+    translation: • Lấy được |cFFD1FF7AQuyển trục của Anom-Irek|u từ trong |cFFD1FF7AHầm Mộ Tàn phá|u tại |cFFD1FF7ACon Đường Vinh Quang|u.
   - original: '- Return to |cFFD1FF7ADoff|u in |cFFD1FF7AThe Temple Steppes|u and report your findings'
     translation: • Trở lại chỗ |cFFD1FF7ADoff|u ở |cFFD1FF7AKhu đền bỏ hoang|u và báo lại những phát hiện của bạn
   - original: '- Return to |cFFD1FF7AEdovar|u in |cFFD1FF7AThe Temple Steppes|u'
@@ -29753,7 +29755,7 @@ Mods • Unearthed Arcana:
   - original: '- Search for more pieces of the robot'
     translation: • Tìm kiếm các mảnh khác của robot
   - original: '- Take the |cFFD1FF7ARosamortis|u back to the |cFFD1FF7AShady Character|u in |cFFD1FF7ASkull Hollow|u, in |cFFD1FF7AThe Temple Steppes|u'
-    translation: • Lấy |cFFD1FF7ARosamortis|u rồi quay lại chỗ |cFFD1FF7AKẻ mờ ám|u' ở |cFFD1FF7ATrũng Hộp sọ|u, trong |cFFD1FF7AKhu đền bỏ hoang|u
+    translation: • Lấy |cFFD1FF7ALy thánh|u rồi quay lại chỗ |cFFD1FF7AKẻ mờ ám|u' ở |cFFD1FF7ATrũng Hộp sọ|u, trong |cFFD1FF7AKhu đền bỏ hoang|u
   - original: '- Talk to |cFFFFBA00Commander Vale|u'
     translation: • Nói chuyện với |cFFFFBA00Chỉ huy Vale|u
   - original: +[VALUE] ranged weapon damage bonus for [DURATION]
@@ -29772,10 +29774,16 @@ Mods • Unearthed Arcana:
     translation: '|cFFFF0000Tốc độ di chuyển giảm [VALUE]% trong [DURATION]|u'
   - original: '|cFFFF0000Movement Speed reduced by [VALUE]%|u'
     translation: '|cFFFF0000Tốc độ di chuyển giảm [VALUE]%|u'
+  - original: '|cFFFF0000Permanently decreases Strength by [VALUE]|u'
+    translation: '|cFFFF0000Giảm [VALUE] Sức mạnh vĩnh viễn|u'
+  - original: '|cFFFFBA00Right-click|u to use your currently assigned |cFFFFBA00skill or spell|u. You can also use |cFFFFBA00TAB|u to switch between it and an alternate skill, noted on the right skill interface at the bottom of the screen.'
+    translation: '|cFFFFBA00Chuột phải|u để sử dụng |cFFFFBA00kỹ năng hoặc phép thuật|u đã gán.   Bạn có thể sử dụng |cFFFFBA00TAB|u để chuyển đổi giữa nó và kĩ năng/phép thuật dự phòng, được ghi chú trên giao diện kỹ năng bên phải ở cuối màn hình.'
   - original: '|cFFFFBF61LOCKED|u'
     translation: '|cFFFFBF61BỊ KHÓA|u'
   - original: '|cFFFFBF61Needs Glyph|u'
     translation: '|cFFFFBF61Cần Glyph|u'
+  - original: Alchemist's Journal
+    translation: Nhật ký của Alchemist
   - original: Electrical damage has a chance to randomly |cFFFFBA00Shock|u enemies for a short time. When you hit a shocked target, the impact releases small charged bolts that can strike multiple targets nearby.
     translation: Sát thương Lôi có cơ hội ngẫu nhiên |cFFFFBA00Sốc|u kẻ địch trong thời gian ngắn. Khi bạn đánh một mục tiêu đang bị sốc, va chạm sẽ phóng ra quả cầu tích điện nhỏ có thể công kích nhiều mục tiêu gần đó.
   - original: Enter the |cFFD1FF7AThe Lost Okwari Caves|u in |cFFD1FF7AThe Temple Steppes|u and discover what is disturbing the warbeast population.
@@ -29798,16 +29806,26 @@ Mods • Unearthed Arcana:
     translation: Quái vật cấp độ cao sẽ gây nhiều |cFFFFBA00Sát thương|u hơn và có nhiều |cFFFFBA00Giáp|u và |cFFFFBA00Sinh lực|u. Những số liệu thống kê chiến đấu quan trọng này khiến việc đánh quái vật trên khả năng của bạn trở thành một nhiệm vụ ngày càng khó khăn hơn.
   - original: Hostage Negotiations
     translation: Đàm phán về con tin
+  - original: I got a proposition for you ... a little "I scratch my back, you scratch yours" kind of thing.  See this crypt over here?  It's called |cFFD1FF7AThe Bone Gallery|u, and there's a little thing in there called the |cFFD1FF7ARosamortis|u ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\n\nYou might have to convince the Estherian spirits to unlock the gate and give you access. Either way, once you're in there get the |cFFD1FF7ARosamortis|u away from that monster ... I promise to make it worth your while!
+    translation: Tôi có một đề xuất cho bạn... một chút "Tôi gãi lưng tôi, bạn cào bạn" đại loại vậy. Thấy ngôi mộ ở đây không? Nó được gọi là |cFFD1FF7AThư Viện Hài Cốt|u, và có vài thứ trong đó gọi là |cFFD1FF7ALy thánh|u... cái mà rất có giá trị, nó cũng được bảo vệ bởi những con quái vật bất tử lớn nhất mà tôi từng thấy.\n\nBạn sẽ phải thuyết phục những linh hồn người Estheria đã khuất để mở cửa và cho bạn vào. Dù bằng cách nào, khi bạn vào được đó hãy lấy Ly thánh từ bọn quái vật... tôi hứa nó sẽ có giá trị với bạn!\n
   - original: I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure.\n\nWill you be that hero? I offer you five challenges. Should you master them, my most prized possession is yours...
     translation: Tôi đã chết từ rất lâu và trong ngần ấy thế kỷ, tôi không tìm thấy một linh hồn nào xứng đáng khoác lên mình tấm áo anh hùng như tôi đã từng làm và tìm kiếm cuộc phiêu lưu.\n\nBạn sẽ là anh hùng đó chứ? Tôi cung cấp cho bạn năm thách thức. Nếu bạn làm chủ chúng, vật sở hữu quý giá nhất của tôi là của bạn...
   - original: 'I would like you to have this, as a token of my gratitude! I do not know if I will make it out of this cave ... but, please:  Save everyone else that you can!'
     translation: 'Tôi muốn bạn có cái này, như một biểu tượng của lòng biết ơn của tôi! Tôi không biết liệu mình có thoát ra khỏi hang động này không ... nhưng, xin hãy: Hãy cứu những người khác mà bạn có thể!'
   - original: Ice damage can randomly cause enemies to |cFFFFBA00Freeze|u, slowing their attacks, skills and movement for a short time.
     translation: Băng sát thương có thể ngẫu nhiên làm kẻ địch |cFFFFBA00Đóng băng|u, làm chậm công kích của chúng, kỹ năng và tốc độ di chuyển trong thời gian ngắn.
+  - original: Ice Queen
+    translation: Nữ hoàng băng
+  - original: Ice Screecher
+    translation: Tiếng rít băng
   - original: If you're going out to |cFFD1FF7AThe Temple Steppes|u, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.\n\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the |cFFD1FF7AArmor Schematics|u?
     translation: Nếu bạn chuẩn bị tới |cFFD1FF7AKhu đền bỏ hoang|u, có thể tôi cần bạn giúp việc này. Người gấu đã dựng một doanh trại ngoài đó và chúng có hai thợ rèn áo giáp cho những quái thú hoang dã mà chúng bắt được.\n\nNhững Người gấu này có vẻ đã làm việc với các bản thảo, nhưng chúng đã giấu những bản thảo này đi. Bạn có nghĩ rằng bạn có thể tới đó và lấy được |cFFD1FF7ABản thảo giáp trụ|u không?
+  - original: Insert skull into weapons and armor with empty slots to garner its effects.
+    translation: Khảm đầu lâu vào vũ khí và áo giáp với các lỗ khảm để thu được hiệu ứng của nó.
   - original: Locate the creatures in |cFFD1FF7ACrows Pass|u and obtain the Merchants |cFFD1FF7Apersonal effects|u from them.
     translation: Xác định vị trí của các sinh vật trong |cFFD1FF7AĐèo Quạ|u và tìm được Người bán |cFFD1FF7Ahiệu ứng cá nhân|u từ chúng.
+  - original: Most enchanters can |cFFFFBA00enchant|u any item two times. Others are more skilled and can grant a third or fourth enchantment! Enchanters can also remove existing enchantments allowing items to be enchanted again.
+    translation: Hầu hết những Người Cường hóa đều có thể |cFFFFBA00cường hóa|u cho vật phẩm bất kỳ 2 lần.  Những người khác có tay nghề cao hơn và có thể cường hóa lần thứ ba hoặc thứ tư! Người Cường hóa cũng có thể loại bỏ các thuộc tính cường hóa hiện có cho phép các vật phẩm được cường hóa lần nữa.
   - original: 'My friend, thank you for coming to our aid.  We are a Zeraphi envoy from Zeryphesh, in the Ossean Wastes, sent to procure the Estherians'' aid in our upcoming war with the Ezrohir.  Grand Regent Eldrayn gave us leave to search The Frosted Hills for the Golden Gear, and we had narrowed our search to this area before we were assaulted by these goblins.\n\nNow we are too injured to continue our search.  Can you aid us?  Search |cFFD1FF7AThe Frosted Hills|u for three components: the |cFFD1FF7ACrest of Pools|u, the |cFFD1FF7ACrest of Rivers|u, and the |cFFD1FF7ACrest of Tides|u. Bring them to me, and I will reward you, on behalf of the Zeraphi people.'
     translation: 'Bạn của tôi, cảm ơn bạn đã đến hỗ trợ chúng tôi. Chúng tôi là một phái viên của Zeraphi từ Zeryphesh, trong Ossean Wastes, được cử đến để viện trợ cho người Estherian trong cuộc chiến sắp tới của chúng tôi với người Ezrohir. Đại trưởng lão Eldrayn đã cho chúng tôi nghỉ phép để tìm kiếm Golden Gear ở The Frosted Hills và chúng tôi đã thu hẹp phạm vi tìm kiếm của mình đến khu vực này trước khi bị những con yêu tinh này tấn công.\n\nBây giờ chúng tôi bị thương quá nặng nên không thể tiếp tục tìm kiếm. Bạn có thể hỗ trợ chúng tôi? Tìm trong |cFFD1FF7AThe Frosted Hills|u ba thành phần: |cFFD1FF7ACrest of Pools|u, |cFFD1FF7ACrest of Rivers|u, và |cFFD1FF7ACrest of Tides|u. Hãy mang chúng đến cho tôi, và tôi sẽ trả công cho bạn, thay mặt cho người dân Zeraphi.'
   - original: My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.\n\nBut I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the camp here.  A trapdoor outside one of the nearby huts leads to the cavern.\n\nPlease, in the name of the Guardians ... you must free them!
@@ -29816,6 +29834,12 @@ Mods • Unearthed Arcana:
     translation: Thu được |cFFD1FF7ABản thảo giáp trụ|u từ |cFFD1FF7AVòng vây quái thú|u, trong |cFFD1FF7AKhu đền bỏ hoang|u.
   - original: Oh, thank you, my friend!  I had feared I would never see my family again! As a token of my gratitude, I would like you to have this!
     translation: Ồ, cảm ơn bạn, bạn của tôi! Tôi đã tưởng rằng tôi sẽ không bao giờ gặp lại gia đình mình nữa! Như để tỏ lòng biết ơn của tôi, tôi muốn bạn có cái này!
+  - original: Pool of Healing
+    translation: Hồ Sinh lực
+  - original: Pool of Mana
+    translation: Hồ Năng lượng
+  - original: Pool of Skill Mastery
+    translation: Hồ Khai sáng
   - original: Portal to Estherian Enclave
     translation: Cổng dịch chuyển đến Thị trấn của người Estheria
   - original: Portal to Imperial Camp
@@ -29825,21 +29849,29 @@ Mods • Unearthed Arcana:
   - original: Portal to Zeryphesh
     translation: Cổng đến Zeryphesh
   - original: Potion of  Electric Resistance
-    translation: Linh dịch Kháng lôi
+    translation: '|c00F5D107Linh dịch Kháng lôi'
   - original: Potion of  Fire Resistance
-    translation: Linh dịch Kháng hỏa
+    translation: '|cFFCF3F0ALinh dịch Kháng hỏa'
   - original: Potion of  Ice Resistance
-    translation: Linh dịch Kháng băng
+    translation: '|cFF4DDBE3Linh dịch Kháng băng'
   - original: Potion of  Poison Resistance
-    translation: Linh dịch Kháng độc
+    translation: '|cFF6CCC25Linh dịch Kháng độc'
   - original: Potion of  Respec
-    translation: Linh dịch Hồi Hồi nguyên
+    translation: '|cFFB041CCLinh dịch Hồi nguyên'
   - original: Quest Accepted
     translation: Đã nhận Nhiệm vụ
   - original: Quest Failed
     translation: Nhiệm vụ Thất bại
   - original: Quest for Glory
     translation: Nhiệm vụ Vinh Quang
+  - original: Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from |cFFD1FF7AThe Corrupted Crypt|u in the |cFFD1FF7APath of the Honored Dead|u.
+    translation: Lấy được |cFFD1FF7AQuyển trục của Anom-Irek|u từ trong |cFFD1FF7AHầm Mộ Tàn phá|u tại |cFFD1FF7ACon Đường Vinh Quang|u.
+  - original: Return the |cFFD1FF7A[ACQUIRE1]|u to the |cFFD1FF7ADestroyer|u in |cFFD1FF7ATorchlight|u.
+    translation: Trả lại |cFFD1FF7A[ACQUIRE1]|u cho |cFFD1FF7ADestroyer|u tại |cFFD1FF7ATorchlight|u.
+  - original: Return the |cFFD1FF7Afour skulls|u to |cFFD1FF7AFade|u in the |cFFD1FF7ASundered Battlefield|u.
+    translation: Trả lại |cFFD1FF7Abốn đầu lâu|u cho |cFFD1FF7AFade|u tại |cFFD1FF7AChiến trường Sundered|u.
+  - original: Return the |cFFD1FF7AGlyph of Balthazar|u to its rightful place at the |cFFD1FF7AWellspring Basin|u in |cFFD1FF7AThe Wellspring Treasury|u.
+    translation: Trả lại |cFFD1FF7ABiểu tượng của Balthazar|u về đúng vị trí của nó tại |cFFD1FF7AHồ cội nguồn|u trong |cFFD1FF7AKho tàng nguồn cội|u.
   - original: Return to |cFFD1FF7ADoff|u in |cFFD1FF7AThe Temple Steppes|u to report your findings.
     translation: Trở lại chỗ |cFFD1FF7ADoff|u ở |cFFD1FF7AKhu đền bỏ hoang|u để báo lại những phát hiện của bạn
   - original: Return to |cFFD1FF7AEdovar|u in |cFFD1FF7AThe Temple Steppes|u.
@@ -29850,12 +29882,36 @@ Mods • Unearthed Arcana:
     translation: Trở lại chỗ Bellethe ở |cFFD1FF7AĐèo Quạ|u để nhận thưởng.
   - original: Return to the |cFFD1FF7AMerchant|u in |cFFD1FF7ACrows Pass|u for your reward.
     translation: Trở lại chỗ |cFFD1FF7AMerchant|u ở  |cFFD1FF7AĐèo Quạ|u để nhận phần thưởng.
+  - original: Rich [ITEM]
+    translation: Lộng lẫy • [ITEM]
+  - original: Rising Star
+    translation: Ngôi sao đang lên
   - original: Strange Bottle
     translation: Chai lạ
   - original: Take the |cFFD1FF7ARosamortis|u back to the |cFFD1FF7AShady Character|u in |cFFD1FF7ASkull Hollow|u, in |cFFD1FF7AThe Temple Steppes|u.
-    translation: Lấy |cFFD1FF7ARosamortis|u rồi quay lại chỗ |cFFD1FF7AKẻ mờ ám|u' ở |cFFD1FF7ATrũng Hộp sọ|u, trong |cFFD1FF7AKhu đền bỏ hoang|u.
+    translation: Lấy |cFFD1FF7ALy thánh|u rồi quay lại chỗ |cFFD1FF7AKẻ mờ ám|u' ở |cFFD1FF7ATrũng Hộp sọ|u, trong |cFFD1FF7AKhu đền bỏ hoang|u.
+  - original: 'Thank the Guardians someone has come to my rescue!  The Sturmbeorn broke their way into the Wellspring Temple and have been ransacking it!  Commander Vale and her Vanquisher Corps arrived some time ago to help...  but I haven''t heard from her since she left for the Water Guardian Palace!\n\nIn my flight from the temple, I had to leave behind a priceless treasure: the Bronze Head of Grunnheim! But here, please take this for your trouble!'
+    translation: 'Cám ơn Vệ thần ai đó đã đến cứu tôi!  Người gấu đã đột nhập vào |cFFD1FF7AKhu đền bỏ hoang|u và đang lục soát nó!  |cFFFFBA00Chỉ huy Vale|u và quân đoàn Thủ vệ của cô ấy đã đến một lúc trước để giúp đỡ ...  nhưng tôi chưa nghe tin gì về cô ấy kể từ khi cô ấy rời đi để đến Cung điện Thủy Vệ thần!\n\nTrong chuyến bay của tôi từ ngôi đền, tôi đã phải bỏ lại một kho báu vô giá: Mũ đồng của Grunnheim! Nhưng ở đây, xin hãy giải quyết rắc rối này!'
+  - original: Thank the Guardians you are here! I cannot believe a plague swept through the Watchweald Temple, transforming the Temple Priests into Nether-Thralls!
+    translation: Cám ơn Vệ thần bạn đã ở đây! Tôi không thể tin được một bệnh dịch quét qua Thần điện, biến các Linh mục thành Quỷ nô!
+  - original: Thank the Guardians! I thought I was doomed to a life of slavery.
+    translation: Cám ơn Vệ thần! Tôi nghĩ rằng tôi đã phải chịu đựng một cuộc sống nô lệ.
+  - original: Thank you again my friend. You have done the Zeraphi an amazing service ... and we will never forget.
+    translation: Cảm ơn bạn lần nữa, bạn của tôi. Bạn đã làm cho Zeraphi một điều tuyệt vời ... và chúng tôi sẽ không bao giờ quên.
+  - original: Thank you again, my friend.
+    translation: Cảm ơn bạn lần nữa, bạn của tôi.
+  - original: Thank you again, my friend.  When I've recovered from my injuries, I'll retrieve my companion from The Undercurrents and return to help defend Zeryphesh.
+    translation: Cảm ơn bạn lần nữa, bạn của tôi. Khi tôi bình phục chấn thương, tôi sẽ lấy lại người bạn đồng hành của mình từ The Undercurrents và quay trở lại để giúp bảo vệ Zeryphesh.
+  - original: Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from The Undercurrents and return to help defend Zeryphesh.
+    translation: Cảm ơn bạn lần nữa, bạn của tôi. Khi chúng tôi bình phục chấn thương, chúng tôi sẽ lấy lại người bạn đồng hành của mình từ The Undercurrents và quay trở lại để giúp bảo vệ Zeryphesh.
+  - original: Thank you for finding the [ACQUIRE1]! Please accept this reward for your efforts.\n\nI may have further need for your bravery should you wish to assist and venture ever deeper into the Shadow Vault...
+    translation: Cảm ơn bạn đã tìm thấy [ACQUIRE1]! Vui lòng nhận phần thưởng này cho những nỗ lực của bạn.\n\nTôi có thể cần thêm sự dũng cảm của bạn nếu bạn muốn hỗ trợ và dấn thân sâu hơn vào Hầm bóng tối...
   - original: 'The damage you do is reduced by your target''s |cFFFFBA00Armor|u; more Armor means less damage.  Attacks can score a |cFFFFBA00Critical Hit|u, doing extra damage. Check the |cFFFFBA00Arcane Statistics|u panel for more combat details. '
     translation: Sát thương bạn gây ra sẽ giảm theo |cFFFFBA00Giáp|u mục tiêu của bạn; Giáp nhiều hơn có nghĩa là ít sát thương hơn. Các đòn công kích có thể ghi được một |cFFFFBA00Đòn chí mạng|u, gây thêm sát thương. Kiểm tra |cFFFFBA00Bảng thông số|u để biết thêm chi tiết chiến đấu.
+  - original: The Temple Steppes\nvia\nPath of the Honored Dead
+    translation: Đến |cFFFFBA00Khu đền bỏ hoang|u\nthông qua\n|cFFFFBA00Con Đường Vinh Quang|u
+  - original: The Wellspring Temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!
+    translation: Khu đền bỏ hoang là nơi lưu giữ các hiện vật và tài liệu lịch sử hàng nghìn năm tuổi, và tôi vô cùng đau buồn khi nghĩ đến việc tất cả những kho báu đó đã bị mất!
   - original: Things are pretty safe here, now.  How are things out on The Temple Steppes?
     translation: Mọi thứ ở đây khá an toàn. Mọi thứ diễn ra ở |cFFD1FF7AKhu đền bỏ hoang|u như thế nào?
   - original: This ain't your momma's sword - prepare to be snakebitten!
@@ -29866,10 +29922,20 @@ Mods • Unearthed Arcana:
     translation: Đây là một |cFFFFBA00hố câu cá|u. Nhấp vào biểu tượng móc khi vòng tròn nằm giữa và bạn nghe thấy tiếng cắn. Hầu hết những con cá bạn bắt được có thể được sử dụng để biến thú nuôi của bạn thành những sinh vật khác. Bạn thậm chí có thể bắt được các vật phẩm đặc biệt từ vùng sâu.
   - original: Transformation time is increased by [VALUE]% for [DURATION].
     translation: Thời gian biến đổi tăng [VALUE]% trong [DURATION].
+  - original: Tunic of Triangulation
+    translation: Áo dài của Triangulation
+  - original: Undead - Shield Blocks Damage - Fast Attack
+    translation: Bất tử tộc • Khiên đỡ đòn - Công kích nhanh
+  - original: Undead - Summons Shroudwings
+    translation: Bất tử tộc - Triệu hồi Dơi linh hồn
+  - original: Unidentified items may be identified by using an |cFFFFBA00Identify Scroll|u or |cFFFFBA00Identify  Spell|u. Right-click on the item to identify it which will automatically use the Identify Spell or any Identify Scrolls you have.
+    translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u hoặc |cFFFFBA00Phép giám định|u. Chuột phải vào vật phẩm để giám định nó sử dụng Phép giám định hoặc bất kỳ Giám định phù nào bạn có.
   - original: Unremarkable
     translation: '|cFFA1D0FCChưa đáng kể|u'
   - original: Wellspring Basin
     translation: Hồ cội nguồn
+  - original: When quest items are picked up, they are stored in your Quest Log |cFFFFBA00[Q]|u, not in your inventory.
+    translation: Nếu vật phẩm nhiệm vụ được nhặt, chúng sẽ được lưu trữ vào Nhật ký nhiệm vụ |cFFFFBA00[Q]|u, không phải trong Hành trang của bạn.
   - original: Widows Veil
     translation: Màn che của Góa phụ
   - original: You ... you came to rescue us?  Thank the Guardians!\n\nI've managed to keep |cFFD1FF7ASnowbell|u and |cFFD1FF7ASunbeam|u safe up here, but I injured my leg.  I can't make my way out of this cave while carrying them.  If you'll take them to |cFFD1FF7ABellethe|u, I'll follow you out at my own pace.  My thanks to you for your help!
@@ -29877,7 +29943,7 @@ Mods • Unearthed Arcana:
   - original: You are about to enter a timed dungeon. Are you ready?
     translation: Bạn sắp bước vào một ngục tối được hẹn giờ. Bạn đã sẵn sàng chưa?
   - original: You're a strong one to survive this pass, but there are even greater dangers in The Temple Steppes.  Be sure you're ready before you venture any further from the Enclave.
-    translation: Bạn là người mạnh mẽ khi sống sót qua con đường này, nhưng có những nguy hiểm thậm chí còn lớn hơn trong |cFFD1FF7AKhu đền bỏ hoang|u. Hãy chắc chắn rằng bạn đã sẵn sàng trước khi mạo hiểm xa hơn từ Nội phận.
+    translation: Bạn là người mạnh mẽ khi sống sót qua con đường này, nhưng có những nguy hiểm thậm chí còn lớn hơn trong Khu đền bỏ hoang. Hãy chắc chắn rằng bạn đã sẵn sàng trước khi mạo hiểm xa hơn từ Nội phận.
   - original: You're the one Commander Vale told me about, then? Alright... whenever you're ready to get rolling, get your gear aboard and we'll set out. Shouldn't take us more than a couple of days to get there!
     translation: Bạn là người mà |cFFFFBA00Chỉ huy Vale|u đã nói với tôi? Được rồi ... bất cứ khi nào bạn sẵn sàng lăn bánh, hãy chuẩn bị đồ nghề của bạn và chúng ta sẽ lên đường. Sẽ mất vài ngày để đến đó!
   - original: Your |cFFFFBA00Pet|u can buy basic items like potions and scrolls from town.  Check out the fourth tab in your pet's inventory to access the |cFFFFBA00Shopping List|u. Items purchased this way will be added to your inventory when your pet returns.
@@ -29985,8 +30051,6 @@ Mods • Unearthed Arcana:
   - original: '- Retrieve the |cFFD1FF7A[ACQUIRE1]|u from the next floor down of the |cFFD1FF7AShadow Vault|u'
     translation: ''
   - original: '- Retrieve the |cFFD1FF7AIridian Focus|u from the |cFFD1FF7ARatlin Bandits|u in the |cFFD1FF7AOssean Wastes|u'
-    translation: ''
-  - original: '- Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from |cFFD1FF7AThe Corrupted Crypt|u, in the |cFFD1FF7APath of the Honored Dead|u'
     translation: ''
   - original: '- Retrieve the |cFFFFBA00Crown|u from the |cFFFFBA00Forgotten Halls|u'
     translation: ''
@@ -30802,8 +30866,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: '|cFFFF0000Permanently decreases Mana by [VALUE]|u'
     translation: ''
-  - original: '|cFFFF0000Permanently decreases Strength by [VALUE]|u'
-    translation: ''
   - original: '|cFFFF0000Permanently decreases Vitality by [VALUE]|u'
     translation: ''
   - original: '|cFFFF0000Pulls target closer|u'
@@ -31048,8 +31110,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: '|cFFFF3200Whirlpool of Fate|u'
     translation: ''
-  - original: '|cFFFFBA00Right-click|u to use your currently assigned |cFFFFBA00skill or spell|u. You can also use |cFFFFBA00TAB|u to switch between it and an alternate skill, noted on the right skill interface at the bottom of the screen.'
-    translation: ''
   - original: '|cFFFFBF61Needs Bell|u'
     translation: ''
   - original: '|cFFFFBF61Needs Crystal|u'
@@ -31160,8 +31220,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Alchemical Plates
     translation: ''
-  - original: Alchemist's Journal
-    translation: Nhật ký của Alchemist
   - original: Aleera's Ring
     translation: ''
   - original: All will run at the sight of the great snake.
@@ -33156,8 +33214,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: I fear the Alchemist is a pawn of the Netherim. With Ordrak's Heart and the power of the Guardians, a portal to the Netherrealm could be thrown wide, and the world would be plunged into an age of never-ending torment.\n\nReturn to the |cFFFFBA00Enclave|u immediately. |cFFFFBA00Commander Vale|u can help you secure passage to the |cFFFFBA00Ossean Wastes|u, where two of my fellow Guardians can be found. Stop the Alchemist before he can drain them as well!
     translation: ''
-  - original: I got a proposition for you ... a little "I scratch my back, you scratch yours" kind of thing.  See this crypt over here?  It's called |cFFD1FF7AThe Bone Gallery|u, and there's a little thing in there called the |cFFD1FF7ARosamortis|u ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\n\nYou might have to convince the Estherian spirits to unlock the gate and give you access. Either way, once you're in there get the |cFFD1FF7ARosamortis|u away from that monster ... I promise to make it worth your while!
-    translation: ''
   - original: I have already finished the tale of your battle, but the corrupted champion still lives! If someone discovers him alive, they'll think we're complete frauds. Think of my reputation! Poetic license only goes so far.\n\nHurry to the next floor before we're found out!
     translation: ''
   - original: I have always been a wanderer. I have roamed these lands for as long as I can remember, but my blades always lead me back to conflict. But enough of my stories, the [ACQUIRE1] we seek should be on the next floor of the Shadow Vault.
@@ -33220,10 +33276,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Ice Dragonne
     translation: ''
-  - original: Ice Queen
-    translation: Nữ hoàng băng
-  - original: Ice Screecher
-    translation: Tiếng rít băng
   - original: Ice Spike Attack - Heals Self
     translation: ''
   - original: Icebane Amulet
@@ -33405,8 +33457,6 @@ Mods • Unearthed Arcana:
   - original: Insert his lens into weapons and armor with empty slots to garner its effects and improve image quality.
     translation: ''
   - original: Insert scale into weapons and armor with empty slots to garner its effects.
-    translation: ''
-  - original: Insert skull into weapons and armor with empty slots to garner its effects.
     translation: ''
   - original: Insert this into weapons and armor with empty slots to garner its effects.
     translation: ''
@@ -34230,8 +34280,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Morning Star
     translation: ''
-  - original: Most enchanters can |cFFFFBA00enchant|u any item two times. Others are more skilled and can grant a third or fourth enchantment! Enchanters can also remove existing enchantments allowing items to be enchanted again.
-    translation: ''
   - original: Motar's Band
     translation: ''
   - original: Motley [ITEM]
@@ -34520,12 +34568,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Polymorph into Gel
     translation: ''
-  - original: Pool of Healing
-    translation: ''
-  - original: Pool of Mana
-    translation: ''
-  - original: Pool of Skill Mastery
-    translation: ''
   - original: Portal to The Blightbogs
     translation: ''
   - original: Portal to The Mapworks
@@ -34664,14 +34706,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Retribution
     translation: ''
-  - original: Retrieve the |cFFD1FF7AScroll of Anom-Irek|u from |cFFD1FF7AThe Corrupted Crypt|u in the |cFFD1FF7APath of the Honored Dead|u.
-    translation: ''
-  - original: Return the |cFFD1FF7A[ACQUIRE1]|u to the |cFFD1FF7ADestroyer|u in |cFFD1FF7ATorchlight|u.
-    translation: Trả lại |cFFD1FF7A[ACQUIRE1]|u cho |cFFD1FF7ADestroyer|u tại |cFFD1FF7ATorchlight|u.
-  - original: Return the |cFFD1FF7Afour skulls|u to |cFFD1FF7AFade|u in the |cFFD1FF7ASundered Battlefield|u.
-    translation: Trả lại |cFFD1FF7Abốn đầu lâu|u cho |cFFD1FF7AFade|u tại |cFFD1FF7AChiến trường Sundered|u.
-  - original: Return the |cFFD1FF7AGlyph of Balthazar|u to its rightful place at the |cFFD1FF7AWellspring Basin|u in |cFFD1FF7AThe Wellspring Treasury|u.
-    translation: Trả lại |cFFD1FF7ABiểu tượng của Balthazar|u về đúng vị trí của nó tại |cFFD1FF7AHồ cội nguồn|u trong |cFFD1FF7AKho tàng nguồn cội|u.
   - original: Return the |cFFD1FF7ALocket|u to Jessa in |cFFD1FF7AThe Blightbogs|u.
     translation: ''
   - original: Return the |cFFD1FF7ARoyal Masks|u to |cFFD1FF7AThe Faceless King|u.
@@ -34722,8 +34756,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Ribauldequin
     translation: ''
-  - original: Rich [ITEM]
-    translation: Lộng lẫy • [ITEM]
   - original: Rickety Pistol
     translation: ''
   - original: Rifle with no Name
@@ -34834,8 +34866,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Rimmed Ring
     translation: ''
-  - original: Rising Star
-    translation: Ngôi sao đang lên
   - original: River Chest
     translation: ''
   - original: Riverwatch
@@ -35554,22 +35584,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Tester
     translation: ''
-  - original: 'Thank the Guardians someone has come to my rescue!  The Sturmbeorn broke their way into the Wellspring Temple and have been ransacking it!  Commander Vale and her Vanquisher Corps arrived some time ago to help...  but I haven''t heard from her since she left for the Water Guardian Palace!\n\nIn my flight from the temple, I had to leave behind a priceless treasure: the Bronze Head of Grunnheim! But here, please take this for your trouble!'
-    translation: 'Cám ơn Vệ thần ai đó đã đến cứu tôi!  Người gấu đã đột nhập vào |cFFD1FF7AKhu đền bỏ hoang|u và đang lục soát nó!  |cFFFFBA00Chỉ huy Vale|u và quân đoàn Thủ vệ của cô ấy đã đến một lúc trước để giúp đỡ ...  nhưng tôi chưa nghe tin gì về cô ấy kể từ khi cô ấy rời đi để đến Cung điện Thủy Vệ thần!\n\nTrong chuyến bay của tôi từ ngôi đền, tôi đã phải bỏ lại một kho báu vô giá: Mũ đồng của Grunnheim! Nhưng ở đây, xin hãy giải quyết rắc rối này!'
-  - original: Thank the Guardians you are here! I cannot believe a plague swept through the Watchweald Temple, transforming the Temple Priests into Nether-Thralls!
-    translation: Cám ơn Vệ thần bạn đã ở đây! Tôi không thể tin được một bệnh dịch quét qua Thần điện, biến các Linh mục thành Quỷ nô!
-  - original: Thank the Guardians! I thought I was doomed to a life of slavery.
-    translation: Cám ơn Vệ thần! Tôi nghĩ rằng tôi đã phải chịu đựng một cuộc sống nô lệ.
-  - original: Thank you again my friend. You have done the Zeraphi an amazing service ... and we will never forget.
-    translation: Cảm ơn bạn lần nữa, bạn của tôi. Bạn đã làm cho Zeraphi một điều tuyệt vời ... và chúng tôi sẽ không bao giờ quên.
-  - original: Thank you again, my friend.
-    translation: Cảm ơn bạn lần nữa, bạn của tôi.
-  - original: Thank you again, my friend.  When I've recovered from my injuries, I'll retrieve my companion from The Undercurrents and return to help defend Zeryphesh.
-    translation: Cảm ơn bạn lần nữa, bạn của tôi. Khi tôi bình phục chấn thương, tôi sẽ lấy lại người bạn đồng hành của mình từ The Undercurrents và quay trở lại để giúp bảo vệ Zeryphesh.
-  - original: Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from The Undercurrents and return to help defend Zeryphesh.
-    translation: Cảm ơn bạn lần nữa, bạn của tôi. Khi chúng tôi bình phục chấn thương, chúng tôi sẽ lấy lại người bạn đồng hành của mình từ The Undercurrents và quay trở lại để giúp bảo vệ Zeryphesh.
-  - original: Thank you for finding the [ACQUIRE1]! Please accept this reward for your efforts.\n\nI may have further need for your bravery should you wish to assist and venture ever deeper into the Shadow Vault...
-    translation: Cảm ơn bạn đã tìm thấy [ACQUIRE1]! Vui lòng nhận phần thưởng này cho những nỗ lực của bạn.\n\nTôi có thể cần thêm sự dũng cảm của bạn nếu bạn muốn hỗ trợ và dấn thân sâu hơn vào Hầm bóng tối...
   - original: Thank you for your help, human.  I will take the Scroll of Anom-Irek to my cousin, Hyue, and hope the Grand Regent can use it cure this sickness.
     translation: ''
   - original: Thank you for your help! I shall catch my breath and return to Zeryphesh to assist against the Ezrohir!
@@ -35778,8 +35792,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: The Sword of the War God
     translation: ''
-  - original: The Temple Steppes\nvia\nPath of the Honored Dead
-    translation: ''
   - original: The time has come to enter Rift Keep and try to rescue the Guardian of Mana.  The djinni, Fazeer Shah, claims that he has broken the Ezrohir's control over the Guardian ... but there still remains the matter of actually freeing her.  Resistance inside Rift Keep will be formidable; the Ezrohir army is already prepared for war, and they are no doubt expecting a rescue attempt.  You will have to act fast, and strike without mercy.
     translation: ''
   - original: The Toad King's Gall
@@ -35800,8 +35812,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: The weapon made famous by the renowned monster hunter.
     translation: ''
-  - original: The Wellspring Temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!
-    translation: Khu đền bỏ hoang là nơi lưu giữ các hiện vật và tài liệu lịch sử hàng nghìn năm tuổi, và tôi vô cùng đau buồn khi nghĩ đến việc tất cả những kho báu đó đã bị mất!
   - original: The word is that the Guardian of Air sent you on some mission to talk to that djinni out in The Salt Barrens ... Fazeer Shah.  Do not trust that fiend!
     translation: ''
   - original: TheDwarvenLabs_ShadowVault
@@ -36136,8 +36146,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Tuck
     translation: ''
-  - original: Tunic of Triangulation
-    translation: ''
   - original: Turns To Gold When Touched
     translation: ''
   - original: Tuskgun
@@ -36168,18 +36176,12 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: Undead - Poison Arrows
     translation: ''
-  - original: Undead - Shield Blocks Damage - Fast Attack
-    translation: ''
-  - original: Undead - Summons Shroudwings
-    translation: ''
   - original: Undying Broach
     translation: ''
   - original: Undying Headlopper
     translation: ''
   - original: Undying Zeraphi
     translation: ''
-  - original: Unidentified items may be identified by using an |cFFFFBA00Identify Scroll|u or |cFFFFBA00Identify  Spell|u. Right-click on the item to identify it which will automatically use the Identify Spell or any Identify Scrolls you have.
-    translation: Các vật phẩm chưa giám định có thể được giám định bởi |cFFFFBA00Giám định phù|u hoặc |cFFFFBA00Phép giám định|u. Chuột phải vào vật phẩm để giám định nó sử dụng Phép giám định hoặc bất kỳ Giám định phù nào bạn có.
   - original: Unleashes a Barrage of Explosive Ordinance\n
     translation: ''
   - original: Use an Identify Scroll or Spell to reveal enchantments or reach level
@@ -36370,8 +36372,6 @@ Mods • Unearthed Arcana:
     translation: ''
   - original: When I was built, my creator and I would often see bards entertaining people on street corners, it's what inspired me to greatness! Of course he doesn't see it that way, not yet.\n\nI recall a tale of a mighty fiend, a |cFFD1FF7Acorrupted champion|u, who slew countless warriors before disappearing into the wild. I believe it's here, just another floor below Torchlight! Isn't it thrilling? Cut the beast down and I shall make heroes of us both!
     translation: ''
-  - original: When quest items are picked up, they are stored in your Quest Log |cFFFFBA00[Q]|u, not in your inventory.
-    translation: Nếu vật phẩm nhiệm vụ được nhặt, chúng sẽ được lưu trữ vào Nhật ký nhiệm vụ |cFFFFBA00[Q]|u, không phải trong Hành trang của bạn.
   - original: When the Zeraphi and Ezrohir "parted ways," they designated the nearby fortress of Rift Keep as a neutral ground, where they could meet and talk over their differences.  But it has remained unused for centuries ... until a few weeks ago, when the Ezrohir army seized the fortress.  They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.\n\nThe Ezrohir will be expecting the Zeraphi to attack them at Rift Keep, to attempt to rescue the Guardian.  But they know it will take time for the Zeraphi to arrive.  You can get there much more quickly, and fight your way inside before they are prepared to repel you.
     translation: ''
   - original: When the Zeraphi and Ezrohir "parted ways" they designated the nearby fortress of Rift Keep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.\n\nThe Ezrohir will be expecting the Zeraphi to attack them at Rift Keep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you.
@@ -36803,7 +36803,7 @@ Quests • ACT I:
   - original: A lot more of the Estherians are getting sick.  That's not a good sign.
     translation: Rất nhiều người dân đã bị ốm. Đó không phải là dấu hiệu tốt.
   - original: A lot of affected Estherians have set off for the Watchweald Temple, in hopes of receiving some relief from this terrible fever.
-    translation: 'Có quá nhiều cư dân bị nhiễm bịnh đã bắt đầu hướng đến Thần Điện, hy vọng rằng sẽ nhận được sự điều trị khỏi cơn sốt kinh khủng này '
+    translation: Có quá nhiều cư dân bị nhiễm bịnh đã bắt đầu hướng đến Thần Điện, hy vọng rằng sẽ nhận được sự điều trị khỏi cơn sốt kinh khủng này
   - original: Activate the Teleporter
     translation: Kích hoạt Cổng dịch chuyển
   - original: 'Ah, you have them!  Excellent!  I trust the bear-mage didn''t haggle too fiercely ...? \n\nWait.  Is that blood on these tools?  Oh.  Well, perhaps it''s best I don''t ask. \n\nNow, then:  I believe I promised you a free enchantment, as reward ...?'
@@ -36857,8 +36857,7 @@ Quests • ACT I:
   - original: Collect the |cFFFFBA00Passkey Ember|u from the |cFFFFBA00Slavers' Stockade|u, and the |cFFFFBA00Latchkey Ember|u from the |cFFFFBA00Emberscratch Mines|u.  Use them to open the |cFFFFBA00Watchweald Portal|u, in the abandoned |cFFFFBA00Estherian Refuge|u.
     translation: Thu thập |cFFFFBA00Tinh thể Chìa khóa|u từ |cFFFFBA00Nhà ngục Nô lệ|u, và |cFFFFBA00Tinh thể Chốt khóa|u từ |cFFFFBA00Khu hầm mỏ Emberscratch|u.  Dùng chúng để mở ra |cFFFFBA00Cổng Tới Thần Điện|u, ở |cFFFFBA00Nơi trú ẩn của người Estherian|u bỏ hoang.
   - original: Commander Vale believes that the Alchemist might attack the |cFFFFBA00Wellspring Temple|u, in an attempt to reach the |cFFFFBA00Guardian of Water|u ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.\n\nScout the |cFFFFBA00Wellspring Temple|u, and determine if the |cFFFFBA00Guardian of Water|u is in any danger.
-    translation: |-
-      |cFFFFBA00Chỉ huy|u Vale tin rằng Alchemist có thể sẽ tấn công |cFFFFBA00Đền cội nguồn|u, trong cố gắng vươn tới chỗ của |cFFFFBA00Thuỷ Vệ Thần|u ... cho mục đích đen tối của hắn.  Vẫn chưa có tin tức gì từ Vale, cũng như Vệ Thần.\\nHãy dò xét |cFFFFBA00Đền cội nguồn|u, và xác định xem |cFFFFBA00Thuỷ Vệ Thần|u có đang gặp bất kỳ nguy hiểm nào.
+    translation: '|cFFFFBA00Chỉ huy|u Vale tin rằng Alchemist có thể sẽ tấn công |cFFFFBA00Đền cội nguồn|u, trong cố gắng vươn tới chỗ của |cFFFFBA00Thuỷ Vệ Thần|u ... cho mục đích đen tối của hắn.  Vẫn chưa có tin tức gì từ Vale, cũng như Vệ Thần.\nHãy dò xét |cFFFFBA00Đền cội nguồn|u, và xác định xem |cFFFFBA00Thuỷ Vệ Thần|u có đang gặp bất kỳ nguy hiểm nào.'
   - original: Convince the Estherian Spirits to let you into the |cFFD1FF7ABone Gallery|u, and retrieve the |cFFD1FF7ARosamortis|u.
     translation: Thuyết phục những linh hồn đã khuất để cho bạn vào |cFFD1FF7AThư Viện Hài Cốt|u và lấy lại |cFFD1FF7ALy thánh|u.
   - original: Defeat |cFFD1FF7ACaptain Willy|u in |cFFD1FF7APlunder Cove|u.
@@ -36964,7 +36963,7 @@ Quests • ACT I:
   - original: 'I find myself impressed with your ability, human. I must confess: When I sent you on this quest, I feared you might not return. But it stirs my heart to see that my fears were unfounded.\n\nWhile you were gone, I located an item that might be of some use to you. Please take it, with my blessing ... and the thanks of the Estherians.'
     translation: 'Tôi thật sự ấn tượng với khả năng của bạn, con người. Tôi phải thú thật rằng: Khi tôi được cử đi làm nhiệm vụ này, tôi đã sợ rằng không còn sống mà quay về nữa. Nhưng bạn đã làm lay động trái tim tôi rằng sự lo lắng đó chỉ là vô căn cứ.\n\nKhi bạn đã đi rồi, tôi đã xác định được những vật phẩm có thể sẽ có ích cho bạn. Làm ơn hãy nhận chúng, với tất cả sự chúc phúc của tôi ... và sự biết ơn của người Estheria.'
   - original: I got a proposition for you ... a little "I scratch my back, you scratch yours" kind of thing.  See this crypt over here?  It's called the |cFFD1FF7ABone Gallery|u, and there's a little thing in there called the |cFFD1FF7ARosamortis|u ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\n\nYou'll have to convince the Estherian spirits to unlock the |cFFD1FF7AGhost Chains|u and give you access, then get the Rosamortis away from that monster ... but I promise to make it worth your while!\n
-    translation: Tôi có một đề xuất cho bạn... Thấy ngôi mộ ở đây không? Nó được gọi là |cFFD1FF7AThư Viện Hài Cốt|u, và vật trong đó gọi là |cFFD1FF7ALy thánh|u... cái mà rất có giá trị, nó cũng được bảo vệ bởi những con quái vật địa ngục lớn nhất mà tôi từng thấy.\n\nBạn sẽ phải thuyết phục những linh hồn đã khuất để mở |cFFD1FF7AKhoá linh hồn|u. Sau đó lấy Ly thánh từ bọn quái vật...
+    translation: Tôi có một đề xuất cho bạn... một chút "Tôi gãi lưng tôi, bạn cào bạn" đại loại vậy. Thấy ngôi mộ ở đây không? Nó được gọi là |cFFD1FF7AThư Viện Hài Cốt|u, và có vài thứ trong đó gọi là |cFFD1FF7ALy thánh|u... cái mà rất có giá trị, nó cũng được bảo vệ bởi những con quái vật bất tử lớn nhất mà tôi từng thấy.\n\nBạn sẽ phải thuyết phục những linh hồn người Estheria đã khuất để mở |cFFD1FF7AKhoá linh hồn|u và cho bạn vào, sau đó lấy Ly thánh từ bọn quái vật... tôi hứa nó sẽ có giá trị với bạn!\n
   - original: I got what I need, thanks.  If I have any more work for you, I'll be sure to let you know.
     translation: Tôi đã có thứ tôi cần, xin cảm ơn. Nếu tôi có việc gì khác cho bạn, tôi chắc chắn sẽ cho bạn biết.
   - original: I had heard rumors that Syl had perished, battling the Alchemist at Torchlight.  She was a good friend; she will be missed.
@@ -36988,7 +36987,7 @@ Quests • ACT I:
   - original: I really appreciate you checking on me, but you should probably get on with catching up with the Grand Regent.
     translation: Tôi thực sự biết ơn bạn, nhưng bạn nên nhanh chóng tìm cách bắt kịp Đại Trưởng lão.
   - original: I should have known it was a Netherim plague!  The strange thoughts I had, the desire to leave the city ... it was exactly as it was, a thousand years ago, when the Netherim wormed their way into the Retreat.
-    translation: 'Lẽ ra tôi phải biết nó là một bệnh dịch hạch Quỷ tộc! Tôi có những suy nghĩ kì lạ, mong muốn rời khỏi thành phố này... '
+    translation: Lẽ ra tôi phải biết nó là một bệnh dịch hạch Quỷ tộc! Tôi có những suy nghĩ kì lạ, mong muốn rời khỏi thành phố này...
   - original: I should have known something was amiss with the Grand Regent.  He seemed ill, when he arrived, but he insisted on seeing the Guardian of the Wild immediately.  But it seemed as though everyone with whom he came into contact also became ill ... and soon transformed.  A few were not initially infected, and some of those were able to find refuge from the Nether-Thralls ... but, if the infection gets to them, it will not matter if they are safe behind the barricades.
     translation: Tôi nên được biết điều gì đã xảy ra với Đại trưởng lão. Ông ấy có vẻ đang bị ốm khi tới đây, nhưng ông ấy muốn gặp Hoang Dã Vệ Thần ngay lập tức. Nhưng có vẻ những người gặp ông ấy đều đã bị ốm ... và biến đổi. Một vài thì lại không bị lây nhiễm, và một vài người trong họ đã đi tìm nơi ấn náu khỏi Quỷ nô ... nhưng nếu như sự lây nhiễm tóm được họ, họ sẽ không còn an toàn nữa.
   - original: I should've known something was wrong with the Alchemist.  After we defeated Ordrak, our Ember Blight was cured ... but the Alchemist just couldn't give up his experiments.  The Destroyer and I ... we just pretended we didn't see the effect it was having on him.\n\nWe made a terrible mistake.  I just hope it's not too late to correct it!
@@ -37388,7 +37387,7 @@ Quests • ACT I:
   - original: The Vanquishers came to help us with the Sturmbeorn problem, but when their leader, Commander Vale, learned that it was the Alchemist who had attacked us, she seemed ... sad.  Were they friends once?
     translation: Thủ vệ đã đến giúp chúng tôi về vấn đề Người gấu, nhưng lãnh đạo của họ, Chỉ huy Vale, biết được rằng Alchemist là người đã tấn công chúng tôi. Cô ấy có vẻ buồn... Phải chăng họ từng là bạn?
   - original: The Warbeast Armory
-    translation: Vũ trang Quái thú
+    translation: Kho vũ trang Chiến thú
   - original: The Zeraphi Envoy
     translation: Đặt sứ của Zeraphi
   - original: There hasn't been any sign of the Alchemist, so, if he was following you, he must've taken a different route.
@@ -39160,11 +39159,11 @@ Skills/Spells:
   - original: Adds a 25% chance that targets will flee for 3 seconds
     translation: Thêm 25% xác xuất làm cho mục tiêu bỏ chạy trong 3 giây
   - original: Adrenaline Rush I
-    translation: Cường hóa tốc độ I
+    translation: '|cFFACB1F2Cường hóa tốc độ I'
   - original: Adrenaline Rush II
-    translation: Cường hóa tốc độ II
+    translation: '|cFFACB1F2Cường hóa tốc độ II'
   - original: Adrenaline Rush III
-    translation: Cường hóa tốc độ III
+    translation: '|cFFACB1F2Cường hóa tốc độ III'
   - original: Adventuring
     translation: Phiêu lưu
   - original: Aegis
@@ -39184,11 +39183,11 @@ Skills/Spells:
   - original: An extreme long range shot of focussed energy that blasts a single target for high damage.
     translation: Một phát súng từ xa, tập trung năng lượng đánh bom một mục tiêu duy nhất gây ra thiệt hại cao
   - original: Animal Handling
-    translation: Bí thuật luyện thú
+    translation: '|cFFACB1F2Bí thuật luyện thú'
   - original: Arcane Tools
-    translation: Bí thuật pháp khí
+    translation: '|cFFACB1F2Bí thuật pháp khí'
   - original: Armor Expertise
-    translation: Chuyên gia giáp trụ
+    translation: '|cFFACB1F2Chuyên gia giáp trụ'
   - original: Artillery
     translation: Pháo Binh
   - original: Attach a Sticky Bomb
@@ -39206,7 +39205,7 @@ Skills/Spells:
   - original: Barrage
     translation: Chướng ngại
   - original: Barter
-    translation: Giao dịch
+    translation: '|cFFACB1F2Giao dịch'
   - original: Bee Swarm
     translation: Ong phẫn nộ
   - original: Berserk
@@ -39794,29 +39793,29 @@ Skills/Spells:
   - original: Heal All for Pet
     translation: Hồi máu đội cho thú nuôi
   - original: Heal All I
-    translation: Hồi máu đội cấp 1
+    translation: '|cFFF2ACB1Hồi máu đội I'
   - original: Heal All II
-    translation: Hồi máu đội cấp 2
+    translation: '|cFFF2ACB1Hồi máu đội II'
   - original: Heal All III
-    translation: Hồi máu đội cấp 3
+    translation: '|cFFF2ACB1Hồi máu đội III'
   - original: Heal All IV
-    translation: Hồi máu đội cấp 4
+    translation: '|cFFF2ACB1Hồi máu đội IV'
   - original: Heal All V
-    translation: Hồi máu đội cấp 5
+    translation: '|cFFF2ACB1Hồi máu đội V'
   - original: Heal All VI
-    translation: Hồi máu đội cấp 6
+    translation: '|cFFF2ACB1Hồi máu đội VI'
   - original: Heal Self I
-    translation: Hồi máu bản thân cấp 1
+    translation: '|cFFF2ACB1Hồi máu bản thân I'
   - original: Heal Self II
-    translation: Hồi máu bản thân cấp 2
+    translation: '|cFFF2ACB1Hồi máu bản thân II'
   - original: Heal Self III
-    translation: Hồi máu bản thân cấp 3
+    translation: '|cFFF2ACB1Hồi máu bản thân III'
   - original: Heal Self IV
-    translation: Hồi máu bản thân cấp 4
+    translation: '|cFFF2ACB1Hồi máu bản thân IV'
   - original: Heal Self V
-    translation: Hồi máu bản thân cấp 5
+    translation: '|cFFF2ACB1Hồi máu bản thân V'
   - original: Heal Self VI
-    translation: Hồi máu bản thân cấp 6
+    translation: '|cFFF2ACB1Hồi máu bản thân VI'
   - original: Healing Bot
     translation: Robot Phục Hồi
   - original: Healing pulse every 10 seconds; radius 10 meters
@@ -40336,17 +40335,17 @@ Skills/Spells:
   - original: Sigil radius extended to 5 meters. Blindness extended to 4 seconds. Allows use of health and mana steal abilities.
     translation: Bán kính mở rộng đến 5 mét. Mù kéo dài đến 4 giây. Cho phép sử dụng khả năng hút mana và máu của vũ khí.
   - original: Silence I
-    translation: Câm lặng cấp 1
+    translation: '|cFFF2ACB1Câm lặng I'
   - original: Silence II
-    translation: Câm lặng cấp 2
+    translation: '|cFFF2ACB1Câm lặng II'
   - original: Silence III
-    translation: Câm lặng cấp 3
+    translation: '|cFFF2ACB1Câm lặng III'
   - original: Silence IV
-    translation: Câm lặng cấp 4
+    translation: '|cFFF2ACB1Câm lặng IV'
   - original: Silence V
-    translation: Câm lặng cấp 5
+    translation: '|cFFF2ACB1Câm lặng V'
   - original: Silence VI
-    translation: Câm lặng cấp 6
+    translation: '|cFFF2ACB1Câm lặng VI'
   - original: Silences enemies within 4 meters, preventing them from using most skills.
     translation: Câm lặng kẻ thù trong phạm vi 4 mét, ngăn chúng sử dụng phần lớn kĩ năng.
   - original: Silences enemies within 5 meters, preventing them from using most skills.
@@ -40754,7 +40753,7 @@ Skills/Spells:
   - original: Weapons Expertise
     translation: Bí thuật vũ khí
   - original: Web
-    translation: Mạng nhện
+    translation: '|cFFF2ACB1Mạng nhện'
   - original: When foes attack you, your armor has a chance to generate a defensive "bubble" around you that prevents further damage. The amount of damage this shield can absorb is equal to 200% of your Armor plus 100. While the Aegis is active, you also get 50% Knockback Resistance.
     translation: Khi bị tấn công, sẽ ngẫu nhiên tạo ra một hào quang bảo vệ xung quanh người, Hào quang này hấp thụ sát thương bằng (điểm Giáp*200%)+100, đồng thời cũng tăng kháng đẩy lùi thêm 50%.
   - original: When this skill is enabled, the engineer projects a gravity well that draws slowly enemies in, doing slight pulses of electric damage.
@@ -40798,7 +40797,7 @@ Skills/Spells:
   - original: While active, attacks inflict an elemental resistance debuff.
     translation: Khi sử dụng, tấn công gây ra giảm kháng nguyên tố
   - original: Willpower
-    translation: Giải băng thuật
+    translation: '|cFFACB1F2Giải băng thuật'
   - original: Wind Wall
     translation: Gọi gió
   - original: You are a master of accurate shooting, and can more precisely target your enemies' vital areas.
@@ -41151,6 +41150,20 @@ Units • Monsters:
     translation: ' • Khiên đỡ đòn'
   - original: '*Imperial Railmaster'
     translation: '* Vua điều khiển tàu'
+  - original: '|cFF4EFF32Elite Clovenhoof'
+    translation: '|cFF4EFF32Cấp cao • Quái đầu linh dương'
+  - original: '|cFF4EFF32Elite Frost Wolf'
+    translation: '|cFF4EFF32Cấp cao • Sói tuyết'
+  - original: '|cFF4EFF32Elite Goblin Archer'
+    translation: '|cFF4EFF32Yêu tinh cấp cao • Cung thủ'
+  - original: '|cFF4EFF32Elite Goblin Slasher'
+    translation: '|cFF4EFF32Yêu tinh cấp cao • Kẻ giết người'
+  - original: '|cFF4EFF32Elite Goblin Spellbinder'
+    translation: '|cFF4EFF32Yêu tinh cấp cao • Phù sư'
+  - original: '|cFF4EFF32Elite Goblin Warrior'
+    translation: '|cFF4EFF32Yêu tinh cấp cao • Chiến binh'
+  - original: '|cFF4EFF32Elite Hulking Slasher'
+    translation: '|cFF4EFF32Sát nhân Thô kệch'
   - original: A tangle of webbing blocks your path.
     translation: Một mớ mạng nhện chặn đường bạn
   - original: Acid Blob
@@ -41200,13 +41213,13 @@ Units • Monsters:
   - original: Ancient Guardian
     translation: Vệ Thần Cổ Đại
   - original: Ancient Skeletal Archer
-    translation: Cung thủ cốt binh cổ đại
+    translation: Cốt binh cổ đại • Cung thủ
   - original: Ancient Skeletal Shield Warrior
-    translation: Binh sĩ cốt binh có khiên
+    translation: Cốt binh cổ đại • Chiến binh khiên
   - original: Ancient Skeleton Leader
-    translation: Thủ lĩnh cốt binh cổ đại
+    translation: Cốt binh cổ đại • Thủ lĩnh
   - original: Ancient Titan
-    translation: Titan Cổ đại
+    translation: Người khổng lồ Cổ đại
   - original: Angry Skull
     translation: Đầu lâu giận dữ
   - original: Annoying Automaton
@@ -41484,7 +41497,7 @@ Units • Monsters:
   - original: Champion Undead - Creates Tomb Fiends From Corpses
     translation: Chiến binh Bất tử - Tạo ra Quỷ hầm mộ từ xác chết
   - original: Champion Undead - Creates Vile Gnashers From Corpses
-    translation: Chiến binh Bất tử - Tạo ra Quỷ ăn xác từ xác chết
+    translation: Chiến binh Bất tử - Tạo ra Quỷ gặm nhắm từ xác chết
   - original: Champion Undead - Resists Poison
     translation: Chiến binh Bất tử - Kháng độc
   - original: Champion Undead - Summons Shroudwings
@@ -41501,8 +41514,6 @@ Units • Monsters:
     translation: Claptrap
   - original: Clive
     translation: Clive
-  - original: '|cFF4EFF32Elite Clovenhoof'
-    translation: '|cFF4EFF32Cấp cao • Quái đầu linh dương'
   - original: Clovenhoof
     translation: Quái đầu linh dương
   - original: Clovenhoof Bull
@@ -41558,7 +41569,7 @@ Units • Monsters:
   - original: Creates Tomb Fiends From Corpses\n
     translation: Tạo ra Quỷ hầm mộ từ xác chết\n
   - original: Creates Vile Gnashers From Corpses
-    translation: Tạo ra Quỷ ăn xác từ xác chết
+    translation: Tạo ra Quỷ gặm nhắm từ xác chết
   - original: Creeper
     translation: Cây leo
   - original: Crumbling Archer
@@ -41599,14 +41610,12 @@ Units • Monsters:
     translation: Xác nhà thám hiểm
   - original: Dead Vanquisher
     translation: Xác Thủ vệ
-  - original: Elite Vanquisher
-    translation: Thủ vệ xuất sắc
   - original: Deathcap
     translation: Quỷ nấm pháp sư
   - original: Deathflinger
-    translation: Người gấu ném lao
+    translation: Người gấu • Cánh tay tử thần
   - original: Decayed Brute
-    translation: Người gấu lụi tàn
+    translation: Người gấu • Thối rữa tàn bạo
   - original: Decrepit Chanter
     translation: Pháp sư cốt binh
   - original: Dela
@@ -41749,6 +41758,8 @@ Units • Monsters:
     translation: Bất tử tộc Cấp cao - Thi triển lưỡi kiếm ma quỷ
   - original: Elite Undead - Summons Crewmen\nConverts Dead to Hungry Souls
     translation: Bất tử tộc Cấp cao - Triệu hồi Hải tặc\nBiến xác chết thành linh hồn đói khát
+  - original: Elite Vanquisher
+    translation: Thủ vệ xuất sắc
   - original: Eloui
     translation: Eloui
   - original: Ember Scholar
@@ -41908,7 +41919,7 @@ Units • Monsters:
   - original: Felwalker
     translation: Đồ tể
   - original: Felwalker Axethrower
-    translation: Đồ tể ném rìu
+    translation: Felwalker ném rìu
   - original: Ferret
     translation: Chồn
   - original: Fetish
@@ -41938,9 +41949,9 @@ Units • Monsters:
   - original: Fires Bolts of Pure Energy
     translation: Bắn ra mũi tên năng lượng
   - original: Fires Fire Arrow Spread
-    translation: Bắn ra mũi lao lửa
+    translation: Ném Hỏa lao
   - original: Fires Flaming Arrows
-    translation: Bắn ra mũi tên lửa
+    translation: Bắn Hỏa tiễn
   - original: Fires Rebounding Energy Projectiles
     translation: Bắn năng lượng bật lại
   - original: Fires Seeking Energy Projectiles
@@ -41999,8 +42010,6 @@ Units • Monsters:
     translation: Dơi băng
   - original: Frost Wolf
     translation: Sói tuyết
-  - original: '|cFF4EFF32Elite Frost Wolf'
-    translation: '|cFF4EFF32Cấp cao • Sói tuyết'
   - original: Frostfang
     translation: Nhện băng
   - original: Frostling
@@ -42045,8 +42054,6 @@ Units • Monsters:
     translation: Quỷ ăn xác
   - original: Goblin Archer
     translation: Yêu tinh • Cung thủ
-  - original: '|cFF4EFF32Elite Goblin Archer'
-    translation: '|cFF4EFF32Yêu tinh cấp cao • Cung thủ'
   - original: Goblin Chief
     translation: Yêu tinh • Tộc trưởng
   - original: Goblin Crystal
@@ -42059,18 +42066,12 @@ Units • Monsters:
     translation: Yêu tinh • Đốc công
   - original: Goblin Slasher
     translation: Yêu tinh • Kẻ giết người
-  - original: '|cFF4EFF32Elite Goblin Slasher'
-    translation: '|cFF4EFF32Yêu tinh cấp cao • Kẻ giết người'
   - original: Goblin Spellbinder
     translation: Yêu tinh • Phù sư
-  - original: '|cFF4EFF32Elite Goblin Spellbinder'
-    translation: '|cFF4EFF32Yêu tinh cấp cao • Phù sư'
   - original: Goblin Totem
     translation: Yêu tinh • Vật tổ
   - original: Goblin Warden
     translation: Yêu tinh • Cai ngục
-  - original: '|cFF4EFF32Elite Goblin Warrior'
-    translation: '|cFF4EFF32Yêu tinh cấp cao • Chiến binh'
   - original: Goblin Worker
     translation: Yêu tinh • Thợ
   - original: Gold Wisp
@@ -42159,8 +42160,6 @@ Units • Monsters:
     translation: Phun nước tấn công - Không thể nhắm bắn khi phun nước
   - original: Hssssss.
     translation: Hssssss.
-  - original: '|cFF4EFF32Elite Hulking Slasher'
-    translation: '|cFF4EFF32Sát nhân Thô kệch'
   - original: Hulking Slasher
     translation: Sát nhân Thô kệch
   - original: Human Capital Optimization Unit
@@ -42228,7 +42227,7 @@ Units • Monsters:
   - original: Infected Warbeast
     translation: Chiến thú lây nhiễm
   - original: Infernal One
-    translation: Cốt binh bốc lửa
+    translation: Xuống địa ngục
   - original: Injured Commando
     translation: Thủ lĩnh bị thương
   - original: Invulnerable To Attack
@@ -42644,15 +42643,15 @@ Units • Monsters:
   - original: Powder Keg
     translation: Thùng thuốc nổ
   - original: Powder Kegs
-    translation: Thùng thuốc nổ
+    translation: Các Thùng thuốc nổ
   - original: Power Slash Attack
-    translation: Tấn công chém mạnh
+    translation: Công kích chém mạnh
   - original: Powerful Alchemical Magic - Teleportation - Crystal Sentry
-    translation: Phép thuật cực mạnh - Dịch chuyển - Tinh thể canh gác
+    translation: Phép thuật giả kim mạnh mẽ - Dịch chuyển - Tinh thể canh gác
   - original: Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam
-    translation: Phép thuật cực mạnh - Dịch chuyển - Tinh thể canh gác - Triệu hồi dơi quỷ - Chùm tia
+    translation: Phép thuật giả kim mạnh mẽ - Dịch chuyển - Tinh thể canh gác - Triệu hồi dơi quỷ - Chùm tia
   - original: Powerful Alchemical Magic - Teleportation - Crystal Sentry - Nether Imp Summon - Stasis Beam - Heartblast
-    translation: Phép thuật cực mạnh - Dịch chuyển - Tinh thể canh gác - Triệu hồi dơi quỷ - Chùm tia - Tấn công tim
+    translation: Phép thuật giả kim mạnh mẽ - Dịch chuyển - Tinh thể canh gác - Triệu hồi dơi quỷ - Chùm tia - Tấn công tim
   - original: Powerful Fire Spells
     translation: Phép thuật hoả mạnh mẽ
   - original: Powerful Ice Attacks - Freezing Blast on Death
@@ -42692,21 +42691,21 @@ Units • Monsters:
   - original: Rat
     translation: Chuột
   - original: Ratlin
-    translation: Chuột binh
+    translation: Chuột
   - original: Ratlin Archer
-    translation: Cung thủ chuột
+    translation: Chuột • Xạ thủ
   - original: Ratlin Bowman
-    translation: Cung thủ chuột
+    translation: Chuột • Cung thủ
   - original: Ratlin Lobber
-    translation: Chuột bom lửa
+    translation: Chuột • Kẻ đi săn
   - original: Ratlin Marauder
-    translation: Chuột săn mồi
+    translation: Chuột • Kẻ cướp
   - original: Ratlin Skirmisher
-    translation: Chuột đánh thuê
+    translation: Chuột • Kẻ gây sự
   - original: Ratlin Slavemaster
-    translation: Chuột đầu sỏ
+    translation: Chuột • Đầu sỏ
   - original: Ratlin Warrior
-    translation: Binh sĩ chuột
+    translation: Chuột • Chiến binh
   - original: Redfang Weblord
     translation: Nhện máu
   - original: Relan
@@ -42910,33 +42909,33 @@ Units • Monsters:
   - original: Skara Queen
     translation: Thằn lằn bay nữ hoàng
   - original: Skeletal Archer
-    translation: Cung thủ cốt binh
+    translation: Cốt binh • Cung thủ
   - original: Skeletal Footsoldier
-    translation: Chiến sĩ Cốt binh
+    translation: Cốt binh • Bộ binh
   - original: Skeletal General
-    translation: Tướng Cốt binh
+    translation: Cốt binh • Chủ tướng
   - original: Skeletal Headsman
-    translation: Thủ lĩnh Cốt binh
+    translation: Cốt binh • Thủ lĩnh
   - original: Skeletal Mage
-    translation: Phù thuỷ cốt binh
+    translation: Cốt binh • Phù thuỷ
   - original: Skeletal Marksman
-    translation: Cốt binh xạ thủ
+    translation: Cốt binh • Thiện xạ
   - original: Skeletal Phalanx
-    translation: Chiến binh xương
+    translation: Cốt binh • Phalanx
   - original: Skeletal Phantom
-    translation: Bóng ma cốt binh
+    translation: Cốt binh • Bóng ma
   - original: Skeletal Pyromancer
-    translation: Cốt binh hoả pháp
+    translation: Cốt binh • Hoả pháp sư
   - original: Skeletal Shambler
-    translation: Cốt binh điên cuồng
+    translation: Cốt binh • Kẻ run rẩy
   - original: Skeletal Shuffler
-    translation: Cốt binh nặng nề
+    translation: Cốt binh • Nặng nề
   - original: Skeletal Slayer
-    translation: Cốt binh Sát thủ
+    translation: Cốt binh • Sát thủ
   - original: Skeletal Torso
-    translation: Xác cốt binh
+    translation: Cốt binh • Thân trên
   - original: Skeletal Warrior
-    translation: Binh sĩ cốt binh
+    translation: Cốt binh • Chiến binh
   - original: Skeleton
     translation: Cốt binh
   - original: Skeleton Logger
@@ -43262,7 +43261,7 @@ Units • Monsters:
   - original: Umahd
     translation: Umahd
   - original: Undead
-    translation: Bất tử
+    translation: Bất tử tộc
   - original: Undead - Cannot Be Interrupted
     translation: Bất tử tộc • Không thể ngăn chặn
   - original: Undead - Casts Fire Spells
@@ -43354,7 +43353,7 @@ Units • Monsters:
   - original: Very Fast - Mana Singularity On Death
     translation: Rất nhanh - Mana kỳ quái khi chết
   - original: Vile Gnasher
-    translation: Quỷ ăn xác
+    translation: Quỷ gặm nhắm
   - original: Voltaic Archer
     translation: Cung thủ xác sống
   - original: Voltaic Bat
@@ -43378,9 +43377,9 @@ Units • Monsters:
   - original: Wariz Mask
     translation: Mặt nạ pháp sư
   - original: Warmaker
-    translation: Người gấu gây chiến
+    translation: Kẻ gây chiến
   - original: Warmaster
-    translation: Người gấu chiến binh
+    translation: Bậc thầy chiến tranh
   - original: Waterlogged Corpse
     translation: Xác chết trôi
   - original: Way-Warden
@@ -43730,7 +43729,7 @@ Common:
   - original: Skills/Spells Cast
     translation: Kỹ năng/Phép thuật thi triển
   - original: Socketable Inventory
-    translation: Túi Vật khảm
+    translation: Vật khảm
   - original: Sort Inventory
     translation: Sắp xếp Trang bị
   - original: was killed.
