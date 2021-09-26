@@ -12,7 +12,7 @@ const convertToDAT = (node) => {
         Object.entries(node).forEach(([name, val]) => {
             if (Array.isArray(val)) {
                 val.forEach(x => {
-                    if (!x.translation) return;
+                    // if (!x.translation) return;
                     dest += `\t[TRANSLATION]\n`
                     dest += `\t\t<STRING>ORIGINAL:${x.original}\n`;
                     dest += `\t\t<STRING>TRANSLATION:${x.translation}\n`;
@@ -109,6 +109,49 @@ const sortGroupFunc = (a, b) => {
     return a.localeCompare(b);
 };
 
+const sortTrans = (a, b) => {
+    try {
+        if ((a.TYPE || b.TYPE) && a.TYPE !== b.TYPE) {
+            if (!a.TYPE) return 1;
+            return a.TYPE.localeCompare(b.TYPE);
+        }
+        // const re = /^((\|c\w{8})|(\s?-|\+|Elite)|(\|c\w{8})(\s?-|\+|Elite))/;
+        const re = /(^\s*(-|\+|Elite)|\|c\w{8}(-|\+|Elite)?|\|u)/g;
+        const aText = a.ORIGINAL.replace(re, '').trim();
+        const bText = b.ORIGINAL.replace(re, '').trim();
+        return aText.localeCompare(bText);
+    } catch (err) {
+        console.error(err);
+    }
+};
+
+const getObjFromDAT = (src) => src.match(/\[TRANSLATION\]\n(\s+<STRING>.+)+/g)
+    .map(x => {
+        let item = {};
+        let re = /<STRING>([^:]+):(.*)/g;
+        let res = re.exec(x);
+        while (res) {
+            item[res[1]] = res[2];
+            res = re.exec(x);
+        }
+        return item;
+    });
+
+const writeDATFile = lines => {
+    let dest = '[TRANSLATIONS]\n'
+    lines.forEach(x => {
+        dest += `\t[TRANSLATION]\n`;
+        Object.entries(x).map(([key, val]) => {
+            dest += `\t\t<STRING>${key}:${val}\n`;
+        });
+        dest += `\t[/TRANSLATION]\n`;
+    });
+    dest += '[/TRANSLATIONS]\n';
+
+    console.info(`Sort: ${lines.length} items`);
+    writeFileSync(pathSrc, dest, { encoding: 'utf16le' });
+}
+
 if (process.argv[2] == 'new') {
     const [, , , category, dirPath] = process.argv;
     const rootPath = './media/TRANSLATIONS/VIETNAMESE/TRANSLATION.YAML';
@@ -189,20 +232,90 @@ const fSrc = path.parse(pathSrc);
 const src = readFileSync(pathSrc, fSrc.ext == '.DAT' ? 'utf16le' : 'utf8');
 
 switch (process.argv[3]) {
-    // {file}.[YAML] sort
-    case 'sort':
-        if (fSrc.ext != '.YAML') {
-            console.error('Is not a YAML file!');
-            break;
-        }
-        try {
-            const doc = yaml.load(src);
+    // {file}.DAT scan {folder}
+    case 'scan': {
+        const srclines = getObjFromDAT(src);
 
-            writeYamlFile(pathSrc, doc);
-        } catch (error) {
-            console.log(error)
+        const convertFile = (fileName) => {
+            console.log(fileName);
+            if (/TRANSLATION\.DAT$/.test(fileName.toUpperCase())) return;
+            const re = {
+                '.TEMPLATE': /<TRANSLATE>[^:]+:(.+)/g,
+                '.DAT': /<TRANSLATE>[^:]+:(.+)/g,
+                '.LAYOUT': /<STRING>(?:TEXT[^:]*|TOOL TIP|DIALOG[^:]*|DISCOVERED|AREA NAME|AREA NAME LEAVING|AREA NAME ENTERING|COMPLETE|RETURN|TITLE|GREET):(.+)/g,
+            }[path.extname(fileName)];
+            const str = readFileSync(fileName, 'utf16le');
+            let res;
+            while (res = re.exec(str)) {
+                const newKey = res[1];
+                let newItem = srclines.some(x => x.ORIGINAL == newKey);
+                if (newItem) continue;
+                console.info('• ' + res[0]);
+                newItem = { ORIGINAL: newKey, TRANSLATION: '', MODS: process.argv[5] || 'Origin' };
+                srclines.push(newItem);
+            }
         }
+
+        const convertDir = (dir) => {
+            readdirSync(dir).forEach(fileName => {
+                const filePath = path.join(dir, fileName);
+                if (lstatSync(filePath).isDirectory()) {
+                    convertDir(filePath);
+                } else if (/\.(DAT|LAYOUT|TEMPLATE)$/.test(filePath.toUpperCase())) {
+                    convertFile(filePath);
+                }
+            });
+        }
+
+        convertDir(process.argv[4]);
+
+        writeDATFile(srclines.sort(sortTrans));
         break;
+    }
+    // {file}.DAT tag {GLOBALS.DAT}
+    case 'tag': {
+        const srclines = getObjFromDAT(src);
+        const globalsSrc = readFileSync(process.argv[4], 'utf16le');
+        const re = /<TRANSLATE>([^:]+):(.+)/g;
+        let res = re.exec(globalsSrc);
+        while (res) {
+            let obj = srclines.find(x => x.ORIGINAL === res[2]);
+            if (obj) {
+                obj.TYPE = res[1];
+                if (!obj.MODS) obj.MODS = process.argv[5] || 'Origin';
+            } else {
+                obj = {
+                    ORIGINAL: res[2],
+                    TRANSLATION: '',
+                    TYPE: res[1],
+                    MODS: process.argv[5] || 'Origin'
+                };
+                srclines.push(obj);
+            }
+            res = re.exec(globalsSrc);
+        }
+
+        writeDATFile(srclines.sort(sortTrans));
+        break;
+    }
+
+    // {file}.[YAML] sort
+    case 'sort': {
+        const lines = getObjFromDAT(src);
+
+        // lines.forEach(x => {
+        //     let res = /^(\|c\w{8})(.+)\|u$/.exec(x.ORIGINAL);
+        //     if (res) {
+        //         const dest = lines.find(z => z.ORIGINAL == res[2])
+        //         if (dest && !dest.ORIGINAL.startsWith('|c'))
+        //             dest.TRANSLATION = x.TRANSLATION;
+        //         // x.TRANSLATION = `${res[1]}${dest.TRANSLATION}|u`
+        //     }
+        // });
+
+        writeDATFile(lines.sort(sortTrans));
+        break;
+    }
 
     // {file}.[YAML|DAT] merge
     case 'merge':

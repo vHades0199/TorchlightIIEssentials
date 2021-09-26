@@ -49,13 +49,29 @@
             "type": "pwa-node"
         },
         {
-            "name": "New",
+            "name": "Scan",
             "runtimeExecutable": "yarn",
             "program": "start",
             "args": [
-                "new",
-                "Globals",
-                "../../MEDIA/GLOBALS.DAT",
+                "./media/TRANSLATIONS/VIETNAMESE/TRANSLATION.DAT",
+                "scan",
+                "./media/UI/",
+            ],
+            "cwd": "${workspaceFolder}",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "Tag",
+            "runtimeExecutable": "yarn",
+            "program": "start",
+            "args": [
+                "./media/TRANSLATIONS/VIETNAMESE/TRANSLATION.DAT",
+                "tag",
+                "${file}",
             ],
             "cwd": "${workspaceFolder}",
             "request": "launch",
