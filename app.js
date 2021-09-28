@@ -325,8 +325,8 @@ switch (process.argv[3]) {
         console.log('check', mergeObj.Common.length);
         Object.keys(root).forEach(k => {
             root[k].forEach((item, inx) => {
-                const newItem = mergeObj.Common.find(x => x.original == item.original);
-                if (!item.translation && newItem?.translation) {
+                const newItem = mergeObj.Common.find(x => x.original === item.original);
+                if (newItem?.translation) {
                     root[k][inx].translation = newItem.translation;
                 }
             });
