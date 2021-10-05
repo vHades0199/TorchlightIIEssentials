@@ -1,5 +1,6 @@
 const path = require('path');
 const yaml = require('js-yaml');
+const _ = require('lodash');
 const { readFileSync, writeFileSync, readdirSync, lstatSync } = require('fs');
 
 const getLinesFromDAT = (str) => str
@@ -116,7 +117,8 @@ const sortTrans = (a, b) => {
             return a.TYPE.localeCompare(b.TYPE);
         }
         // const re = /^((\|c\w{8})|(\s?-|\+|Elite)|(\|c\w{8})(\s?-|\+|Elite))/;
-        const re = /(^\s*(-|\+|Elite)|\|c\w{8}(-|\+|Elite)?|\|u)/g;
+        const re = /(^\s*(-|\+|Elite\s)|\|c\w{8}(-|\+|Elite\s)?|\|u)/g;
+        if (!a.ORIGINAL || !b.ORIGINAL) console.error(a, b.ORIGINAL);
         const aText = a.ORIGINAL.replace(re, '').trim();
         const bText = b.ORIGINAL.replace(re, '').trim();
         return aText.localeCompare(bText);
@@ -149,6 +151,9 @@ const writeDATFile = lines => {
     dest += '[/TRANSLATIONS]\n';
 
     console.info(`Sort: ${lines.length} items`);
+    _.uniq(lines.map(x => x.MODS)).forEach(mod => {
+        console.info(`• ${mod}: ${lines.filter(x => x.MODS == mod).length} items`);
+    });
     writeFileSync(pathSrc, dest, { encoding: 'utf16le' });
 }
 
@@ -237,22 +242,33 @@ switch (process.argv[3]) {
         const srclines = getObjFromDAT(src);
 
         const convertFile = (fileName) => {
-            console.log(fileName);
+            // console.log(fileName);
             if (/TRANSLATION\.DAT$/.test(fileName.toUpperCase())) return;
             const re = {
-                '.TEMPLATE': /<TRANSLATE>[^:]+:(.+)/g,
-                '.DAT': /<TRANSLATE>[^:]+:(.+)/g,
-                '.LAYOUT': /<STRING>(?:TEXT[^:]*|TOOL TIP|DIALOG[^:]*|DISCOVERED|AREA NAME|AREA NAME LEAVING|AREA NAME ENTERING|COMPLETE|RETURN|TITLE|GREET):(.+)/g,
+                '.TEMPLATE': /<TRANSLATE>([^:]+):(.+)/g,
+                '.DAT': /<TRANSLATE>([^:]+):(.+)/g,
+                '.LAYOUT': /<STRING>(TEXT[^:]*|TOOL TIP|DIALOG[^:]*|DISCOVERED|AREA NAME|AREA NAME LEAVING|AREA NAME ENTERING|COMPLETE|RETURN|TITLE|GREET):(.+)/g,
             }[path.extname(fileName)];
             const str = readFileSync(fileName, 'utf16le');
             let res;
             while (res = re.exec(str)) {
-                const newKey = res[1];
-                let newItem = srclines.some(x => x.ORIGINAL == newKey);
-                if (newItem) continue;
-                console.info('• ' + res[0]);
-                newItem = { ORIGINAL: newKey, TRANSLATION: '', MODS: process.argv[5] || 'Origin' };
-                srclines.push(newItem);
+                const newKey = res[2];
+                if (newKey) {
+                    let newItem = srclines.some(x => x?.ORIGINAL === newKey);
+                    if (newItem) {
+                        const inx = srclines.findIndex(x => x?.ORIGINAL == newKey);
+                        let srcTypes = (srclines[inx].TYPE || '').split(',');
+                        if (!srcTypes.includes(res[1])) {
+                            srcTypes.push(res[1]);
+                            srclines[inx].TYPE = srcTypes.filter(x => !!x).join(',');
+                        }
+                        if (!srclines[inx].MODS)
+                            srclines[inx].MODS = process.argv[5];
+                        continue;
+                    }
+                    newItem = { ORIGINAL: newKey, TRANSLATION: '', MODS: process.argv[5] || 'Origin' };
+                    srclines.push(newItem);
+                }
             }
         }
 
